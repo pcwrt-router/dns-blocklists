@@ -1,0 +1,24 @@
+# Domains to be removed from the nsfw list.
+4based.com
+bestelinks.nl
+donmai.us
+faceai.art
+fanvue.com
+fuckturkcell.sybelilo.workers.dev
+imx.to
+knuddels.de
+kupujemprodajem.com
+leolist.cc
+m3pd.com
+minecraftnoob.com
+myvidster.com
+nyaa.si
+pix-cdn.org
+pixiv.net
+rentry.org
+site123.me
+sotwe.com
+thatviralfeed.com
+viki.com
+whispermemos.com
+yit.co.il
