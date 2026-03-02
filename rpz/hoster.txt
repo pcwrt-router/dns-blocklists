@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772124960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772447460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Feb 2026 16:56 UTC
-; Version: 2026.0226.1656.51
+; Last modified: 02 Mar 2026 10:31 UTC
+; Version: 2026.0302.1031.58
 ; Syntax: RPZ
-; Number of entries: 2562
+; Number of entries: 2560
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -384,8 +384,6 @@ blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
 *.blogia.com CNAME .
-blogrip.com CNAME .
-*.blogrip.com CNAME .
 blogsky.com CNAME .
 *.blogsky.com CNAME .
 blogspot.com CNAME .
@@ -558,6 +556,8 @@ familylobby.com CNAME .
 *.familylobby.com CNAME .
 fat-fly.com CNAME .
 *.fat-fly.com CNAME .
+fateback.com CNAME .
+*.fateback.com CNAME .
 fb-business.com CNAME .
 *.fb-business.com CNAME .
 fcpages.com CNAME .
@@ -2352,8 +2352,6 @@ perl.sh CNAME .
 *.perl.sh CNAME .
 surge.sh CNAME .
 *.surge.sh CNAME .
-asiaal.shop CNAME .
-*.asiaal.shop CNAME .
 downfall.shop CNAME .
 *.downfall.shop CNAME .
 findarea.shop CNAME .

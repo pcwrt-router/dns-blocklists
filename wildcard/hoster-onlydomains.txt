@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 16:56 UTC
-# Version: 2026.0226.1656.51
+# Last modified: 02 Mar 2026 10:31 UTC
+# Version: 2026.0302.1031.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 1281
+# Number of entries: 1280
 #
 000a.de
 000space.com
@@ -179,7 +179,6 @@ arrangiert.de
 artsold.top
 asia.cm
 asia.gp
-asiaal.shop
 at.cr
 at.st
 atsnx.com
@@ -242,7 +241,6 @@ bloggt.de
 blogia.com
 blogmaster.net
 blogmonster.de
-blogrip.com
 blogsky.com
 blogspot.ae
 blogspot.al
@@ -548,6 +546,7 @@ f11.us
 familylobby.com
 fast-page.org
 fat-fly.com
+fateback.com
 fb-business.com
 fcpages.com
 ferreracademy.com

@@ -1212,13 +1212,6 @@
       }
     },
     {
-      "PK": "asiaal.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "at.cr",
       "action": {
         "do": 0,
@@ -1661,13 +1654,6 @@
     },
     {
       "PK": "blogmonster.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogrip.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3698,6 +3684,13 @@
     },
     {
       "PK": "fat-fly.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fateback.com",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772402100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772445540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Mar 2026 21:55 UTC
-; Version: 2026.0301.2155.29
+; Last modified: 02 Mar 2026 09:59 UTC
+; Version: 2026.0302.0959.25
 ; Syntax: RPZ
-; Number of entries: 19978
+; Number of entries: 19958
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3411,8 +3411,6 @@ apcargocourier.com CNAME .
 *.apcargocourier.com CNAME .
 apkpurs.com CNAME .
 *.apkpurs.com CNAME .
-apollo2b.com CNAME .
-*.apollo2b.com CNAME .
 appbitly.com CNAME .
 *.appbitly.com CNAME .
 appcurt.com CNAME .
@@ -3549,8 +3547,6 @@ beteshis.com CNAME .
 *.beteshis.com CNAME .
 bettrechies.com CNAME .
 *.bettrechies.com CNAME .
-bezlink.com CNAME .
-*.bezlink.com CNAME .
 biastonu.com CNAME .
 *.biastonu.com CNAME .
 bigfk.com CNAME .
@@ -8583,8 +8579,6 @@ ambienttechnology.eu CNAME .
 *.ambienttechnology.eu CNAME .
 go.amzng.eu CNAME .
 *.go.amzng.eu CNAME .
-anlink.eu CNAME .
-*.anlink.eu CNAME .
 by1.eu CNAME .
 *.by1.eu CNAME .
 r.cloud8.eu CNAME .
@@ -10659,8 +10653,6 @@ biobee.io CNAME .
 *.biobee.io CNAME .
 biotap.io CNAME .
 *.biotap.io CNAME .
-bliqr.io CNAME .
-*.bliqr.io CNAME .
 bnzs.io CNAME .
 *.bnzs.io CNAME .
 brightsci.io CNAME .
@@ -11467,8 +11459,6 @@ beats.is CNAME .
 *.beats.is CNAME .
 bitly.is CNAME .
 *.bitly.is CNAME .
-bre.is CNAME .
-*.bre.is CNAME .
 centre.is CNAME .
 *.centre.is CNAME .
 cmu.is CNAME .
@@ -12277,8 +12267,6 @@ zdrive.li CNAME .
 *.zdrive.li CNAME .
 zebra.li CNAME .
 *.zebra.li CNAME .
-aozczwj.life CNAME .
-*.aozczwj.life CNAME .
 bchf.life CNAME .
 *.bchf.life CNAME .
 bee-kz.life CNAME .
@@ -13845,8 +13833,6 @@ biohub.me CNAME .
 *.biohub.me CNAME .
 bioqr.me CNAME .
 *.bioqr.me CNAME .
-biourl.me CNAME .
-*.biourl.me CNAME .
 bisakale.me CNAME .
 *.bisakale.me CNAME .
 blinkbio.me CNAME .
@@ -15037,8 +15023,6 @@ betaxfree.net CNAME .
 *.betaxfree.net CNAME .
 bioclick.net CNAME .
 *.bioclick.net CNAME .
-biolook.net CNAME .
-*.biolook.net CNAME .
 bitly.net CNAME .
 *.bitly.net CNAME .
 bitradex.net CNAME .
@@ -16591,8 +16575,6 @@ tinyurl.ph CNAME .
 *.tinyurl.ph CNAME .
 pj.pizza CNAME .
 *.pj.pizza CNAME .
-atag.pk CNAME .
-*.atag.pk CNAME .
 bitly.pk CNAME .
 *.bitly.pk CNAME .
 curl.pk CNAME .
@@ -17487,8 +17469,6 @@ url.sg CNAME .
 *.2pu.sh CNAME .
 999.sh CNAME .
 *.999.sh CNAME .
-ahref.sh CNAME .
-*.ahref.sh CNAME .
 bigfi.sh CNAME .
 *.bigfi.sh CNAME .
 bsy.sh CNAME .

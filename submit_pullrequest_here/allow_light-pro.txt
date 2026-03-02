@@ -1,5 +1,9 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# Reportedly causes performance issues (Valorant/Riot Client), unconfirmed.
+telemetry.sgp.pvp.net
+telemetry.sgp.pvp.net.cdn.cloudflare.net
+
 # https://github.com/hagezi/dns-blocklists/issues/2524
 # https://github.com/hagezi/dns-blocklists/issues/8425
 lma.npaw.com

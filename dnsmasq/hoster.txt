@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 16:56 UTC
-# Version: 2026.0226.1656.51
+# Last modified: 02 Mar 2026 10:31 UTC
+# Version: 2026.0302.1031.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1281
+# Number of entries: 1280
 #
 local=/000a.de/
 local=/000space.com/
@@ -179,7 +179,6 @@ local=/arrangiert.de/
 local=/artsold.top/
 local=/asia.cm/
 local=/asia.gp/
-local=/asiaal.shop/
 local=/at.cr/
 local=/at.st/
 local=/atsnx.com/
@@ -242,7 +241,6 @@ local=/bloggt.de/
 local=/blogia.com/
 local=/blogmaster.net/
 local=/blogmonster.de/
-local=/blogrip.com/
 local=/blogsky.com/
 local=/blogspot.ae/
 local=/blogspot.al/
@@ -548,6 +546,7 @@ local=/f11.us/
 local=/familylobby.com/
 local=/fast-page.org/
 local=/fat-fly.com/
+local=/fateback.com/
 local=/fb-business.com/
 local=/fcpages.com/
 local=/ferreracademy.com/

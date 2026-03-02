@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Mar 2026 11:03 UTC
-! Version: 2026.0301.1103.25
+! Last modified: 02 Mar 2026 11:19 UTC
+! Version: 2026.0302.1119.22
 ! Syntax: AdBlock
-! Number of entries: 1127
+! Number of entries: 1126
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -117,7 +117,6 @@
 ||httpdns.baidu.com^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
-||dns.baishiyuan.cn^
 ||bancuh.com^
 ||bazooki-infra.dev^
 ||httpdns.bcelive.com^

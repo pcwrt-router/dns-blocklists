@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 11:02 UTC
-# Version: 2026.0226.1102.05
+# Last modified: 02 Mar 2026 11:18 UTC
+# Version: 2026.0302.1118.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3483
+# Number of entries: 3480
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -306,7 +306,6 @@ local=/dns.ares-taiwan.com/
 local=/aridia.ru/
 local=/dns.arkbotech.com/
 local=/doh.armadillodns.net/
-local=/dns.arnabhome.fun/
 local=/nsec.arnor.org/
 local=/dns.articrevised.cc/
 local=/dns.artikel10.org/
@@ -372,7 +371,6 @@ local=/dnscdn.bai0012.com/
 local=/httpdns.baidu.com/
 local=/httpsdns.baidu.com/
 local=/httpdns.baidubce.com/
-local=/dns.baishiyuan.cn/
 local=/adguard.baltes.info/
 local=/bancuh.com/
 local=/barnabech.fr/
@@ -479,7 +477,6 @@ local=/dns.brono.cloud/
 local=/home.bruckmoser.it/
 local=/81.brudnowski.eu/
 local=/81xyz.brudnowski.eu/
-local=/sabine.bruno2000.link/
 local=/adguard.bse4792.site/
 local=/doh.bt.com/
 local=/bubblex2.top/

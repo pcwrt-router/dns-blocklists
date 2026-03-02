@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Feb 2026 11:02 UTC
-! Version: 2026.0226.1102.05
+! Last modified: 02 Mar 2026 11:18 UTC
+! Version: 2026.0302.1118.41
 ! Syntax: AdBlock
-! Number of entries: 3483
+! Number of entries: 3480
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -307,7 +307,6 @@
 ||aridia.ru^
 ||dns.arkbotech.com^
 ||doh.armadillodns.net^
-||dns.arnabhome.fun^
 ||nsec.arnor.org^
 ||dns.articrevised.cc^
 ||dns.artikel10.org^
@@ -373,7 +372,6 @@
 ||httpdns.baidu.com^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
-||dns.baishiyuan.cn^
 ||adguard.baltes.info^
 ||bancuh.com^
 ||barnabech.fr^
@@ -480,7 +478,6 @@
 ||home.bruckmoser.it^
 ||81.brudnowski.eu^
 ||81xyz.brudnowski.eu^
-||sabine.bruno2000.link^
 ||adguard.bse4792.site^
 ||doh.bt.com^
 ||bubblex2.top^

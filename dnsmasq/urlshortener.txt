@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Mar 2026 21:55 UTC
-# Version: 2026.0301.2155.29
+# Last modified: 02 Mar 2026 09:59 UTC
+# Version: 2026.0302.0959.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9989
+# Number of entries: 9979
 #
 local=/0.gp/
 local=/00m.in/
@@ -585,7 +585,6 @@ local=/ah.my/
 local=/aholink.com/
 local=/y.ahoo.it/
 local=/ahpit.cyou/
-local=/ahref.sh/
 local=/mylink.ai.in/
 local=/ai1.link/
 local=/ai6.net/
@@ -746,7 +745,6 @@ local=/angl.at/
 local=/anh.to/
 local=/animxo.com/
 local=/url.ankur-kumar.in/
-local=/anlink.eu/
 local=/anmeld.biz/
 local=/annabelparr.com/
 local=/annah.ar/
@@ -765,7 +763,6 @@ local=/aon.io/
 local=/a.aorganic.io/
 local=/aorracer.com/
 local=/aosconnect.net/
-local=/aozczwj.life/
 local=/ap.lc/
 local=/parg.aparg.com/
 local=/apb2.de/
@@ -781,7 +778,6 @@ local=/apll.es/
 local=/aply.me/
 local=/apna.link/
 local=/apne.ws/
-local=/apollo2b.com/
 local=/aporasal.net/
 local=/app.link/
 local=/eventogo.app.br/
@@ -863,7 +859,6 @@ local=/asusrog.de/
 local=/at-home-show.me/
 local=/at0m.de/
 local=/ata.ink/
-local=/atag.pk/
 local=/ateng.me/
 local=/atglinks.com/
 local=/ath-web.com/
@@ -1078,7 +1073,6 @@ local=/betterlinks.io/
 local=/bettrechies.com/
 local=/beurl.app/
 local=/bez.link/
-local=/bezlink.com/
 local=/bfol.me/
 local=/bfpne.ws/
 local=/bfy.tw/
@@ -1133,7 +1127,6 @@ local=/biolinks.ma/
 local=/biolinksplus.com/
 local=/biolinky.co/
 local=/biolnk.in/
-local=/biolook.net/
 local=/biopagina.com/
 local=/bioprofile.link/
 local=/bioqr.me/
@@ -1145,7 +1138,6 @@ local=/biotap.click/
 local=/biotap.io/
 local=/biotr.link/
 local=/biourl.link/
-local=/biourl.me/
 local=/biritr.com/
 local=/birkbtc.com/
 local=/bisadimasuk.in/
@@ -1251,7 +1243,6 @@ local=/blinko.me/
 local=/blinkurl.in/
 local=/blip.tv/
 local=/blipnut.com/
-local=/bliqr.io/
 local=/bliter.link/
 local=/blizz.ly/
 local=/blkstats.com/
@@ -1344,7 +1335,6 @@ local=/brandlink.me/
 local=/bravo.ly/
 local=/bravos.life/
 local=/brcloud.me/
-local=/bre.is/
 local=/brendan.fyi/
 local=/brev.ws/
 local=/breve.bio/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Mar 2026 23:10 UTC
-# Version: 2026.0301.2310.55
+# Last modified: 02 Mar 2026 11:12 UTC
+# Version: 2026.0302.1112.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11645
+# Number of entries: 11637
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -492,7 +492,6 @@ local=/tracker.aibt.xyz/
 local=/aidey.io/
 local=/aimhaven.com/
 local=/aimweb.ru/
-local=/ainiesta.com/
 local=/aiosearch.com/
 local=/aiowares.com/
 local=/aiw.bz/
@@ -579,7 +578,6 @@ local=/altadefinizione.bet/
 local=/altadefinizione.bio/
 local=/altadefinizione.bond/
 local=/altadefinizione.casino/
-local=/altadefinizione.cheap/
 local=/altadefinizione.click/
 local=/altadefinizione.club/
 local=/altadefinizione.co/
@@ -713,7 +711,6 @@ local=/ambits.org/
 local=/amcomputers.org/
 local=/amedia.biz/
 local=/amedia.so/
-local=/americansoccerarchives.com/
 local=/amildar.beer/
 local=/amrbd.com/
 local=/amyflix.com/
@@ -1681,12 +1678,9 @@ local=/cafehulu.com/
 local=/calcio.la/
 local=/calcio.pub/
 local=/calcio.ws/
-local=/calciostream.help/
 local=/calibrecompanion.co/
 local=/caly-film.pl/
 local=/cambros.tv/
-local=/camclips.tv/
-local=/camflow.tv/
 local=/camhoe.tv/
 local=/share.camoe.cn/
 local=/canale-tv.com/
@@ -1783,7 +1777,6 @@ local=/cb01.pw/
 local=/cb01.racing/
 local=/cb01.red/
 local=/cb01.review/
-local=/cb01.rip/
 local=/cb01.rocks/
 local=/cb01.school/
 local=/cb01.social/
@@ -5053,7 +5046,6 @@ local=/iddl.org/
 local=/idealtorrent.com/
 local=/idmdownload.info/
 local=/idmserialkeycrack.com/
-local=/tracker.idocdn.com/
 local=/idope.hair/
 local=/idope.se/
 local=/idope.top/

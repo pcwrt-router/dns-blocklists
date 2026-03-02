@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772406600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772449920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Mar 2026 23:10 UTC
-; Version: 2026.0301.2310.55
+; Last modified: 02 Mar 2026 11:12 UTC
+; Version: 2026.0302.1112.20
 ; Syntax: RPZ
-; Number of entries: 23290
+; Number of entries: 23274
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1896,8 +1896,6 @@ streamingcommunityz.chat CNAME .
 *.streamingcommunityz.chat CNAME .
 vegamovies.chat CNAME .
 *.vegamovies.chat CNAME .
-altadefinizione.cheap CNAME .
-*.altadefinizione.cheap CNAME .
 multimovies.cheap CNAME .
 *.multimovies.cheap CNAME .
 streamingcommunity.cheap CNAME .
@@ -2838,8 +2836,6 @@ ahashare.com CNAME .
 *.ahashare.com CNAME .
 aimhaven.com CNAME .
 *.aimhaven.com CNAME .
-ainiesta.com CNAME .
-*.ainiesta.com CNAME .
 aiosearch.com CNAME .
 *.aiosearch.com CNAME .
 aiowares.com CNAME .
@@ -2900,8 +2896,6 @@ altadefinizionea.com CNAME .
 *.altadefinizionea.com CNAME .
 alterupload.com CNAME .
 *.alterupload.com CNAME .
-americansoccerarchives.com CNAME .
-*.americansoccerarchives.com CNAME .
 amrbd.com CNAME .
 *.amrbd.com CNAME .
 amyflix.com CNAME .
@@ -5126,8 +5120,6 @@ idealtorrent.com CNAME .
 *.idealtorrent.com CNAME .
 idmserialkeycrack.com CNAME .
 *.idmserialkeycrack.com CNAME .
-tracker.idocdn.com CNAME .
-*.tracker.idocdn.com CNAME .
 zerowing.idsoftware.com CNAME .
 *.zerowing.idsoftware.com CNAME .
 iflix.com CNAME .
@@ -9988,8 +9980,6 @@ vegamovies.health CNAME .
 *.vegamovies.health CNAME .
 altadefinizionegratis.help CNAME .
 *.altadefinizionegratis.help CNAME .
-calciostream.help CNAME .
-*.calciostream.help CNAME .
 filmywap.help CNAME .
 *.filmywap.help CNAME .
 full4movies.help CNAME .
@@ -18098,8 +18088,6 @@ acg.rip CNAME .
 *.acg.rip CNAME .
 blablastream.rip CNAME .
 *.blablastream.rip CNAME .
-cb01.rip CNAME .
-*.cb01.rip CNAME .
 cineflix.rip CNAME .
 *.cineflix.rip CNAME .
 cocostream.rip CNAME .
@@ -21224,10 +21212,6 @@ tracker.bwtorrents.tv CNAME .
 *.tracker.bwtorrents.tv CNAME .
 cambros.tv CNAME .
 *.cambros.tv CNAME .
-camclips.tv CNAME .
-*.camclips.tv CNAME .
-camflow.tv CNAME .
-*.camflow.tv CNAME .
 camhoe.tv CNAME .
 *.camhoe.tv CNAME .
 cartooncrazy.tv CNAME .

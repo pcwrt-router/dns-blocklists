@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 11:02 UTC
-# Version: 2026.0226.1102.05
+# Last modified: 02 Mar 2026 11:18 UTC
+# Version: 2026.0302.1118.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3957
+# Number of entries: 3954
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -371,7 +371,6 @@
 0.0.0.0 aridia.ru
 0.0.0.0 dns.arkbotech.com
 0.0.0.0 doh.armadillodns.net
-0.0.0.0 dns.arnabhome.fun
 0.0.0.0 nsec.arnor.org
 0.0.0.0 dns.articrevised.cc
 0.0.0.0 dns.artikel10.org
@@ -439,7 +438,6 @@
 0.0.0.0 httpdns.baidu.com
 0.0.0.0 httpsdns.baidu.com
 0.0.0.0 httpdns.baidubce.com
-0.0.0.0 dns.baishiyuan.cn
 0.0.0.0 adguard.baltes.info
 0.0.0.0 bancuh.com
 0.0.0.0 fr-dns1.bancuh.com
@@ -557,7 +555,6 @@
 0.0.0.0 home.bruckmoser.it
 0.0.0.0 81.brudnowski.eu
 0.0.0.0 81xyz.brudnowski.eu
-0.0.0.0 sabine.bruno2000.link
 0.0.0.0 adguard.bse4792.site
 0.0.0.0 doh.bt.com
 0.0.0.0 bubblex2.top
