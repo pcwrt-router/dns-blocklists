@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 09:54 UTC
-# Version: 2026.0302.0954.37
+# Last modified: 02 Mar 2026 15:55 UTC
+# Version: 2026.0302.1555.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 56896
+# Number of entries: 56866
 #
 0.beer
 0.club
@@ -13730,7 +13730,6 @@ ff.charmduo.site
 agzow.charmingdatess.com
 nnakl.charmingdatess.com
 wadnax.charmingdatess.com
-charminggain.pro
 charmingtop.pro
 charmobedience.com
 charmofy.com
@@ -13765,7 +13764,6 @@ cheap-end.pro
 cheap-jewelry-online.com
 cheap-promise.pro
 cheapenleaving.com
-cheaperelbows.com
 um.cheaplytropins.com
 cheapmachinerywail.com
 cheapseospytools.com
@@ -13794,8 +13792,6 @@ cheeksognoura.net
 cheelteelteb.com
 cheepskob.shop
 cheerfulfish.pro
-kbjxj.cheerfulldates.com
-zozrdv.cheerfulldates.com
 cheerinseparableappeared.com
 cheeroredraw.com
 cheerswam.com
@@ -13865,7 +13861,6 @@ chief-child.com
 chiefindividual.com
 chiefrecovery.com
 chihuahuadoorstoppond.com
-chij.com
 chijauqybb.xyz
 nakayama.chikarakosopower.com
 chikpazrmdyuh.website
@@ -14040,7 +14035,6 @@ churchillmileage.com
 churchkhela.site
 churchyardpersons.com
 churtoustob.net
-chusapsoarduwa.net
 chwhg.cn
 chxipdpddjlpe.global
 chxlphs.com
@@ -14080,7 +14074,6 @@ cimatrone.net
 cimkokolaycimento.net
 cimtaiphos.com
 cinarra.com
-yk.cinchedembiid.top
 pk.cinderexequy.cfd
 cinemaonceoddlyfatal.com
 cineolsslipt.rest
@@ -14094,7 +14087,6 @@ cipledeclinerybe.org
 cipokvip.com
 sw.cipowerner.cfd
 ciqvaiywqpkpk.club
-circle7-bd.com
 circleblart.shop
 circlejavgg124.fun
 circuitanvil.com
@@ -14187,7 +14179,6 @@ cl0udh0st1ng.com
 cladp.com
 cladupius.com
 clagsuttees.top
-claimcousins.com
 claimexercise.com
 claimprolawyers.com
 clairvoyantentrance.com
@@ -14248,7 +14239,6 @@ clean-1-clean.club
 clean-2-clean.club
 clean-blocker.com
 clean-browsing.com
-cleanerbest.online
 cleaneroccultowner.com
 cleanflawlessredir.com
 cleaningmystical.com
@@ -14371,7 +14361,6 @@ clickpunch.icu
 clickpupbit.com
 clickrotate.net
 clicks4tc.com
-clickseller.com
 clicksgear.com
 clicksmrtofr.com
 clicksocialimage.top
@@ -14506,7 +14495,6 @@ cloudimagesb.com
 cloudioo.net
 cloudlessdatapowerful.com
 cloudmax.jp
-cloudpsh.top
 cloudq.cn
 cloudshielders.com
 cloudsofnews.com
@@ -14775,7 +14763,6 @@ qv.cobleforcive.com
 ve.cobourgscubas.com
 cobrastore.com
 cobrax.ru
-cobsulsouptigro.net
 cobushuwho.com
 cobwebanalysis.com
 cobwebcomprehension.com
@@ -14937,7 +14924,6 @@ colorfulwitneither.com
 colorlessrush.com
 colornostrils.com
 colorone.jp
-colorprimer.com
 colorsbykarthi.com
 colortherapybath.com
 colossal-extension.com
@@ -15051,7 +15037,6 @@ nnfls.com.cn
 panoeye.com.cn
 pian.com.cn
 qingfa.com.cn
-qka.com.cn
 qufu.com.cn
 ralliant.com.cn
 recompensaszurichsantander.com.mx
@@ -15094,7 +15079,6 @@ comalonger.com
 ay.comalpanzer.top
 comarind.com
 combatbaskstationery.com
-combativecar.com
 combattastestrout.com
 combbicyclelistworth.com
 combcessationarchly.com
@@ -15352,7 +15336,6 @@ conjunctionspiritual.com
 conjureflurryunaccustomed.com
 conjuremachinery.com
 connatedresspint.com
-connect-smartoutreach.nl
 connect-wp.net
 connectad.io
 connected11.com
@@ -15537,7 +15520,6 @@ contus.sbs
 convenebeice.com
 conveniencegymnasium.com
 conveniencehotel.com
-convenienceking.com
 conveniencetimetable.com
 conventionalcohere.com
 conventionalkiller.com
@@ -15641,7 +15623,6 @@ copitinamon.com
 coppedgauily.com
 coppercranberrylamp.com
 coprahsjivaran.top
-coptiksihuserg.com
 copycatnews.com
 copyfelonysorrowful.com
 copyrightgenerateprotector.com
@@ -15651,7 +15632,6 @@ cor8ni3shwerex.com
 se.coraciimidwife.com
 coralsoothingcontribute.com
 bg.corapeacoat.com
-cordatebatches.shop
 cordclck.cc
 cordglacier.com
 cordinghology.info
@@ -15735,7 +15715,6 @@ cosmolot24.com
 cosmopolitanprawn.com
 cosmosdefence.com
 cosponsorgarnetmorphing.com
-fc.cossackupaisle.shop
 cosshencoital.com
 qe.cossidsinuous.com
 costarchamfer.com
@@ -15749,7 +15728,6 @@ cotrck.com
 cottagebale.com
 cottoidearldom.com
 cottoncabbage.com
-coubeezeeptaih.com
 coucalhidated.com
 couchsurf.life
 coudawaisto.net
@@ -16003,7 +15981,6 @@ crdgbpgzdoicy.world
 creaghtain.com
 creakversionfort.com
 rz.creamcolitis.com
-creamerpavement.com
 creammemorizeviable.com
 creamssicsite.com
 creaseinquiries.com
@@ -16031,7 +16008,6 @@ creativesumo.com
 creaturecabbage.com
 crechearmoryinvolved.com
 credentialstimulate.com
-credentialstrapdoormagnet.com
 credibilityinternalhoneycomb.com
 credibly-app.com
 creditcable.info
@@ -16051,7 +16027,6 @@ creepgrandpa.com
 creepingseverely.com
 creepy-birthday.pro
 creepy-frame.com
-creepybuzzing.com
 creepyjudgment.pro
 creis.site
 crematedarkerdwight.com
@@ -16330,7 +16305,6 @@ ctzsryncxsdkg.site
 cubageostrich.com
 cubicinjustice.com
 cubuavmtimuc.net
-cucantoanthongtin24h.com
 dl.cucasharky.com
 cuckooretire.com
 cuckoosad.com
@@ -16353,7 +16327,6 @@ cui9zv7y3.com
 cuinageaquilid.com
 cuisineenvoyadvertise.com
 cuisineinnovex.com
-cuiyougame.com
 cuizgelbtbdft.site
 cujscaawbaz.com
 cukankingwithe.org
@@ -16373,7 +16346,6 @@ culquxawv.com
 culrosha.net
 culterwhether.com
 cultivatecosts.com
-cultivated-mail.com
 cultivatedclassy.com
 cultivatedhurt.com
 cultivatedice.pro
@@ -16473,7 +16445,6 @@ customoystersruth.com
 customshirelingcrushing.com
 customsinnerinfluenza.com
 customslongest.com
-custrelwhists.shop
 cutbpmobdpitn.website
 jn.cutchermaxixe.com
 cute-cursor.com
@@ -41933,7 +41904,6 @@ pznnvt.top
 pzqrhgqndswqn.store
 pzwzitvbdhpiw.website
 pzxjjwbdvxxbi.store
-q1media.com
 q2i8kd5n.de
 q6idnawboy7g.com
 q88z1s3.com

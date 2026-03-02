@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 11:10 UTC
-# Version: 2026.0302.1110.21
+# Last modified: 02 Mar 2026 17:12 UTC
+# Version: 2026.0302.1712.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 93891
+# Number of entries: 93803
 #
 0-bets.com
 0-bets.net
@@ -988,7 +988,6 @@
 1463bets10.vip
 146m.casino
 14741bets10.com
-1475mbets10.com
 1477mbets10.com
 1478.casino
 147m.casino
@@ -1352,7 +1351,6 @@ images.191829838.com
 1939.casino
 193betslots.org
 193on-x6.casino
-1941.casino
 194796.com
 19513c.top
 1965.casino
@@ -7644,6 +7642,7 @@ assoff6.6ffoss.com
 7k-casino208.xyz
 7k-casino212.xyz
 7k-casino2137.buzz
+7k-casino217.xyz
 7k-casino218.xyz
 7k-casino219.xyz
 7k-casino22.shop
@@ -8921,6 +8920,7 @@ m.8k982sj.top
 9102982.com
 910c75.com
 911slotsr.com
+911xbetslot.com
 9123.casino
 9128.casino
 91286.cc
@@ -9340,6 +9340,7 @@ a71.casino
 a75slots.com
 a777betslot.com
 a7pokerdom.top
+a7y9m6.com
 a888betsp.com
 a888casino.live
 a888pg.com
@@ -9944,6 +9945,7 @@ aguspekalongan.xyz
 aguspoker.net
 agussedih.xyz
 agussyedih.xyz
+ah88.me
 ahadubirr.com
 ahenkcasino.com
 ahha4dd.com
@@ -9989,6 +9991,7 @@ aicwebdesign.online
 nv-casino.aid.pl
 aiedgebets.com
 aifi.se
+aifran.website
 aihackcasino.dev
 aihackcasino.online
 aihackcasino.tech
@@ -15339,7 +15342,6 @@ betcio-casinogirisi.vip
 betcio-giriscasino.vip
 betcio-onlinecasino.vip
 betciocasinoadresi.vip
-betciocasinogirisleri1.vip
 betciocasinogirisleri2.vip
 betcity.app
 betcity.by
@@ -17373,6 +17375,7 @@ betzmarkcasino110.xyz
 betzmarkcasino111.xyz
 betzmarkcasino112.xyz
 betzmarkcasino113.xyz
+betzmarkcasino114.xyz
 betzmarkcasino115.xyz
 betzmarkcasino116.xyz
 betzmarkcasino117.xyz
@@ -24910,8 +24913,6 @@ casinolevant-adresler.com
 casinolevant-adressefir.vip
 casinolevant-appgiris.com
 casinolevant-bahissitesi.org
-casinolevant-bahisyap.com
-casinolevant-confirm.com
 casinolevant-giriscom.vip
 casinolevant-giriswar.com
 casinolevant-github.vip
@@ -24933,7 +24934,6 @@ casinolevantadreslerim.org
 casinolevantaktifadres.xyz
 casinolevantaktifmobiladres.xyz
 casinolevantceylife.xyz
-casinolevantco-giris.com
 casinolevantdlu.vip
 casinolevantdusp.vip
 casinolevantenguncel.org
@@ -27600,7 +27600,6 @@ casinowildrobin-nl.nl
 casinowildwins.com
 casinowildzy.com
 casinowildzy.net
-casinowin.biz
 casinowin.ca
 casinowin.co
 casinowin-de.xyz
@@ -29098,7 +29097,6 @@ chericasino.com
 chericasino.org
 chericasino1.com
 chericasinoe.com
-cherishrestaurant.com
 cherokeecasino.com
 cherokeenation.poker
 cherry.com
@@ -29428,7 +29426,6 @@ citislotsmain.site
 citislotsmain.space
 citislotsmain.store
 citislotsmain.us
-citratotojamur.com
 citybingo.com
 citybingocasino.uk
 citycasinoestonia.com
@@ -29446,7 +29443,6 @@ citywinnerzcasino.ch
 citywinnerzcasino.com
 citywinnerzcasino.fi
 citywinnerzcasino.net
-ciusehat.com
 ciwideyvacation.com
 cj-pokerindo.com
 cjogo.com
@@ -29675,7 +29671,6 @@ club7711.com
 club777.com
 club7casinonodeposit.click
 clubbetsvip-13k.club
-clubbonuscasino.com
 clubcasino.cards
 clubcasinocards.com
 clubcasinox.org
@@ -29772,7 +29767,6 @@ clubnika1000.casino
 clubnika1002.casino
 clubnikacasino.click
 clubnikacasino-kw.top
-clubnikalove.casino
 clubnikaslots.click
 clubnikaslots777guide.top
 clubnikaslots777win.buzz
@@ -29857,7 +29851,6 @@ cnweb-wepoker.com
 188bet.co.uk
 1win-casino.co.am
 1win-casino.co.ua
-1wincasino.co.am
 1xbet.co.ao
 1xbet.co.ke
 1xbet.co.mu
@@ -29866,7 +29859,6 @@ cnweb-wepoker.com
 1xbet.co.nz
 1xbet.co.rw
 1xbet.co.zm
-1xbetcasino.co.am
 1xcryptocasino.co.uk
 21.co.uk
 22bet.co.cz
@@ -29881,7 +29873,6 @@ cnweb-wepoker.com
 7goldcasinos.co.uk
 888-casino.co.nz
 888bets.co.mz
-888casino.co.am
 aceonlinecasino.co.uk
 adjarabetcasino.co.am
 admiralcasino.co.uk
@@ -30402,7 +30393,6 @@ casinoworldonline.co.uk
 casinoworldplus.co.uk
 casinoworldsite.co.uk
 casinoworldtoday.co.uk
-casinox.co.am
 casiqocasino.co.uk
 casoola-casino.co.uk
 casoolacasino.co.uk
@@ -30421,7 +30411,6 @@ chickenroad-casino-review.co.uk
 chickenroad-casinoreview.co.uk
 chickenroadcasino.co.nl
 christchurchcasino.co.nz
-classicdisposables.co.uk
 clickcompetitions.co.uk
 clovercasinos.co.uk
 coastalbespokerenovations.co.uk
@@ -30543,7 +30532,6 @@ gaminggiveaways.co.uk
 gbets.co.za
 geckoplay.co.uk
 gentingcasinos.co.uk
-getluckycasino.co.nl
 ggpoker.co.uk
 ghostino-casino.co.uk
 globalcasinoreviews.co.uk
@@ -30559,7 +30547,6 @@ goldwincasinos.co.uk
 goldzinocasino.co.uk
 goodslotsites.co.uk
 gowin.co.uk
-gq-bet-casino.co.uk
 gqbet-casino.co.uk
 grandhotelcasinouk.co.uk
 grandmondial.co.uk
@@ -30567,7 +30554,6 @@ grandmondialcasinos.co.nz
 grandmondialcasinouk.co.uk
 grandnationalbets.co.uk
 gransino-online-casino.co.uk
-greatbritain-casinos.co.uk
 greatbritishbingo.co.uk
 greatslots.co.nl
 greyhoundathackforth.co.uk
@@ -30622,7 +30608,6 @@ jackie-jackpot-casino-online.co.uk
 jackpoker.co.uk
 jackpotcity.co.uk
 fun.jackpotcity.co.za
-jackpotcitycasino.co.am
 jackpotcitycasino.co.uk
 jackpotfisher-casino.co.uk
 jackpotfishercasino.co.uk
@@ -30652,7 +30637,6 @@ juegosjuegos.co.ve
 justbit-casino.co.nl
 justbitcasino.co.nl
 justincasino.co.uk
-jvspin.co.nz
 kachingocasinos.co.uk
 karamba.co.uk
 karambacasinos.co.uk
@@ -30670,7 +30654,6 @@ kukimuki-casino.co.nl
 kwikbet.co.ke
 ladyluckmorecasino.co.uk
 ladylucks.co.uk
-landlordinformationnetwork.co.uk
 lasvegaspoker.co.uk
 legionbetcasino-gb.co.uk
 leovegas-casino.co.uk
@@ -30877,7 +30860,6 @@ playtsogo.co.za
 pmbet.co.tz
 pocketkingspoker.co.uk
 pocketwin.co.uk
-poker-man.co.il
 poker-party.co.uk
 pokerbet.co.za
 pokerbets.co.uk
@@ -30913,7 +30895,6 @@ prestige-casinos.co.uk
 prestigecasinos.co.uk
 pridebet.co.mz
 primaltrainingclub.co.uk
-progressiveslots.co.uk
 ptmprizes.co.uk
 pubcasino.co.uk
 puntcasino.co.za
@@ -31033,11 +31014,6 @@ slotsdigitalplus.co.uk
 slotsdigitalsite.co.uk
 slotsdigitaltoday.co.uk
 slotsfactory.co.uk
-slotsfeednews.co.uk
-slotsfeedspot.co.uk
-slotsfeedstream.co.uk
-slotsfocusreview.co.uk
-slotsfocusspot.co.uk
 slotsforyou.co.uk
 slotsgamereview.co.uk
 slotsgamesreview.co.uk
@@ -31064,16 +31040,7 @@ slotshubplus.co.uk
 slotshubsite.co.uk
 slotshubtoday.co.uk
 slotsino.co.uk
-slotsinsightdaily.co.uk
-slotsinsighthub.co.uk
-slotsinsightstream.co.uk
 slotsislands.co.nl
-slotsjournalreview.co.uk
-slotsjournalstream.co.uk
-slotslatestdaily.co.uk
-slotslatesthub.co.uk
-slotslatestreport.co.uk
-slotslateststream.co.uk
 slotslife360.co.uk
 slotslifeblog.co.uk
 slotslifehub.co.uk
@@ -31083,17 +31050,7 @@ slotslifenews.co.uk
 slotslifeonline.co.uk
 slotslifeplus.co.uk
 slotslifesite.co.uk
-slotslinehub.co.uk
-slotslinenews.co.uk
-slotslinestream.co.uk
-slotslivenews.co.uk
-slotslivereview.co.uk
 slotsmagiccasino.co.uk
-slotsmanianews.co.uk
-slotsmaniareview.co.uk
-slotsmaniasteam.co.uk
-slotsmarketreview.co.uk
-slotsmarketstream.co.uk
 slotsmodern.co.uk
 slotsmodernhub.co.uk
 slotsmodernmag.co.uk
@@ -31102,11 +31059,6 @@ slotsmodernnews.co.uk
 slotsmodernonline.co.uk
 slotsmodernplus.co.uk
 slotsmodernsite.co.uk
-slotsmonitordaily.co.uk
-slotsmonitordigest.co.uk
-slotsmonitorreport.co.uk
-slotsmonitorreview.co.uk
-slotsmonitorstream.co.uk
 slotsnet.co.uk
 slotsnet360.co.uk
 slotsnetblog.co.uk
@@ -31117,15 +31069,9 @@ slotsnetonline.co.uk
 slotsnetplus.co.uk
 slotsnetsite.co.uk
 slotsnettoday.co.uk
-slotsnetworkdaily.co.uk
-slotsnetworkdigest.co.uk
-slotsnetworkreport.co.uk
-slotsnetworkreview.co.uk
 slotsngold.co.nl
 slotsnplay.co.nl
 slotsnplaycasino.co.uk
-slotsobserverreview.co.uk
-slotsobserverstream.co.uk
 slotsoffers.co.uk
 slotsonline360.co.uk
 slotsonlinebonus.co.uk
@@ -31133,17 +31079,11 @@ slotsonlinebonuses.co.uk
 slotsonlinehub.co.uk
 slotsonlinemag.co.uk
 slotsonlinemedia.co.uk
-slotsonlinenews.co.uk
 slotsonlineplus.co.uk
-slotsonlinereport.co.uk
-slotsonlinereview.co.uk
 slotsonlinesite.co.uk
 slotsource.co.uk
 slotspin.co.uk
 slotsplayers.co.uk
-slotsportaldaily.co.uk
-slotsportalhub.co.uk
-slotsportalstream.co.uk
 slotspreview.co.uk
 slotsprimemag.co.uk
 slotsprimemedia.co.uk
@@ -31156,20 +31096,14 @@ slotspro360.co.uk
 slotsprohub.co.uk
 slotspromag.co.uk
 slotsproonline.co.uk
-slotsproreport.co.uk
 slotsprosite.co.uk
-slotsprostream.co.uk
 slotsprotoday.co.uk
-slotsrankhub.co.uk
-slotsranknews.co.uk
 slotsrating.co.uk
-slotsresearchstream.co.uk
 slotsreview24.co.uk
 slotsreview247.co.uk
 slotsreview4u.co.uk
 slotsreviewed.co.uk
 slotsreviewer.co.uk
-slotsreviewstream.co.uk
 slotsreward.co.uk
 slotssafaricasino.co.uk
 slotsstars.co.uk
@@ -31180,7 +31114,6 @@ slotstechmedia.co.uk
 slotstechnews.co.uk
 slotstechonline.co.uk
 slotstechplus.co.uk
-slotstechreport.co.uk
 slotstechsite.co.uk
 slotstechtoday.co.uk
 slotstempleuk.co.uk
@@ -31191,8 +31124,6 @@ slotstodaymag.co.uk
 slotstodaynews.co.uk
 slotstodayonline.co.uk
 slotstodayplus.co.uk
-slotstodayreport.co.uk
-slotstodayreview.co.uk
 slotstodaysite.co.uk
 slotstogo.co.uk
 slotsuk.co.uk
@@ -31235,7 +31166,6 @@ spacecasinos.co.uk
 spincasino.co.uk
 spincoreslots.co.uk
 spindog-casino.co.nl
-spindogscasino.co.uk
 spinhouse-casino.co.uk
 spinify-casino.co.uk
 spinifycasino.co.uk
@@ -31370,7 +31300,6 @@ virginbetcasinos.co.uk
 virgincasinos.co.uk
 virtualbets.co.uk
 viuviu-casino.co.nl
-volnacasino.co.am
 volt-casino.co.uk
 vulkanvegas-casino.co.nl
 wasafibet.co.tz
@@ -32243,7 +32172,6 @@ aviatordemo.com.br
 aviatorjogoaposta.com.br
 avsup.com.au
 babydeli.com.mx
-baininsights.com.br
 baleiapgcasino.com.br
 bassbets.com.de
 baypgcasino.com.br
@@ -32526,7 +32454,6 @@ citycenter-iguazu.com.ar
 ckbetcasino.com.br
 ckcbetcasino.com.br
 claro777casino.com.br
-club8casino.com.au
 clubcasino.com.de
 cncbetcasino.com.br
 cobra-casino.com.de
@@ -33022,7 +32949,6 @@ n58casino.com.br
 nagad-casino.com.de
 naijaloaded.com.ng
 napoleon-casino.com.de
-nayaraslots.com.br
 neds.com.au
 need-for-slots.com.pt
 needforslots-aplikacja.com.pl
@@ -33727,7 +33653,6 @@ convia.id
 conway.casino
 coocasinolab.shop
 cookedcasino.com
-cookeforgovernor.com
 cookie-casino-nederland.nl
 cookie-casino24.nl
 cookie-casinonl.com
@@ -33792,7 +33717,6 @@ coral-casino-playuk.com
 coral-casinoca.com
 coralcasino-uk.net
 coralcasinobonaire.com
-coralcasinopoland.com
 coralislandcasino.net
 coralislandcasino.online
 coralpoker.com
@@ -33956,7 +33880,6 @@ crashpirate-casino.nl
 crasyslots.com
 cratoscasino-guncelgiris.site
 cratoscasino0795.com
-cratoscasino791.com
 cratoscasino792.com
 cratoscasino793.com
 cratoscasino794.com
@@ -33971,7 +33894,6 @@ cratoscasino803.com
 cratoscasino804.com
 cratoscasino805.com
 cratoscasinon.com
-cratoscasinoyeniadres.com
 cratosroyalbet-casino.vip
 cratosroyalbet-casino-mobil.vip
 cratosroyalbets.mobi
@@ -34242,7 +34164,6 @@ crownzcasino.pt
 crownzcasino.se
 crownzcasinos.uk
 crownzillacasino.nl
-crtpyocasinoil.com
 crucible-of-slots.com
 cruise-ship-casino-australia.com
 cruksomzeilencasino.site
@@ -34287,7 +34208,6 @@ crypto-leo-casino.pl
 crypto-leocasino.pl
 crypto-online.casino
 crypto-slots.online
-crypto-spin-casino.com
 crypto-wild.casino
 crypto-wins-casino.com
 crypto0ff.casino
@@ -34314,7 +34234,6 @@ cryptoboss0924.casino
 cryptoboss0934.casino
 cryptoboss0944.casino
 cryptoboss12.casino
-cryptoboss19.casino
 cryptoboss200.casino
 cryptoboss234casino.top
 cryptoboss360casino.top
@@ -34383,7 +34302,6 @@ cryptocasinocompass.com
 cryptocasinocruise.com
 cryptocasinoenligne.net
 cryptocasinogames.vip
-cryptocasinoil.com
 cryptocasinologin.org
 cryptocasinologin.vip
 cryptocasinonodepositbonus.site
@@ -34402,7 +34320,6 @@ cryptocasinoscanada.ca
 cryptocasinoscanada.net
 cryptocasinoscanada.org
 cryptocasinoschweiz.com
-cryptocasinoscripts.com
 cryptocasinosecrets.com
 cryptocasinoservice.com
 cryptocasinoso.com
@@ -34452,7 +34369,6 @@ cryptoscasino.online
 cryptoscasino.site
 cryptoskull.com
 cryptoslots.com
-cryptoslots77.com
 cryptoslotscasifreespins.click
 cryptoslotscasino.uk
 cryptoslotscasinonodeposit.click
@@ -34507,7 +34423,6 @@ cs2.club
 csc777.com
 cscapes.org
 cscase.io
-csdxb365.com
 csgo-bettingsites.com
 csgo-gambling.org
 csgo500.com
@@ -34620,9 +34535,6 @@ cutepoker.com
 cv666.net
 cv9.casino
 cvcvideo.com
-cvtogelcasino.online
-cvtogelcasino.org
-cvtogelcasino.site
 cwalk88.vip
 cwbetbet.com
 cwdbetsayang.lat
@@ -39242,7 +39154,6 @@ felixthijssen.com
 felizaposta.casino
 felizcasino.com
 feltet.dk
-femalesexdolls.store
 fengchaomy.com
 feniksscasino.lv
 feniksscasinolatvia.com
@@ -41434,7 +41345,6 @@ gacorb3t88for.info
 gacorbetul.xyz
 gacorbos88.support
 gacorcmibet.online
-gacorgaming-bigtimegaming.online
 gacorkoi77rtp.info
 gacorku.com
 gacormaniaqx.xyz
@@ -44648,6 +44558,7 @@ h5ns1ic.com
 h5o.casino
 h638.com
 h68th.com
+h6opsebn.com
 h7.game
 h775.vip
 h7u.casino
@@ -47642,6 +47553,7 @@ izzislots.xyz
 j2q7y5.com
 j2t.online
 j2tv.com
+j2x9v.com
 j2z.casino
 j3h.casino
 j3j3q6.com
@@ -48721,6 +48633,7 @@ jljl.today
 jljl.win
 jljl1.shop
 jljl1bets.com
+jljl3.cc
 jljl3.com
 jljl33casinos.com
 jljl44casino.com
@@ -48848,8 +48761,6 @@ jojobet.com
 jojobets.business
 jojobets.mobi
 jojobets-girisileri.com
-jojobets11153.com
-jojobets1152.com
 jojobetsonyenigirisi.vip
 jojobetsubatgirisi.vip
 jojocasino.vip
@@ -49681,6 +49592,7 @@ jt-bonus.xyz
 jt-legend.xyz
 jt-loading.xyz
 jt-world.xyz
+jt0c6h.com
 jt44wanpoker.buzz
 jtbetstorm.life
 jtcasinoplay.life
@@ -49973,6 +49885,7 @@ k2x.casino
 k3b.casino
 k456bets.com
 k4d88.net
+k4m9r2.com
 k4o.casino
 k52goodgame.xyz
 k55bet.com
@@ -52973,6 +52886,7 @@ lendirpetir.xyz
 lenteraslotsiap.com
 lenteraslotstar.com
 lenteraslotsuper.com
+lentilha777.win
 leo-bet.casino
 leo88.com
 leo88h.org
@@ -55700,7 +55614,6 @@ lvcasino.win
 lvcasino1.com
 lvjili.vip
 lvjilicasino.com
-lvnt-levantcasino.com
 lvobet.blog
 lvonline.autos
 lvonline.baby
@@ -55781,7 +55694,6 @@ m-bets10giris.com
 m-bets10guncel.com
 m-bets10resmi.com
 m-betsmove754.com
-m-betsmove755.com
 m-betsmove986.com
 m-casino.online
 m-casinomilyon534.com
@@ -65592,6 +65504,7 @@ panache-casino.com
 panachecasino.bet
 panahkrisna.xyz
 panalo.cc
+panalobet200.com
 panalobetcasino.org
 panalobetcasino.vip
 panalobetcasino.xyz
@@ -67675,7 +67588,6 @@ pinco3101.casino
 pinco3117.casino
 pinco3398.casino
 pinco34pinco.casino
-pinco3554.casino
 pinco6122.casino
 pinco644.win
 pinco6733.casino
@@ -78540,6 +78452,7 @@ sizzling-hot-play.com
 sizzlinghotcasino.com
 sja.casino
 sjdnioeje8gfuvkgvi834tjjmv.com
+sjokhcmf.com
 sjoveslots.com
 sjx.casino
 sk-casino.sk
@@ -78560,7 +78473,6 @@ skill7.com
 skilljoy.eu
 skillsandslots.net
 skillzandslots.com
-skimaskape.xyz
 skin.club
 skin.fans
 skincareblog.net
@@ -81006,6 +80918,7 @@ spinbetter2w.com
 spinbetter2x.com
 spinbetter2y.com
 spinbetter3b.com
+spinbetter3f.com
 spinbetter4.com
 spinbettercasifreespins.click
 spinbettercasino.bet
@@ -83341,6 +83254,7 @@ t8pp.com
 t8qq.com
 t8u9v0.buzz
 t9gameslots.com
+t9m7y4.com
 ta777.live
 ta777b.com
 ta777d.com
@@ -83731,7 +83645,6 @@ terrabets.ca
 terrazzouk.com
 terrehautecasino.com
 terrybet.it
-terserahdeh.online
 terugblik.com
 tervino1.com
 teslaf1.com
@@ -85307,6 +85220,7 @@ totalcasino.sk
 totalcasino2.pl
 totalcasinocz.com
 totalcasinodeutschland.com
+totalcasinoguide.com
 totalcasinohotel.com
 totalcasinonorway.site
 totalcasinoo.fr
@@ -87461,11 +87375,9 @@ vaycasino-girisadresimajor.vip
 vaycasino-girisguncel.one
 vaycasino-girisi.app
 vaycasino-girisi-resmi2026.com
-vaycasino-girislerimiz2026.com
 vaycasino-girisyap-bonuslu.vip
 vaycasino-go.com
 vaycasino-guncel-adres2026.com
-vaycasino-gunceladres2026.com
 vaycasino-guncellgiris.vip
 vaycasino-guncelsite.vip
 vaycasino-hizliersm2026.vip

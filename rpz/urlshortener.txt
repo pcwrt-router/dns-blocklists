@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772445540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772467140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Mar 2026 09:59 UTC
-; Version: 2026.0302.0959.25
+; Last modified: 02 Mar 2026 15:59 UTC
+; Version: 2026.0302.1559.50
 ; Syntax: RPZ
-; Number of entries: 19958
+; Number of entries: 19948
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1271,8 +1271,6 @@ nabio.com.br CNAME .
 *.nabio.com.br CNAME .
 red1.com.br CNAME .
 *.red1.com.br CNAME .
-redlight.com.br CNAME .
-*.redlight.com.br CNAME .
 rocketlink.com.br CNAME .
 *.rocketlink.com.br CNAME .
 shortlinks.com.br CNAME .
@@ -9357,8 +9355,6 @@ prf.hn CNAME .
 *.prf.hn CNAME .
 troy.hn CNAME .
 *.troy.hn CNAME .
-cjyzkqj.homes CNAME .
-*.cjyzkqj.homes CNAME .
 garuda.homes CNAME .
 *.garuda.homes CNAME .
 linkaku.homes CNAME .
@@ -9797,8 +9793,6 @@ cepet.in CNAME .
 *.cepet.in CNAME .
 cfre.in CNAME .
 *.cfre.in CNAME .
-chopit.in CNAME .
-*.chopit.in CNAME .
 cityreach.in CNAME .
 *.cityreach.in CNAME .
 clikk.in CNAME .
@@ -18913,8 +18907,6 @@ p-it.co.uk CNAME .
 *.p-it.co.uk CNAME .
 qrgen.co.uk CNAME .
 *.qrgen.co.uk CNAME .
-qrlnk.co.uk CNAME .
-*.qrlnk.co.uk CNAME .
 go.sbws.co.uk CNAME .
 *.go.sbws.co.uk CNAME .
 shortlinks.co.uk CNAME .
@@ -19575,8 +19567,6 @@ paw.wf CNAME .
 *.paw.wf CNAME .
 sht.wf CNAME .
 *.sht.wf CNAME .
-cvfmiij.wiki CNAME .
-*.cvfmiij.wiki CNAME .
 davidbombal.wiki CNAME .
 *.davidbombal.wiki CNAME .
 krpcgvm.wiki CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 11:18 UTC
-# Version: 2026.0302.1118.41
+# Last modified: 02 Mar 2026 17:21 UTC
+# Version: 2026.0302.1721.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3954
+# Number of entries: 3952
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -643,7 +643,6 @@
 0.0.0.0 dns.chunghwamc.com
 0.0.0.0 oraclejp2.chungyu.com
 0.0.0.0 c.cicitt.ch
-0.0.0.0 adguard.cinicollerico.top
 0.0.0.0 doh.cippapp.com
 0.0.0.0 canadianshield.cira.ca
 0.0.0.0 family.canadianshield.cira.ca
@@ -747,7 +746,6 @@
 0.0.0.0 dns-one.lins.co.tt
 0.0.0.0 dns-three.lins.co.tt
 0.0.0.0 guard.lumusimc.co.uk
-0.0.0.0 adguard.macrosolutionsltd.co.uk
 0.0.0.0 adg.mnml.co.in
 0.0.0.0 dns.neilzone.co.uk
 0.0.0.0 dns.nerdytechgeeks.co.za

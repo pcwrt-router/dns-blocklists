@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772450340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772472060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Mar 2026 11:19 UTC
-; Version: 2026.0302.1119.33
+; Last modified: 02 Mar 2026 17:21 UTC
+; Version: 2026.0302.1721.45
 ; Syntax: RPZ
-; Number of entries: 32728
+; Number of entries: 32644
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -121,8 +121,6 @@ jpdns.cola16.app CNAME .
 *.jpdns.cola16.app CNAME .
 krdns.cola16.app CNAME .
 *.krdns.cola16.app CNAME .
-croxyproxy.app CNAME .
-*.croxyproxy.app CNAME .
 8hujmi.csb.app CNAME .
 *.8hujmi.csb.app CNAME .
 cgzv1i.csb.app CNAME .
@@ -479,10 +477,6 @@ adguardcloud.iasm.com.ar CNAME .
 *.adguardcloud.iasm.com.ar CNAME .
 mathh.img.com.ar CNAME .
 *.mathh.img.com.ar CNAME .
-saintjeancancerfoundationdonations.com.jorgesaintjean.com.ar CNAME .
-*.saintjeancancerfoundationdonations.com.jorgesaintjean.com.ar CNAME .
-stjeanshelter.com.jorgesaintjean.com.ar CNAME .
-*.stjeanshelter.com.jorgesaintjean.com.ar CNAME .
 english.jsalfa.com.ar CNAME .
 *.english.jsalfa.com.ar CNAME .
 wdioajjiodajiodadsal.lab-net.com.ar CNAME .
@@ -501,8 +495,6 @@ interstellar.nana.mza.com.ar CNAME .
 *.interstellar.nana.mza.com.ar CNAME .
 ddx.v2.nana.mza.com.ar CNAME .
 *.ddx.v2.nana.mza.com.ar CNAME .
-wifi.connection-lol.nextcomm.com.ar CNAME .
-*.wifi.connection-lol.nextcomm.com.ar CNAME .
 vcsa.nextcomm.com.ar CNAME .
 *.vcsa.nextcomm.com.ar CNAME .
 securesafea.openmouth.com.ar CNAME .
@@ -521,8 +513,6 @@ wildcard.serviciosit.com.ar CNAME .
 *.wildcard.serviciosit.com.ar CNAME .
 informatica.subject.learn.syscodeinformatica.com.ar CNAME .
 *.informatica.subject.learn.syscodeinformatica.com.ar CNAME .
-satpracticethinglol.tmyd.com.ar CNAME .
-*.satpracticethinglol.tmyd.com.ar CNAME .
 booking.traveling.com.ar CNAME .
 *.booking.traveling.com.ar CNAME .
 selenitetransportcorporation.stc.com.tuintransporte.com.ar CNAME .
@@ -755,8 +745,6 @@ sainttech.rayneman.com.au CNAME .
 *.sainttech.rayneman.com.au CNAME .
 180ce.rbsaust.com.au CNAME .
 *.180ce.rbsaust.com.au CNAME .
-america.record-point.com.au CNAME .
-*.america.record-point.com.au CNAME .
 cheetos.rouselegal.com.au CNAME .
 *.cheetos.rouselegal.com.au CNAME .
 surfshark.com.au CNAME .
@@ -5533,8 +5521,6 @@ cheaptextingapp.com CNAME .
 *.cheaptextingapp.com CNAME .
 cheesestorecedarhurst.com CNAME .
 *.cheesestorecedarhurst.com CNAME .
-cherryclash.com CNAME .
-*.cherryclash.com CNAME .
 cherryjc.com CNAME .
 *.cherryjc.com CNAME .
 bolteducation.chiangmaiorganics.com CNAME .
@@ -5549,8 +5535,6 @@ aberdeenmiddle34lol.chickenkiller.com CNAME .
 *.aberdeenmiddle34lol.chickenkiller.com CNAME .
 ajtf.chickenkiller.com CNAME .
 *.ajtf.chickenkiller.com CNAME .
-alejandro-made-this-haha.chickenkiller.com CNAME .
-*.alejandro-made-this-haha.chickenkiller.com CNAME .
 baku.chickenkiller.com CNAME .
 *.baku.chickenkiller.com CNAME .
 brothislinkfire.chickenkiller.com CNAME .
@@ -5581,8 +5565,6 @@ dihinmyah-67.chickenkiller.com CNAME .
 *.dihinmyah-67.chickenkiller.com CNAME .
 dingleberry67.chickenkiller.com CNAME .
 *.dingleberry67.chickenkiller.com CNAME .
-educationalpurposes.chickenkiller.com CNAME .
-*.educationalpurposes.chickenkiller.com CNAME .
 eisdproxy.chickenkiller.com CNAME .
 *.eisdproxy.chickenkiller.com CNAME .
 eqwnmhg.chickenkiller.com CNAME .
@@ -6187,8 +6169,6 @@ la.manchaland.crabdance.com CNAME .
 *.la.manchaland.crabdance.com CNAME .
 maselivolovesscience.crabdance.com CNAME .
 *.maselivolovesscience.crabdance.com CNAME .
-meta-games-proxies.crabdance.com CNAME .
-*.meta-games-proxies.crabdance.com CNAME .
 mroybtnd.crabdance.com CNAME .
 *.mroybtnd.crabdance.com CNAME .
 nrusimha.crabdance.com CNAME .
@@ -6199,8 +6179,6 @@ qwertyblaher.crabdance.com CNAME .
 *.qwertyblaher.crabdance.com CNAME .
 random12.crabdance.com CNAME .
 *.random12.crabdance.com CNAME .
-rjjr.crabdance.com CNAME .
-*.rjjr.crabdance.com CNAME .
 sixseven6swan.crabdance.com CNAME .
 *.sixseven6swan.crabdance.com CNAME .
 timfplhtaw.crabdance.com CNAME .
@@ -6209,8 +6187,6 @@ yourname.chosen-domain.tld.crabdance.com CNAME .
 *.yourname.chosen-domain.tld.crabdance.com CNAME .
 utopiaunblocker.crabdance.com CNAME .
 *.utopiaunblocker.crabdance.com CNAME .
-vloxywoxy.crabdance.com CNAME .
-*.vloxywoxy.crabdance.com CNAME .
 clever.com.santi.craftleds.com CNAME .
 *.clever.com.santi.craftleds.com CNAME .
 crash1ytics.com CNAME .
@@ -24707,8 +24683,6 @@ sorryimplayingwiththefroggiesinthearcade.mahesh-khanal.com.np CNAME .
 *.sorryimplayingwiththefroggiesinthearcade.mahesh-khanal.com.np CNAME .
 whywastherealinkforluminalcalledbigdih.mahesh-khanal.com.np CNAME .
 *.whywastherealinkforluminalcalledbigdih.mahesh-khanal.com.np CNAME .
-water.matribhumimf.com.np CNAME .
-*.water.matribhumimf.com.np CNAME .
 computers.maya24.com.np CNAME .
 *.computers.maya24.com.np CNAME .
 garlandisd.nabinshahi.com.np CNAME .
@@ -25949,8 +25923,6 @@ croxy.org CNAME .
 *.croxy.org CNAME .
 duck.csproject.org CNAME .
 *.duck.csproject.org CNAME .
-murt.xeno.csproject.org CNAME .
-*.murt.xeno.csproject.org CNAME .
 dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 cybertunnel.org CNAME .
@@ -29895,10 +29867,6 @@ dns.vinokurov.tk CNAME .
 *.dns.vinokurov.tk CNAME .
 ark.to CNAME .
 *.ark.to CNAME .
-katyisdcoomunications.corti.to CNAME .
-*.katyisdcoomunications.corti.to CNAME .
-katyisdsignup.corti.to CNAME .
-*.katyisdsignup.corti.to CNAME .
 waguri.corti.to CNAME .
 *.waguri.corti.to CNAME .
 darknet.to CNAME .
@@ -30109,8 +30077,6 @@ changesmart2024.top CNAME .
 *.changesmart2024.top CNAME .
 dns.chromeina.top CNAME .
 *.dns.chromeina.top CNAME .
-adguard.cinicollerico.top CNAME .
-*.adguard.cinicollerico.top CNAME .
 conhub.top CNAME .
 *.conhub.top CNAME .
 cuknrz.top CNAME .
@@ -30629,8 +30595,6 @@ www.dnsadguard.co.uk CNAME .
 *.www.dnsadguard.co.uk CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-dashudiasydiusafyhbasifasas.fulwellcastingagency.co.uk CNAME .
-*.dashudiasydiusafyhbasifasas.fulwellcastingagency.co.uk CNAME .
 dns.gayanalysing.co.uk CNAME .
 *.dns.gayanalysing.co.uk CNAME .
 dns.hashemlabs.co.uk CNAME .
@@ -30643,8 +30607,6 @@ lamnia.co.uk CNAME .
 *.lamnia.co.uk CNAME .
 guard.lumusimc.co.uk CNAME .
 *.guard.lumusimc.co.uk CNAME .
-adguard.macrosolutionsltd.co.uk CNAME .
-*.adguard.macrosolutionsltd.co.uk CNAME .
 my-private-network.co.uk CNAME .
 *.my-private-network.co.uk CNAME .
 dns.neilzone.co.uk CNAME .
@@ -30679,10 +30641,6 @@ rmdns26.co.uk CNAME .
 *.rmdns26.co.uk CNAME .
 small-uk-schools.shentaichiacademy.co.uk CNAME .
 *.small-uk-schools.shentaichiacademy.co.uk CNAME .
-terms.clever.speedy-fit.co.uk CNAME .
-*.terms.clever.speedy-fit.co.uk CNAME .
-nana.utopia.speedy-fit.co.uk CNAME .
-*.nana.utopia.speedy-fit.co.uk CNAME .
 about.blog.steveharrop.co.uk CNAME .
 *.about.blog.steveharrop.co.uk CNAME .
 clubs.tafca.co.uk CNAME .
@@ -30691,8 +30649,6 @@ piano.goal.the-black-hole.co.uk CNAME .
 *.piano.goal.the-black-hole.co.uk CNAME .
 tigervpns.co.uk CNAME .
 *.tigervpns.co.uk CNAME .
-unblocc.co.uk CNAME .
-*.unblocc.co.uk CNAME .
 unblocksites.co.uk CNAME .
 *.unblocksites.co.uk CNAME .
 dns1.understandingcyber.co.uk CNAME .
@@ -30705,8 +30661,6 @@ vpncompare.co.uk CNAME .
 *.vpncompare.co.uk CNAME .
 dns.walshnet.co.uk CNAME .
 *.dns.walshnet.co.uk CNAME .
-waterthetree.co.uk CNAME .
-*.waterthetree.co.uk CNAME .
 long.live.gaup.webconstructions.co.uk CNAME .
 *.long.live.gaup.webconstructions.co.uk CNAME .
 crandall.kirkinator.webconstructions.co.uk CNAME .
@@ -32619,44 +32573,6 @@ adg.datamatter.co.za CNAME .
 *.adg.datamatter.co.za CNAME .
 pihole.datamatter.co.za CNAME .
 *.pihole.datamatter.co.za CNAME .
-aeroplane.flightbooker.co.za CNAME .
-*.aeroplane.flightbooker.co.za CNAME .
-barbecue-chicken-alert.flightbooker.co.za CNAME .
-*.barbecue-chicken-alert.flightbooker.co.za CNAME .
-barbecue-chicken-alertt.flightbooker.co.za CNAME .
-*.barbecue-chicken-alertt.flightbooker.co.za CNAME .
-barbecue-chicken-alerttt.flightbooker.co.za CNAME .
-*.barbecue-chicken-alerttt.flightbooker.co.za CNAME .
-barbecue-chicken-alertttt.flightbooker.co.za CNAME .
-*.barbecue-chicken-alertttt.flightbooker.co.za CNAME .
-barbecue-chicken-alerttttt.flightbooker.co.za CNAME .
-*.barbecue-chicken-alerttttt.flightbooker.co.za CNAME .
-brightenglish.flightbooker.co.za CNAME .
-*.brightenglish.flightbooker.co.za CNAME .
-dash.flightbooker.co.za CNAME .
-*.dash.flightbooker.co.za CNAME .
-flightmybookorder.flightbooker.co.za CNAME .
-*.flightmybookorder.flightbooker.co.za CNAME .
-freshscience.flightbooker.co.za CNAME .
-*.freshscience.flightbooker.co.za CNAME .
-holy.flightbooker.co.za CNAME .
-*.holy.flightbooker.co.za CNAME .
-joeyisafatass.flightbooker.co.za CNAME .
-*.joeyisafatass.flightbooker.co.za CNAME .
-learnhappy101.flightbooker.co.za CNAME .
-*.learnhappy101.flightbooker.co.za CNAME .
-learningway.flightbooker.co.za CNAME .
-*.learningway.flightbooker.co.za CNAME .
-overcloaked.flightbooker.co.za CNAME .
-*.overcloaked.flightbooker.co.za CNAME .
-sharpwriting.flightbooker.co.za CNAME .
-*.sharpwriting.flightbooker.co.za CNAME .
-smart.flightbooker.co.za CNAME .
-*.smart.flightbooker.co.za CNAME .
-tickets.flightbooker.co.za CNAME .
-*.tickets.flightbooker.co.za CNAME .
-arv.is.urdad.flightbooker.co.za CNAME .
-*.arv.is.urdad.flightbooker.co.za CNAME .
 gn-z11.franscois.co.za CNAME .
 *.gn-z11.franscois.co.za CNAME .
 ixl.math.hsf.co.za CNAME .

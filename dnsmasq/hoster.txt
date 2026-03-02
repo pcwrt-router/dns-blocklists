@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 10:31 UTC
-# Version: 2026.0302.1031.58
+# Last modified: 02 Mar 2026 16:32 UTC
+# Version: 2026.0302.1632.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1280
+# Number of entries: 1281
 #
 local=/000a.de/
 local=/000space.com/
@@ -1120,6 +1120,7 @@ local=/ucoz.org/
 local=/ucoz.pl/
 local=/ucoz.ro/
 local=/ucoz.ru/
+local=/ucoz.ua/
 local=/ueuo.com/
 local=/ugu.pl/
 local=/ujm.pl/

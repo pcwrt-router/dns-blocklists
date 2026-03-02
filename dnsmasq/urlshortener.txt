@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 09:59 UTC
-# Version: 2026.0302.0959.25
+# Last modified: 02 Mar 2026 15:59 UTC
+# Version: 2026.0302.1559.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9979
+# Number of entries: 9974
 #
 local=/0.gp/
 local=/00m.in/
@@ -1609,7 +1609,6 @@ local=/chogan.store/
 local=/chogoon.com/
 local=/chooze.me/
 local=/chop.ad/
-local=/chopit.in/
 local=/choply.co/
 local=/chopurl.io/
 local=/chort.me/
@@ -1648,7 +1647,6 @@ local=/cixi.bio/
 local=/cjb.net/
 local=/cjky.it/
 local=/cjn.mx/
-local=/cjyzkqj.homes/
 local=/ck2.it/
 local=/ckbe.at/
 local=/cl.ly/
@@ -1798,7 +1796,6 @@ local=/links.nivbook.co.il/
 local=/ourmagazines.co.uk/
 local=/p-it.co.uk/
 local=/qrgen.co.uk/
-local=/qrlnk.co.uk/
 local=/qtn.co.il/
 local=/go.sbws.co.uk/
 local=/shortlink.co.za/
@@ -1880,7 +1877,6 @@ local=/salesadvisor.nazriproton.com.my/
 local=/onelink.com.do/
 local=/readystart.com.au/
 local=/red1.com.br/
-local=/redlight.com.br/
 local=/rocketlink.com.br/
 local=/short.com.vn/
 local=/shortlink.com.au/
@@ -2106,7 +2102,6 @@ local=/cutyurl.com/
 local=/cutzlnk.cloud/
 local=/cvcpl.us/
 local=/cvent.me/
-local=/cvfmiij.wiki/
 local=/cvitko.com/
 local=/cvs.co/
 local=/cwg.li/

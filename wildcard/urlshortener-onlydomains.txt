@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 09:59 UTC
-# Version: 2026.0302.0959.25
+# Last modified: 02 Mar 2026 15:59 UTC
+# Version: 2026.0302.1559.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 9979
+# Number of entries: 9974
 #
 0.gp
 00m.in
@@ -1609,7 +1609,6 @@ chogan.store
 chogoon.com
 chooze.me
 chop.ad
-chopit.in
 choply.co
 chopurl.io
 chort.me
@@ -1648,7 +1647,6 @@ cixi.bio
 cjb.net
 cjky.it
 cjn.mx
-cjyzkqj.homes
 ck2.it
 ckbe.at
 cl.ly
@@ -1798,7 +1796,6 @@ links.nivbook.co.il
 ourmagazines.co.uk
 p-it.co.uk
 qrgen.co.uk
-qrlnk.co.uk
 qtn.co.il
 go.sbws.co.uk
 shortlink.co.za
@@ -1880,7 +1877,6 @@ salesadvisor.nazriproton.com.my
 onelink.com.do
 readystart.com.au
 red1.com.br
-redlight.com.br
 rocketlink.com.br
 short.com.vn
 shortlink.com.au
@@ -2106,7 +2102,6 @@ cutyurl.com
 cutzlnk.cloud
 cvcpl.us
 cvent.me
-cvfmiij.wiki
 cvitko.com
 cvs.co
 cwg.li

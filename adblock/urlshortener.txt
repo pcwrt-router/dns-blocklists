@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Mar 2026 09:59 UTC
-! Version: 2026.0302.0959.25
+! Last modified: 02 Mar 2026 15:59 UTC
+! Version: 2026.0302.1559.50
 ! Syntax: AdBlock
-! Number of entries: 9979
+! Number of entries: 9974
 !
 ||0.gp^
 ||00m.in^
@@ -1610,7 +1610,6 @@
 ||chogoon.com^
 ||chooze.me^
 ||chop.ad^
-||chopit.in^
 ||choply.co^
 ||chopurl.io^
 ||chort.me^
@@ -1649,7 +1648,6 @@
 ||cjb.net^
 ||cjky.it^
 ||cjn.mx^
-||cjyzkqj.homes^
 ||ck2.it^
 ||ckbe.at^
 ||cl.ly^
@@ -1799,7 +1797,6 @@
 ||ourmagazines.co.uk^
 ||p-it.co.uk^
 ||qrgen.co.uk^
-||qrlnk.co.uk^
 ||qtn.co.il^
 ||go.sbws.co.uk^
 ||shortlink.co.za^
@@ -1881,7 +1878,6 @@
 ||onelink.com.do^
 ||readystart.com.au^
 ||red1.com.br^
-||redlight.com.br^
 ||rocketlink.com.br^
 ||short.com.vn^
 ||shortlink.com.au^
@@ -2107,7 +2103,6 @@
 ||cutzlnk.cloud^
 ||cvcpl.us^
 ||cvent.me^
-||cvfmiij.wiki^
 ||cvitko.com^
 ||cvs.co^
 ||cwg.li^
