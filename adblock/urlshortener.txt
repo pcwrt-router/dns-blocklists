@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Mar 2026 15:59 UTC
-! Version: 2026.0302.1559.50
+! Last modified: 03 Mar 2026 03:48 UTC
+! Version: 2026.0303.0348.27
 ! Syntax: AdBlock
-! Number of entries: 9974
+! Number of entries: 9962
 !
 ||0.gp^
 ||00m.in^
@@ -2209,17 +2209,14 @@
 ||asset.deme-group.com^
 ||qr.democame.pe^
 ||demolink.net^
-||demoxpress.xyz^
 ||dems.me^
 ||depedzn.net^
 ||descontosachados.com^
 ||descuentoahora.com^
-||deshtvbd.com^
 ||designcommerce.agency^
 ||designrigs.com^
 ||desin.me^
 ||wwww.destockdrive.com^
-||web3.destore.network^
 ||detonnot.com^
 ||qr.dev.eg^
 ||s.devh.in^
@@ -2280,7 +2277,6 @@
 ||disini.link^
 ||disq.us^
 ||link.dith2.com^
-||ditt.link^
 ||dive.pub^
 ||diversionink.com^
 ||divsly.com^
@@ -2330,7 +2326,6 @@
 ||domi.link^
 ||domixox.com^
 ||domlink.ink^
-||doods.sbs^
 ||doodsty.fun^
 ||doonor.com^
 ||dopice.sk^
@@ -2550,7 +2545,6 @@
 ||el.lk^
 ||el.ly^
 ||el1nk.com^
-||el32.com^
 ||ela.st^
 ||elaxima.pro^
 ||elfdirect.com^
@@ -2560,7 +2554,6 @@
 ||ellastern.live^
 ||elle.re^
 ||ellemag.co^
-||elmnp.ir^
 ||elokapina.link^
 ||link.elos.vc^
 ||elrsx.com^
@@ -2663,7 +2656,6 @@
 ||expl.scot^
 ||exploreosv.com^
 ||exx.us^
-||eyq.me^
 ||eys.li^
 ||ez1.cc^
 ||ezbio.me^
@@ -2686,7 +2678,6 @@
 ||f-internal.info^
 ||f-n.link^
 ||f0rk.in^
-||f1.tf^
 ||f1m.in^
 ||f1mate.com^
 ||f24.link^
@@ -2793,7 +2784,6 @@
 ||fixi.me^
 ||fiy.no^
 ||fjr24.com^
-||fl-y.com^
 ||flameurl.com^
 ||flashsc.re^
 ||flashwombat.com^
@@ -2841,7 +2831,6 @@
 ||fnb.lc^
 ||fndry.ch^
 ||fneezet.com^
-||fnleasing.com^
 ||fnoogy.com^
 ||fnord.eu^
 ||fnote.it^
@@ -3022,7 +3011,6 @@
 ||getblue.me^
 ||getcode.pw^
 ||getf.ly^
-||geti.in^
 ||getlasso.co^
 ||getlickd.com^
 ||getlink.space^

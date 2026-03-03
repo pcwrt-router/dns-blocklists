@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772471640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772514240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Mar 2026 17:14 UTC
-; Version: 2026.0302.1714.07
+; Last modified: 03 Mar 2026 05:04 UTC
+; Version: 2026.0303.0504.55
 ; Syntax: RPZ
-; Number of entries: 23322
+; Number of entries: 23290
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -164,8 +164,6 @@ boerse.am CNAME .
 *.boerse.am CNAME .
 cine.do.am CNAME .
 *.cine.do.am CNAME .
-dood.am CNAME .
-*.dood.am CNAME .
 kat.am CNAME .
 *.kat.am CNAME .
 kinox.am CNAME .
@@ -766,8 +764,6 @@ altadefinizionegratis.bid CNAME .
 *.altadefinizionegratis.bid CNAME .
 cineblog01.bid CNAME .
 *.cineblog01.bid CNAME .
-dunia21.bid CNAME .
-*.dunia21.bid CNAME .
 eurostreaming.bid CNAME .
 *.eurostreaming.bid CNAME .
 hdmovie2.bid CNAME .
@@ -3994,8 +3990,6 @@ ddl2.com CNAME .
 *.ddl2.com CNAME .
 ddlbase.com CNAME .
 *.ddlbase.com CNAME .
-ddlcenter.com CNAME .
-*.ddlcenter.com CNAME .
 ddlicious.com CNAME .
 *.ddlicious.com CNAME .
 ddlsite.com CNAME .
@@ -4546,8 +4540,6 @@ filmrls.com CNAME .
 *.filmrls.com CNAME .
 films-iphone.com CNAME .
 *.films-iphone.com CNAME .
-filmsenzalimiti.com CNAME .
-*.filmsenzalimiti.com CNAME .
 filmsofts.com CNAME .
 *.filmsofts.com CNAME .
 filmstreaming.com CNAME .
@@ -4728,8 +4720,6 @@ fruitytuts.com CNAME .
 *.fruitytuts.com CNAME .
 one.fsphost.com CNAME .
 *.one.fsphost.com CNAME .
-ftflix.com CNAME .
-*.ftflix.com CNAME .
 ftp2web.com CNAME .
 *.ftp2web.com CNAME .
 full2download.com CNAME .
@@ -9102,8 +9092,6 @@ fileland.eu CNAME .
 *.fileland.eu CNAME .
 filmsenzalimiti.eu CNAME .
 *.filmsenzalimiti.eu CNAME .
-firstrowsport.eu CNAME .
-*.firstrowsport.eu CNAME .
 freecztorrent.eu CNAME .
 *.freecztorrent.eu CNAME .
 gamecopyworld.eu CNAME .
@@ -10164,8 +10152,6 @@ trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
 *.tracker.zhuqiy.dgj055.icu CNAME .
-dood.icu CNAME .
-*.dood.icu CNAME .
 doodstream.icu CNAME .
 *.doodstream.icu CNAME .
 filmstreaming.icu CNAME .
@@ -10464,8 +10450,6 @@ bt.davka.info CNAME .
 *.bt.davka.info CNAME .
 dontorrent.info CNAME .
 *.dontorrent.info CNAME .
-dramaqu.info CNAME .
-*.dramaqu.info CNAME .
 aarinfantasy.edwardk.info CNAME .
 *.aarinfantasy.edwardk.info CNAME .
 akutenshi-fansubs.edwardk.info CNAME .
@@ -12246,8 +12230,6 @@ euromovies.me CNAME .
 *.euromovies.me CNAME .
 eurostreaming.me CNAME .
 *.eurostreaming.me CNAME .
-f1box.me CNAME .
-*.f1box.me CNAME .
 fbdown.me CNAME .
 *.fbdown.me CNAME .
 fiberx.me CNAME .
@@ -12778,8 +12760,6 @@ hdmovie2.moscow CNAME .
 *.hdmovie2.moscow CNAME .
 streamingcommunityz.motorcycles CNAME .
 *.streamingcommunityz.motorcycles CNAME .
-dood.mov CNAME .
-*.dood.mov CNAME .
 filmapik.mov CNAME .
 *.filmapik.mov CNAME .
 pirate-proxy.mov CNAME .
@@ -15246,8 +15226,6 @@ filmzenstream.online CNAME .
 *.filmzenstream.online CNAME .
 fin101.online CNAME .
 *.fin101.online CNAME .
-foggycrest91.online CNAME .
-*.foggycrest91.online CNAME .
 gidonlinehd.online CNAME .
 *.gidonlinehd.online CNAME .
 guardaserie.online CNAME .
@@ -19102,8 +19080,6 @@ deli.sh CNAME .
 *.deli.sh CNAME .
 dood.sh CNAME .
 *.dood.sh CNAME .
-flixer.sh CNAME .
-*.flixer.sh CNAME .
 hdmovie2.sh CNAME .
 *.hdmovie2.sh CNAME .
 t.jaekr.sh CNAME .
@@ -19292,8 +19268,6 @@ egydead.site CNAME .
 *.egydead.site CNAME .
 elamigos.site CNAME .
 *.elamigos.site CNAME .
-embedcanais.site CNAME .
-*.embedcanais.site CNAME .
 europixhd.site CNAME .
 *.europixhd.site CNAME .
 eurostreamings.site CNAME .
@@ -19486,8 +19460,6 @@ casacinema.skin CNAME .
 *.casacinema.skin CNAME .
 cineblog01.skin CNAME .
 *.cineblog01.skin CNAME .
-filmapik.skin CNAME .
-*.filmapik.skin CNAME .
 filmpertutti.skin CNAME .
 *.filmpertutti.skin CNAME .
 forvideo.skin CNAME .
@@ -21934,8 +21906,6 @@ juraganfilm.us CNAME .
 *.juraganfilm.us CNAME .
 keygen.us CNAME .
 *.keygen.us CNAME .
-keysmovie.us CNAME .
-*.keysmovie.us CNAME .
 leflix.us CNAME .
 *.leflix.us CNAME .
 losmovies.us CNAME .
@@ -22374,8 +22344,6 @@ altadefinizionegratis.wiki CNAME .
 *.altadefinizionegratis.wiki CNAME .
 cineby.wiki CNAME .
 *.cineby.wiki CNAME .
-dewpoint34.wiki CNAME .
-*.dewpoint34.wiki CNAME .
 eurostreaming.wiki CNAME .
 *.eurostreaming.wiki CNAME .
 filmpertutti.wiki CNAME .

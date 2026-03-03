@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 17:13 UTC
-# Version: 2026.0302.1713.30
+# Last modified: 03 Mar 2026 05:04 UTC
+# Version: 2026.0303.0504.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 45963
+# Number of entries: 45921
 #
 0-online-casino.us
 000-online-casino.com
@@ -10283,6 +10283,7 @@ cardcasinoonline.sk
 cardcasinos.sk
 cardinaldistrict.net
 cardmates.net
+cardplayer.com
 cardschat.com
 cardwin.sk
 cardwincasino.sk
@@ -10406,6 +10407,7 @@ casillion.com
 casimba.com
 casimbacasino.fi
 casimi.cz
+casimonka.com
 casimoose.ca
 casimpo.com
 casin0.casino
@@ -17052,7 +17054,6 @@ daddy095.casino
 daddy096.casino
 daddy097.casino
 daddy098.casino
-daddy284.casino
 daddy402.casino
 daddy417.casino
 daddy433.casino
@@ -17157,7 +17158,6 @@ daga88z.net
 dagablv.com
 dagae2bet.org
 dagathomo123.com
-dagathomovn.info
 dagatructiep.casino
 dagelancasino55.site
 daggercasino.com
@@ -17169,7 +17169,6 @@ daily-spins-casino.com
 dailybase.com
 dailychilli.com
 dailyforex.com
-dailypoker.fr
 dailypropbets.com
 dailyspins.com
 dailyspins-casino-au.com
@@ -17239,7 +17238,6 @@ databet.ec
 databets.ca
 datacasino.io
 betwayreg.datafree.io
-datajepe.info
 datasciencecongress.com
 datawallet.casino
 datdrop.com
@@ -17565,9 +17563,7 @@ digits7live.com
 dimensionhipica.net
 dimesweeps.com
 dinamobet.com
-dinamobetsitemiz.com
 dinamobetsonadres.com
-dinamobetsrgiris.vip
 dinastipoker.online
 dingcasino-norge.com
 dingcasinobonus.com
@@ -17621,7 +17617,6 @@ dlmanuals.com
 dlx-casinowin.online
 dlxcasino.com
 dm6.casino
-dmcionecastillaplace.com
 dmgbets.com
 dmj.casino
 dmt7pokerdom.com
@@ -17891,8 +17886,6 @@ drgnmn101.casino
 drgnmn142.casino
 drgnmn155.casino
 drgnmn167.casino
-drgnmn295.casino
-drgnmn304.casino
 drgnmn377.casino
 drgnmn39.casino
 drgnmn401.casino
@@ -18016,7 +18009,6 @@ duffybear.fun
 duitslandcasino.nl
 dukescasino.com
 dumanbet.com
-dumanssbets.cfd
 dumbocasino.se
 dundeeslots.com
 dunder.com
@@ -18050,7 +18042,6 @@ dvs.casino
 dwf.casino
 dwnlds.co
 dwtjitu.com
-dy168.club
 dy7.casino
 dynabet-casino-online.nl
 dynabet-casinos.nl
@@ -18079,7 +18070,6 @@ e-lasvegascasinos.com
 e-lotto.be
 e-nevadacasino.com
 e-renocasino.com
-e-seleksi.com
 e-sport24.ru
 e-stave.com
 e16811.com
@@ -18131,7 +18121,6 @@ easyslot.online
 easyslots.com
 easysplashbuilder.net
 easywin.ng
-eatonoh.org
 eatsleepbet.com
 eaxybox.com
 eazegames.com
@@ -18189,7 +18178,6 @@ edgepoker.app
 edgepokerapp.com
 edgesbets.com
 edgewater-casino.com
-edlabohemia.com
 edmconcretecontractors.com
 edo89casino.com
 edsbet.com
@@ -18402,7 +18390,6 @@ eldoslots.buzz
 eldoslots.click
 eldoslots.xyz
 electropolis.es
-elegantexteriorhpl.com
 elegantspins.com
 elevatebets.com
 elexbetsabit.com
@@ -18426,7 +18413,6 @@ elitcasinomailserver1.xyz
 elitcasinon.net
 elitebets.ca
 elitebets.top
-eliteblackjack.fr
 elitecasinoclub.com
 elitecasinoportugal.org
 elitecasinoreview.com
@@ -18561,7 +18547,6 @@ envisioningcards.com
 enwatches.com
 enzabetgiris.bet
 enzocasino.com
-enzogiobbe.com
 eoption.com
 eosvibes.io
 ep88betslot.net
@@ -18843,7 +18828,6 @@ exclusivebeteu.com
 exclusivecasino.com
 exclusivecasinonew.com
 exclusivecasinonodepositbonus.uk
-exerciseorg.com
 exmo.com
 exmo.me
 exmo.money
@@ -18862,7 +18846,6 @@ exploreiraq.com
 expresscasino.com
 expressslots.win
 extbo.com
-extrabets.live
 extragame.it
 extraonlinecasino.com
 extraspel.com
@@ -18965,7 +18948,6 @@ f8bet.casino
 f8bet.com
 f8bet02.online
 f8beta2.com
-f8betht.baby
 f8t.casino
 fa-casino.click
 fa-play.casino
@@ -18978,7 +18960,6 @@ fabet.to
 fabet77.net
 fabets.info
 fabets.live
-fabianasbakery.com
 fablecasino.com
 faceoff.poker
 facilitobet.com
@@ -19039,10 +19020,8 @@ fairspin-casino.app
 fairspin-casino.com
 fairspin-casino-online.com
 fairspin-h.click
-fairspin-hu-bonus.com
 fairspin-io.app
 fairspin-pt.com
-fairspin13.com
 fairspin77.com
 fairspincasino.io
 fairspincasino.life
@@ -19313,7 +19292,6 @@ fi889.com
 fiableslotsfr.com
 fierybet.com
 fiestatoto.com
-figprayer.com
 fil777-casino.com
 filbet.com
 filemirrors.com
@@ -19360,7 +19338,6 @@ first-casino.cc
 firstessayservice.net
 firstgames.in
 firstgold.com
-fischerfeldmanpa.com
 fishandspincasino.net
 fishandspincasino.org
 fishandspins-casino.nl
@@ -19374,7 +19351,6 @@ five-daddycasino.work
 five-fugucasino.com
 five88.biz
 five88.com
-five88.style
 five88.vin
 five88.world
 fivebet.it
@@ -19463,7 +19439,6 @@ floonet.net
 flopparty.poker
 flopturnriver.com
 florajogo.com
-florida-powerlifting.com
 fluffyfavouritesslots.org
 fluffyspins.com
 flukyone.com
@@ -19495,7 +19470,6 @@ folkbet.net
 folkbet.org
 folkbetshow.com
 folkcities.com
-followptlg.com
 fomoslots.com
 fon.bet
 fonbet.by
@@ -19586,7 +19560,6 @@ fortunica92.com
 fortunicacasino-gb.com
 fortunicacasinos-uk.com
 forum-casino.online
-forumcasino.pw
 forvetbet.com
 forzza.com
 forzza1.com
@@ -19647,7 +19620,6 @@ france-abonnements.fr
 france-bonusesfinder.com
 france-pari.fr
 francegalop-live.com
-francismorrone.com
 frank-casino.ltd
 frankcasino.com
 frankcasino.ro
@@ -19709,7 +19681,6 @@ free-study.com
 free100casinophp.online
 free100onlinecasinotph.online
 free100registercasinoph.online
-freeactionscript.com
 freebet.casino
 freebet.ru
 freebetblackjack.net
@@ -19923,11 +19894,9 @@ fugu-casino-du1.top
 fugu-casino-du2.top
 fugu-casino-eas1.top
 fugu-casino-eas2.top
-fugu-casino-eco1.top
 fugu-casino-eco2.top
 fugu-casino-eco3.top
 fugu-casino-econom2.top
-fugu-casino-eksk1.top
 fugu-casino-eksk2.top
 fugu-casino-eksk3.top
 fugu-casino-el.com
@@ -20050,7 +20019,6 @@ fugu-casino-symbio2.top
 fugu-casino-sys.com
 fugu-casino-tel1.top
 fugu-casino-tel2.top
-fugu-casino-telefon1.top
 fugu-casino-top1.com
 fugu-casino-top1.top
 fugu-casino-top2.top
@@ -20115,7 +20083,6 @@ fugu-topslots.com
 fugu-topslots1.top
 fugu-topslots2.top
 fugu-win-casino.top
-fugu12.casino
 fugu1287.casino
 fugu14.casino
 fugu1casino.buzz
@@ -20497,7 +20464,6 @@ galaxyamp.xyz
 galaxyauto.bet
 galaxycasino77.com
 galaxycasinoreg.online
-galaxyemind.com
 galaxyno.com
 galaxynocasino.online
 galaxypig.com
@@ -20528,7 +20494,6 @@ gama-casino-wqc.top
 gama-casino-xkt.top
 gama-casinos-best.online
 gama291.casino
-gama369.casino
 gama703.casino
 gamacasino-668.top
 gamacasino-706.top
@@ -20565,9 +20530,7 @@ gamacasino-ysp.top
 gamacasino-yxp.top
 gamacasino1.site
 gamacasino316.fun
-gamacasino335.com
 gamacasino375.one
-gamacasino379.com
 gamacasino427.fun
 gamacasino687.com
 gamagokil.xyz
@@ -20580,7 +20543,6 @@ gambacasino-us.com
 gambacasinoreg.online
 gambarslotsay.xyz
 gambex.bet
-gambinoscasino.com
 gambinoslot.com
 gambinoslotscasino.com
 gambit999.bet
@@ -20608,7 +20570,6 @@ gambleguys.com
 gamblehouse.org
 gambleinsights.com
 gamblejoe.com
-gambleleva.xyz
 gamblenexus.com
 gambleonline.co
 gambleonlineforrealmoneyusa.com
@@ -20964,18 +20925,15 @@ geodecasino.com
 geodecasino.info
 geoff-banks.com
 geoffbanks.bet
-geokoncept.com
 geoquacker.com
 george-east-france.com
 georgiagamblinghelp.org
 gepcasino.com
-german-lyrics.com
 germancasino.site
 germaniasport.hr
 germany-casino.com
 germanycasinos.site
 germanyfixedbets.com
-gestaopagamentosatualizaebaixafinancasinovasimplesi.shop
 get-bets.com
 get-lucky-casino1.nl
 get-lucky-casino7.nl
@@ -24242,7 +24200,6 @@ jilislotsfree100.online
 jilislotsfree100t3ph.online
 jilislotslegit777casino.online
 jilivs.cloud
-jillsclickcorner.com
 jlphotographies.jimdofree.com
 1xbet-9.jimdosite.com
 jimdrain.com
@@ -29342,6 +29299,7 @@ moana-casino.bet
 moana-casino-fi.com
 moanacasino.pt
 moanacasino-finland.com
+moanacasino16.com
 moatcasino.com
 moatcasino.info
 moatcasino.link

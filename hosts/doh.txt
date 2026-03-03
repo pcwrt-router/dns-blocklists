@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 17:21 UTC
-# Version: 2026.0302.1721.03
+# Last modified: 03 Mar 2026 05:10 UTC
+# Version: 2026.0303.0510.49
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3952
+# Number of entries: 3946
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1045,7 +1045,6 @@
 0.0.0.0 f4ckdns.dl4mt.dev
 0.0.0.0 dns.dlinders.nl
 0.0.0.0 home.dlinkddns.com
-0.0.0.0 d.dnns.fun
 0.0.0.0 dns.expert
 0.0.0.0 dns.google
 0.0.0.0 dns.pub
@@ -1341,7 +1340,6 @@
 0.0.0.0 uk-lon.doh.sb
 0.0.0.0 www.doh.xyz
 0.0.0.0 domain.name
-0.0.0.0 adguard.domorome.wf
 0.0.0.0 dnsfilter.domotik.us
 0.0.0.0 doh.domreg.lt
 0.0.0.0 takhtakh.domyah.net
@@ -1388,7 +1386,6 @@
 0.0.0.0 yukito.duanzx.top
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardcalpena.duckdns.org
-0.0.0.0 adguardpi.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
@@ -1491,7 +1488,6 @@
 0.0.0.0 doh.eieidns.com
 0.0.0.0 adguard.eischmann.cz
 0.0.0.0 ejaysss.dev
-0.0.0.0 adguard.elashri.xyz
 0.0.0.0 dd.elashri.net
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.electrotm.org
@@ -1602,7 +1598,6 @@
 0.0.0.0 dns.farshidhakimy.de
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 adh.fastpacefixit.info
-0.0.0.0 adguard.fatu.systems
 0.0.0.0 adguardhome.favrep.ovh
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
@@ -1622,7 +1617,6 @@
 0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 fimoshinckaya-federation.site
-0.0.0.0 vm3421302.firstbyte.club
 0.0.0.0 adg.fiyaajans.com
 0.0.0.0 dns.fizz.studio
 0.0.0.0 resolve.fknw.de

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 17:21 UTC
-# Version: 2026.0302.1721.03
+# Last modified: 03 Mar 2026 05:10 UTC
+# Version: 2026.0303.0510.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3478
+# Number of entries: 3472
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -880,7 +880,6 @@ local=/adguard.diylab.in/
 local=/f4ckdns.dl4mt.dev/
 local=/dns.dlinders.nl/
 local=/home.dlinkddns.com/
-local=/d.dnns.fun/
 local=/dns.expert/
 local=/dns.google/
 local=/dns.pub/
@@ -1131,7 +1130,6 @@ local=/doh.pub/
 local=/doh.sb/
 local=/doh.xyz/
 local=/domain.name/
-local=/adguard.domorome.wf/
 local=/dnsfilter.domotik.us/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
@@ -1161,7 +1159,6 @@ local=/dns.dualhosting.eu/
 local=/yukito.duanzx.top/
 local=/adgrm.duckdns.org/
 local=/adguardcalpena.duckdns.org/
-local=/adguardpi.duckdns.org/
 local=/andryk111.duckdns.org/
 local=/andrykarcew.duckdns.org/
 local=/armm.duckdns.org/
@@ -1263,7 +1260,6 @@ local=/vpn.egorrko.ru/
 local=/doh.eieidns.com/
 local=/adguard.eischmann.cz/
 local=/ejaysss.dev/
-local=/adguard.elashri.xyz/
 local=/dd.elashri.net/
 local=/hole.elbschloss.xyz/
 local=/dns.electrotm.org/
@@ -1366,7 +1362,6 @@ local=/farewellkou.click/
 local=/dns.farshidhakimy.de/
 local=/dns.farshmc.ru/
 local=/adh.fastpacefixit.info/
-local=/adguard.fatu.systems/
 local=/adguardhome.favrep.ovh/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
@@ -1386,7 +1381,6 @@ local=/fidelius.top/
 local=/dns.fifux.be/
 local=/dns.filipccz.eu/
 local=/fimoshinckaya-federation.site/
-local=/vm3421302.firstbyte.club/
 local=/adg.fiyaajans.com/
 local=/dns.fizz.studio/
 local=/resolve.fknw.de/

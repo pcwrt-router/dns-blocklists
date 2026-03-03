@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 16:32 UTC
-# Version: 2026.0302.1632.14
+# Last modified: 03 Mar 2026 04:21 UTC
+# Version: 2026.0303.0421.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1281
+# Number of entries: 1279
 #
 local=/000a.de/
 local=/000space.com/
@@ -546,14 +546,12 @@ local=/f11.us/
 local=/familylobby.com/
 local=/fast-page.org/
 local=/fat-fly.com/
-local=/fateback.com/
 local=/fb-business.com/
 local=/fcpages.com/
 local=/ferreracademy.com/
 local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
-local=/findarea.shop/
 local=/firearms.com/
 local=/firm.nu/
 local=/fitnell.com/

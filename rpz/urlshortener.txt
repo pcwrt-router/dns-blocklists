@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772467140 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772509680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Mar 2026 15:59 UTC
-; Version: 2026.0302.1559.50
+; Last modified: 03 Mar 2026 03:48 UTC
+; Version: 2026.0303.0348.27
 ; Syntax: RPZ
-; Number of entries: 19948
+; Number of entries: 19924
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4071,8 +4071,6 @@ descontosachados.com CNAME .
 *.descontosachados.com CNAME .
 descuentoahora.com CNAME .
 *.descuentoahora.com CNAME .
-deshtvbd.com CNAME .
-*.deshtvbd.com CNAME .
 designrigs.com CNAME .
 *.designrigs.com CNAME .
 wwww.destockdrive.com CNAME .
@@ -4237,8 +4235,6 @@ eiwebs.com CNAME .
 *.eiwebs.com CNAME .
 el1nk.com CNAME .
 *.el1nk.com CNAME .
-el32.com CNAME .
-*.el32.com CNAME .
 elfdirect.com CNAME .
 *.elfdirect.com CNAME .
 eliasbrickner.com CNAME .
@@ -4349,8 +4345,6 @@ linksmanager.fivedollarsaas.com CNAME .
 *.linksmanager.fivedollarsaas.com CNAME .
 fjr24.com CNAME .
 *.fjr24.com CNAME .
-fl-y.com CNAME .
-*.fl-y.com CNAME .
 flameurl.com CNAME .
 *.flameurl.com CNAME .
 flashwombat.com CNAME .
@@ -4377,8 +4371,6 @@ flyurls.com CNAME .
 *.flyurls.com CNAME .
 fneezet.com CNAME .
 *.fneezet.com CNAME .
-fnleasing.com CNAME .
-*.fnleasing.com CNAME .
 fnoogy.com CNAME .
 *.fnoogy.com CNAME .
 fondby.com CNAME .
@@ -9861,8 +9853,6 @@ g-web.in CNAME .
 *.g-web.in CNAME .
 gejje.in CNAME .
 *.gejje.in CNAME .
-geti.in CNAME .
-*.geti.in CNAME .
 getshort.in CNAME .
 *.getshort.in CNAME .
 gigaz.in CNAME .
@@ -11327,8 +11317,6 @@ ebbco.ir CNAME .
 *.ebbco.ir CNAME .
 ee9.ir CNAME .
 *.ee9.ir CNAME .
-elmnp.ir CNAME .
-*.elmnp.ir CNAME .
 fna.ir CNAME .
 *.fna.ir CNAME .
 go2l.ir CNAME .
@@ -12549,8 +12537,6 @@ digily.link CNAME .
 *.digily.link CNAME .
 disini.link CNAME .
 *.disini.link CNAME .
-ditt.link CNAME .
-*.ditt.link CNAME .
 dl-protect.link CNAME .
 *.dl-protect.link CNAME .
 docthem.link CNAME .
@@ -13961,8 +13947,6 @@ eslite.me CNAME .
 *.eslite.me CNAME .
 etsy.me CNAME .
 *.etsy.me CNAME .
-eyq.me CNAME .
-*.eyq.me CNAME .
 ezbio.me CNAME .
 *.ezbio.me CNAME .
 ezbz.me CNAME .
@@ -15597,8 +15581,6 @@ zsms.net CNAME .
 *.zsms.net CNAME .
 zxq.net CNAME .
 *.zxq.net CNAME .
-web3.destore.network CNAME .
-*.web3.destore.network CNAME .
 git.new CNAME .
 *.git.new CNAME .
 aawsat.news CNAME .
@@ -17367,8 +17349,6 @@ wft.sa CNAME .
 *.wft.sa CNAME .
 wi.sa CNAME .
 *.wi.sa CNAME .
-doods.sbs CNAME .
-*.doods.sbs CNAME .
 retireetravelcare.sbs CNAME .
 *.retireetravelcare.sbs CNAME .
 shortlink.sbs CNAME .
@@ -18085,8 +18065,6 @@ amz.tf CNAME .
 *.amz.tf CNAME .
 drop.tf CNAME .
 *.drop.tf CNAME .
-f1.tf CNAME .
-*.f1.tf CNAME .
 fsv.tf CNAME .
 *.fsv.tf CNAME .
 ohw.tf CNAME .
@@ -19787,8 +19765,6 @@ ctos.xyz CNAME .
 *.ctos.xyz CNAME .
 cutturl.xyz CNAME .
 *.cutturl.xyz CNAME .
-demoxpress.xyz CNAME .
-*.demoxpress.xyz CNAME .
 docremedio.xyz CNAME .
 *.docremedio.xyz CNAME .
 editricity.xyz CNAME .

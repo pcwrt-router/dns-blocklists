@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Mar 2026 17:14 UTC
-! Version: 2026.0302.1714.07
+! Last modified: 03 Mar 2026 05:04 UTC
+! Version: 2026.0303.0504.55
 ! Syntax: AdBlock
-! Number of entries: 11661
+! Number of entries: 11645
 !
 ||tracker.guguan.000.pe^
 ||003396815.xyz^
@@ -2487,7 +2487,6 @@
 ||ddl2.ws^
 ||ddlbase.com^
 ||ddlbase.net^
-||ddlcenter.com^
 ||ddlicious.com^
 ||ddlsite.com^
 ||ddlspot.com^
@@ -2568,7 +2567,6 @@
 ||deviloid.net^
 ||devops.gay^
 ||devuploads.com^
-||dewpoint34.wiki^
 ||dexapk.com^
 ||dezflight-underground.com^
 ||dfast.app^
@@ -2730,7 +2728,6 @@
 ||dontorrents.org^
 ||dood.ac^
 ||dood.al^
-||dood.am^
 ||dood.art^
 ||dood.at^
 ||dood.bar^
@@ -2755,7 +2752,6 @@
 ||dood.fun^
 ||dood.guru^
 ||dood.host^
-||dood.icu^
 ||dood.ink^
 ||dood.la^
 ||dood.li^
@@ -2764,7 +2760,6 @@
 ||dood.lt^
 ||dood.ltd^
 ||dood.meme^
-||dood.mov^
 ||dood.mx^
 ||dood.net^
 ||dood.news^
@@ -2912,7 +2907,6 @@
 ||dramaqu.beauty^
 ||dramaqu.cloud^
 ||dramaqu.digital^
-||dramaqu.info^
 ||dramaqu.live^
 ||dramaqu.me^
 ||dramaqu.net^
@@ -2959,7 +2953,6 @@
 ||tracker.ducks.party^
 ||duckwad.net^
 ||dummipedia.org^
-||dunia21.bid^
 ||dunia21.cc^
 ||dunia21.download^
 ||dunia21.me^
@@ -3095,7 +3088,6 @@
 ||elitetorrent1.com^
 ||elsewhere.org^
 ||emaczone.com^
-||embedcanais.site^
 ||embedflix.net^
 ||embedhd.org^
 ||embedtv.best^
@@ -3375,7 +3367,6 @@
 ||eztvstatus.net^
 ||eztvx.to^
 ||f123movies.com^
-||f1box.me^
 ||f1fullraces.com^
 ||f1sh.de^
 ||f2movie.co^
@@ -3533,7 +3524,6 @@
 ||filmapik.network^
 ||filmapik.services^
 ||filmapik.singles^
-||filmapik.skin^
 ||filmapik.social^
 ||filmapik.study^
 ||filmapik.taxi^
@@ -3625,7 +3615,6 @@
 ||filmsenzalimite.one^
 ||filmsenzalimiti.blog^
 ||filmsenzalimiti.co^
-||filmsenzalimiti.com^
 ||filmsenzalimiti.cool^
 ||filmsenzalimiti.eu^
 ||filmsenzalimiti.fm^
@@ -3727,7 +3716,6 @@
 ||firesticktricks.com^
 ||firstrow.co^
 ||firstrow1.xyz^
-||firstrowsport.eu^
 ||firstrowsport.org^
 ||firstsrows.net^
 ||firstsrowsports.tv^
@@ -3764,7 +3752,6 @@
 ||flixanity.site^
 ||flixanity.xyz^
 ||flixdump.com^
-||flixer.sh^
 ||flixgo.biz^
 ||flixgo.net^
 ||flixhd.cc^
@@ -3851,7 +3838,6 @@
 ||focusflix.com^
 ||focusonlinectg.com^
 ||foff.ru^
-||foggycrest91.online^
 ||foggystream.com^
 ||fogtwist21.xyz^
 ||fonoon.org^
@@ -4037,7 +4023,6 @@
 ||one.fsphost.com^
 ||fstream.info^
 ||fstream.net^
-||ftflix.com^
 ||ftp.pet^
 ||ftp2web.com^
 ||ftpbd.net^
@@ -5448,7 +5433,6 @@
 ||keygens.nl^
 ||keygens.pro^
 ||keysfull.com^
-||keysmovie.us^
 ||kgnd3k6x.com^
 ||khinsider.com^
 ||khmermovie168.org^

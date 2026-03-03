@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Mar 2026 15:59 UTC
-# Version: 2026.0302.1559.50
+# Last modified: 03 Mar 2026 03:48 UTC
+# Version: 2026.0303.0348.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9974
+# Number of entries: 9962
 #
 local=/0.gp/
 local=/00m.in/
@@ -2208,17 +2208,14 @@ local=/demcon24.com/
 local=/asset.deme-group.com/
 local=/qr.democame.pe/
 local=/demolink.net/
-local=/demoxpress.xyz/
 local=/dems.me/
 local=/depedzn.net/
 local=/descontosachados.com/
 local=/descuentoahora.com/
-local=/deshtvbd.com/
 local=/designcommerce.agency/
 local=/designrigs.com/
 local=/desin.me/
 local=/wwww.destockdrive.com/
-local=/web3.destore.network/
 local=/detonnot.com/
 local=/qr.dev.eg/
 local=/s.devh.in/
@@ -2279,7 +2276,6 @@ local=/discvr.co/
 local=/disini.link/
 local=/disq.us/
 local=/link.dith2.com/
-local=/ditt.link/
 local=/dive.pub/
 local=/diversionink.com/
 local=/divsly.com/
@@ -2329,7 +2325,6 @@ local=/domainul.com/
 local=/domi.link/
 local=/domixox.com/
 local=/domlink.ink/
-local=/doods.sbs/
 local=/doodsty.fun/
 local=/doonor.com/
 local=/dopice.sk/
@@ -2549,7 +2544,6 @@ local=/ekotex.link/
 local=/el.lk/
 local=/el.ly/
 local=/el1nk.com/
-local=/el32.com/
 local=/ela.st/
 local=/elaxima.pro/
 local=/elfdirect.com/
@@ -2559,7 +2553,6 @@ local=/elivr.in/
 local=/ellastern.live/
 local=/elle.re/
 local=/ellemag.co/
-local=/elmnp.ir/
 local=/elokapina.link/
 local=/link.elos.vc/
 local=/elrsx.com/
@@ -2662,7 +2655,6 @@ local=/exitl.ag/
 local=/expl.scot/
 local=/exploreosv.com/
 local=/exx.us/
-local=/eyq.me/
 local=/eys.li/
 local=/ez1.cc/
 local=/ezbio.me/
@@ -2685,7 +2677,6 @@ local=/f-ast.me/
 local=/f-internal.info/
 local=/f-n.link/
 local=/f0rk.in/
-local=/f1.tf/
 local=/f1m.in/
 local=/f1mate.com/
 local=/f24.link/
@@ -2792,7 +2783,6 @@ local=/linksmanager.fivedollarsaas.com/
 local=/fixi.me/
 local=/fiy.no/
 local=/fjr24.com/
-local=/fl-y.com/
 local=/flameurl.com/
 local=/flashsc.re/
 local=/flashwombat.com/
@@ -2840,7 +2830,6 @@ local=/fnb.ink/
 local=/fnb.lc/
 local=/fndry.ch/
 local=/fneezet.com/
-local=/fnleasing.com/
 local=/fnoogy.com/
 local=/fnord.eu/
 local=/fnote.it/
@@ -3021,7 +3010,6 @@ local=/getbitly.pro/
 local=/getblue.me/
 local=/getcode.pw/
 local=/getf.ly/
-local=/geti.in/
 local=/getlasso.co/
 local=/getlickd.com/
 local=/getlink.space/

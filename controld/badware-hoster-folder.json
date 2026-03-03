@@ -3690,13 +3690,6 @@
       }
     },
     {
-      "PK": "fateback.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "fb-business.com",
       "action": {
         "do": 0,
@@ -3733,13 +3726,6 @@
     },
     {
       "PK": "financecryptoworld.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "findarea.shop",
       "action": {
         "do": 0,
         "status": 1
