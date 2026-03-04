@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772617380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772660280 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Mar 2026 09:43 UTC
-; Version: 2026.0304.0943.39
+; Last modified: 04 Mar 2026 21:38 UTC
+; Version: 2026.0304.2138.17
 ; Syntax: RPZ
-; Number of entries: 19870
+; Number of entries: 19840
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1731,6 +1731,8 @@ mybiz.cc CNAME .
 *.mybiz.cc CNAME .
 myppt.cc CNAME .
 *.myppt.cc CNAME .
+myshorturl.cc CNAME .
+*.myshorturl.cc CNAME .
 mytd.cc CNAME .
 *.mytd.cc CNAME .
 neti.cc CNAME .
@@ -2895,8 +2897,6 @@ spify.co CNAME .
 *.spify.co CNAME .
 spigen.co CNAME .
 *.spigen.co CNAME .
-spkm.co CNAME .
-*.spkm.co CNAME .
 sqr.co CNAME .
 *.sqr.co CNAME .
 srtnr.co CNAME .
@@ -6379,8 +6379,6 @@ shortezy.com CNAME .
 *.shortezy.com CNAME .
 shortfake.com CNAME .
 *.shortfake.com CNAME .
-shortifyapi.com CNAME .
-*.shortifyapi.com CNAME .
 shortifylinks.com CNAME .
 *.shortifylinks.com CNAME .
 shortifyme.com CNAME .
@@ -6641,8 +6639,6 @@ snplink.com CNAME .
 *.snplink.com CNAME .
 snurl.com CNAME .
 *.snurl.com CNAME .
-soberv.com CNAME .
-*.soberv.com CNAME .
 socialadcamp.com CNAME .
 *.socialadcamp.com CNAME .
 socilinkr.com CNAME .
@@ -6667,8 +6663,6 @@ spdurl.com CNAME .
 *.spdurl.com CNAME .
 spedr.com CNAME .
 *.spedr.com CNAME .
-speedyshort.com CNAME .
-*.speedyshort.com CNAME .
 spidyurl.com CNAME .
 *.spidyurl.com CNAME .
 link.spirofly.com CNAME .
@@ -6849,8 +6843,6 @@ tellurl.com CNAME .
 *.tellurl.com CNAME .
 www.temporary-url.com CNAME .
 *.www.temporary-url.com CNAME .
-teraboxlinx.com CNAME .
-*.teraboxlinx.com CNAME .
 terashort.com CNAME .
 *.terashort.com CNAME .
 terijoss.com CNAME .
@@ -8293,8 +8285,6 @@ qb.dk CNAME .
 *.qb.dk CNAME .
 qo.dk CNAME .
 *.qo.dk CNAME .
-short-url.dk CNAME .
-*.short-url.dk CNAME .
 snurl.dk CNAME .
 *.snurl.dk CNAME .
 vialink.dk CNAME .
@@ -10035,8 +10025,6 @@ rwps.in CNAME .
 *.rwps.in CNAME .
 s4w.in CNAME .
 *.s4w.in CNAME .
-savg.in CNAME .
-*.savg.in CNAME .
 scts.in CNAME .
 *.scts.in CNAME .
 sd7.in CNAME .
@@ -10383,8 +10371,6 @@ shortl.info CNAME .
 *.shortl.info CNAME .
 shrinkme.info CNAME .
 *.shrinkme.info CNAME .
-sidework-click.info CNAME .
-*.sidework-click.info CNAME .
 soumtrack.info CNAME .
 *.soumtrack.info CNAME .
 sowiss.info CNAME .
@@ -12295,10 +12281,6 @@ nalo.life CNAME .
 *.nalo.life CNAME .
 phaiphai.life CNAME .
 *.phaiphai.life CNAME .
-redditp2pcredit.life CNAME .
-*.redditp2pcredit.life CNAME .
-redditsp2pcredit.life CNAME .
-*.redditsp2pcredit.life CNAME .
 tamthangnam.life CNAME .
 *.tamthangnam.life CNAME .
 taythi.life CNAME .
@@ -13253,8 +13235,6 @@ premierbet.live CNAME .
 *.premierbet.live CNAME .
 protogen.live CNAME .
 *.protogen.live CNAME .
-redditsp2pcredit.live CNAME .
-*.redditsp2pcredit.live CNAME .
 rouletteonline.live CNAME .
 *.rouletteonline.live CNAME .
 securelink.live CNAME .
@@ -15199,6 +15179,8 @@ linkshrink.net CNAME .
 *.linkshrink.net CNAME .
 linksubmit.net CNAME .
 *.linksubmit.net CNAME .
+linkswave.net CNAME .
+*.linkswave.net CNAME .
 linktgd.net CNAME .
 *.linktgd.net CNAME .
 linktoearn.net CNAME .
@@ -15361,8 +15343,6 @@ shorteners.net CNAME .
 *.shorteners.net CNAME .
 shortenly.net CNAME .
 *.shortenly.net CNAME .
-shorterly.net CNAME .
-*.shorterly.net CNAME .
 shorterurl.net CNAME .
 *.shorterurl.net CNAME .
 shortey.net CNAME .
@@ -16717,8 +16697,6 @@ rajaolympus.pro CNAME .
 *.rajaolympus.pro CNAME .
 rbxurl.pro CNAME .
 *.rbxurl.pro CNAME .
-rebrandly.pro CNAME .
-*.rebrandly.pro CNAME .
 bio.rocketapps.pro CNAME .
 *.bio.rocketapps.pro CNAME .
 s-url.pro CNAME .
@@ -16729,8 +16707,6 @@ shortedge.pro CNAME .
 *.shortedge.pro CNAME .
 shorten.pro CNAME .
 *.shorten.pro CNAME .
-shortfy.pro CNAME .
-*.shortfy.pro CNAME .
 shortify.pro CNAME .
 *.shortify.pro CNAME .
 shortsy.pro CNAME .
@@ -17697,8 +17673,6 @@ di.sn CNAME .
 *.di.sn CNAME .
 jame.sn CNAME .
 *.jame.sn CNAME .
-sho.sn CNAME .
-*.sho.sn CNAME .
 985.so CNAME .
 *.985.so CNAME .
 aces.so CNAME .
@@ -18907,8 +18881,6 @@ shorti.uk CNAME .
 *.shorti.uk CNAME .
 shortlink.uk CNAME .
 *.shortlink.uk CNAME .
-skysss.uk CNAME .
-*.skysss.uk CNAME .
 tnflink.uk CNAME .
 *.tnflink.uk CNAME .
 tnij.uk CNAME .
@@ -19481,8 +19453,6 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
-titok.website CNAME .
-*.titok.website CNAME .
 yourls.website CNAME .
 *.yourls.website CNAME .
 03.wf CNAME .

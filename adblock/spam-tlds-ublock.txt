@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Feb 2026 22:48 UTC
-! Version: 2026.0228.2248.48
+! Last modified: 04 Mar 2026 23:09 UTC
+! Version: 2026.0304.2309.30
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -91,7 +91,7 @@
 ||dog^$doc,domain=~chainsawman.dog|~heika.dog|~misskey.dog|~telegram.dog
 ||download^$doc,domain=~caido.download|~kali.download|~mkvtoolnix.download|~orangefox.download|~up4ever.download|~upfiles.download
 ||dpdns.org^$doc
-||eco^$doc,domain=~elli.eco|~mer.eco|~play.eco
+||eco^$doc,domain=~auk.eco|~elli.eco|~mer.eco|~play.eco
 ||edu.eu^$doc
 ||engineer^$doc
 ||enterprises^$doc

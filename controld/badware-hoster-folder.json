@@ -6966,13 +6966,6 @@
       }
     },
     {
-      "PK": "shohu.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "shop-pro.jp",
       "action": {
         "do": 0,
@@ -7268,13 +7261,6 @@
     },
     {
       "PK": "sv.gp",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "svsy.my",
       "action": {
         "do": 0,
         "status": 1

@@ -407,6 +407,13 @@
       }
     },
     {
+      "PK": "auk.eco",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "autoads.asia",
       "action": {
         "do": 1,

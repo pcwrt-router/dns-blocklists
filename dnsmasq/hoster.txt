@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 10:17 UTC
-# Version: 2026.0304.1017.39
+# Last modified: 04 Mar 2026 22:08 UTC
+# Version: 2026.0304.2208.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1274
+# Number of entries: 1272
 #
 local=/000a.de/
 local=/000space.com/
@@ -1013,7 +1013,6 @@ local=/service.lc/
 local=/share.lc/
 local=/sharkserve.com/
 local=/shivtr.com/
-local=/shohu.shop/
 local=/shop.co/
 local=/shop.fm/
 local=/shop-pro.jp/
@@ -1055,7 +1054,6 @@ local=/suchtis.de/
 local=/superweb.ws/
 local=/surge.sh/
 local=/sv.gp/
-local=/svsy.my/
 local=/sweb.cz/
 local=/sxx.in/
 local=/synergize.co/

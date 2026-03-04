@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 09:43 UTC
-# Version: 2026.0304.0943.39
+# Last modified: 04 Mar 2026 21:38 UTC
+# Version: 2026.0304.2138.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 9935
+# Number of entries: 9920
 #
 0.gp
 00m.in
@@ -4581,6 +4581,7 @@ linksubmit.net
 linksumo.com
 linksvid.com
 linksvip.one
+linkswave.net
 linkt.ink
 linktexas.info
 linktgd.com
@@ -5373,6 +5374,7 @@ mysexychat.live
 myshopurl.com
 myshortlink.info
 myshortlink.net
+myshorturl.cc
 myshorturl.link
 myshorturls.com
 myshrinker.com
@@ -6477,7 +6479,6 @@ rebrand.lol
 rebrand.ly
 rebrand.pw
 rebrandly.com
-rebrandly.pro
 rec-law.us
 bio.recards.net
 reco.to
@@ -6489,9 +6490,6 @@ red.ht
 redaz.in
 purl.redcross.ca
 redditlink.org
-redditp2pcredit.life
-redditsp2pcredit.life
-redditsp2pcredit.live
 redilify.com
 redir.ec
 redir.fr
@@ -6774,7 +6772,6 @@ savegdrive.com
 savelnk.com
 savetext.us
 savetub.com
-savg.in
 savmrl.it
 savyour.app
 say.it
@@ -6981,7 +6978,6 @@ shmz.me
 sho.ae
 sho.cat
 sho.pe
-sho.sn
 shoco.one
 shoort.ch
 shoort.io
@@ -7020,7 +7016,6 @@ short-link.net
 short-ly.co
 short-me.me
 short-url.co
-short-url.dk
 short-url.link
 short-url.org
 short-url.run
@@ -7103,21 +7098,18 @@ shorterflix.com
 shorterin.com
 shorterit.com
 shorterlink.app
-shorterly.net
 shorterurl.net
 shortest.link
 shortey.net
 shortezy.com
 shortfake.com
 shortfree.link
-shortfy.pro
 shortgo.me
 shorti.me
 shorti.uk
 shortico.in
 shortie.io
 shortify.pro
-shortifyapi.com
 shortifylinks.com
 shortifyme.com
 shortin.asia
@@ -7373,7 +7365,6 @@ sibly.ir
 sic.onl
 sicax.net
 sicepat.link
-sidework-click.info
 sidji.link
 sie.ag
 sieduc.digital
@@ -7449,7 +7440,6 @@ skunk.im
 sky.si
 skyclad.me
 skye.to
-skysss.uk
 skyurl.cc
 sl0.us
 sl4.me
@@ -7598,7 +7588,6 @@ snurl.dk
 snyk.co
 so.arte
 so0o.cn
-soberv.com
 soc.cr
 soch.us
 socialadcamp.com
@@ -7644,7 +7633,6 @@ spdee.com
 spdurl.com
 spectre.work
 spedr.com
-speedyshort.com
 spgrp.sg
 spicc.io
 spid.io
@@ -7654,7 +7642,6 @@ spify.co
 spigen.co
 link.spirofly.com
 spk.st
-spkm.co
 splashurl.com
 split.to
 splitterhq.com
@@ -8000,7 +7987,6 @@ ter.li
 terabox.in
 terabox.pw
 teraboxl.cloud
-teraboxlinx.com
 terakki.link
 terasherelinks.site
 terashort.com
@@ -8222,7 +8208,6 @@ titan.is
 titaniumlinks.com
 titleagentmarketing.com
 titly.pro
-titok.website
 tiurl.link
 tiy.be
 tj.wtf

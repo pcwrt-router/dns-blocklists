@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772622420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772665560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Mar 2026 11:07 UTC
-; Version: 2026.0304.1107.52
+; Last modified: 04 Mar 2026 23:06 UTC
+; Version: 2026.0304.2306.10
 ; Syntax: RPZ
-; Number of entries: 32436
+; Number of entries: 32372
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -43,8 +43,6 @@ nodepay.ai CNAME .
 *.nodepay.ai CNAME .
 riftvpn.ai CNAME .
 *.riftvpn.ai CNAME .
-alexclauhslikeslittlekids.rinet.ai CNAME .
-*.alexclauhslikeslittlekids.rinet.ai CNAME .
 iei---trumpet.rinet.ai CNAME .
 *.iei---trumpet.rinet.ai CNAME .
 school.learning.coding.easy.ixl.rinet.ai CNAME .
@@ -551,8 +549,6 @@ evilevil.rocketyoga.ar CNAME .
 *.evilevil.rocketyoga.ar CNAME .
 wow.rocketyoga.ar CNAME .
 *.wow.rocketyoga.ar CNAME .
-chickenstar-is-so-niche.sidney.ar CNAME .
-*.chickenstar-is-so-niche.sidney.ar CNAME .
 lumi.soloxhoy.ar CNAME .
 *.lumi.soloxhoy.ar CNAME .
 madeby-vcsa.soloxhoy.ar CNAME .
@@ -2341,16 +2337,10 @@ rammed-head.redjoc.cl CNAME .
 *.rammed-head.redjoc.cl CNAME .
 authclever.relaxingco.cl CNAME .
 *.authclever.relaxingco.cl CNAME .
-boiiii.relaxingco.cl CNAME .
-*.boiiii.relaxingco.cl CNAME .
 chatham5ch00ls.relaxingco.cl CNAME .
 *.chatham5ch00ls.relaxingco.cl CNAME .
-edtrgyuihjokpjih5d4s.relaxingco.cl CNAME .
-*.edtrgyuihjokpjih5d4s.relaxingco.cl CNAME .
 edu.relaxingco.cl CNAME .
 *.edu.relaxingco.cl CNAME .
-erdtfuyguhij.relaxingco.cl CNAME .
-*.erdtfuyguhij.relaxingco.cl CNAME .
 login.relaxingco.cl CNAME .
 *.login.relaxingco.cl CNAME .
 login-ixl.relaxingco.cl CNAME .
@@ -11849,8 +11839,6 @@ rotvpn.com CNAME .
 *.rotvpn.com CNAME .
 route7890.com CNAME .
 *.route7890.com CNAME .
-rapidcalc.rpvf.com CNAME .
-*.rapidcalc.rpvf.com CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
 ru-bropay.com CNAME .
@@ -11961,8 +11949,6 @@ wiki.schooloqy.com CNAME .
 *.wiki.schooloqy.com CNAME .
 schoolwebproxy.com CNAME .
 *.schoolwebproxy.com CNAME .
-schooxy.com CNAME .
-*.schooxy.com CNAME .
 sciencevictory.com CNAME .
 *.sciencevictory.com CNAME .
 programming.scmdatasolution.com CNAME .
@@ -12053,12 +12039,6 @@ server3233.com CNAME .
 *.server3233.com CNAME .
 serverhoya.com CNAME .
 *.serverhoya.com CNAME .
-karvneti.servernux.com CNAME .
-*.karvneti.servernux.com CNAME .
-nirbytesproxyxhshdow.servernux.com CNAME .
-*.nirbytesproxyxhshdow.servernux.com CNAME .
-nirbytesxshadow.servernux.com CNAME .
-*.nirbytesxshadow.servernux.com CNAME .
 please-send-help-im-not-safe.servernux.com CNAME .
 *.please-send-help-im-not-safe.servernux.com CNAME .
 ikeepgooning.serverpit.com CNAME .
@@ -12235,8 +12215,6 @@ adguard.shoupperuser.com CNAME .
 *.adguard.shoupperuser.com CNAME .
 tuffmango.edu.showmyhomes.com CNAME .
 *.tuffmango.edu.showmyhomes.com CNAME .
-asjhhbjhxjhbx.shrpnt.com CNAME .
-*.asjhhbjhxjhbx.shrpnt.com CNAME .
 shuttlemath.com CNAME .
 *.shuttlemath.com CNAME .
 shuttleproxy.com CNAME .
@@ -12333,8 +12311,6 @@ signup.soapclient.com CNAME .
 *.signup.soapclient.com CNAME .
 soax.com CNAME .
 *.soax.com CNAME .
-cooldude123.sociedadelcubo.com CNAME .
-*.cooldude123.sociedadelcubo.com CNAME .
 socksproxychecker.com CNAME .
 *.socksproxychecker.com CNAME .
 www-proxy.sodemc.com CNAME .
@@ -12355,8 +12331,6 @@ soundwaveearbuds.com CNAME .
 *.soundwaveearbuds.com CNAME .
 sourceproxy.com CNAME .
 *.sourceproxy.com CNAME .
-if-you-block-this.youre-gay.southforkfd.com CNAME .
-*.if-you-block-this.youre-gay.southforkfd.com CNAME .
 area.level.southtrestle.com CNAME .
 *.area.level.southtrestle.com CNAME .
 fyi.ishan-m.likes.anvita.spacejamhd.com CNAME .
@@ -12441,8 +12415,6 @@ tess.sr3z.com CNAME .
 *.tess.sr3z.com CNAME .
 unix.sr3z.com CNAME .
 *.unix.sr3z.com CNAME .
-doh.srv00.com CNAME .
-*.doh.srv00.com CNAME .
 ss-cdn.com CNAME .
 *.ss-cdn.com CNAME .
 ssarea.com CNAME .
@@ -12771,8 +12743,6 @@ talesfiction.com CNAME .
 *.talesfiction.com CNAME .
 talk2m.com CNAME .
 *.talk2m.com CNAME .
-lyndonwoohoo.taltonwalker.com CNAME .
-*.lyndonwoohoo.taltonwalker.com CNAME .
 tanzcloud.com CNAME .
 *.tanzcloud.com CNAME .
 tanzcloudjc.com CNAME .
@@ -12941,8 +12911,6 @@ gogurdianw9e7disjw3iehei.thepresenttraveller.com CNAME .
 *.gogurdianw9e7disjw3iehei.thepresenttraveller.com CNAME .
 learnvcsa.thepresenttraveller.com CNAME .
 *.learnvcsa.thepresenttraveller.com CNAME .
-travelingagent.thepresenttraveller.com CNAME .
-*.travelingagent.thepresenttraveller.com CNAME .
 traveltheworld.thepresenttraveller.com CNAME .
 *.traveltheworld.thepresenttraveller.com CNAME .
 theproxy2.com CNAME .
@@ -16811,8 +16779,6 @@ sciences.onnemaa.ee CNAME .
 *.sciences.onnemaa.ee CNAME .
 family.sinuabi.ee CNAME .
 *.family.sinuabi.ee CNAME .
-hydranetworkontop.sinuabi.ee CNAME .
-*.hydranetworkontop.sinuabi.ee CNAME .
 algebrahelp.sulevkivastik.ee CNAME .
 *.algebrahelp.sulevkivastik.ee CNAME .
 over.sulevkivastik.ee CNAME .
@@ -17515,8 +17481,6 @@ rainshadow.help CNAME .
 *.rainshadow.help CNAME .
 schoology.help CNAME .
 *.schoology.help CNAME .
-theproxy.help CNAME .
-*.theproxy.help CNAME .
 unblocked.help CNAME .
 *.unblocked.help CNAME .
 uproxy.help CNAME .
@@ -17601,8 +17565,6 @@ doyouwhathavetodoooooo.staglin.hr CNAME .
 *.doyouwhathavetodoooooo.staglin.hr CNAME .
 goguardianyouaremakingmemad.staglin.hr CNAME .
 *.goguardianyouaremakingmemad.staglin.hr CNAME .
-trigpractice.staglin.hr CNAME .
-*.trigpractice.staglin.hr CNAME .
 vpn.ht CNAME .
 *.vpn.ht CNAME .
 apamerican.govt.hu CNAME .
@@ -17653,8 +17615,6 @@ pork.icu CNAME .
 *.pork.icu CNAME .
 riolu.icu CNAME .
 *.riolu.icu CNAME .
-caddy.rkn.icu CNAME .
-*.caddy.rkn.icu CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
 siteunblocked.icu CNAME .
@@ -19255,8 +19215,6 @@ surfshark.io CNAME .
 *.surfshark.io CNAME .
 swcloud.io CNAME .
 *.swcloud.io CNAME .
-proman.tbits.io CNAME .
-*.proman.tbits.io CNAME .
 adguard.tcpu.io CNAME .
 *.adguard.tcpu.io CNAME .
 tenta.io CNAME .
@@ -19817,8 +19775,6 @@ siteunblocked.lol CNAME .
 *.siteunblocked.lol CNAME .
 themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 *.themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
-theproxy.lol CNAME .
-*.theproxy.lol CNAME .
 tianhang.lol CNAME .
 *.tianhang.lol CNAME .
 toaster.lol CNAME .
@@ -23693,8 +23649,6 @@ resolver.r0cket.net CNAME .
 *.resolver.r0cket.net CNAME .
 ginnungagap.rabenhain.net CNAME .
 *.ginnungagap.rabenhain.net CNAME .
-drpepperisbetter.ramonmedina.net CNAME .
-*.drpepperisbetter.ramonmedina.net CNAME .
 agh.realwap.net CNAME .
 *.agh.realwap.net CNAME .
 remotevpn.net CNAME .
@@ -25265,8 +25219,6 @@ sms8b04szwtm.online CNAME .
 *.sms8b04szwtm.online CNAME .
 speedproxy.online CNAME .
 *.speedproxy.online CNAME .
-media.streamfusion.online CNAME .
-*.media.streamfusion.online CNAME .
 szmbkf5rsqiidboo6.online CNAME .
 *.szmbkf5rsqiidboo6.online CNAME .
 t2hd3gctgprggas.online CNAME .
@@ -26923,8 +26875,6 @@ staticstream.org CNAME .
 *.staticstream.org CNAME .
 staticvaultcdn.org CNAME .
 *.staticvaultcdn.org CNAME .
-school.stjameskilolo.org CNAME .
-*.school.stjameskilolo.org CNAME .
 dns.stormycloud.org CNAME .
 *.dns.stormycloud.org CNAME .
 strangewheat.org CNAME .
@@ -28603,8 +28553,6 @@ owa.pvmedia.ru CNAME .
 *.owa.pvmedia.ru CNAME .
 dns.reolinks.ru CNAME .
 *.dns.reolinks.ru CNAME .
-math.robmojka.ru CNAME .
-*.math.robmojka.ru CNAME .
 1.rock-review.ru CNAME .
 *.1.rock-review.ru CNAME .
 dns.ronc.ru CNAME .
@@ -28977,8 +28925,6 @@ osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 rivrs.shop CNAME .
 *.rivrs.shop CNAME .
-beta.thegodfatheriam.shop CNAME .
-*.beta.thegodfatheriam.shop CNAME .
 tianhang.shop CNAME .
 *.tianhang.shop CNAME .
 wssss.shop CNAME .
@@ -29555,14 +29501,10 @@ proxies.sx CNAME .
 *.proxies.sx CNAME .
 proxy.sx CNAME .
 *.proxy.sx CNAME .
-what.the.aw.root.sx CNAME .
-*.what.the.aw.root.sx CNAME .
 justjosh1.com.root.sx CNAME .
 *.justjosh1.com.root.sx CNAME .
 hvetemelisapotato123.root.sx CNAME .
 *.hvetemelisapotato123.root.sx CNAME .
-unknowcoders.root.sx CNAME .
-*.unknowcoders.root.sx CNAME .
 ib.systems CNAME .
 *.ib.systems CNAME .
 discord.tattoo CNAME .
@@ -29597,8 +29539,6 @@ qqmcfw.tech CNAME .
 *.qqmcfw.tech CNAME .
 dns.romain.tech CNAME .
 *.dns.romain.tech CNAME .
-romirely.tech CNAME .
-*.romirely.tech CNAME .
 s4m.tech CNAME .
 *.s4m.tech CNAME .
 sia.tech CNAME .
@@ -30847,8 +30787,6 @@ thinredline.us CNAME .
 *.thinredline.us CNAME .
 67hub.thisoldrack.us CNAME .
 *.67hub.thisoldrack.us CNAME .
-dns.timkevin.us CNAME .
-*.dns.timkevin.us CNAME .
 rnicronano.lemath.ultimatelyvictori.us CNAME .
 *.rnicronano.lemath.ultimatelyvictori.us CNAME .
 ultimatepro.us CNAME .
@@ -31255,8 +31193,6 @@ pkt.world CNAME .
 *.pkt.world CNAME .
 shaft.world CNAME .
 *.shaft.world CNAME .
-tempshf.world CNAME .
-*.tempshf.world CNAME .
 webshots.world CNAME .
 *.webshots.world CNAME .
 dns.busold.ws CNAME .
