@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772555760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772619420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Mar 2026 16:36 UTC
-; Version: 2026.0303.1636.01
+; Last modified: 04 Mar 2026 10:17 UTC
+; Version: 2026.0304.1017.39
 ; Syntax: RPZ
-; Number of entries: 2554
+; Number of entries: 2548
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -740,8 +740,6 @@ luzzati.com CNAME .
 *.luzzati.com CNAME .
 maddsites.com CNAME .
 *.maddsites.com CNAME .
-maminforum.com CNAME .
-*.maminforum.com CNAME .
 mashstaffing.com CNAME .
 *.mashstaffing.com CNAME .
 medianewsonline.com CNAME .
@@ -1934,8 +1932,6 @@ allpubmusic.my CNAME .
 *.allpubmusic.my CNAME .
 blogspot.my CNAME .
 *.blogspot.my CNAME .
-phaustria.my CNAME .
-*.phaustria.my CNAME .
 svsy.my CNAME .
 *.svsy.my CNAME .
 0fees.net CNAME .
@@ -2456,8 +2452,6 @@ laexchange.top CNAME .
 *.laexchange.top CNAME .
 mdtwo.top CNAME .
 *.mdtwo.top CNAME .
-moneyash.top CNAME .
-*.moneyash.top CNAME .
 moneylower.top CNAME .
 *.moneylower.top CNAME .
 pl-oferta-id2387942371.top CNAME .

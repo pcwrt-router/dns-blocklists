@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 17:26 UTC
-# Version: 2026.0303.1726.17
+# Last modified: 04 Mar 2026 11:07 UTC
+# Version: 2026.0304.1107.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3940
+# Number of entries: 3936
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2351,7 +2351,6 @@
 0.0.0.0 dns.lihj.me
 0.0.0.0 dns.lildinosaur.com
 0.0.0.0 dns.lilith.cloud
-0.0.0.0 michelo.line.pm
 0.0.0.0 adgaurd.lingmont.net
 0.0.0.0 dns.linkr.ninja
 0.0.0.0 adg.lintasjrg.xyz
@@ -2541,7 +2540,6 @@
 0.0.0.0 dns.motazhakim.com
 0.0.0.0 mresquire.com
 0.0.0.0 dns.mrkaran.dev
-0.0.0.0 adguard.kazantsev97.msk.ru
 0.0.0.0 msr177.com
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
@@ -2734,7 +2732,6 @@
 0.0.0.0 edge.nextdns.io
 0.0.0.0 steering.nextdns.io
 0.0.0.0 adg5yvi.ngatngay.net
-0.0.0.0 dns.nguyendangduong.codes
 0.0.0.0 dns.nguyendn.com
 0.0.0.0 dns1.nhgnet.de
 0.0.0.0 dns2.nhgnet.de
@@ -2757,7 +2754,6 @@
 0.0.0.0 sinkdns.nihatkalfazade.com
 0.0.0.0 adguard.niko-sem.com
 0.0.0.0 dnx.niko-sem.com
-0.0.0.0 dns.nimzero.fr
 0.0.0.0 dns.ningkelle.id
 0.0.0.0 family.dns.ningkelle.id
 0.0.0.0 ningyan.top

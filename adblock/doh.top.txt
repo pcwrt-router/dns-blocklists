@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Mar 2026 17:26 UTC
-! Version: 2026.0303.1726.47
+! Last modified: 04 Mar 2026 11:07 UTC
+! Version: 2026.0304.1107.42
 ! Syntax: AdBlock
-! Number of entries: 1125
+! Number of entries: 1130
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -510,6 +510,7 @@
 ||dns.girino.org^
 ||doh.ptqy.gitv.tv^
 ||glacius.top^
+||dns.glf.wtf^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
 ||dns.api.integration.globuscs.info^
@@ -749,6 +750,9 @@
 ||dns.narl.app^
 ||dns.nas-server.ru^
 ||ae-fuj-w-p-1.nashkan.net^
+||ae-fuj-w-p-2.nashkan.net^
+||ae-fuj-w-p-3.nashkan.net^
+||au-syd-w-f-1.nashkan.net^
 ||de-fra-w-p-1.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
 ||gb-lon-w-p-1.nashkan.net^
@@ -758,6 +762,7 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||ro-buc-w-p-1.nashkan.net^
 ||sg-w-f-1.nashkan.net^
+||us-chi-w-f-1.nashkan.net^
 ||us-hil-w-f-1.nashkan.net^
 ||us-jac-w-f-1.nashkan.net^
 ||us-kan-w-f-1.nashkan.net^

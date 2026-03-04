@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772553780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772617380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Mar 2026 16:03 UTC
-; Version: 2026.0303.1603.10
+; Last modified: 04 Mar 2026 09:43 UTC
+; Version: 2026.0304.0943.39
 ; Syntax: RPZ
-; Number of entries: 19912
+; Number of entries: 19870
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1067,8 +1067,6 @@ korek.bio CNAME .
 *.korek.bio CNAME .
 la.bio CNAME .
 *.la.bio CNAME .
-lihat.bio CNAME .
-*.lihat.bio CNAME .
 linkda.bio CNAME .
 *.linkda.bio CNAME .
 linkdel.bio CNAME .
@@ -1717,8 +1715,6 @@ linqr.cc CNAME .
 *.linqr.cc CNAME .
 litl.cc CNAME .
 *.litl.cc CNAME .
-lkgw.cc CNAME .
-*.lkgw.cc CNAME .
 loip.cc CNAME .
 *.loip.cc CNAME .
 ltkiss.cc CNAME .
@@ -2783,8 +2779,6 @@ prjsi.co CNAME .
 *.prjsi.co CNAME .
 prodd.co CNAME .
 *.prodd.co CNAME .
-ptix.co CNAME .
-*.ptix.co CNAME .
 pulsemgmt.co CNAME .
 *.pulsemgmt.co CNAME .
 pxlcrv.co CNAME .
@@ -5165,8 +5159,6 @@ linksminify.com CNAME .
 *.linksminify.com CNAME .
 linksparkle.com CNAME .
 *.linksparkle.com CNAME .
-linksshortcut.com CNAME .
-*.linksshortcut.com CNAME .
 linksshortener.com CNAME .
 *.linksshortener.com CNAME .
 linkste.com CNAME .
@@ -5749,8 +5741,6 @@ p-url.com CNAME .
 *.p-url.com CNAME .
 paburl.com CNAME .
 *.paburl.com CNAME .
-pagemelon.com CNAME .
-*.pagemelon.com CNAME .
 pagetie.com CNAME .
 *.pagetie.com CNAME .
 link.paior.com CNAME .
@@ -5997,8 +5987,6 @@ qrtli.com CNAME .
 *.qrtli.com CNAME .
 qrump.com CNAME .
 *.qrump.com CNAME .
-qrybaan.com CNAME .
-*.qrybaan.com CNAME .
 quainator.com CNAME .
 *.quainator.com CNAME .
 quamiller.com CNAME .
@@ -10877,8 +10865,6 @@ mylinkinb.io CNAME .
 *.mylinkinb.io CNAME .
 mylx.io CNAME .
 *.mylx.io CNAME .
-n99.io CNAME .
-*.n99.io CNAME .
 naturl.io CNAME .
 *.naturl.io CNAME .
 neontools.io CNAME .
@@ -11355,16 +11341,10 @@ lt5.ir CNAME .
 *.lt5.ir CNAME .
 m7p.ir CNAME .
 *.m7p.ir CNAME .
-mc1.ir CNAME .
-*.mc1.ir CNAME .
-miniurl.ir CNAME .
-*.miniurl.ir CNAME .
 modk.ir CNAME .
 *.modk.ir CNAME .
 mskb.ir CNAME .
 *.mskb.ir CNAME .
-n3y.ir CNAME .
-*.n3y.ir CNAME .
 ntbx.ir CNAME .
 *.ntbx.ir CNAME .
 onebio.ir CNAME .
@@ -11381,8 +11361,6 @@ go.poweren.ir CNAME .
 *.go.poweren.ir CNAME .
 proshare.ir CNAME .
 *.proshare.ir CNAME .
-qeichy.ir CNAME .
-*.qeichy.ir CNAME .
 radly.ir CNAME .
 *.radly.ir CNAME .
 razi-link.ir CNAME .
@@ -11647,8 +11625,6 @@ ptab.it CNAME .
 *.ptab.it CNAME .
 puulp.it CNAME .
 *.puulp.it CNAME .
-qrkard.it CNAME .
-*.qrkard.it CNAME .
 qs1.it CNAME .
 *.qs1.it CNAME .
 redu.it CNAME .
@@ -12313,8 +12289,6 @@ mongmuoinam.life CNAME .
 *.mongmuoinam.life CNAME .
 mongmuoisau.life CNAME .
 *.mongmuoisau.life CNAME .
-mute-fill-mood.life CNAME .
-*.mute-fill-mood.life CNAME .
 mytbg.life CNAME .
 *.mytbg.life CNAME .
 nalo.life CNAME .
@@ -13217,8 +13191,6 @@ kryvon.live CNAME .
 *.kryvon.live CNAME .
 ligacash88.live CNAME .
 *.ligacash88.live CNAME .
-lilyfreeonlyfans.live CNAME .
-*.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
 *.limiteds.live CNAME .
 linkgo.live CNAME .
@@ -13249,8 +13221,6 @@ mongmuoitam.live CNAME .
 *.mongmuoitam.live CNAME .
 munchbet.live CNAME .
 *.munchbet.live CNAME .
-my-google.live CNAME .
-*.my-google.live CNAME .
 mysexychat.live CNAME .
 *.mysexychat.live CNAME .
 nefeli.live CNAME .
@@ -13259,8 +13229,6 @@ neweden.live CNAME .
 *.neweden.live CNAME .
 nimex.live CNAME .
 *.nimex.live CNAME .
-nobitaxx.live CNAME .
-*.nobitaxx.live CNAME .
 nofnec.live CNAME .
 *.nofnec.live CNAME .
 nowtrade.live CNAME .
@@ -14309,8 +14277,6 @@ pnqk.me CNAME .
 *.pnqk.me CNAME .
 ppmc.me CNAME .
 *.ppmc.me CNAME .
-prolinks.me CNAME .
-*.prolinks.me CNAME .
 ptxt.me CNAME .
 *.ptxt.me CNAME .
 t2mio.pulsem.me CNAME .
@@ -15209,8 +15175,6 @@ link4.net CNAME .
 *.link4.net CNAME .
 linkabc.net CNAME .
 *.linkabc.net CNAME .
-linkcut.net CNAME .
-*.linkcut.net CNAME .
 linkinto.net CNAME .
 *.linkinto.net CNAME .
 linkit.net CNAME .
@@ -15227,8 +15191,6 @@ linksehat.net CNAME .
 *.linksehat.net CNAME .
 linksfire.net CNAME .
 *.linksfire.net CNAME .
-linksfly.net CNAME .
-*.linksfly.net CNAME .
 linkshortener.net CNAME .
 *.linkshortener.net CNAME .
 linkshortner.net CNAME .
@@ -18121,8 +18083,6 @@ linkz.tn CNAME .
 *.linkz.tn CNAME .
 nr.tn CNAME .
 *.nr.tn CNAME .
-ok.tn CNAME .
-*.ok.tn CNAME .
 pr.tn CNAME .
 *.pr.tn CNAME .
 spr.tn CNAME .
@@ -19131,8 +19091,6 @@ nydn.us CNAME .
 *.nydn.us CNAME .
 ocul.us CNAME .
 *.ocul.us CNAME .
-offlink.us CNAME .
-*.offlink.us CNAME .
 oink.us CNAME .
 *.oink.us CNAME .
 onepl.us CNAME .
