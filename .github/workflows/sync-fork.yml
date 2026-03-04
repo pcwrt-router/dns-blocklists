@@ -1,0 +1,14 @@
+name: Sync Fork
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day
+  workflow_dispatch: # allows manual triggering from the GitHub UI
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tgymnich/fork-sync@v1.8
+        with:
+          owner: hagezi
+          base: main
+          head: main
