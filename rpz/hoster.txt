@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772662080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772705100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Mar 2026 22:08 UTC
-; Version: 2026.0304.2208.21
+; Last modified: 05 Mar 2026 10:05 UTC
+; Version: 2026.0305.1005.54
 ; Syntax: RPZ
-; Number of entries: 2544
+; Number of entries: 2538
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1396,8 +1396,6 @@ rf.gd CNAME .
 *.rf.gd CNAME .
 24.gg CNAME .
 *.24.gg CNAME .
-blo.gg CNAME .
-*.blo.gg CNAME .
 eu.gg CNAME .
 *.eu.gg CNAME .
 fun.gg CNAME .
@@ -1744,8 +1742,6 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 dothome.co.kr CNAME .
 *.dothome.co.kr CNAME .
-c.la CNAME .
-*.c.la CNAME .
 1a.lc CNAME .
 *.1a.lc CNAME .
 24.lc CNAME .
@@ -2552,8 +2548,6 @@ hkearth.xyz CNAME .
 *.hkearth.xyz CNAME .
 tggame.xyz CNAME .
 *.tggame.xyz CNAME .
-wapka.xyz CNAME .
-*.wapka.xyz CNAME .
 blogspot.co.za CNAME .
 *.blogspot.co.za CNAME .
 thamboli.co.za CNAME .

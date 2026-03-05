@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 09:37 UTC
-# Version: 2026.0303.0937.49
+# Last modified: 05 Mar 2026 09:21 UTC
+# Version: 2026.0305.0921.11
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1927
+# Number of entries: 1929
 #
 1-aclk.net
 1aurl.io
@@ -451,6 +451,7 @@ convertkit.com
 convertkit-mail.com
 click.convertkit-mail.com
 1accc1c9.click.convertkit-mail.com
+8534faf0.click.convertkit-mail.com
 c09f5da1.click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
@@ -1134,6 +1135,7 @@ de-go.kelkoogroup.net
 es-go.kelkoogroup.net
 fr-go.kelkoogroup.net
 gr-go.kelkoogroup.net
+hu-go.kelkoogroup.net
 in-go.kelkoogroup.net
 it-go.kelkoogroup.net
 nl-go.kelkoogroup.net

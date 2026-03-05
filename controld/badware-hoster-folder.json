@@ -1534,13 +1534,6 @@
       }
     },
     {
-      "PK": "blo.gg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blog-online.eu",
       "action": {
         "do": 0,
@@ -2452,13 +2445,6 @@
     },
     {
       "PK": "bz.tc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "c.la",
       "action": {
         "do": 0,
         "status": 1
@@ -8038,13 +8024,6 @@
     },
     {
       "PK": "wapka.website",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wapka.xyz",
       "action": {
         "do": 0,
         "status": 1

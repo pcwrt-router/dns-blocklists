@@ -41,6 +41,7 @@ jjpool.fr
 # Wrong
 *.activehosted.com
 *.aritypmp.com
+*.bdtelemetry.amazon
 *.bigdig.energy
 *.blazingcdn.com
 *.cloudhost.id
@@ -69,6 +70,7 @@ cdnbo.org
 creative.eagllwin.com
 dub.sh
 file.garden
+inappi.co
 log.eporner.com
 obfusgated.com
 pushub.net

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Mar 2026 21:38 UTC
-! Version: 2026.0304.2138.17
+! Last modified: 05 Mar 2026 09:36 UTC
+! Version: 2026.0305.0936.28
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -8273,7 +8273,6 @@
 @@||track-tag.com^
 @@||trackdynamiclinks.com^
 @@||trackee.net^
-@@||trackpw.xyz^
 @@||tracksninja.com^
 @@||trackthis.io^
 @@||trackurl.link^
@@ -8286,7 +8285,6 @@
 @@||trahm.co^
 @@||transfer.sh^
 @@||transientfiles.com^
-@@||travelinge.my^
 @@||travelmarketingandmedia.com^
 @@||travl.rs^
 @@||trbs.link^
@@ -8332,7 +8330,6 @@
 @@||trks.ca^
 @@||trl.ca^
 @@||trnqify.com^
-@@||troasters.com^
 @@||troms.me^
 @@||trot.to^
 @@||troy.hn^
@@ -8347,7 +8344,6 @@
 @@||trueurl.com^
 @@||trunc.it^
 @@||trunkateurl.com^
-@@||truongthanhlen.live^
 @@||trustafy.link^
 @@||trustbit.me^
 @@||trustguss.io^
@@ -8401,7 +8397,6 @@
 @@||tulinks.online^
 @@||tulip.app^
 @@||tunepit.net^
-@@||tunjob.com^
 @@||tunl.link^
 @@||s.tunpok.com^
 @@||tunprlo.com^
@@ -8459,7 +8454,6 @@
 @@||tyx.me^
 @@||tzbiolinks.com^
 @@||tzu.to^
-@@||tzv.my^
 @@||u.nu^
 @@||u.to^
 @@||u-link.asia^
@@ -8575,7 +8569,6 @@
 @@||upld.in^
 @@||share.uplifted.ai^
 @@||uplifter.ai^
-@@||uplinks.co^
 @@||upltps.com^
 @@||upmchp.us^
 @@||upriserz.link^
@@ -8611,7 +8604,6 @@
 @@||url.lv^
 @@||url.mn^
 @@||url.reisen^
-@@||url.rw^
 @@||url.sg^
 @@||url.td^
 @@||url.uz^
@@ -8757,7 +8749,6 @@
 @@||urlnova.com^
 @@||urlo.in^
 @@||urlpi.com^
-@@||urlplus.net^
 @@||urlpoints.com^
 @@||urlq.com^
 @@||urlr.me^
@@ -8791,7 +8782,6 @@
 @@||urlshortener.best^
 @@||urlshortener.biz^
 @@||urlshortener.bnpparibas^
-@@||urlshortener.jp^
 @@||urlshortener.pro^
 @@||urlshortener.site^
 @@||urlshortenerapi.com^
@@ -9173,7 +9163,6 @@
 @@||vrv.su^
 @@||vshorturl.com^
 @@||vsl.im^
-@@||vslinks.in^
 @@||vt802.us^
 @@||shorturl.vtcode.vn^
 @@||vtity.com^
@@ -9460,7 +9449,6 @@
 @@||x3.cx^
 @@||x5n.cn^
 @@||x7.lv^
-@@||xaddr.com^
 @@||xailr.com^
 @@||xb5.com^
 @@||xbig.info^
@@ -9470,7 +9458,6 @@
 @@||url.xcode.no^
 @@||xcrl.us^
 @@||xdomain.io^
-@@||xdu.me^
 @@||xdxd.org^
 @@||xemoday.com^
 @@||xemthem.link^
@@ -9639,7 +9626,6 @@
 @@||youris.pro^
 @@||yourl.ir^
 @@||yourl.jp^
-@@||yourl.pro^
 @@||yourls.ch^
 @@||yourls.lu^
 @@||yourls.org^
@@ -9662,7 +9648,6 @@
 @@||yubi.co^
 @@||yui.co^
 @@||yuk.nu^
-@@||yukibio.com^
 @@||yul.is^
 @@||yulllu01.online^
 @@||d.yunzhuyun.com^
@@ -9731,7 +9716,6 @@
 @@||link.zhdk.ch^
 @@||zhergrush.com^
 @@||zhort.de^
-@@||zhort.link^
 @@||zhx.su^
 @@||zi.ma^
 @@||zi.pe^
@@ -9836,7 +9820,6 @@
 @@||zyguer.com^
 @@||zynga.my^
 @@||zyp.to^
-@@||zyva.org^
 @@||zywv.us^
 @@||zz.gd^
 @@||zz.sd^

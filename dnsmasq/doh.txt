@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 23:01 UTC
-# Version: 2026.0304.2301.02
+# Last modified: 05 Mar 2026 10:54 UTC
+# Version: 2026.0305.1054.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3458
+# Number of entries: 3457
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3252,7 +3252,6 @@ local=/httpdns.volcengineapi.com/
 local=/dns.volsap.ovh/
 local=/vpn0109.voodonline.fr/
 local=/vorlif.org/
-local=/dns.vortexstore.cloud/
 local=/vpn.vosjes.cloud/
 local=/adguard.vozersky.com/
 local=/killads.vpms.xyz/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 22:08 UTC
-# Version: 2026.0304.2208.21
+# Last modified: 05 Mar 2026 10:05 UTC
+# Version: 2026.0305.1005.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1272
+# Number of entries: 1269
 #
 local=/000a.de/
 local=/000space.com/
@@ -224,7 +224,6 @@ local=/bizhat.com/
 local=/blackapplehost.com/
 local=/blackblogs.org/
 local=/blinkweb.com/
-local=/blo.gg/
 local=/blog.com/
 local=/blog.hr/
 local=/blog.lc/
@@ -334,7 +333,6 @@ local=/byethost8.com/
 local=/byethost9.com/
 local=/byto.de/
 local=/bz.tc/
-local=/c.la/
 local=/c.pl/
 local=/c0.pl/
 local=/ca.gp/
@@ -1164,7 +1162,6 @@ local=/wapka.site/
 local=/wapka.store/
 local=/wapka.top/
 local=/wapka.website/
-local=/wapka.xyz/
 local=/web.gg/
 local=/web.pe/
 local=/h4g3z1-hoster.web.app/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772660280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772703360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Mar 2026 21:38 UTC
-; Version: 2026.0304.2138.17
+; Last modified: 05 Mar 2026 09:36 UTC
+; Version: 2026.0305.0936.28
 ; Syntax: RPZ
-; Number of entries: 19840
+; Number of entries: 19806
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2981,8 +2981,6 @@ undrarmr.co CNAME .
 *.undrarmr.co CNAME .
 unipapa.co CNAME .
 *.unipapa.co CNAME .
-uplinks.co CNAME .
-*.uplinks.co CNAME .
 urlbit.co CNAME .
 *.urlbit.co CNAME .
 urlco.co CNAME .
@@ -7093,8 +7091,6 @@ trk24.com CNAME .
 *.trk24.com CNAME .
 trnqify.com CNAME .
 *.trnqify.com CNAME .
-troasters.com CNAME .
-*.troasters.com CNAME .
 trueurl.com CNAME .
 *.trueurl.com CNAME .
 trunkateurl.com CNAME .
@@ -7117,8 +7113,6 @@ ttrewards.com CNAME .
 *.ttrewards.com CNAME .
 tuasy.com CNAME .
 *.tuasy.com CNAME .
-tunjob.com CNAME .
-*.tunjob.com CNAME .
 s.tunpok.com CNAME .
 *.s.tunpok.com CNAME .
 tunprlo.com CNAME .
@@ -7657,8 +7651,6 @@ x-shrtn.com CNAME .
 *.x-shrtn.com CNAME .
 x2t.com CNAME .
 *.x2t.com CNAME .
-xaddr.com CNAME .
-*.xaddr.com CNAME .
 xailr.com CNAME .
 *.xailr.com CNAME .
 xb5.com CNAME .
@@ -7733,8 +7725,6 @@ yrkus.com CNAME .
 *.yrkus.com CNAME .
 yshorten.com CNAME .
 *.yshorten.com CNAME .
-yukibio.com CNAME .
-*.yukibio.com CNAME .
 d.yunzhuyun.com CNAME .
 *.d.yunzhuyun.com CNAME .
 yweb.com CNAME .
@@ -10167,8 +10157,6 @@ vplink.in CNAME .
 *.vplink.in CNAME .
 vprozone.in CNAME .
 *.vprozone.in CNAME .
-vslinks.in CNAME .
-*.vslinks.in CNAME .
 weeurl.in CNAME .
 *.weeurl.in CNAME .
 wellwish.in CNAME .
@@ -11731,8 +11719,6 @@ tto.jp CNAME .
 *.tto.jp CNAME .
 tvss.jp CNAME .
 *.tvss.jp CNAME .
-urlshortener.jp CNAME .
-*.urlshortener.jp CNAME .
 usite.jp CNAME .
 *.usite.jp CNAME .
 xn--s7y86k.jp CNAME .
@@ -13069,8 +13055,6 @@ yolla.link CNAME .
 *.yolla.link CNAME .
 youneedthis.link CNAME .
 *.youneedthis.link CNAME .
-zhort.link CNAME .
-*.zhort.link CNAME .
 zik.link CNAME .
 *.zik.link CNAME .
 zipurl.link CNAME .
@@ -13249,8 +13233,6 @@ stor.live CNAME .
 *.stor.live CNAME .
 tdv-adm.live CNAME .
 *.tdv-adm.live CNAME .
-truongthanhlen.live CNAME .
-*.truongthanhlen.live CNAME .
 unc.live CNAME .
 *.unc.live CNAME .
 update-info-saudi-a.live CNAME .
@@ -14551,8 +14533,6 @@ x-i.me CNAME .
 *.x-i.me CNAME .
 x2y.me CNAME .
 *.x2y.me CNAME .
-xdu.me CNAME .
-*.xdu.me CNAME .
 xerp.me CNAME .
 *.xerp.me CNAME .
 xib.me CNAME .
@@ -14849,12 +14829,8 @@ tgmy.my CNAME .
 *.tgmy.my CNAME .
 tpaper.my CNAME .
 *.tpaper.my CNAME .
-travelinge.my CNAME .
-*.travelinge.my CNAME .
 tritri.my CNAME .
 *.tritri.my CNAME .
-tzv.my CNAME .
-*.tzv.my CNAME .
 use.my CNAME .
 *.use.my CNAME .
 ushort.my CNAME .
@@ -15445,8 +15421,6 @@ urlm.net CNAME .
 *.urlm.net CNAME .
 urlmkr.net CNAME .
 *.urlmkr.net CNAME .
-urlplus.net CNAME .
-*.urlplus.net CNAME .
 urlsh.net CNAME .
 *.urlsh.net CNAME .
 usego.net CNAME .
@@ -16353,8 +16327,6 @@ yourls.org CNAME .
 *.yourls.org CNAME .
 zpurl.org CNAME .
 *.zpurl.org CNAME .
-zyva.org CNAME .
-*.zyva.org CNAME .
 aka.ovh CNAME .
 *.aka.ovh CNAME .
 analyticslinker.ovh CNAME .
@@ -16775,8 +16747,6 @@ ylink.pro CNAME .
 *.ylink.pro CNAME .
 youris.pro CNAME .
 *.youris.pro CNAME .
-yourl.pro CNAME .
-*.yourl.pro CNAME .
 yourls.pro CNAME .
 *.yourls.pro CNAME .
 zinlly.pro CNAME .
@@ -17259,8 +17229,6 @@ vn.run CNAME .
 *.vn.run CNAME .
 xs.run CNAME .
 *.xs.run CNAME .
-url.rw CNAME .
-*.url.rw CNAME .
 4se.sa CNAME .
 *.4se.sa CNAME .
 js.sa CNAME .
@@ -19795,8 +19763,6 @@ tny.xyz CNAME .
 *.tny.xyz CNAME .
 togel123amp.xyz CNAME .
 *.togel123amp.xyz CNAME .
-trackpw.xyz CNAME .
-*.trackpw.xyz CNAME .
 trimify.xyz CNAME .
 *.trimify.xyz CNAME .
 trisula88short.xyz CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 23:01 UTC
-# Version: 2026.0304.2301.02
+# Last modified: 05 Mar 2026 10:54 UTC
+# Version: 2026.0305.1054.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3931
+# Number of entries: 3930
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3709,7 +3709,6 @@
 0.0.0.0 dns.volsap.ovh
 0.0.0.0 vpn0109.voodonline.fr
 0.0.0.0 vorlif.org
-0.0.0.0 dns.vortexstore.cloud
 0.0.0.0 vpn.vosjes.cloud
 0.0.0.0 adguard.vozersky.com
 0.0.0.0 killads.vpms.xyz
