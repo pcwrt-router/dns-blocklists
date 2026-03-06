@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Mar 2026 22:00 UTC
-! Version: 2026.0305.2200.50
+! Last modified: 06 Mar 2026 09:52 UTC
+! Version: 2026.0306.0952.07
 ! Syntax: AdBlock
-! Number of entries: 54853
+! Number of entries: 54842
 !
 ||0.beer^
 ||0.club^
@@ -15156,6 +15156,7 @@
 ||cong-keren.site^
 ||pg.congeesaquafer.com^
 ||congerstunish.com^
+||congestprowessburger.com^
 ||conghui.net^
 ||congratulatedconfusionstrength.com^
 ||congratulateddepositioneasiest.com^
@@ -30018,7 +30019,6 @@
 ||klltoghtuhydo.club^
 ||klmmnd.com^
 ||klonedaset.org^
-||klook.com^
 ||kloperd.com^
 ||klpgmansuchcesu.com^
 ||klrtisidtgrgn.website^
@@ -34819,19 +34819,7 @@
 ||mybidad.com^
 ||mybiddd.com^
 ||mybikebuilds.com^
-||mst.ail.mybluehost.me^
-||amz.boy.mybluehost.me^
-||isz.bqv.mybluehost.me^
-||fgt.ive.mybluehost.me^
-||kvv.jxc.mybluehost.me^
-||the.jxc.mybluehost.me^
-||kby.oqp.mybluehost.me^
-||vdv.oqp.mybluehost.me^
-||yah.ppl.mybluehost.me^
-||mtm.rnz.mybluehost.me^
-||llq.rsq.mybluehost.me^
-||vmb.wvs.mybluehost.me^
-||ija.xwi.mybluehost.me^
+||mybluehost.me^
 ||mybmrtrg.com^
 ||mybrew2.com^
 ||mybro.online^
@@ -51504,6 +51492,7 @@
 ||waichoumo.net^
 ||wailinghassle.com^
 ||tb.wainfulabasias.com^
+||wairingcheney.com^
 ||wairong.com^
 ||waistcoataskeddone.com^
 ||waistcoatreferchemistry.com^

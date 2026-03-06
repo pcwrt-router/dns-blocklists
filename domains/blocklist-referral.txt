@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 09:21 UTC
-# Version: 2026.0305.0921.11
+# Last modified: 06 Mar 2026 09:41 UTC
+# Version: 2026.0306.0941.13
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1929
+# Number of entries: 1933
 #
 1-aclk.net
 1aurl.io
@@ -480,6 +480,7 @@ ed9688f7.click.convertkit-mail2.com
 fff97757.click.convertkit-mail2.com
 el2.convertkit-mail2.com
 open.convertkit-mail2.com
+03056abb.open.convertkit-mail2.com
 0d31423c.open.convertkit-mail2.com
 13924f41.open.convertkit-mail2.com
 16b0ec2b.open.convertkit-mail2.com
@@ -983,6 +984,7 @@ group0.sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
 142290803.sites.hscoscdn-eu1.net
+143168578.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
 144407123.sites.hscoscdn-eu1.net
@@ -996,6 +998,7 @@ sites.hscoscdn-eu1.net
 25252834.sites.hscoscdn-eu1.net
 25306451.sites.hscoscdn-eu1.net
 25357283.sites.hscoscdn-eu1.net
+25378200.sites.hscoscdn-eu1.net
 25385986.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
 25874232.sites.hscoscdn-eu1.net
@@ -1011,6 +1014,7 @@ sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
 142290803.group0.sites.hscoscdn-eu1.net
 143338098.group0.sites.hscoscdn-eu1.net
+143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net

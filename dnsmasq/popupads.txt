@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 22:00 UTC
-# Version: 2026.0305.2200.50
+# Last modified: 06 Mar 2026 09:52 UTC
+# Version: 2026.0306.0952.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 54853
+# Number of entries: 54842
 #
 local=/0.beer/
 local=/0.club/
@@ -15155,6 +15155,7 @@ local=/confusingepisodevest.com/
 local=/cong-keren.site/
 local=/pg.congeesaquafer.com/
 local=/congerstunish.com/
+local=/congestprowessburger.com/
 local=/conghui.net/
 local=/congratulatedconfusionstrength.com/
 local=/congratulateddepositioneasiest.com/
@@ -30017,7 +30018,6 @@ local=/kllpelaa.net/
 local=/klltoghtuhydo.club/
 local=/klmmnd.com/
 local=/klonedaset.org/
-local=/klook.com/
 local=/kloperd.com/
 local=/klpgmansuchcesu.com/
 local=/klrtisidtgrgn.website/
@@ -34818,19 +34818,7 @@ local=/mybgbqizwvmau.store/
 local=/mybidad.com/
 local=/mybiddd.com/
 local=/mybikebuilds.com/
-local=/mst.ail.mybluehost.me/
-local=/amz.boy.mybluehost.me/
-local=/isz.bqv.mybluehost.me/
-local=/fgt.ive.mybluehost.me/
-local=/kvv.jxc.mybluehost.me/
-local=/the.jxc.mybluehost.me/
-local=/kby.oqp.mybluehost.me/
-local=/vdv.oqp.mybluehost.me/
-local=/yah.ppl.mybluehost.me/
-local=/mtm.rnz.mybluehost.me/
-local=/llq.rsq.mybluehost.me/
-local=/vmb.wvs.mybluehost.me/
-local=/ija.xwi.mybluehost.me/
+local=/mybluehost.me/
 local=/mybmrtrg.com/
 local=/mybrew2.com/
 local=/mybro.online/
@@ -51503,6 +51491,7 @@ local=/wahtotten.com/
 local=/waichoumo.net/
 local=/wailinghassle.com/
 local=/tb.wainfulabasias.com/
+local=/wairingcheney.com/
 local=/wairong.com/
 local=/waistcoataskeddone.com/
 local=/waistcoatreferchemistry.com/

@@ -1653,6 +1653,13 @@
       }
     },
     {
+      "PK": "blogsidea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogsky.com",
       "action": {
         "do": 0,
@@ -7541,6 +7548,13 @@
     },
     {
       "PK": "tripod.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ttblogs.com",
       "action": {
         "do": 0,
         "status": 1

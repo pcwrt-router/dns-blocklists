@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 10:05 UTC
-# Version: 2026.0305.1005.54
+# Last modified: 06 Mar 2026 10:41 UTC
+# Version: 2026.0306.1041.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1269
+# Number of entries: 1271
 #
 local=/000a.de/
 local=/000space.com/
@@ -240,6 +240,7 @@ local=/bloggt.de/
 local=/blogia.com/
 local=/blogmaster.net/
 local=/blogmonster.de/
+local=/blogsidea.com/
 local=/blogsky.com/
 local=/blogspot.ae/
 local=/blogspot.al/
@@ -1094,6 +1095,7 @@ local=/trackfinanceworld.com/
 local=/trend.in/
 local=/tribalpages.com/
 local=/tripod.com/
+local=/ttblogs.com/
 local=/turbo.site/
 local=/turkish.lc/
 local=/tuxfamily.org/

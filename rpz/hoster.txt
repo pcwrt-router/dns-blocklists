@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772705100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772793660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Mar 2026 10:05 UTC
-; Version: 2026.0305.1005.54
+; Last modified: 06 Mar 2026 10:41 UTC
+; Version: 2026.0306.1041.48
 ; Syntax: RPZ
-; Number of entries: 2538
+; Number of entries: 2542
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -384,6 +384,8 @@ blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
 *.blogia.com CNAME .
+blogsidea.com CNAME .
+*.blogsidea.com CNAME .
 blogsky.com CNAME .
 *.blogsky.com CNAME .
 blogspot.com CNAME .
@@ -886,6 +888,8 @@ tribalpages.com CNAME .
 *.tribalpages.com CNAME .
 tripod.com CNAME .
 *.tripod.com CNAME .
+ttblogs.com CNAME .
+*.ttblogs.com CNAME .
 ubpages.com CNAME .
 *.ubpages.com CNAME .
 ucoz.com CNAME .

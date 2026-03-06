@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 22:03 UTC
-# Version: 2026.0305.2203.42
+# Last modified: 06 Mar 2026 09:54 UTC
+# Version: 2026.0306.0954.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14123
+# Number of entries: 14132
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1423,6 +1423,7 @@ local=/bigpharmausa.com/
 local=/bigsex.is/
 local=/bigsofasde.de/
 local=/bigstoregaming.com/
+local=/bijeenmooi.ch/
 local=/bike-specialized.com/
 local=/bikebabyseatde.com/
 local=/bikebitsde.com/
@@ -4098,6 +4099,7 @@ local=/fahrradhandel-kappler.de/
 local=/fahrradhandel-kramer.de/
 local=/fahrradhandel-krause.de/
 local=/fahrradhandel-richter.de/
+local=/fahrradhandel-rothbart.de/
 local=/fahrradhandel-schulze.de/
 local=/fahrradhandel-stanke.de/
 local=/fahrradhelmeneu.com/
@@ -7652,6 +7654,8 @@ local=/longchamposterrelch.com/
 local=/lonoakwostore.com/
 local=/lookberg.de/
 local=/loomzo.com/
+local=/loopearplugs.at/
+local=/loopearplugsosterreich.com/
 local=/lootmon.com/
 local=/loovincy.com/
 local=/loramode.de/
@@ -8347,6 +8351,7 @@ local=/mirainvestments.ltd/
 local=/miraiweb.org/
 local=/miralosa.com/
 local=/mirrornewstoday.com/
+local=/misalena.com/
 local=/misioletras.com/
 local=/missharris.com/
 local=/missomajewellery.com/
@@ -8816,6 +8821,7 @@ local=/onrunning001.myshoplaza.com/
 local=/onrunningon.myshoplaza.com/
 local=/qf-store.myshoplaza.com/
 local=/salewa-cz-2026.myshoplaza.com/
+local=/swarovskiclub.myshoplaza.com/
 local=/tcduvshop02.myshoplaza.com/
 local=/uggfans.myshoplaza.com/
 local=/uggonline.myshoplaza.com/
@@ -9168,6 +9174,7 @@ local=/novana-berlin.de/
 local=/novando.de/
 local=/novarixtrader.net/
 local=/novasabers.de/
+local=/novator-consulting.com/
 local=/novatradecore.com/
 local=/novatrustmarket.com/
 local=/novelbuys.com/
@@ -9852,6 +9859,7 @@ local=/personalhygienesale.com/
 local=/personnelm.com/
 local=/pertalriodic.com/
 local=/pesos-shop.de/
+local=/peterjeskouhren.de/
 local=/petfoodedeals.com/
 local=/petfuttershop.com/
 local=/petgroomingdeal.com/
@@ -10446,6 +10454,7 @@ local=/rangau-musikzug.de/
 local=/rangnau-versand.de/
 local=/ranjnagupta.com/
 local=/ranthambhorekothi.com/
+local=/rapidboost.com/
 local=/rapidconv.com/
 local=/rapunzelhairextension.com/
 local=/rare404.com/
