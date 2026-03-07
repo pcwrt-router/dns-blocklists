@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 17:02 UTC
-# Version: 2026.0306.1702.50
+# Last modified: 07 Mar 2026 09:31 UTC
+# Version: 2026.0307.0931.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14133
+# Number of entries: 14140
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -23,6 +23,7 @@ local=/123tierbedarf.de/
 local=/15millionen.net/
 local=/1800rxonline.com/
 local=/1875-financeinvest.com/
+local=/1euro.at/
 local=/1eurotip.com/
 local=/1m2.fr/
 local=/1netzteil.de/
@@ -30,6 +31,7 @@ local=/1onlinejobs.com/
 local=/1preis.com/
 local=/1rx-pharmacy.com/
 local=/1ticketmarket.com/
+local=/2005vipasosdatendocking.mom/
 local=/200pills.com/
 local=/eoutlet.2023shoponline.com/
 local=/20mg-tadalafil-cheapest-price.com/
@@ -597,6 +599,7 @@ local=/apeasblto.com/
 local=/apelfinancial.com/
 local=/apelt-gartenhandel.de/
 local=/apelt-handel.de/
+local=/apelt-shop.de/
 local=/apex-trade.capital/
 local=/apexflora.com/
 local=/apharmacie.com/
@@ -3512,6 +3515,7 @@ local=/ecoalfsale.at/
 local=/ecofuture-handel24.de/
 local=/ecogisolaire.com/
 local=/ecohabitsy.com/
+local=/ecohubfast.shop/
 local=/h5.ecoinf.vip/
 local=/ecomaher.com/
 local=/economicp.com/
@@ -3532,6 +3536,7 @@ local=/edebrennholzedgar.com/
 local=/edecon.net/
 local=/edeka24de.com/
 local=/edelina.de/
+local=/edelkatzenzucht.com/
 local=/edelmar.de/
 local=/edelmetall-koeppen.de/
 local=/edelraum.net/
@@ -5226,6 +5231,7 @@ local=/golfapparelsale.com/
 local=/golfersgalore.com/
 local=/golffachhandel.eu/
 local=/golfstravismathew.com/
+local=/gomel-24.de/
 local=/gometim.com/
 local=/gomo-shop.de/
 local=/gomodellbahn.com/
@@ -6175,6 +6181,7 @@ local=/huismeubilair.com/
 local=/humidifierverkauf.de/
 local=/hummelfootball.com/
 local=/hunde-maulkorb-store.de/
+local=/hundebedarfsale.com/
 local=/hundefutterliefern.com/
 local=/hundegeschirre-store.de/
 local=/hundekrone.de/

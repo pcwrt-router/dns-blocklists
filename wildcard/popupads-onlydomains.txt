@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 16:24 UTC
-# Version: 2026.0306.1624.37
+# Last modified: 07 Mar 2026 09:28 UTC
+# Version: 2026.0307.0928.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 54844
+# Number of entries: 54904
 #
 0.beer
 0.club
@@ -24,10 +24,12 @@
 0--4.com
 0--d.com
 0-0-0checkmate.com
+0-0-7.site
 0-0asia.com
 0-100mph.com
 0-2.net
 0-3.org
+0-31.com
 0-84.com
 0-9.net
 0-architecture.com
@@ -118,6 +120,7 @@
 000x000.com
 000xnxx.com
 000zf.com
+001.name
 001.sbs
 001.wiki
 0010.me
@@ -128,6 +131,7 @@
 0011kytt.com
 001223.com
 fd01ce9a02.0012e30263.com
+00138.com
 001416.com
 001448.com
 001559.com
@@ -202,6 +206,7 @@ fd01ce9a02.0012e30263.com
 00318.com
 0032bet.com
 0033.xyz
+003312.com
 003359.com
 003360.com
 003423.com
@@ -309,6 +314,7 @@ c2c4aecf0a.0073a85a5d.com
 008288.com
 00852110.com
 00859.com
+008607.com
 0086av.com
 0086jxw.com
 0086ok.com
@@ -475,6 +481,7 @@ c2c4aecf0a.0073a85a5d.com
 01419.com
 0142.biz
 01420.net
+0143.org
 01435.com
 0144.biz
 0146.org
@@ -613,6 +620,7 @@ c2c4aecf0a.0073a85a5d.com
 021lady.com
 021nhw.com
 021tour.com
+021travel.com
 021vpn.com
 021wts.com
 021wz.com
@@ -722,6 +730,7 @@ c2c4aecf0a.0073a85a5d.com
 029cu.com
 029game.com
 029tour.com
+02banzhu.com
 02cenemas.com
 02ch.com
 02ch.net
@@ -761,6 +770,7 @@ c2c4aecf0a.0073a85a5d.com
 03094.com
 030e.com
 031.me
+0310.me
 03105.com
 03121.com
 03132.com
@@ -1054,6 +1064,7 @@ ccc354db8e.05cb34d5f9.com
 05et.net
 05et.rocks
 05f3b6b187.com
+05jjc.com
 05kj.com
 05nia.com
 05r.com
@@ -1333,6 +1344,7 @@ bfa7591905.0cdf9706af.com
 0chong.net
 0chong2.com
 0cli.net
+0comic.com
 0credit.net
 0csu3.com
 0d0705c152.com
@@ -1586,6 +1598,7 @@ a6f50f55d7.0fbee846c6.com
 1-800-yes-suck.com
 1-800billion.com
 1-800billion.net
+1-800people.com
 1-800plowing.com
 1-800rates.com
 1-800recharged.com
@@ -1608,6 +1621,7 @@ a6f50f55d7.0fbee846c6.com
 1-sefon.pro
 1-up.fun
 1-up.me
+1-winbet.com
 1-ws.com
 1-xbet8720959.top
 1-xbet8937571.top
@@ -1643,6 +1657,8 @@ a6f50f55d7.0fbee846c6.com
 1000hires.com
 1000islandscruise.com
 1000islandsdistillery.com
+1000islandsmall.com
+1000lab.com
 1000lakesminnesota.com
 1000lb.club
 1000maine.com
@@ -1794,6 +1810,7 @@ a6f50f55d7.0fbee846c6.com
 100reasons2give.com
 100reasonstogive.com
 100routesacrossamerica.com
+100s1000s.com
 100sht.info
 100sihu.com
 100songs.net
@@ -1885,6 +1902,7 @@ a6f50f55d7.0fbee846c6.com
 1024fm.com
 1024go.us
 1024gongxiang.com
+1024huijia.com
 1024id.com
 1024mx.biz
 1024mx.info
@@ -2059,6 +2077,7 @@ a6f50f55d7.0fbee846c6.com
 10ecommercetrendssolutions.info
 10f55ab5ed.com
 10fastfingeres.com
+10fastfingers.net
 10fastgingers.com
 10freedownloads.com
 10fuli.com
@@ -2191,6 +2210,7 @@ a6f50f55d7.0fbee846c6.com
 11111a.net
 1111672.com
 111174.com
+1111al.com
 1111attire.com
 1111aura.com
 1111bonzi.com
@@ -2257,6 +2277,7 @@ a6f50f55d7.0fbee846c6.com
 1144161.com
 114514.net
 114679.com
+114central.com
 114dy.net
 114h5.com
 114jav.com
@@ -2458,6 +2479,7 @@ df90ddc549.118bf804e5.com
 12396keb.com
 12396rfv.com
 1239tt.com
+123amthuc.net
 123anime.net
 123avocat.com
 123avocats.com
@@ -2498,6 +2520,7 @@ df90ddc549.118bf804e5.com
 123face.net
 123fans.xyz
 123farms.com
+123fl.net
 123fox.net
 123foxmovies.com
 123fp.com
@@ -2506,6 +2529,7 @@ df90ddc549.118bf804e5.com
 123gbh.com
 123go.asia
 123go.online
+123gomovie.net
 123gomovies.net
 123hbo.com
 123hd.club
@@ -2530,6 +2554,7 @@ df90ddc549.118bf804e5.com
 123kubo.org
 123kupi.net
 123lagu.org
+123latex4free.com
 123lendingcorp.com
 123linsen.de
 123logmein.com
@@ -2553,6 +2578,7 @@ df90ddc549.118bf804e5.com
 123moviecc.mobi
 123moviecentral.com
 123moviefree.net
+123moviehd.net
 123moviehub.org
 123movienet.com
 123movierulz.com
@@ -2616,6 +2642,7 @@ df90ddc549.118bf804e5.com
 123moviesto4k.com
 123moviestofree.com
 123moviestream.com
+123moviestream.site
 123moviesu.com
 123moviesunblocked.net
 123moviesvip.com
@@ -2668,6 +2695,7 @@ df90ddc549.118bf804e5.com
 123vidz.com
 123watchfree.net
 123watchjav.com
+123watchmovie.com
 123watchmovies.net
 123works.com
 123wpwp.com
@@ -2800,6 +2828,7 @@ d2889ff380.12c9049c32.com
 1337games.net
 1337x.net
 1337x.ru
+1337xproxy.info
 133869008.com
 1338f95c76.com
 1338sanbruno.com
@@ -2857,6 +2886,7 @@ d2889ff380.12c9049c32.com
 139003.com
 1394store.com
 1396go.com
+139bpm.com
 139ce.com
 139dec.com
 139shoes.com
@@ -2890,6 +2920,7 @@ d2889ff380.12c9049c32.com
 13moviez-era.xyz
 13nn.net
 13one3.com
+13onup.com
 13p76nnir.de
 13porn.com
 13provenwaystomakemoneyinrealestate.com
@@ -2915,6 +2946,7 @@ d2889ff380.12c9049c32.com
 13xp.com
 14-18enlorraine.com
 14-pi.net
+1400-monroe.com
 1401home.com
 140ys.com
 1410555.com
@@ -2981,6 +3013,7 @@ d2889ff380.12c9049c32.com
 14nk.com
 14outdoorsmen.com
 14studies.org
+14textures.com
 14th.org
 14tharmoreddivision.org
 14thfloor.com
@@ -3154,6 +3187,7 @@ f3b712f1f4.16d9c2d09e.com
 171c856581.com
 171sex.com
 171starbucks.com
+171t.com
 17234.com
 17282cd89c.com
 172zy.net
@@ -3161,6 +3195,7 @@ f3b712f1f4.16d9c2d09e.com
 173lineage.com
 1748dejateseducir.com
 1755y.com
+1759y.xyz
 175black.com
 1764pub.com
 176622.com
@@ -3270,10 +3305,12 @@ pykrsz.17yaoqi.cc
 188wkzf.com
 188y188.com
 189090.com
+1890c4.com
 1895cc.com
 1898wilmington.com
 189922.com
 1899bbs.com
+1899n.com
 189av.com
 189ge.com
 189tutors.com
@@ -3291,6 +3328,7 @@ pykrsz.17yaoqi.cc
 18comic2.net
 18comic3.org
 18comicvip.com
+18cong.com
 18core.com
 18drive.com
 18e6f131f9.com
@@ -3331,6 +3369,7 @@ pykrsz.17yaoqi.cc
 18xing.com
 18xxx.info
 18xxx.net
+18xxx.top
 18xyx.com
 18yous.net
 18zaa.com
@@ -3357,6 +3396,7 @@ pykrsz.17yaoqi.cc
 192kb.com
 192tb.com
 192x.xyz
+192z.xyz
 1933brewing.com
 1934fordcoupe.com
 193808.com
@@ -3441,6 +3481,7 @@ pykrsz.17yaoqi.cc
 1ato.com
 796da77408.1b02555400.com
 1b12.com
+1b2k.info
 1b3tmfcbq.de
 1b87094b09.com
 1b9e934cbd.com
@@ -3452,6 +3493,7 @@ pykrsz.17yaoqi.cc
 1be953d1cc.com
 1betandgonow.com
 1betbet.com
+1bgx.com
 1bigred.com
 1billionbooks.com
 1blogspot.com
@@ -3477,6 +3519,7 @@ ef65c623b2.1c9ef7b121.com
 1d94c92a08073b1ccb5f7fefcdfd8d17c174076fd49c497db5419251.com
 1dayacademy.com
 1dayauction.com
+1daydream.com
 1db9fede5f.com
 1devshiftingretail.com
 1dnuzrfg.com
@@ -3528,6 +3571,7 @@ ef65c623b2.1c9ef7b121.com
 1j5syuz0.xyz
 1j771bhgi.de
 1jour1evenement.com
+1joycasino.club
 1jpbh5iht.de
 1jtb.com
 1k0ed0c7.xyz
@@ -3620,6 +3664,7 @@ fallback.1million-sp2.online
 1tyceq79r.com
 1v1lol.app
 1vcd.com
+1wage.top
 1waid.top
 1wallpaper.net
 1web.me
@@ -3631,6 +3676,7 @@ fallback.1million-sp2.online
 1wozlt.top
 1wpexs.top
 1wtz.com
+1wuwho.top
 1wzwbc.top
 1x001.com
 1x1x4.com
@@ -3641,6 +3687,7 @@ fallback.1million-sp2.online
 1xbet-0952652.top
 1xbet-rate.com
 1xbet-vn.com
+1xbetaffiliate.net
 1xbetbahis.net
 1xbetcanli.com
 1xbetonline.com
@@ -3902,6 +3949,7 @@ dfb523f308.25e664eaff.com
 2606.cc
 2609.cc
 260av.com
+263128.com
 2639iqjkl.de
 2666.me
 0225083fd4.26664d7709.com
@@ -4094,6 +4142,7 @@ polufredsoa.2mydns.net
 300slots.com
 300tangshi.com
 301.chat
+301redirect.site
 302game.com
 302kslgdl.de
 302motorsportz.com
@@ -4248,6 +4297,7 @@ test.365os.com
 366fr.com
 367p.com
 367tv.com
+369hezi.com
 36crazyfists.net
 b3c733588e.36dc612c23.com
 10f01c5188.36f822ca84.com
@@ -4302,6 +4352,7 @@ b3c733588e.36dc612c23.com
 3b687a4e49.com
 1f786dfce0.3b747f3802.com
 3b7c.com
+3bbuu.com
 3boys1blogandme.com
 3boyutludestek.org
 3brothersinlaw.com
@@ -4374,6 +4425,7 @@ discuz.3g2win.com
 3hdjnvjd11.cyou
 3hxestimator.org
 3j8c56p9.de
+3kalam.net
 3kx9j9l9oxbfp1-111noi40w.work
 3laenderfrauen.org
 3lasvegas.com
@@ -4423,6 +4475,7 @@ go1.3mre.work
 3x3eurotour.com
 3xbrh4rxsvbl.top
 3xgood.com
+truexxx.3xx.my
 3yokai.net
 4-slots.com
 40-yard-dash-times.com
@@ -4599,6 +4652,7 @@ b4efed32d2.4bd92c373a.com
 4claverie.com
 4co7mbsb.de
 4cz7ypl3.xyz
+4d-bmw.com
 46e543879f.4d15ae6889.com
 4752e0f296.4d2af59d17.com
 4dc005d17a.com
@@ -4678,6 +4732,7 @@ a962171d52.4e47af880e.com
 4satruck.org
 4seasonoutfitter.com
 4sexmail.com
+4shbab.net
 4techers.de
 4techtricuspid.com
 4th-circle.com
@@ -4697,6 +4752,7 @@ sk.4wank.com
 4wisemonkeys.com
 4wnet.com
 4wnetwork.com
+4y5t.com
 4ygglxwy1770.top
 4youdaily.com
 4yourinfo2.com
@@ -4829,7 +4885,9 @@ beta.5744.cc
 57zyazmk.jp
 5812afc7cb.com
 06b36b4508.5813e74b18.com
+58485332115d.com
 58485332675vo.com
+58485672585w.com
 584m.com
 585855.com
 58686728.xyz
@@ -4885,6 +4943,8 @@ c9c90f0ffa.5fc96ec3c7.com
 5ivy3ikkt.com
 5ixjf.top
 5k2d44.vip
+5mno3.com
+5movies.live
 5n2818fo5.xyz
 5nfc.net
 5nt1gx7o57.com

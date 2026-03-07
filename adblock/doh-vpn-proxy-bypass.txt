@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Mar 2026 16:45 UTC
-! Version: 2026.0306.1645.58
+! Last modified: 07 Mar 2026 10:51 UTC
+! Version: 2026.0307.1051.30
 ! Syntax: AdBlock
 ! Number of entries: 16340
 !
@@ -119,6 +119,7 @@
 ||httpdns.c.163.com^
 ||httpdns.music.163.com^
 ||23.106.141.137.16clouds.com^
+||16yd.com^
 ||jxzn.172896.xyz^
 ||vski.172896.xyz^
 ||1735r.ru^
@@ -10987,7 +10988,6 @@
 ||quasar.ub.phuri.cc^
 ||utopia.ub.phuri.cc^
 ||physicsbutfun.com^
-||piaproxy.com^
 ||piaproxy.net^
 ||piaservers.net^
 ||hr.picinel.ro^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772815500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772880660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,8 +10,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Mar 2026 16:45 UTC
-; Version: 2026.0306.1645.58
+; Last modified: 07 Mar 2026 10:51 UTC
+; Version: 2026.0307.1051.30
 ; Syntax: RPZ
 ; Number of entries: 32680
 ;
@@ -3345,6 +3345,8 @@ httpdns.music.163.com CNAME .
 *.httpdns.music.163.com CNAME .
 23.106.141.137.16clouds.com CNAME .
 *.23.106.141.137.16clouds.com CNAME .
+16yd.com CNAME .
+*.16yd.com CNAME .
 1aclash.com CNAME .
 *.1aclash.com CNAME .
 1clickvpn.com CNAME .
@@ -11229,8 +11231,6 @@ phproxysite.com CNAME .
 *.phproxysite.com CNAME .
 physicsbutfun.com CNAME .
 *.physicsbutfun.com CNAME .
-piaproxy.com CNAME .
-*.piaproxy.com CNAME .
 dns.pieterdherde.com CNAME .
 *.dns.pieterdherde.com CNAME .
 pingbeehive.com CNAME .
