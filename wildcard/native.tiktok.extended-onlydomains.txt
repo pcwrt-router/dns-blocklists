@@ -5,12 +5,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:10 UTC
-# Version: 2026.0227.1610.44
+# Last modified: 06 Mar 2026 16:57 UTC
+# Version: 2026.0306.1657.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 525
+# Number of entries: 527
 #
-mon-ru.tiktokv.com.blinkt.de
 frontier23-normal-alisg.tiktokv.com.bpgslb.com
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -93,6 +92,11 @@ tnc-va.capcutapi.com
 tnc-va-us-looki.capcutapi.com
 tnc16-normal-us-ttp.capcutapi.us
 frontier.capcutw.us
+mon-i18n.tiktokv.com.dvaitas.lt
+mon16-normal-no1a.tiktokv.eu.dvaitas.lt
+mon16-normal-useastred.tiktokv.eu.dvaitas.lt
+mcs-ie2.tiktokw.eu.dvaitas.lt
+mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 mcs-i18n.tiktok.com.edgekey.net
 mcs-sg.tiktok.com.edgekey.net
 mcs-va.tiktok.com.edgekey.net
@@ -197,8 +201,6 @@ mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
 mcs.tiktok-row.net
-p16-ad-site-sign-sg.tiktokcdn.com
-p19-ad-site-sign-sg.tiktokcdn.com
 sf16-ads-format-sign.tiktokcdn.com
 sf19-ads-format-sign.tiktokcdn.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com

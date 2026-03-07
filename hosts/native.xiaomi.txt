@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Feb 2026 16:14 UTC
-# Version: 2026.0220.1614.22
+# Last modified: 05 Mar 2026 16:38 UTC
+# Version: 2026.0305.1638.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 461
+# Number of entries: 470
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -243,6 +243,7 @@
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 feedback.d.xiaomi.com
 0.0.0.0 api.developer.xiaomi.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 extranet.c3.miui-l7-feedback.1irknwwveg.elb.xiaomi.com
 0.0.0.0 extranet.c3.feedback.2ddfrkx42q.elb.xiaomi.com
 0.0.0.0 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
@@ -255,6 +256,7 @@
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
 0.0.0.0 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
+0.0.0.0 ad.eu.xiaomi.com
 0.0.0.0 sdkconfig.ad.eu.xiaomi.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 lxcdn.dl.files.xiaomi.net
@@ -298,6 +300,7 @@
 0.0.0.0 ad.quickapp.hybrid.xiaomi.com
 0.0.0.0 i.xiaomi.com
 0.0.0.0 pi.ias.xiaomi.com
+0.0.0.0 ad.india.xiaomi.com
 0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 controller.india.xiaomi.com
 0.0.0.0 mistat.india.xiaomi.com
@@ -307,11 +310,15 @@
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 cc.ad.intl.xiaomi.com
+0.0.0.0 eu-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 globalreport.ad.intl.xiaomi.com
+0.0.0.0 in-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 mos-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 mosapi.ad.intl.xiaomi.com
 0.0.0.0 odml.ad.intl.xiaomi.com
+0.0.0.0 pixel.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sgp-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 sgpapi.ad.intl.xiaomi.com
 0.0.0.0 test.ad.intl.xiaomi.com
 0.0.0.0 mistat.intl.xiaomi.com
@@ -388,6 +395,7 @@
 0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 c3-bgp.pandora.xiaomi.com
 0.0.0.0 c3mini.pandora.xiaomi.com
+0.0.0.0 ad.cdn.pandora.xiaomi.com
 0.0.0.0 appstore.cdn.pandora.xiaomi.com
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
 0.0.0.0 image.cdn.pandora.xiaomi.com
@@ -445,6 +453,7 @@
 0.0.0.0 staging.stat.pt.xiaomi.com
 0.0.0.0 qiye.xiaomi.com
 0.0.0.0 sec.resource.xiaomi.net
+0.0.0.0 ad.rus.xiaomi.com
 0.0.0.0 sdkconfig.ad.rus.xiaomi.com
 0.0.0.0 mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com

@@ -1660,6 +1660,13 @@
       }
     },
     {
+      "PK": "blogsidea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogsky.com",
       "action": {
         "do": 0,
@@ -6966,13 +6973,6 @@
       }
     },
     {
-      "PK": "shohu.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "shop-pro.jp",
       "action": {
         "do": 0,
@@ -7274,13 +7274,6 @@
       }
     },
     {
-      "PK": "svsy.my",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "sweb.cz",
       "action": {
         "do": 0,
@@ -7569,6 +7562,13 @@
     },
     {
       "PK": "tripod.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ttblogs.com",
       "action": {
         "do": 0,
         "status": 1
@@ -8052,13 +8052,6 @@
     },
     {
       "PK": "wapka.website",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wapka.xyz",
       "action": {
         "do": 0,
         "status": 1

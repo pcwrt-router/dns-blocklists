@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Feb 2026 22:48 UTC
-! Version: 2026.0228.2248.48
+! Last modified: 06 Mar 2026 16:15 UTC
+! Version: 2026.0306.1615.30
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -91,7 +91,7 @@
 ||dog^$doc,domain=~chainsawman.dog|~heika.dog|~misskey.dog|~telegram.dog
 ||download^$doc,domain=~caido.download|~kali.download|~mkvtoolnix.download|~orangefox.download|~up4ever.download|~upfiles.download
 ||dpdns.org^$doc
-||eco^$doc,domain=~elli.eco|~mer.eco|~play.eco
+||eco^$doc,domain=~auk.eco|~elli.eco|~mer.eco|~play.eco
 ||edu.eu^$doc
 ||engineer^$doc
 ||enterprises^$doc
@@ -242,7 +242,7 @@
 ||shop^$doc,domain=~11ts.shop|~30grad.shop|~4id.shop|~aloedent.shop|~axisms.shop|~buergerspital.shop|~chessvibes.shop|~derweinladen.shop|~domainname.shop|~domene.shop|~durst.shop|~elbsand.shop|~epicdesk.shop|~eventix.shop|~freshtorge.shop|~frontiers.shop|~funk-dichtungstechnik.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~kalypso.shop|~majblomman.shop|~munu.shop|~music-merchant.shop|~myshopline.shop|~neurosama.shop|~nocut.shop|~nordland.shop|~owl-dampfer.shop|~oxiline.shop|~prohibited.shop|~schweden.shop|~scorpions.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~weinbibliothek.shop|~weinwunder.shop|~wielrenner.shop|~winefactory.shop|~xn--dnemark-5wa.shop
 ||shopping^$doc
 ||show^$doc,domain=~camz.show|~j.show
-||site^$doc,domain=~7mb.site|~additive-apps.site|~aftermath.site|~anonimayzer.site|~bio.site|~canva.site|~claude.site|~edgeone.site|~fbsmarthome.site|~gov-img.site|~heimdall.site|~heyflow.site|~i5i.site|~kaylees.site|~leafbrowser.site|~miteru.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~shopapps.site|~srht.site|~toast.site|~tst.site|~turkvetka.site|~wishonly.site|~wolow.site|~wpdns.site
+||site^$doc,domain=~additive-apps.site|~aftermath.site|~anonimayzer.site|~bio.site|~canva.site|~claude.site|~edgeone.site|~fbsmarthome.site|~gov-img.site|~heimdall.site|~heyflow.site|~i5i.site|~kaylees.site|~leafbrowser.site|~miteru.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~shopapps.site|~srht.site|~toast.site|~tst.site|~wishonly.site|~wolow.site|~wpdns.site
 ||skin^$doc
 ||solar^$doc,domain=~forecast.solar|~optimizer.solar
 ||soy^$doc

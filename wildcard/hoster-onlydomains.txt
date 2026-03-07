@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 10:17 UTC
-# Version: 2026.0304.1017.39
+# Last modified: 06 Mar 2026 17:34 UTC
+# Version: 2026.0306.1734.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 1274
+# Number of entries: 1273
 #
 000a.de
 000space.com
@@ -241,6 +241,7 @@ bloggt.de
 blogia.com
 blogmaster.net
 blogmonster.de
+blogsidea.com
 blogsky.com
 blogspot.ae
 blogspot.al
@@ -1013,7 +1014,6 @@ service.lc
 share.lc
 sharkserve.com
 shivtr.com
-shohu.shop
 shop.co
 shop.fm
 shop-pro.jp
@@ -1055,7 +1055,6 @@ suchtis.de
 superweb.ws
 surge.sh
 sv.gp
-svsy.my
 sweb.cz
 sxx.in
 synergize.co
@@ -1098,6 +1097,7 @@ trackfinanceworld.com
 trend.in
 tribalpages.com
 tripod.com
+ttblogs.com
 turbo.site
 turkish.lc
 tuxfamily.org
@@ -1166,7 +1166,6 @@ wapka.site
 wapka.store
 wapka.top
 wapka.website
-wapka.xyz
 web.gg
 web.pe
 h4g3z1-hoster.web.app

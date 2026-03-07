@@ -5,12 +5,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:09 UTC
-# Version: 2026.0227.1609.52
+# Last modified: 06 Mar 2026 16:56 UTC
+# Version: 2026.0306.1656.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 383
+# Number of entries: 382
 #
-0.0.0.0 mon-ru.tiktokv.com.blinkt.de
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-va.byteoversea.com
@@ -83,6 +82,8 @@
 0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 frontier.capcutw.us
+0.0.0.0 mon-i18n.tiktokv.com.dvaitas.lt
+0.0.0.0 mcs-ie2.tiktokw.eu.dvaitas.lt
 0.0.0.0 mon-boot.tiktokv.com.edgekey.net
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 0.0.0.0 frontier.capcutw.us.edgesuite.net
@@ -160,8 +161,6 @@
 0.0.0.0 mcs.us.tiktok.com
 0.0.0.0 mcs-ttp2.us.tiktok.com
 0.0.0.0 mssdk.us.tiktok.com
-0.0.0.0 p16-ad-site-sign-sg.tiktokcdn.com
-0.0.0.0 p19-ad-site-sign-sg.tiktokcdn.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us

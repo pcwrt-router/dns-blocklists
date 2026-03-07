@@ -57,6 +57,27 @@
       }
     },
     {
+      "PK": "ad.cdn.pandora.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad.eu.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad.india.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad.intl.xiaomi.com",
       "action": {
         "do": 0,
@@ -86,6 +107,13 @@
     },
     {
       "PK": "ad.quickapp.hybrid.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad.rus.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -233,6 +261,13 @@
     },
     {
       "PK": "api.developer.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "api.device.xiaomi.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1878,27 +1913,6 @@
     },
     {
       "PK": "sdk-cache.video.ptqy.gitv.tv",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sdkconfig.ad.eu.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sdkconfig.ad.india.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sdkconfig.ad.rus.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

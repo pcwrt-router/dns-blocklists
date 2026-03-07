@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 11:07 UTC
-# Version: 2026.0304.1107.11
+# Last modified: 05 Mar 2026 10:54 UTC
+# Version: 2026.0305.1054.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3463
+# Number of entries: 3457
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2773,7 +2773,6 @@ local=/dns.rinux.win/
 local=/rjaldorau.com/
 local=/dns.rjls.me/
 local=/adguard.rjscho.net/
-local=/caddy.rkn.icu/
 local=/zetland.rm-ni.uk/
 local=/sudo.rm-rf.cloud/
 local=/adguard.ro0t.us/
@@ -2967,7 +2966,6 @@ local=/dns2.srv-home.fr/
 local=/resolve.srv-pro.de/
 local=/resolve02.srv-pro.de/
 local=/resolve2.srv-pro.de/
-local=/doh.srv00.com/
 local=/adguard.sscw.win/
 local=/ssh-storage.ru/
 local=/dns.sshub.win/
@@ -2990,7 +2988,6 @@ local=/dns.stormycloud.org/
 local=/adguard.strafer.dk/
 local=/strangerandomdomain1.space/
 local=/strassmair.org/
-local=/media.streamfusion.online/
 local=/adguard.streamlas.fr/
 local=/dns.streamsmoke.com/
 local=/dns.streamvine.app/
@@ -3097,7 +3094,6 @@ local=/dns.thebuckners.org/
 local=/dns.thedayg0ne.ru/
 local=/thefamilypuls.com/
 local=/guard.thefather.cloud/
-local=/beta.thegodfatheriam.shop/
 local=/dns.thegoodsource.net/
 local=/adguard.theil.dev/
 local=/yh.themcgoughs.org/
@@ -3120,7 +3116,6 @@ local=/tigrons.ru/
 local=/dns.timboeh.me/
 local=/timedns.net/
 local=/ad.timefine.org/
-local=/dns.timkevin.us/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
 local=/dns1.timothy-dev.com/
@@ -3257,7 +3252,6 @@ local=/httpdns.volcengineapi.com/
 local=/dns.volsap.ovh/
 local=/vpn0109.voodonline.fr/
 local=/vorlif.org/
-local=/dns.vortexstore.cloud/
 local=/vpn.vosjes.cloud/
 local=/adguard.vozersky.com/
 local=/killads.vpms.xyz/

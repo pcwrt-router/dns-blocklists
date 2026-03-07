@@ -3,7 +3,6 @@
 ```
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-https://big.oisd.nl
 https://botvrij.eu/data/ioclist.hostname
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
 https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt
@@ -101,7 +100,6 @@ https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/d
 https://raw.githubusercontent.com/arkynx/blocklists/refs/heads/main/gambling-domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
@@ -117,7 +115,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/custom/is.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
-https://raw.githubusercontent.com/BrigsLabs/judol/main/judol_domains.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
@@ -257,9 +254,11 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2025.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2026.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets//master/filters/ubol-filters.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 10:17 UTC
-# Version: 2026.0304.1017.39
+# Last modified: 06 Mar 2026 17:34 UTC
+# Version: 2026.0306.1734.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1274
+# Number of entries: 1273
 #
 local=/000a.de/
 local=/000space.com/
@@ -241,6 +241,7 @@ local=/bloggt.de/
 local=/blogia.com/
 local=/blogmaster.net/
 local=/blogmonster.de/
+local=/blogsidea.com/
 local=/blogsky.com/
 local=/blogspot.ae/
 local=/blogspot.al/
@@ -1013,7 +1014,6 @@ local=/service.lc/
 local=/share.lc/
 local=/sharkserve.com/
 local=/shivtr.com/
-local=/shohu.shop/
 local=/shop.co/
 local=/shop.fm/
 local=/shop-pro.jp/
@@ -1055,7 +1055,6 @@ local=/suchtis.de/
 local=/superweb.ws/
 local=/surge.sh/
 local=/sv.gp/
-local=/svsy.my/
 local=/sweb.cz/
 local=/sxx.in/
 local=/synergize.co/
@@ -1098,6 +1097,7 @@ local=/trackfinanceworld.com/
 local=/trend.in/
 local=/tribalpages.com/
 local=/tripod.com/
+local=/ttblogs.com/
 local=/turbo.site/
 local=/turkish.lc/
 local=/tuxfamily.org/
@@ -1166,7 +1166,6 @@ local=/wapka.site/
 local=/wapka.store/
 local=/wapka.top/
 local=/wapka.website/
-local=/wapka.xyz/
 local=/web.gg/
 local=/web.pe/
 local=/h4g3z1-hoster.web.app/

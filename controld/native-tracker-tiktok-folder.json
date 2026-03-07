@@ -1170,6 +1170,13 @@
       }
     },
     {
+      "PK": "mcs-ie2.tiktokw.eu.dvaitas.lt",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mcs-ie.tiktokw.eu",
       "action": {
         "do": 0,
@@ -1359,6 +1366,13 @@
       }
     },
     {
+      "PK": "mon-i18n.tiktokv.com.dvaitas.lt",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-phx.tiktokv.com",
       "action": {
         "do": 0,
@@ -1367,13 +1381,6 @@
     },
     {
       "PK": "mon-ru.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mon-ru.tiktokv.com.blinkt.de",
       "action": {
         "do": 0,
         "status": 1
@@ -1584,20 +1591,6 @@
     },
     {
       "PK": "p16-ad.byteoversea.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "p16-ad-site-sign-sg.tiktokcdn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "p19-ad-site-sign-sg.tiktokcdn.com",
       "action": {
         "do": 0,
         "status": 1

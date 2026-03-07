@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Mar 2026 09:37 UTC
-# Version: 2026.0303.0937.49
+# Last modified: 06 Mar 2026 09:41 UTC
+# Version: 2026.0306.0941.13
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1927
+# Number of entries: 1933
 #
 1-aclk.net
 1aurl.io
@@ -451,6 +451,7 @@ convertkit.com
 convertkit-mail.com
 click.convertkit-mail.com
 1accc1c9.click.convertkit-mail.com
+8534faf0.click.convertkit-mail.com
 c09f5da1.click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
@@ -479,6 +480,7 @@ ed9688f7.click.convertkit-mail2.com
 fff97757.click.convertkit-mail2.com
 el2.convertkit-mail2.com
 open.convertkit-mail2.com
+03056abb.open.convertkit-mail2.com
 0d31423c.open.convertkit-mail2.com
 13924f41.open.convertkit-mail2.com
 16b0ec2b.open.convertkit-mail2.com
@@ -982,6 +984,7 @@ group0.sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
 142290803.sites.hscoscdn-eu1.net
+143168578.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
 144407123.sites.hscoscdn-eu1.net
@@ -995,6 +998,7 @@ sites.hscoscdn-eu1.net
 25252834.sites.hscoscdn-eu1.net
 25306451.sites.hscoscdn-eu1.net
 25357283.sites.hscoscdn-eu1.net
+25378200.sites.hscoscdn-eu1.net
 25385986.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
 25874232.sites.hscoscdn-eu1.net
@@ -1010,6 +1014,7 @@ sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
 142290803.group0.sites.hscoscdn-eu1.net
 143338098.group0.sites.hscoscdn-eu1.net
+143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
@@ -1134,6 +1139,7 @@ de-go.kelkoogroup.net
 es-go.kelkoogroup.net
 fr-go.kelkoogroup.net
 gr-go.kelkoogroup.net
+hu-go.kelkoogroup.net
 in-go.kelkoogroup.net
 it-go.kelkoogroup.net
 nl-go.kelkoogroup.net

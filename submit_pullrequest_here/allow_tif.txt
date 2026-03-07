@@ -41,6 +41,7 @@ jjpool.fr
 # Wrong
 *.activehosted.com
 *.aritypmp.com
+*.bdtelemetry.amazon
 *.bigdig.energy
 *.blazingcdn.com
 *.cloudhost.id
@@ -51,6 +52,7 @@ jjpool.fr
 *.elementor.cloud
 *.genyoutube.online
 *.githubusercontent.com
+*.gofile.io
 *.gov-static.tech
 *.qcloudteo.com
 *.santandermedia.com
@@ -69,12 +71,14 @@ cdnbo.org
 creative.eagllwin.com
 dub.sh
 file.garden
+inappi.co
 log.eporner.com
 obfusgated.com
 pushub.net
 s.opoxv.com
 speedtest.specificnet.com
 speedtest1.net.encoline.de
+streamingcommunityz.gdn
 tr.aonetrk.com
 tracker.1h.is
 tracker.istole.it

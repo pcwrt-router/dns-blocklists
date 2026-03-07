@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Feb 2026 16:14 UTC
-# Version: 2026.0220.1614.22
+# Last modified: 05 Mar 2026 16:38 UTC
+# Version: 2026.0305.1638.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 352
+# Number of entries: 354
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -184,6 +184,7 @@ local=/bugreport.xiaomi.net/
 local=/bgp.fe01.c3.xiaomi.com/
 local=/d.xiaomi.com/
 local=/api.developer.xiaomi.com/
+local=/api.device.xiaomi.net/
 local=/extranet.c3.miui-l7-feedback.1irknwwveg.elb.xiaomi.com/
 local=/extranet.c3.feedback.2ddfrkx42q.elb.xiaomi.com/
 local=/extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com/
@@ -196,7 +197,7 @@ local=/extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com/
 local=/extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com/
 local=/extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com/
 local=/extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com/
-local=/sdkconfig.ad.eu.xiaomi.com/
+local=/ad.eu.xiaomi.com/
 local=/cdn.exp.xiaomi.com/
 local=/lxcdn.dl.files.xiaomi.net/
 local=/data.game.xiaomi.com/
@@ -227,7 +228,7 @@ local=/api.hybrid.xiaomi.com/
 local=/ad.quickapp.hybrid.xiaomi.com/
 local=/i.xiaomi.com/
 local=/pi.ias.xiaomi.com/
-local=/sdkconfig.ad.india.xiaomi.com/
+local=/ad.india.xiaomi.com/
 local=/controller.india.xiaomi.com/
 local=/mistat.india.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
@@ -286,6 +287,7 @@ local=/box.pandora.xiaomi.com/
 local=/bss.pandora.xiaomi.com/
 local=/c3-bgp.pandora.xiaomi.com/
 local=/c3mini.pandora.xiaomi.com/
+local=/ad.cdn.pandora.xiaomi.com/
 local=/appstore.cdn.pandora.xiaomi.com/
 local=/gallery.cdn.pandora.xiaomi.com/
 local=/image.cdn.pandora.xiaomi.com/
@@ -339,7 +341,7 @@ local=/staging-analyze.pt.xiaomi.com/
 local=/staging.stat.pt.xiaomi.com/
 local=/qiye.xiaomi.com/
 local=/sec.resource.xiaomi.net/
-local=/sdkconfig.ad.rus.xiaomi.com/
+local=/ad.rus.xiaomi.com/
 local=/mistat.rus.xiaomi.com/
 local=/mlog.search.xiaomi.net/
 local=/api.miui.security.xiaomi.com/

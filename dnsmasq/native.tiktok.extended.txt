@@ -5,12 +5,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:10 UTC
-# Version: 2026.0227.1610.44
+# Last modified: 06 Mar 2026 16:57 UTC
+# Version: 2026.0306.1657.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 525
+# Number of entries: 527
 #
-local=/mon-ru.tiktokv.com.blinkt.de/
 local=/frontier23-normal-alisg.tiktokv.com.bpgslb.com/
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -93,6 +92,11 @@ local=/tnc-va.capcutapi.com/
 local=/tnc-va-us-looki.capcutapi.com/
 local=/tnc16-normal-us-ttp.capcutapi.us/
 local=/frontier.capcutw.us/
+local=/mon-i18n.tiktokv.com.dvaitas.lt/
+local=/mon16-normal-no1a.tiktokv.eu.dvaitas.lt/
+local=/mon16-normal-useastred.tiktokv.eu.dvaitas.lt/
+local=/mcs-ie2.tiktokw.eu.dvaitas.lt/
+local=/mcs16-normal-no1a.tiktokw.eu.dvaitas.lt/
 local=/mcs-i18n.tiktok.com.edgekey.net/
 local=/mcs-sg.tiktok.com.edgekey.net/
 local=/mcs-va.tiktok.com.edgekey.net/
@@ -197,8 +201,6 @@ local=/mcs.us.tiktok.com/
 local=/mcs-ttp2.us.tiktok.com/
 local=/mssdk.us.tiktok.com/
 local=/mcs.tiktok-row.net/
-local=/p16-ad-site-sign-sg.tiktokcdn.com/
-local=/p19-ad-site-sign-sg.tiktokcdn.com/
 local=/sf16-ads-format-sign.tiktokcdn.com/
 local=/sf19-ads-format-sign.tiktokcdn.com/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com/

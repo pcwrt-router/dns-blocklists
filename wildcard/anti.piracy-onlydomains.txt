@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Mar 2026 11:02 UTC
-# Version: 2026.0304.1102.01
+# Last modified: 06 Mar 2026 16:47 UTC
+# Version: 2026.0306.1647.12
 # Syntax: Domains (without subdomains)
-# Number of entries: 11618
+# Number of entries: 11592
 #
 tracker.guguan.000.pe
 003396815.xyz
@@ -340,6 +340,7 @@ admin.52ywp.com
 654321.best
 661321.xyz
 66387795cyr.com
+67sports.net
 67streams.online
 6ahddutb1ucc3cp.ru
 6box.me
@@ -880,6 +881,7 @@ ankeschwarz.net
 annas-archive.cc
 annas-archive.gs
 annas-archive.li
+annas-archive.pk
 anonboot.com
 anonsecurityteam.com
 private.anonseed.com
@@ -1009,6 +1011,7 @@ arcflix.net
 archivx.to
 arconaitv.us
 area51.to
+areagame.net
 arena-tr.com
 arenabg.ch
 arenabg.com
@@ -1946,6 +1949,7 @@ cineby.sbs
 cineby.shop
 cineby.wiki
 cineby.work
+cinecalidad.am
 cinecalidad.is
 cineez.com
 cineflix.rip
@@ -2363,6 +2367,8 @@ icc.crictime.is
 tv.crictime.is
 u4.trakx.crim.ist
 crimsonfansubs.com
+crimsonstorm18.live
+crimsonstorm18.pro
 critical-boot.com
 crnaberza.com
 crocdb.net
@@ -2695,6 +2701,7 @@ dlhd.dad
 dlhd.link
 dlpsgame.com
 dlstream.com
+dlstreams.top
 dlxbgame.com
 tracker.dm258.cn
 tracker.dmcomic.org
@@ -3310,6 +3317,7 @@ eurostreamings.space
 eurostreamings.store
 eurostreamings.top
 eurostreamings.vip
+eurostreamings.wiki
 bt.eutorrents.com
 ev01.net
 ev01.to
@@ -4274,6 +4282,8 @@ gk-network.net
 gktorrent.io
 gktorrent.pw
 gktorrents.cc
+glacierfalcon72.site
+glacierfalcon72.xyz
 cinetide.glitch.me
 gload.cc
 gload.to
@@ -4304,7 +4314,11 @@ goem.org
 gofilmes.me
 gofrag.ru
 gog-games.to
+gogo-flix.art
 gogo-flix.cam
+gogo-flix.fit
+gogo-flix.ink
+gogo-flix.online
 gogo-stream.com
 gogoanime.in
 gogoanime.io
@@ -4571,6 +4585,7 @@ hdfilme.cloud
 hdfilme.cx
 hdfilme.food
 hdfilme.io
+hdfilme.party
 hdfilme.press
 hdfilme.ru
 hdfilme.to
@@ -4579,6 +4594,7 @@ hdfilme.tv
 hdfilme.uno
 hdfilme-to.my
 hdfilme-to.top
+hdfilme-tv.cc
 hdfreaks.cc
 hdfull.lv
 hdhome.org
@@ -7886,7 +7902,6 @@ raidrush.ws
 docker-tracker-production.up.railway.app
 x7x.up.railway.app
 rainbownetworkbd.com
-raindust78.online
 rainfallpath36.site
 rainierland.to
 rainorbit33.xyz
@@ -8384,7 +8399,6 @@ seriesflix.pro
 seriesflix.rest
 seriesflix.sbs
 seriesflix.skin
-seriesflix.space
 seriesflix.taxi
 seriesflix.team
 seriesflix.top
@@ -8443,6 +8457,7 @@ shadowpanda3.live
 tracker.shadowthein.net
 shahhid4u.ink
 shahidrazi.online
+shahiid4u.beauty
 shahiid4u.net
 shaid4u.day
 shanaproject.com
@@ -8814,7 +8829,6 @@ sportsurgers.net
 sportsurges.com
 sportsurges.online
 sportsurgev34.shop
-sporttuna.online
 sporttuna.pro
 sporttuna.sx
 sportyhunter.com
@@ -8887,7 +8901,6 @@ sto-board.org
 stoigr.org
 stopstreamtv.net
 storeplayapk.com
-stormcurve61.site
 stormfox27.live
 stormshade84.live
 stormwhirl73.site
@@ -8947,7 +8960,6 @@ streamed.su
 streamees.com
 streamerflix.xyz
 streamflix.one
-streamflix.space
 streamfree.app
 streamgoblin.com
 streamhls.click
@@ -9014,10 +9026,8 @@ streamingcommunity.fm
 streamingcommunity.foo
 streamingcommunity.football
 streamingcommunity.free
-streamingcommunity.fund
 streamingcommunity.garden
 streamingcommunity.help
-streamingcommunity.hiphop
 streamingcommunity.icu
 streamingcommunity.info
 streamingcommunity.io
@@ -9045,7 +9055,6 @@ streamingcommunity.plus
 streamingcommunity.promo
 streamingcommunity.pw
 streamingcommunity.qpon
-streamingcommunity.red
 streamingcommunity.repair
 streamingcommunity.report
 streamingcommunity.rest
@@ -9093,6 +9102,7 @@ streamingcommunityz.digital
 streamingcommunityz.download
 streamingcommunityz.email
 streamingcommunityz.fun
+streamingcommunityz.gdn
 streamingcommunityz.gold
 streamingcommunityz.golf
 streamingcommunityz.guru
@@ -9139,12 +9149,7 @@ streamiz.rip
 streamiz-filmze.com
 streamizfilm.fr
 streamking.eu
-streamkiste.club
-streamkiste.fun
 streamkiste.net
-streamkiste.pro
-streamkiste.pw
-streamkiste.site
 streamkiste.space
 streamkiste.taxi
 streamlairtv.com
@@ -9172,7 +9177,6 @@ streamwatch.online
 streamwatchfree.com
 streamway.org
 streamwish.to
-streamwoop.club
 streamwoop.com
 streamworld.co
 streamworld.ws
@@ -9200,7 +9204,6 @@ strikeout.im
 strimsy.top
 strmd.link
 strmup.to
-strumyk.icu
 strumyk.net
 strumyk.tv
 stuckgamer.com
@@ -9218,15 +9221,12 @@ sumotorrent.com
 sumotorrent.sx
 sumotracker.org
 nagios.tks.sumy.ua
-sun123.tv
 sun4mile.asia
 sunfogburst12.xyz
-sunhaze44.site
 sunnymovies.site
 sunonlinebd.com
 sunplex.net
 sunset-dragons.com
-sunsetline07.online
 sunveil63.live
 sunxdcc.com
 super-warez.eu
@@ -9311,7 +9311,6 @@ tantifilm.biz
 tantifilm.blog
 tantifilm.buzz
 tantifilm.casa
-tantifilm.center
 tantifilm.claims
 tantifilm.click
 tantifilm.club
@@ -9428,10 +9427,8 @@ tfp.is
 tfpdl.se
 tfpdl.to
 tfreeca22.com
-tgx.rs
 thagoat.rocks
 the-eye.eu
-the-piratebay.com
 the-piratebay.org
 the-pop-corn-time.net
 the-potato.net
@@ -9461,7 +9458,6 @@ theflixertv.to
 thegeeks.bz
 thegeeks.click
 thegft.org
-openstream.thegrass.xyz
 torrent.thegreatbeyond.net
 stream.thehairy.me
 thehawks.org
@@ -9486,7 +9482,6 @@ themfire.pro
 themicrotech.net
 themirror.wiki
 themixingbowl.org
-themovie123.com
 themovie123.org
 themoviebay.net
 themoviehub.org
@@ -9604,7 +9599,6 @@ thjpg8.top
 thjpg9.top
 thm3u8.com
 thotbay.tv
-thotfans.tv
 thots.tv
 thotshub.tv
 thotvids.tv
@@ -9759,7 +9753,6 @@ torrent-damage.net
 torrent-finder.com
 torrent-finder.info
 torrent-games.best
-torrent-games.co
 torrent-games.games
 torrent-hitz.de
 torrent-igruha.org
@@ -9981,7 +9974,6 @@ totaldownloader.it
 totalsportek.ac
 totalsportek.at
 totalsportek.me
-totalsportek.one
 totalsporteklive.net
 totalsporteks.net
 totaltorrents.com
@@ -10191,7 +10183,6 @@ ufs.pt
 ugda.online
 piracitoplista.ugu.pl
 uhdbits.org
-uhdmovies.beer
 uhdmovies.dad
 uhdmovies.earth
 uhdmovies.icu
@@ -10436,7 +10427,6 @@ vdey.de
 vdiiy.space
 vdomela.com
 vdos-s.co
-vdos-s.com
 tracker.vectahosting.eu
 veday.fun
 vedek.pro
@@ -10452,7 +10442,6 @@ vegamovies.art
 vegamovies.asia
 vegamovies.at
 vegamovies.auction
-vegamovies.ax
 vegamovies.ba
 vegamovies.band
 vegamovies.bargains
@@ -10462,7 +10451,6 @@ vegamovies.bike
 vegamovies.bio
 vegamovies.bj
 vegamovies.black
-vegamovies.blue
 vegamovies.boo
 vegamovies.bot
 vegamovies.build
@@ -10494,7 +10482,6 @@ vegamovies.cv
 vegamovies.dating
 vegamovies.day
 vegamovies.degree
-vegamovies.design
 vegamovies.dev
 vegamovies.directory
 vegamovies.dog
@@ -10517,9 +10504,7 @@ vegamovies.forex
 vegamovies.forum
 vegamovies.free
 vegamovies.frl
-vegamovies.games
 vegamovies.gd
-vegamovies.ge
 vegamovies.gf
 vegamovies.gift
 vegamovies.gives
@@ -10619,7 +10604,6 @@ vegamovies.tw
 vegamovies.tz
 vegamovies.uno
 vegamovies.uy
-vegamovies.uz
 vegamovies.vacations
 vegamovies.ventures
 vegamovies.vg
@@ -10634,7 +10618,6 @@ vegamovies.work
 vegamovies.works
 vegamovies.wtf
 vegamovies.xin
-vegamovies.xxx
 vegamovies.yoga
 vegamovies.yt
 vegamovies.zip
@@ -10838,7 +10821,6 @@ voe-network.net
 voeunblk.com
 voidboost.tv
 voir-seriestreaming.org
-voirdrama.org
 voirfilm.vip
 voirfilms.al
 voirfilms.io
@@ -10866,7 +10848,6 @@ vostfree.ws
 vostfrstreaming.com
 voxfilmeonline.biz
 voxhost.fr
-vpnfortorrents.page
 vpnmentor.com
 tracker.vraphim.com
 vrcarena.com
@@ -10973,7 +10954,6 @@ watch-free.tv
 watch-series.co
 watch-tvseries.net
 watch0123movies.org
-watch32.is
 watch32hd.co
 watch32hd.org
 watchanimeworld.net
@@ -11107,7 +11087,6 @@ win-torrent.net
 win7dl.org
 win7games.com
 fr.winantispyware.com
-windcurve65.site
 windglow99.pro
 windows-11.net
 windows-torrent.com
@@ -11226,7 +11205,6 @@ xcine.tv
 xcine-tv.com
 xcinema.ro
 xd-movie.com
-xdcc.eu
 xducaytr.com
 xdude.net
 tracker.xdvdz.com
@@ -11330,12 +11308,10 @@ yesmovies.agency
 yesmovies.app
 yesmovies.asia
 yesmovies.at
-yesmovies.baby
 yesmovies.cfd
 yesmovies.cloud
 yesmovies.com
 yesmovies.do
-yesmovies.email
 yesmovies.fun
 yesmovies.gg
 yesmovies.id
@@ -11343,7 +11319,6 @@ yesmovies.io
 yesmovies.is
 yesmovies.lat
 yesmovies.lol
-yesmovies.love
 yesmovies.media
 yesmovies.mn
 yesmovies.my
@@ -11369,7 +11344,9 @@ yesmovies.zone
 yesnetcommunication.com
 yeyemo.info
 yflix.to
+ygg.gratis
 ygg.re
+yggleak.top
 yggtorrent.com
 yggtorrent.fi
 yggtorrent.is
@@ -11391,7 +11368,6 @@ yifymovietorrent.com
 yifystatus.com
 yifysub.net
 yifysubtitles.me
-yifysubtitles.vip
 yifytorrent.cc
 yifytorrent.vip
 ymovies.se
@@ -11512,7 +11488,6 @@ zalukaj.cc
 zalukaj.film
 zalukaj.pl
 zalukaj.tv
-zalukaj-pl.com
 zalukaj-pl.tv
 zalukaj-tv.pl
 zalukaj-vip.pl
@@ -11623,7 +11598,6 @@ ztracker.hu
 tr.zukizuki.org
 tracker.zum.bi
 zumods.com
-tracker.zupix.online
 zxcprime.icu
 zxcstream.xyz
 zxonlinebd.com

@@ -974,13 +974,6 @@
       }
     },
     {
-      "PK": "ecs.nel.measure.office.net.cz.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "euc-excel-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1135,21 +1128,14 @@
       }
     },
     {
-      "PK": "exo.nel.measure.office.net.cz.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "exo.nel.measure.office.net.in.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "exo.nel.measure.office.net.sw.buhl-data.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "exo.nel.measure.office.net.us.intinfra.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1262,13 +1248,6 @@
     },
     {
       "PK": "i1.services.social.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "identity.nel.measure.office.net.cz.intinfra.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1492,13 +1471,6 @@
       }
     },
     {
-      "PK": "m365cdn.nel.measure.office.net.cz.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "measure.office.com",
       "action": {
         "do": 0,
@@ -1527,7 +1499,21 @@
       }
     },
     {
+      "PK": "measure.office.net.cz.intinfra.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "measure.office.net.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "measure.office.net.in.intinfra.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1626,13 +1612,6 @@
     },
     {
       "PK": "office-events-data.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "officehub.nel.measure.office.net.cz.intinfra.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2241,13 +2220,6 @@
       }
     },
     {
-      "PK": "spo.nel.measure.office.net.cz.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "spynet2.microsoft.com",
       "action": {
         "do": 0,
@@ -2347,13 +2319,6 @@
     },
     {
       "PK": "teams-events-data.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "teams.nel.measure.office.net.cz.intinfra.com",
       "action": {
         "do": 0,
         "status": 1

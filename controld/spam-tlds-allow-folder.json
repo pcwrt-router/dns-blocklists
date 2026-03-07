@@ -99,13 +99,6 @@
       }
     },
     {
-      "PK": "7mb.site",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "acro.website",
       "action": {
         "do": 1,
@@ -401,6 +394,13 @@
     },
     {
       "PK": "assettocorsa.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "auk.eco",
       "action": {
         "do": 1,
         "status": 1
@@ -5518,13 +5518,6 @@
     },
     {
       "PK": "tts.monster",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "turkvetka.site",
       "action": {
         "do": 1,
         "status": 1

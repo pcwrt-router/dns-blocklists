@@ -98,13 +98,6 @@
       }
     },
     {
-      "PK": "7mb.site",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "acro.website",
       "action": {
         "do": 1,
@@ -451,6 +444,13 @@
       "PK": "*.auction",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "auk.eco",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -7311,13 +7311,6 @@
       "PK": "*.tube",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "turkvetka.site",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },
