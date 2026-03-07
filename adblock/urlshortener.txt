@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Mar 2026 21:32 UTC
-! Version: 2026.0306.2132.29
+! Last modified: 07 Mar 2026 09:33 UTC
+! Version: 2026.0307.0933.09
 ! Syntax: AdBlock
-! Number of entries: 9930
+! Number of entries: 9932
 !
 ||0.gp^
 ||00m.in^
@@ -31,6 +31,7 @@
 ||0a.sk^
 ||0a0.uk^
 ||0bs.de^
+||0i.is^
 ||0ln.eu^
 ||0ln.io^
 ||0o.lv^
@@ -277,6 +278,7 @@
 ||4b.is^
 ||4bio.cc^
 ||4d2.link^
+||4e.fi^
 ||4eq.ir^
 ||4etch.com^
 ||4ev.link^

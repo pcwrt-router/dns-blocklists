@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Mar 2026 11:07 UTC
-! Version: 2026.0304.1107.42
+! Last modified: 07 Mar 2026 10:51 UTC
+! Version: 2026.0307.1051.20
 ! Syntax: AdBlock
-! Number of entries: 1130
+! Number of entries: 1131
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -503,6 +503,7 @@
 ||dns.beta.gandi.net^
 ||gclouddns.com^
 ||adg.geili.me^
+||dns.geohide.ru^
 ||vpn.geshido.ru^
 ||getdnsapi.net^
 ||gibblets.top^

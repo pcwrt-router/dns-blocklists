@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Mar 2026 04:46 UTC
-# Version: 2026.0307.0446.12
+# Last modified: 07 Mar 2026 10:45 UTC
+# Version: 2026.0307.1045.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11592
+# Number of entries: 11600
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -24,6 +24,7 @@ local=/01streaming.click/
 local=/01streaming.stream/
 local=/01streaming.tv/
 local=/032312.xyz/
+local=/037hd.tv/
 local=/037hdmovie.com/
 local=/03hao.top/
 local=/066855.xyz/
@@ -95,6 +96,7 @@ local=/123freemovies.net/
 local=/123freemovies.show/
 local=/123hbo.com/
 local=/123hulu.com/
+local=/123movie.blog/
 local=/123movie.cc/
 local=/123movie.date/
 local=/123movie.show/
@@ -160,7 +162,9 @@ local=/123moviesonline.biz/
 local=/123moviess.gdn/
 local=/123moviess.net/
 local=/123moviess.se/
+local=/123moviest.org/
 local=/123moviestofree.com/
+local=/123moviestv.me/
 local=/123moviestv.net/
 local=/123movieswww.com/
 local=/123netflix.club/
@@ -215,6 +219,7 @@ local=/1movies.life/
 local=/1movies.nl/
 local=/1movieshd.cc/
 local=/1movieshd.com/
+local=/1movietv.com/
 local=/1nd.hu/
 local=/1progs.ru/
 local=/1shows.nl/
@@ -266,6 +271,7 @@ local=/2lib.me/
 local=/2mhs8eqw.com/
 local=/2name.com/
 local=/2piratebay.org/
+local=/2torrentz.net/
 local=/2x4u.de/
 local=/amerikasimperialism.2ya.com/
 local=/danime.2ya.com/
@@ -273,6 +279,7 @@ local=/300kg.ru/
 local=/31vaqti.shop/
 local=/320110.xyz/
 local=/321n.net/
+local=/337hhh.xyz/
 local=/33filmstreaming.com/
 local=/33rapfr.com/
 local=/33seriestreaming.rip/
@@ -327,6 +334,7 @@ local=/5mod.ru/
 local=/5movies.buzz/
 local=/5movies.cloud/
 local=/5movies.fm/
+local=/5movies.live/
 local=/5movies.run/
 local=/5movies.to/
 local=/5moviesfree.net/

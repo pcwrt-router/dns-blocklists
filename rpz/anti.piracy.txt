@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772858760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772880300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 04:46 UTC
-; Version: 2026.0307.0446.12
+; Last modified: 07 Mar 2026 10:45 UTC
+; Version: 2026.0307.1045.48
 ; Syntax: RPZ
-; Number of entries: 23184
+; Number of entries: 23200
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -978,6 +978,8 @@ rlsbb.unblockit.black CNAME .
 *.rlsbb.unblockit.black CNAME .
 vegamovies.black CNAME .
 *.vegamovies.black CNAME .
+123movie.blog CNAME .
+*.123movie.blog CNAME .
 altadefinizione-01.blog CNAME .
 *.altadefinizione-01.blog CNAME .
 cb01.blog CNAME .
@@ -2678,6 +2680,8 @@ tracker.0x7c0.com CNAME .
 *.1kif.com CNAME .
 1movieshd.com CNAME .
 *.1movieshd.com CNAME .
+1movietv.com CNAME .
+*.1movietv.com CNAME .
 1xstream.com CNAME .
 *.1xstream.com CNAME .
 1zib.com CNAME .
@@ -11600,6 +11604,8 @@ srstop.link CNAME .
 *.srstop.link CNAME .
 strmd.link CNAME .
 *.strmd.link CNAME .
+5movies.live CNAME .
+*.5movies.live CNAME .
 afdah.live CNAME .
 *.afdah.live CNAME .
 allsports4free.live CNAME .
@@ -12076,6 +12082,8 @@ vegamovies.md CNAME .
 *.vegamovies.md CNAME .
 123moviesfull.me CNAME .
 *.123moviesfull.me CNAME .
+123moviestv.me CNAME .
+*.123moviestv.me CNAME .
 1watch-free.me CNAME .
 *.1watch-free.me CNAME .
 2lib.me CNAME .
@@ -12874,6 +12882,8 @@ hichemtigsetorgy.0fees.net CNAME .
 *.16mag.net CNAME .
 1gabba.net CNAME .
 *.1gabba.net CNAME .
+2torrentz.net CNAME .
+*.2torrentz.net CNAME .
 321n.net CNAME .
 *.321n.net CNAME .
 345movie.net CNAME .
@@ -15364,6 +15374,8 @@ hdmovie2.ooo CNAME .
 *.123movies-to.org CNAME .
 123moviesme.org CNAME .
 *.123moviesme.org CNAME .
+123moviest.org CNAME .
+*.123moviest.org CNAME .
 123streams.org CNAME .
 *.123streams.org CNAME .
 1337x.org CNAME .
@@ -21066,6 +21078,8 @@ vegamovies.tube CNAME .
 *.vegamovies.tube CNAME .
 01streaming.tv CNAME .
 *.01streaming.tv CNAME .
+037hd.tv CNAME .
+*.037hd.tv CNAME .
 10kol.tv CNAME .
 *.10kol.tv CNAME .
 123moviesgo.tv CNAME .
@@ -22734,6 +22748,8 @@ t-backup.213891.xyz CNAME .
 *.266528.xyz CNAME .
 320110.xyz CNAME .
 *.320110.xyz CNAME .
+337hhh.xyz CNAME .
+*.337hhh.xyz CNAME .
 402604020.xyz CNAME .
 *.402604020.xyz CNAME .
 404114.xyz CNAME .

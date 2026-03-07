@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772859120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772880660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 04:52 UTC
-; Version: 2026.0307.0452.01
+; Last modified: 07 Mar 2026 10:51 UTC
+; Version: 2026.0307.1051.30
 ; Syntax: RPZ
-; Number of entries: 32678
+; Number of entries: 32680
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3345,6 +3345,8 @@ httpdns.music.163.com CNAME .
 *.httpdns.music.163.com CNAME .
 23.106.141.137.16clouds.com CNAME .
 *.23.106.141.137.16clouds.com CNAME .
+16yd.com CNAME .
+*.16yd.com CNAME .
 1aclash.com CNAME .
 *.1aclash.com CNAME .
 1clickvpn.com CNAME .
