@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Mar 2026 19:54 UTC
-# Version: 2026.0308.1954.04
+# Last modified: 09 Mar 2026 10:53 UTC
+# Version: 2026.0309.1053.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1480
+# Number of entries: 1482
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -869,6 +869,7 @@ local=/kompaniet.nu/
 local=/kozow.com/
 local=/ksk-saratov.ru/
 local=/kyrgyzstan.kg/
+local=/l5.ca/
 local=/labradapr.com/
 local=/laketahoesue.com/
 local=/lan64.de/
@@ -891,6 +892,7 @@ local=/lflinkup.net/
 local=/lflinkup.org/
 local=/likes-pie.com/
 local=/likescandy.com/
+local=/line.pm/
 local=/linkin.tw/
 local=/linkpc.net/
 local=/linux-site.net/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Mar 2026 18:33 UTC
-! Version: 2026.0308.1833.20
+! Last modified: 09 Mar 2026 09:34 UTC
+! Version: 2026.0309.0934.11
 ! Syntax: AdBlock
-! Number of entries: 9952
+! Number of entries: 9971
 !
 ||0.gp^
 ||00m.in^
@@ -3541,6 +3541,7 @@
 ||iamsrikrung.com^
 ||iandavid.net^
 ||iapdw.com^
+||iarly.com^
 ||ibb.co^
 ||shortlink.ibc.dk^
 ||ibd.ink^
@@ -3628,6 +3629,7 @@
 ||ikwer.com^
 ||iky.fr^
 ||ilang.in^
+||iligstein.com^
 ||ilink-to.net^
 ||ilinky.info^
 ||ilix.in^
@@ -3771,6 +3773,7 @@
 ||ishortie.com^
 ||ishortify.com^
 ||ishortn.ink^
+||ishorturl.com^
 ||ishorturl.net^
 ||isinstance.com^
 ||islam.qa^
@@ -3880,6 +3883,7 @@
 ||jenniferronzo.com^
 ||jepebanget.xyz^
 ||jeruk.link^
+||jeso.life^
 ||jetzt.work^
 ||jevilink.com^
 ||jewhate.info^
@@ -3918,6 +3922,7 @@
 ||jo.my^
 ||jobscity24.com^
 ||r.jod.gg^
+||track.joesdollars.com^
 ||jog690.org^
 ||re.johnhughson.com^
 ||join-id.info^
@@ -4481,6 +4486,7 @@
 ||linkjago.me^
 ||linkjet.net^
 ||linkjitu.site^
+||linkjoy.io^
 ||linkjoy.org^
 ||linkjp.org^
 ||linkjust.com^
@@ -4578,6 +4584,7 @@
 ||linksehat.net^
 ||linksfire.net^
 ||linksflow.bio^
+||linksfly.net^
 ||linkshaft.com^
 ||linkshare.pro^
 ||linksharing.app^
@@ -4679,6 +4686,7 @@
 ||litfuel.me^
 ||litl.cc^
 ||litly.net^
+||littl.io^
 ||little.im^
 ||little-link.co^
 ||littlelinkapp.com^
@@ -4757,6 +4765,7 @@
 ||lnks.es^
 ||lnks.fr^
 ||lnkshk.com^
+||lnkshort.com^
 ||lnktee.com^
 ||lnkup.us^
 ||lnkw.co^
@@ -4769,6 +4778,7 @@
 ||lnkzy.com^
 ||lnnk.in^
 ||lnq.is^
+||lnsrt.com^
 ||lnst.eu^
 ||lnv.gy^
 ||lnwurl.com^
@@ -4867,6 +4877,7 @@
 ||lurl.cc^
 ||lurl.org^
 ||lutendo.tech^
+||luto.lol^
 ||lutre.it^
 ||lvclinks.com^
 ||lvfst.com^
@@ -4882,17 +4893,20 @@
 ||lynkat.net^
 ||lynkflow.me^
 ||lynki.link^
+||lynkme.bio^
 ||lynko.in^
 ||lynks.in^
 ||lynky.live^
 ||lynkz.in^
 ||lyt.me^
+||main.lyucz.com^
 ||lyzo.io^
 ||lz.com^
 ||lzd.co^
 ||lzd.page^
 ||m.gg^
 ||m.me^
+||m-i.li^
 ||m-ini.me^
 ||m-k.ca^
 ||m-r.pw^
@@ -4935,6 +4949,7 @@
 ||makyo.io^
 ||mamikale.me^
 ||mamm.ie^
+||mampir.link^
 ||mamskie.me^
 ||mangotwo.com^
 ||mantapkalee.me^
@@ -5055,6 +5070,7 @@
 ||menang.win^
 ||menangbola77.info^
 ||menangjp.pro^
+||menj.info^
 ||meowlink.app^
 ||meraihcuan.com^
 ||mergi.la^
@@ -5157,6 +5173,7 @@
 ||minzap.com^
 ||miol4.me^
 ||miolink.eu^
+||mipha.app^
 ||mipon.xyz^
 ||mis4.me^
 ||misdatos.bio^
@@ -5255,6 +5272,7 @@
 ||app.moviequik.com^
 ||moxe.me^
 ||moy.kr^
+||mozafer.com^
 ||mpa.li^
 ||url.mpay.pl^
 ||mpit.io^
@@ -5455,6 +5473,7 @@
 ||nal.la^
 ||nalo.life^
 ||name.ly^
+||nanatech.live^
 ||links.nanoleaf.me^
 ||nanourl.in^
 ||nanourl.org^

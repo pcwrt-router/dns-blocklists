@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Mar 2026 19:54 UTC
-! Version: 2026.0308.1954.32
+! Last modified: 09 Mar 2026 10:53 UTC
+! Version: 2026.0309.1053.32
 ! Syntax: AdBlock
-! Number of entries: 3462
+! Number of entries: 3465
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1769,6 +1769,7 @@
 ||apidns.kwd.inkuai.com^
 ||httpdns.kwd.inkuai.com^
 ||ad.innet.id^
+||inoainoa.fun^
 ||inpssh.online^
 ||qlf-doh.inria.fr^
 ||premiumtier-network.instadart.net^
@@ -2028,6 +2029,7 @@
 ||us.libost.xyz^
 ||doh.libredns.gr^
 ||dot.libredns.gr^
+||lifeisa.live^
 ||dns.lifeym.xyz^
 ||dns.lightmaster.pw^
 ||dns.lihj.me^
@@ -2064,6 +2066,7 @@
 ||ddd.loukky.com^
 ||lovekers.cn^
 ||n5.lsasss.com^
+||dns.lsho.top^
 ||lslnyjq.uk^
 ||dns1.luan.contact^
 ||dns.luismm2311.com^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Mar 2026 19:54 UTC
-# Version: 2026.0308.1954.32
+# Last modified: 09 Mar 2026 10:53 UTC
+# Version: 2026.0309.1053.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3462
+# Number of entries: 3465
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1768,6 +1768,7 @@ local=/ingenmannsland.online/
 local=/apidns.kwd.inkuai.com/
 local=/httpdns.kwd.inkuai.com/
 local=/ad.innet.id/
+local=/inoainoa.fun/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/premiumtier-network.instadart.net/
@@ -2027,6 +2028,7 @@ local=/dns.libost.xyz/
 local=/us.libost.xyz/
 local=/doh.libredns.gr/
 local=/dot.libredns.gr/
+local=/lifeisa.live/
 local=/dns.lifeym.xyz/
 local=/dns.lightmaster.pw/
 local=/dns.lihj.me/
@@ -2063,6 +2065,7 @@ local=/deweerd.loseyourip.com/
 local=/ddd.loukky.com/
 local=/lovekers.cn/
 local=/n5.lsasss.com/
+local=/dns.lsho.top/
 local=/lslnyjq.uk/
 local=/dns1.luan.contact/
 local=/dns.luismm2311.com/

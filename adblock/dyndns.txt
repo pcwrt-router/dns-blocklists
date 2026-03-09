@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Mar 2026 19:54 UTC
-! Version: 2026.0308.1954.04
+! Last modified: 09 Mar 2026 10:53 UTC
+! Version: 2026.0309.1053.04
 ! Syntax: AdBlock
-! Number of entries: 1480
+! Number of entries: 1482
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -870,6 +870,7 @@
 ||kozow.com^
 ||ksk-saratov.ru^
 ||kyrgyzstan.kg^
+||l5.ca^
 ||labradapr.com^
 ||laketahoesue.com^
 ||lan64.de^
@@ -892,6 +893,7 @@
 ||lflinkup.org^
 ||likes-pie.com^
 ||likescandy.com^
+||line.pm^
 ||linkin.tw^
 ||linkpc.net^
 ||linux-site.net^

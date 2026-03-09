@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Mar 2026 19:55 UTC
-# Version: 2026.0308.1955.10
+# Last modified: 09 Mar 2026 10:54 UTC
+# Version: 2026.0309.1054.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 16772
+# Number of entries: 16792
 #
 000000555.xyz
 ss.0001.xyz
@@ -8058,6 +8058,7 @@ innov8ivetech.com
 innovationroom.space
 brain.innovativegovernance.com
 innovativelearninghub.com
+inoainoa.fun
 inpssh.online
 qlf-doh.inria.fr
 premiumtier-network.instadart.net
@@ -8277,6 +8278,7 @@ dns.itya.xyz
 ivacy.com
 ivacyvpn.com
 ivnkn.xyz
+ivpn.info
 ivpn.net
 dns1.iwall.cloud
 iwalwpdblp.online
@@ -8291,11 +8293,13 @@ ixl.rocks
 ixl.works
 ixqd3zy.online
 ag.iyn.one
+about.izenimplant.ro
 j166.net
 8032174309472427.j34n.net
 j36.net
 j50sr9pt.com
 j8r5bltk.online
+cells.school.jaaax.com
 jabber-germany.de
 jabber-server.de
 adg.jabertechnologies.ch
@@ -8322,6 +8326,7 @@ hk.janebooom.com
 clever.jansenmedical.net
 fvpn.jarvishome.ru
 hk.jason666.top
+jaxpulse.com
 adguard.jaydub.cloud
 google.jaygraz.net
 joseandary.jaygraz.net
@@ -8965,6 +8970,7 @@ kuailianpro.net
 kuailianpro.org
 kuailianqjs.shop
 kuailianvpn.cn
+kuailianvpn.org
 kuailianvpn123.com
 kuailianvsvpn.com
 kuailianvv.com
@@ -9010,6 +9016,10 @@ agh.kyusang.win
 dns.kzrz.pl
 dns.l337.site
 l4bor.com
+adamz2eso.l5.ca
+docs.google.l5.ca
+quesosrammerhaha.l5.ca
+for.my.subscribers.gg.schools.l5.ca
 dns.l6.ee
 l7hyy9sopn27ipkht.online
 www.securly.com.laangles.com
@@ -9248,6 +9258,7 @@ dns.libost.xyz
 us.libost.xyz
 libredns.gr
 liedn.cc
+lifeisa.live
 neon.lifepixeled.com
 waguri.lifescienceventurelab.com
 dns.lifeym.xyz
@@ -9403,6 +9414,7 @@ lqwnlfw.cn
 lrga.space
 relay.lsaccess.cf
 n5.lsasss.com
+dns.lsho.top
 lslnyjq.uk
 lsmdm.cf
 lsmdm.gq
@@ -9411,6 +9423,7 @@ ltlxvxjjmvhn.me
 ltvpn.org
 truffled.lualol.com
 dns1.luan.contact
+not-that-lazy-tho.luanngo.ca
 lubricaonline.com
 deathligma.lucianmandru.ro
 luckydaysims.com
@@ -9634,6 +9647,7 @@ megaproxy.com
 megaproxylist.net
 v2202405224322270920.megasrv.de
 v2202409222721288347.megasrv.de
+mehide.asia
 mehide.org
 www-admin.mehtionthebeat.com
 httpdns.meituan.com
@@ -9650,6 +9664,7 @@ menavpn1.com
 mendozasdelivery.com
 mengdigw.com
 mengyunjc.com
+recap.utopia.menorahscrazyblog.com
 menoraq.ru
 meowless.club
 mer6y5.com
@@ -9679,6 +9694,7 @@ metrovpn.io
 metrovpn.mobi
 metrovpn.net
 metrovpn.xyz
+mexi.lol
 mexi.rest
 mfimail.eu
 dns.mfud.net
@@ -10206,6 +10222,7 @@ nashvpn.mom
 nashvpn.net
 nashvpn.top
 auburnsd.nass.my
+math.nass.my
 natfrp.cloud
 vpn2.nathan4s.lol
 natieyunclash.com
@@ -10325,6 +10342,8 @@ dontblock.networkoutpost.com
 cube.neubsi.at
 dns.neubsi.at
 neuroquantum.me
+itrsa.nevuer.com
+study-math.nevuer.com
 katherine-dns.newcore.cl
 newcovumc.org
 newhavenps.org
@@ -10616,6 +10635,7 @@ easyschool.notesninjas.com
 noticepure.com
 notlong.com
 notorioussymbol.space
+login.howto.notredamearena.com
 notscrewed.com
 notvpn.io
 amp.nov.su

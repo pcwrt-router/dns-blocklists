@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772999700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773053640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Mar 2026 19:55 UTC
-; Version: 2026.0308.1955.10
+; Last modified: 09 Mar 2026 10:54 UTC
+; Version: 2026.0309.1054.19
 ; Syntax: RPZ
-; Number of entries: 33544
+; Number of entries: 33584
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -635,6 +635,8 @@ hg8.asia CNAME .
 *.hg8.asia CNAME .
 kproxy.asia CNAME .
 *.kproxy.asia CNAME .
+mehide.asia CNAME .
+*.mehide.asia CNAME .
 oceancloud.asia CNAME .
 *.oceancloud.asia CNAME .
 pure11tj.asia CNAME .
@@ -1255,8 +1257,18 @@ adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
 dns.karanovic.ca CNAME .
 *.dns.karanovic.ca CNAME .
+adamz2eso.l5.ca CNAME .
+*.adamz2eso.l5.ca CNAME .
+docs.google.l5.ca CNAME .
+*.docs.google.l5.ca CNAME .
+quesosrammerhaha.l5.ca CNAME .
+*.quesosrammerhaha.l5.ca CNAME .
+for.my.subscribers.gg.schools.l5.ca CNAME .
+*.for.my.subscribers.gg.schools.l5.ca CNAME .
 skill.vocab.lekovic.ca CNAME .
 *.skill.vocab.lekovic.ca CNAME .
+not-that-lazy-tho.luanngo.ca CNAME .
+*.not-that-lazy-tho.luanngo.ca CNAME .
 education.mojoteeth.ca CNAME .
 *.education.mojoteeth.ca CNAME .
 myproxy.ca CNAME .
@@ -9305,6 +9317,8 @@ iwebproxy.com CNAME .
 *.iwebproxy.com CNAME .
 j50sr9pt.com CNAME .
 *.j50sr9pt.com CNAME .
+cells.school.jaaax.com CNAME .
+*.cells.school.jaaax.com CNAME .
 www.securly.com.jackietian.com CNAME .
 *.www.securly.com.jackietian.com CNAME .
 jagoanssh.com CNAME .
@@ -9315,6 +9329,8 @@ dns.jamessliu.com CNAME .
 *.dns.jamessliu.com CNAME .
 hk.janebooom.com CNAME .
 *.hk.janebooom.com CNAME .
+jaxpulse.com CNAME .
+*.jaxpulse.com CNAME .
 aghome.jcconnell.com CNAME .
 *.aghome.jcconnell.com CNAME .
 argus1.jcconnell.com CNAME .
@@ -10311,6 +10327,8 @@ mengdigw.com CNAME .
 *.mengdigw.com CNAME .
 mengyunjc.com CNAME .
 *.mengyunjc.com CNAME .
+recap.utopia.menorahscrazyblog.com CNAME .
+*.recap.utopia.menorahscrazyblog.com CNAME .
 mer6y5.com CNAME .
 *.mer6y5.com CNAME .
 meslcloudclash.com CNAME .
@@ -10757,6 +10775,10 @@ scienceisfun11.networkguru.com CNAME .
 *.scienceisfun11.networkguru.com CNAME .
 dontblock.networkoutpost.com CNAME .
 *.dontblock.networkoutpost.com CNAME .
+itrsa.nevuer.com CNAME .
+*.itrsa.nevuer.com CNAME .
+study-math.nevuer.com CNAME .
+*.study-math.nevuer.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
 hours.newlifesanctuarychurch.com CNAME .
@@ -10951,6 +10973,8 @@ noticepure.com CNAME .
 *.noticepure.com CNAME .
 notlong.com CNAME .
 *.notlong.com CNAME .
+login.howto.notredamearena.com CNAME .
+*.login.howto.notredamearena.com CNAME .
 notscrewed.com CNAME .
 *.notscrewed.com CNAME .
 brain.sci.now-incorporate.com CNAME .
@@ -17451,6 +17475,8 @@ gecko.fun CNAME .
 *.gecko.fun CNAME .
 hdbest.fun CNAME .
 *.hdbest.fun CNAME .
+inoainoa.fun CNAME .
+*.inoainoa.fun CNAME .
 c.is-very.fun CNAME .
 *.c.is-very.fun CNAME .
 d.is-very.fun CNAME .
@@ -18439,6 +18465,8 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 itranslator.info CNAME .
 *.itranslator.info CNAME .
+ivpn.info CNAME .
+*.ivpn.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
 jifengcloud.info CNAME .
@@ -19881,6 +19909,8 @@ freevpn.live CNAME .
 *.freevpn.live CNAME .
 adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
+lifeisa.live CNAME .
+*.lifeisa.live CNAME .
 myrsv.live CNAME .
 *.myrsv.live CNAME .
 privado.live CNAME .
@@ -19945,6 +19975,8 @@ lord-justice.lol CNAME .
 *.lord-justice.lol CNAME .
 void.mcfly.lol CNAME .
 *.void.mcfly.lol CNAME .
+mexi.lol CNAME .
+*.mexi.lol CNAME .
 vpn2.nathan4s.lol CNAME .
 *.vpn2.nathan4s.lol CNAME .
 notely.lol CNAME .
@@ -20825,6 +20857,8 @@ my52.my CNAME .
 *.my52.my CNAME .
 auburnsd.nass.my CNAME .
 *.auburnsd.nass.my CNAME .
+math.nass.my CNAME .
+*.math.nass.my CNAME .
 riponex.my CNAME .
 *.riponex.my CNAME .
 galaxy.is.cool.tcloud.my CNAME .
@@ -26861,6 +26895,8 @@ pips.kpsn.org CNAME .
 *.pips.kpsn.org CNAME .
 kuailianpro.org CNAME .
 *.kuailianpro.org CNAME .
+kuailianvpn.org CNAME .
+*.kuailianvpn.org CNAME .
 kuaipan.org CNAME .
 *.kuaipan.org CNAME .
 a0w0vo0r.langhorne.org CNAME .
@@ -28561,6 +28597,8 @@ dns.cloud.ionutl.ro CNAME .
 *.dns.cloud.ionutl.ro CNAME .
 dns.itdata.ro CNAME .
 *.dns.itdata.ro CNAME .
+about.izenimplant.ro CNAME .
+*.about.izenimplant.ro CNAME .
 raiseyouryayaya.katan.ro CNAME .
 *.raiseyouryayaya.katan.ro CNAME .
 learnfrench.ktx.ro CNAME .
@@ -30971,6 +31009,8 @@ xm.ln7371.top CNAME .
 *.xm.ln7371.top CNAME .
 an.loliconapp.top CNAME .
 *.an.loliconapp.top CNAME .
+dns.lsho.top CNAME .
+*.dns.lsho.top CNAME .
 doh.lujiacai.top CNAME .
 *.doh.lujiacai.top CNAME .
 mdss01-88ubci03.top CNAME .

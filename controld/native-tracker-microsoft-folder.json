@@ -2108,13 +2108,6 @@
       }
     },
     {
-      "PK": "rad.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "rads.msn.com",
       "action": {
         "do": 0,
@@ -2179,13 +2172,6 @@
     },
     {
       "PK": "sa.windows.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sconsentit9.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

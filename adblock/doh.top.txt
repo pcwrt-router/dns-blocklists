@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Mar 2026 10:51 UTC
-! Version: 2026.0307.1051.20
+! Last modified: 09 Mar 2026 10:54 UTC
+! Version: 2026.0309.1054.09
 ! Syntax: AdBlock
-! Number of entries: 1131
+! Number of entries: 1132
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -675,6 +675,7 @@
 ||dns.liberador.net^
 ||doh.libredns.gr^
 ||dot.libredns.gr^
+||lifeisa.live^
 ||dns.lightmaster.pw^
 ||dns.lihj.me^
 ||dns.linkr.ninja^

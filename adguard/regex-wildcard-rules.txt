@@ -9,6 +9,11 @@
 /(^|\.)(0x)?(?=[0-9a-f]*[a-f])(?=[0-9a-f]*[0-9])[0-9a-f]{10,64}\.[a-z]{2,}$/
 ! Analytics/Tracking
 /(^|.+\-|.+\.)(piwik|matomo|plausible|posthog|utiq|umami|sentry|bugsnag)\d*(\-[^.]+)?\.[^.]+\.[^.]+.*$/
+! Tagging
+/^s?s?gtm\.[a-z0-9-]+\.([a-z]{2,}|[a-z]{2,3}\.[a-z]{2,})$/
+/^(tags|tagging|tagmanager)\.[a-z0-9-]+\.([a-z]{2,}|[a-z]{2,3}\.[a-z]{2,})$/
+/^gtm\-.*\.(appspot\.com|fps\.goog)$/
+/^server\-side\-tagging\-.*\.run\.app$/
 ! Popups
 /^94\.242\.247\.(2[0-9]|3[0-2])$/
 /^216\.21\.13\.(14|15)$/

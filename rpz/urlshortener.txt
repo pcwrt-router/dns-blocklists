@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772994780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773048840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Mar 2026 18:33 UTC
-; Version: 2026.0308.1833.20
+; Last modified: 09 Mar 2026 09:34 UTC
+; Version: 2026.0309.0934.11
 ; Syntax: RPZ
-; Number of entries: 19904
+; Number of entries: 19942
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -393,6 +393,8 @@ maxurl.app CNAME .
 *.maxurl.app CNAME .
 meowlink.app CNAME .
 *.meowlink.app CNAME .
+mipha.app CNAME .
+*.mipha.app CNAME .
 go-admin.momen.app CNAME .
 *.go-admin.momen.app CNAME .
 mr-link.app CNAME .
@@ -1085,6 +1087,8 @@ lnk.bio CNAME .
 *.lnk.bio CNAME .
 ltl.bio CNAME .
 *.ltl.bio CNAME .
+lynkme.bio CNAME .
+*.lynkme.bio CNAME .
 mez.bio CNAME .
 *.mez.bio CNAME .
 misdatos.bio CNAME .
@@ -4709,6 +4713,8 @@ iamsrikrung.com CNAME .
 *.iamsrikrung.com CNAME .
 iapdw.com CNAME .
 *.iapdw.com CNAME .
+iarly.com CNAME .
+*.iarly.com CNAME .
 ibelocal.com CNAME .
 *.ibelocal.com CNAME .
 ibitsy.com CNAME .
@@ -4743,6 +4749,8 @@ ijaresm.com CNAME .
 *.ijaresm.com CNAME .
 ikwer.com CNAME .
 *.ikwer.com CNAME .
+iligstein.com CNAME .
+*.iligstein.com CNAME .
 ilyadin.com CNAME .
 *.ilyadin.com CNAME .
 kutt.inarix.com CNAME .
@@ -4801,6 +4809,8 @@ ishortie.com CNAME .
 *.ishortie.com CNAME .
 ishortify.com CNAME .
 *.ishortify.com CNAME .
+ishorturl.com CNAME .
+*.ishorturl.com CNAME .
 isinstance.com CNAME .
 *.isinstance.com CNAME .
 isterratrk.com CNAME .
@@ -4869,6 +4879,8 @@ jnshort.com CNAME .
 *.jnshort.com CNAME .
 jobscity24.com CNAME .
 *.jobscity24.com CNAME .
+track.joesdollars.com CNAME .
+*.track.joesdollars.com CNAME .
 re.johnhughson.com CNAME .
 *.re.johnhughson.com CNAME .
 joinzee.com CNAME .
@@ -5273,12 +5285,16 @@ lnkr1.com CNAME .
 *.lnkr1.com CNAME .
 lnkshk.com CNAME .
 *.lnkshk.com CNAME .
+lnkshort.com CNAME .
+*.lnkshort.com CNAME .
 lnktee.com CNAME .
 *.lnktee.com CNAME .
 lnkzap.com CNAME .
 *.lnkzap.com CNAME .
 lnkzy.com CNAME .
 *.lnkzy.com CNAME .
+lnsrt.com CNAME .
+*.lnsrt.com CNAME .
 lnwurl.com CNAME .
 *.lnwurl.com CNAME .
 loboapps.com CNAME .
@@ -5317,6 +5333,8 @@ lvvk.com CNAME .
 *.lvvk.com CNAME .
 lyksoomu.com CNAME .
 *.lyksoomu.com CNAME .
+main.lyucz.com CNAME .
+*.main.lyucz.com CNAME .
 lz.com CNAME .
 *.lz.com CNAME .
 urlshortener.mahamafzar.com CNAME .
@@ -5503,6 +5521,8 @@ moveurls.com CNAME .
 *.moveurls.com CNAME .
 app.moviequik.com CNAME .
 *.app.moviequik.com CNAME .
+mozafer.com CNAME .
+*.mozafer.com CNAME .
 mpo-link.com CNAME .
 *.mpo-link.com CNAME .
 kt.mrmd.com CNAME .
@@ -10373,6 +10393,8 @@ masuk-id.info CNAME .
 *.masuk-id.info CNAME .
 menangbola77.info CNAME .
 *.menangbola77.info CNAME .
+menj.info CNAME .
+*.menj.info CNAME .
 minli.info CNAME .
 *.minli.info CNAME .
 morimo.info CNAME .
@@ -10831,6 +10853,8 @@ linkbite.io CNAME .
 *.linkbite.io CNAME .
 linkerr.io CNAME .
 *.linkerr.io CNAME .
+linkjoy.io CNAME .
+*.linkjoy.io CNAME .
 linkqr.io CNAME .
 *.linkqr.io CNAME .
 linkshortener.io CNAME .
@@ -10845,6 +10869,8 @@ linksplit.io CNAME .
 *.linksplit.io CNAME .
 linksqueeze.io CNAME .
 *.linksqueeze.io CNAME .
+littl.io CNAME .
+*.littl.io CNAME .
 s.livstick.io CNAME .
 *.s.livstick.io CNAME .
 lkdin.io CNAME .
@@ -12143,6 +12169,8 @@ lrl.li CNAME .
 *.lrl.li CNAME .
 lvr.li CNAME .
 *.lvr.li CNAME .
+m-i.li CNAME .
+*.m-i.li CNAME .
 mibu.li CNAME .
 *.mibu.li CNAME .
 mjg.li CNAME .
@@ -12297,6 +12325,8 @@ go.integritymatters.life CNAME .
 *.go.integritymatters.life CNAME .
 iyc.life CNAME .
 *.iyc.life CNAME .
+jeso.life CNAME .
+*.jeso.life CNAME .
 kerang.life CNAME .
 *.kerang.life CNAME .
 linelive.life CNAME .
@@ -12737,6 +12767,8 @@ macau123.link CNAME .
 *.macau123.link CNAME .
 maejo.link CNAME .
 *.maejo.link CNAME .
+mampir.link CNAME .
+*.mampir.link CNAME .
 mcro.link CNAME .
 *.mcro.link CNAME .
 megasite.link CNAME .
@@ -13247,6 +13279,8 @@ munchbet.live CNAME .
 *.munchbet.live CNAME .
 mysexychat.live CNAME .
 *.mysexychat.live CNAME .
+nanatech.live CNAME .
+*.nanatech.live CNAME .
 nefeli.live CNAME .
 *.nefeli.live CNAME .
 neweden.live CNAME .
@@ -13367,6 +13401,8 @@ kingplate.lol CNAME .
 *.kingplate.lol CNAME .
 linkme.lol CNAME .
 *.linkme.lol CNAME .
+luto.lol CNAME .
+*.luto.lol CNAME .
 maxlink.lol CNAME .
 *.maxlink.lol CNAME .
 rebrand.lol CNAME .
@@ -15217,6 +15253,8 @@ linksehat.net CNAME .
 *.linksehat.net CNAME .
 linksfire.net CNAME .
 *.linksfire.net CNAME .
+linksfly.net CNAME .
+*.linksfly.net CNAME .
 linkshortener.net CNAME .
 *.linkshortener.net CNAME .
 linkshortner.net CNAME .
