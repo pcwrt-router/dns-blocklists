@@ -62,6 +62,7 @@ use-application-dns.net
 wireguard.com
 wshifen.com
 youtube.com
+www.mitmproxy.org
 
 # Apple Intelligence, Siri
 apple-relay.*

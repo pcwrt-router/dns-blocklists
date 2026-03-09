@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772708040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772999640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Mar 2026 10:54 UTC
-; Version: 2026.0305.1054.24
+; Last modified: 08 Mar 2026 19:54 UTC
+; Version: 2026.0308.1954.32
 ; Syntax: RPZ
-; Number of entries: 6914
+; Number of entries: 6924
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2321,6 +2321,8 @@ eka.dilli.dev CNAME .
 *.eka.dilli.dev CNAME .
 f4ckdns.dl4mt.dev CNAME .
 *.f4ckdns.dl4mt.dev CNAME .
+dns.edison42.dev CNAME .
+*.dns.edison42.dev CNAME .
 ejaysss.dev CNAME .
 *.ejaysss.dev CNAME .
 dns.hanahira.dev CNAME .
@@ -3453,6 +3455,8 @@ dns.axto.me CNAME .
 *.dns.axto.me CNAME .
 dns.b612.me CNAME .
 *.dns.b612.me CNAME .
+mydns.bielperes.me CNAME .
+*.mydns.bielperes.me CNAME .
 bluemood.me CNAME .
 *.bluemood.me CNAME .
 hk-adg.bluenight.me CNAME .
@@ -5953,6 +5957,8 @@ dns.sb CNAME .
 *.dns.sb CNAME .
 doh.sb CNAME .
 *.doh.sb CNAME .
+dns.butterfly87.sbs CNAME .
+*.dns.butterfly87.sbs CNAME .
 myatris.sbs CNAME .
 *.myatris.sbs CNAME .
 dns.tbs6920.sbs CNAME .
@@ -6787,12 +6793,16 @@ adguard.eximpius.xyz CNAME .
 *.adguard.eximpius.xyz CNAME .
 fra1.eyecay.xyz CNAME .
 *.fra1.eyecay.xyz CNAME .
+dns.f97.xyz CNAME .
+*.dns.f97.xyz CNAME .
 agent.frankutils.xyz CNAME .
 *.agent.frankutils.xyz CNAME .
 performance.gosami.xyz CNAME .
 *.performance.gosami.xyz CNAME .
 vpn.gosami.xyz CNAME .
 *.vpn.gosami.xyz CNAME .
+dns.haoxuan.xyz CNAME .
+*.dns.haoxuan.xyz CNAME .
 v2-1.huwenqiang.xyz CNAME .
 *.v2-1.huwenqiang.xyz CNAME .
 opennic.i2pd.xyz CNAME .

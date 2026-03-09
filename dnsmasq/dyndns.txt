@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 11:01 UTC
-# Version: 2026.0226.1101.35
+# Last modified: 08 Mar 2026 19:54 UTC
+# Version: 2026.0308.1954.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1478
+# Number of entries: 1480
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -349,6 +349,7 @@ local=/dsmynas.com/
 local=/dsmynas.net/
 local=/dsmynas.org/
 local=/dtdns.com/
+local=/dtdns.net/
 local=/dtdns.org/
 local=/dubya.info/
 local=/dubya.net/
@@ -692,6 +693,7 @@ local=/hopto.me/
 local=/hopto.org/
 local=/host2go.net/
 local=/hosthampster.com/
+local=/hpc.tw/
 local=/hs.vc/
 local=/htmlcomponentservice.com/
 local=/https443.net/

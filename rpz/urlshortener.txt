@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772875980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772994780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Mar 2026 09:33 UTC
-; Version: 2026.0307.0933.09
+; Last modified: 08 Mar 2026 18:33 UTC
+; Version: 2026.0308.1833.20
 ; Syntax: RPZ
-; Number of entries: 19864
+; Number of entries: 19904
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -161,6 +161,8 @@ fltr.ai CNAME .
 *.fltr.ai CNAME .
 font.ai CNAME .
 *.font.ai CNAME .
+fwk.ai CNAME .
+*.fwk.ai CNAME .
 grdt.ai CNAME .
 *.grdt.ai CNAME .
 helo.ai CNAME .
@@ -365,6 +367,8 @@ grey-sphere-536600.framer.app CNAME .
 *.grey-sphere-536600.framer.app CNAME .
 gacor.app CNAME .
 *.gacor.app CNAME .
+gigbridge.app CNAME .
+*.gigbridge.app CNAME .
 gosnip.app CNAME .
 *.gosnip.app CNAME .
 hisc.app CNAME .
@@ -2421,6 +2425,8 @@ coinclix.co CNAME .
 *.coinclix.co CNAME .
 tinyurl.smart-home.com.co CNAME .
 *.tinyurl.smart-home.com.co CNAME .
+vm88.com.co CNAME .
+*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -3527,6 +3533,8 @@ beautyfitnesshealth.com CNAME .
 *.beautyfitnesshealth.com CNAME .
 bebuiltllc.com CNAME .
 *.bebuiltllc.com CNAME .
+bee1s.com CNAME .
+*.bee1s.com CNAME .
 beelerex.com CNAME .
 *.beelerex.com CNAME .
 beelnk.com CNAME .
@@ -3633,6 +3641,8 @@ bixurl.com CNAME .
 *.bixurl.com CNAME .
 bizrockers.com CNAME .
 *.bizrockers.com CNAME .
+bkite.com CNAME .
+*.bkite.com CNAME .
 blabigo.com CNAME .
 *.blabigo.com CNAME .
 blackhatworld.com CNAME .
@@ -4093,6 +4103,8 @@ dfkr77.com CNAME .
 *.dfkr77.com CNAME .
 dfthethao.com CNAME .
 *.dfthethao.com CNAME .
+dgkad.com CNAME .
+*.dgkad.com CNAME .
 digbig.com CNAME .
 *.digbig.com CNAME .
 digg.com CNAME .
@@ -4373,6 +4385,8 @@ florantevaldez.com CNAME .
 *.florantevaldez.com CNAME .
 flowcode.com CNAME .
 *.flowcode.com CNAME .
+flowhits.com CNAME .
+*.flowhits.com CNAME .
 flyurls.com CNAME .
 *.flyurls.com CNAME .
 fneezet.com CNAME .
@@ -8413,6 +8427,8 @@ addtr.ee CNAME .
 *.addtr.ee CNAME .
 and.ee CNAME .
 *.and.ee CNAME .
+bitb.ee CNAME .
+*.bitb.ee CNAME .
 bridg.ee CNAME .
 *.bridg.ee CNAME .
 bytr.ee CNAME .
@@ -9571,6 +9587,8 @@ bim.im CNAME .
 *.bim.im CNAME .
 bitly.im CNAME .
 *.bitly.im CNAME .
+brk.im CNAME .
+*.brk.im CNAME .
 brx.im CNAME .
 *.brx.im CNAME .
 ccj.im CNAME .
@@ -10283,6 +10301,8 @@ fooji.info CNAME .
 *.fooji.info CNAME .
 fwdme.info CNAME .
 *.fwdme.info CNAME .
+fyndr.info CNAME .
+*.fyndr.info CNAME .
 gallerylink.info CNAME .
 *.gallerylink.info CNAME .
 go2my.info CNAME .
@@ -13941,6 +13961,8 @@ g22jaya.me CNAME .
 *.g22jaya.me CNAME .
 gacor22.me CNAME .
 *.gacor22.me CNAME .
+gacor66.me CNAME .
+*.gacor66.me CNAME .
 gacorbos.me CNAME .
 *.gacorbos.me CNAME .
 gef.me CNAME .
@@ -14621,6 +14643,8 @@ dorfmeyster.media CNAME .
 *.dorfmeyster.media CNAME .
 dps.media CNAME .
 *.dps.media CNAME .
+enjaz.media CNAME .
+*.enjaz.media CNAME .
 ignitetraining.media CNAME .
 *.ignitetraining.media CNAME .
 nnd.media CNAME .
@@ -15021,6 +15045,8 @@ depedzn.net CNAME .
 *.depedzn.net CNAME .
 link.devpush.net CNAME .
 *.link.devpush.net CNAME .
+djbanshi.net CNAME .
+*.djbanshi.net CNAME .
 dollarlink.net CNAME .
 *.dollarlink.net CNAME .
 dotjournal.net CNAME .
@@ -15849,6 +15875,8 @@ ttt.onl CNAME .
 *.ttt.onl CNAME .
 vai.onl CNAME .
 *.vai.onl CNAME .
+ativo.online CNAME .
+*.ativo.online CNAME .
 bolstr.online CNAME .
 *.bolstr.online CNAME .
 briefbyte.online CNAME .
@@ -16651,6 +16679,8 @@ elaxima.pro CNAME .
 *.elaxima.pro CNAME .
 emixon.pro CNAME .
 *.emixon.pro CNAME .
+flubber.pro CNAME .
+*.flubber.pro CNAME .
 flumin.pro CNAME .
 *.flumin.pro CNAME .
 fossibot.pro CNAME .
@@ -16669,6 +16699,8 @@ grivon.pro CNAME .
 *.grivon.pro CNAME .
 gscc.pro CNAME .
 *.gscc.pro CNAME .
+gurl.pro CNAME .
+*.gurl.pro CNAME .
 hier.pro CNAME .
 *.hier.pro CNAME .
 ibsen.pro CNAME .
@@ -16857,6 +16889,8 @@ thefp.pub CNAME .
 *.2u.pw CNAME .
 3c.pw CNAME .
 *.3c.pw CNAME .
+888b.pw CNAME .
+*.888b.pw CNAME .
 8u.pw CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
@@ -17705,6 +17739,8 @@ bom.so CNAME .
 *.bom.so CNAME .
 dia.so CNAME .
 *.dia.so CNAME .
+fli.so CNAME .
+*.fli.so CNAME .
 inf.so CNAME .
 *.inf.so CNAME .
 itop.so CNAME .
@@ -18207,6 +18243,8 @@ gf.to CNAME .
 *.gf.to CNAME .
 gmj.to CNAME .
 *.gmj.to CNAME .
+gooo.to CNAME .
+*.gooo.to CNAME .
 got.to CNAME .
 *.got.to CNAME .
 gph.to CNAME .
@@ -19707,6 +19745,8 @@ cropped.xyz CNAME .
 *.cropped.xyz CNAME .
 ctos.xyz CNAME .
 *.ctos.xyz CNAME .
+cuterurlha.xyz CNAME .
+*.cuterurlha.xyz CNAME .
 cutturl.xyz CNAME .
 *.cutturl.xyz CNAME .
 docremedio.xyz CNAME .

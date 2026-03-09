@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 17:34 UTC
-# Version: 2026.0306.1734.56
+# Last modified: 08 Mar 2026 19:02 UTC
+# Version: 2026.0308.1902.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 1273
+# Number of entries: 1276
 #
 000a.de
 000space.com
@@ -501,6 +501,7 @@ edu.eu
 edublogs.org
 educatorpage.com
 educatorpages.com
+efacturas.net
 eg.gp
 ehaitao.com
 eklablog.com
@@ -553,6 +554,7 @@ ferreracademy.com
 fileave.com
 filme.lc
 financecryptoworld.com
+financial-offer.com
 firearms.com
 firm.nu
 fitnell.com
@@ -691,6 +693,7 @@ humorme.info
 hund.in
 hupont.hu
 hyderabadadda.com
+hyip.com
 hyperphp.com
 i.gp
 ibiz.cc

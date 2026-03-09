@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Mar 2026 09:33 UTC
-! Version: 2026.0307.0933.09
+! Last modified: 08 Mar 2026 18:33 UTC
+! Version: 2026.0308.1833.20
 ! Syntax: AdBlock
-! Number of entries: 9932
+! Number of entries: 9952
 !
 ||0.gp^
 ||00m.in^
@@ -371,6 +371,7 @@
 ||7z.si^
 ||8.ly^
 ||8591.tw^
+||888b.pw^
 ||888df.com^
 ||88nb.cc^
 ||88win.link^
@@ -873,6 +874,7 @@
 ||athe.re^
 ||athena168.vip^
 ||athm.cn^
+||ativo.online^
 ||atlantisgit.com^
 ||atm.tk^
 ||atmilb.com^
@@ -1040,6 +1042,7 @@
 ||becakrcg.xyz^
 ||becsn.net^
 ||bee-kz.life^
+||bee1s.com^
 ||bee4.biz^
 ||beeb.us^
 ||beelerex.com^
@@ -1157,6 +1160,7 @@
 ||bit.ly^
 ||bit-ely.com^
 ||bit24.live^
+||bitb.ee^
 ||go.bitcomma.com^
 ||bitded.com^
 ||bitesli.com^
@@ -1231,6 +1235,7 @@
 ||bjl.ink^
 ||bjli.in^
 ||bk.gl^
+||bkite.com^
 ||bkjkwg.quest^
 ||bl.ink^
 ||blabigo.com^
@@ -1363,6 +1368,7 @@
 ||brilink.me^
 ||brisktopia.com^
 ||briurl.com^
+||brk.im^
 ||brk.to^
 ||brlinks.me^
 ||brndly.net^
@@ -1901,6 +1907,7 @@
 ||useek.com.au^
 ||vanlifediyfitouts.com.au^
 ||bi.vitalmedbrasilia.com.br^
+||vm88.com.co^
 ||xpol.com.tr^
 ||youlinks.com.au^
 ||parceiros.zerofuro.com.br^
@@ -2050,6 +2057,7 @@
 ||cutdown.link^
 ||cute.link^
 ||cutearns.com^
+||cuterurlha.xyz^
 ||cravin.biz.cutestat.com^
 ||futurestendances.click.cutestat.com^
 ||stako24.com.cutestat.com^
@@ -2244,6 +2252,7 @@
 ||dft.ba^
 ||dfthethao.com^
 ||dfy.is^
+||dgkad.com^
 ||dglnk.me^
 ||dgms.es^
 ||dgo.to^
@@ -2292,6 +2301,7 @@
 ||diwi.io^
 ||diypriceless.com^
 ||djarum88.shop^
+||djbanshi.net^
 ||djo924.com^
 ||djp.li^
 ||djurl.com^
@@ -2589,6 +2599,7 @@
 ||l.enes.tech^
 ||engn.it^
 ||engt.co^
+||enjaz.media^
 ||enlac.ee^
 ||go.enlace.org^
 ||enlacify.com^
@@ -2802,6 +2813,7 @@
 ||flattools.com^
 ||flbox.com^
 ||flextrig.com^
+||fli.so^
 ||flic.kr^
 ||flickerlink.com^
 ||flidoo.com^
@@ -2819,6 +2831,7 @@
 ||flow.page^
 ||flowcaster.link^
 ||flowcode.com^
+||flowhits.com^
 ||flp.ai^
 ||flpl.us^
 ||flq.us^
@@ -2826,6 +2839,7 @@
 ||fltr.ai^
 ||fltx.io^
 ||flu.yt^
+||flubber.pro^
 ||flug.marketing^
 ||flumin.pro^
 ||flut.run^
@@ -2920,6 +2934,7 @@
 ||fwd4.me^
 ||fwdme.info^
 ||fwds.to^
+||fwk.ai^
 ||fwme.eu^
 ||fwr.to^
 ||fxn.ws^
@@ -2927,6 +2942,7 @@
 ||fy9.in^
 ||fyi.mx^
 ||fyn.link^
+||fyndr.info^
 ||fys.io^
 ||g.asia^
 ||g.co^
@@ -2947,6 +2963,7 @@
 ||gacor.app^
 ||gacor123.red^
 ||gacor22.me^
+||gacor66.me^
 ||gacor99-vip.xyz^
 ||gacora.biz^
 ||gacorbos.me^
@@ -3060,6 +3077,7 @@
 ||gibi.link^
 ||gigalink.me^
 ||gigaz.in^
+||gigbridge.app^
 ||gil.re^
 ||giosous.com^
 ||gir.gg^
@@ -3176,6 +3194,7 @@
 ||googleidmaps.live^
 ||goolink.cc^
 ||goolnk.com^
+||gooo.to^
 ||goose.re^
 ||gopreply.com^
 ||goprotect.link^
@@ -3265,6 +3284,7 @@
 ||gtnr.it^
 ||gtrv.info^
 ||gudang.me^
+||gurl.pro^
 ||gurl.to^
 ||gw.ie^
 ||gyanilinks.com^

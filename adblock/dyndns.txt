@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Feb 2026 11:01 UTC
-! Version: 2026.0226.1101.35
+! Last modified: 08 Mar 2026 19:54 UTC
+! Version: 2026.0308.1954.04
 ! Syntax: AdBlock
-! Number of entries: 1478
+! Number of entries: 1480
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -350,6 +350,7 @@
 ||dsmynas.net^
 ||dsmynas.org^
 ||dtdns.com^
+||dtdns.net^
 ||dtdns.org^
 ||dubya.info^
 ||dubya.net^
@@ -693,6 +694,7 @@
 ||hopto.org^
 ||host2go.net^
 ||hosthampster.com^
+||hpc.tw^
 ||hs.vc^
 ||htmlcomponentservice.com^
 ||https443.net^

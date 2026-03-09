@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 10:54 UTC
-# Version: 2026.0305.1054.24
+# Last modified: 08 Mar 2026 19:54 UTC
+# Version: 2026.0308.1954.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3930
+# Number of entries: 3935
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -470,6 +470,7 @@
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
+0.0.0.0 mydns.bielperes.me
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 goga7777777.bissnes.org
 0.0.0.0 ns3.bit-trail.nl
@@ -563,6 +564,7 @@
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 dns.burgas.pro
 0.0.0.0 dns.busold.ws
+0.0.0.0 dns.butterfly87.sbs
 0.0.0.0 adc.bxq.net
 0.0.0.0 sig.bxq.net
 0.0.0.0 c-dns.com
@@ -1477,6 +1479,7 @@
 0.0.0.0 dns.edgy.network
 0.0.0.0 edgy-dns.com
 0.0.0.0 doh.edifiels.ru
+0.0.0.0 dns.edison42.dev
 0.0.0.0 agh.amber.edu.vn
 0.0.0.0 adblocker.institutobancario.edu.mx
 0.0.0.0 dns.tuna.tsinghua.edu.cn
@@ -1575,6 +1578,7 @@
 0.0.0.0 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 0.0.0.0 dns.f4a.fun
 0.0.0.0 jp1.f7b6h9.tk
+0.0.0.0 dns.f97.xyz
 0.0.0.0 dns.fabidouille.com
 0.0.0.0 pdns.faelix.net
 0.0.0.0 rdns.faelix.net
@@ -1827,6 +1831,7 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
+0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud

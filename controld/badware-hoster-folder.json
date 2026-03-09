@@ -3368,6 +3368,13 @@
       }
     },
     {
+      "PK": "efacturas.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eg.gp",
       "action": {
         "do": 0,
@@ -3733,6 +3740,13 @@
     },
     {
       "PK": "financecryptoworld.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "financial-offer.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4706,6 +4720,13 @@
     },
     {
       "PK": "hyderabadadda.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hyip.com",
       "action": {
         "do": 0,
         "status": 1

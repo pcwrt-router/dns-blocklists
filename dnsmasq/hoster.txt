@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 17:34 UTC
-# Version: 2026.0306.1734.56
+# Last modified: 08 Mar 2026 19:02 UTC
+# Version: 2026.0308.1902.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1273
+# Number of entries: 1276
 #
 local=/000a.de/
 local=/000space.com/
@@ -501,6 +501,7 @@ local=/edu.eu/
 local=/edublogs.org/
 local=/educatorpage.com/
 local=/educatorpages.com/
+local=/efacturas.net/
 local=/eg.gp/
 local=/ehaitao.com/
 local=/eklablog.com/
@@ -553,6 +554,7 @@ local=/ferreracademy.com/
 local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
+local=/financial-offer.com/
 local=/firearms.com/
 local=/firm.nu/
 local=/fitnell.com/
@@ -691,6 +693,7 @@ local=/humorme.info/
 local=/hund.in/
 local=/hupont.hu/
 local=/hyderabadadda.com/
+local=/hyip.com/
 local=/hyperphp.com/
 local=/i.gp/
 local=/ibiz.cc/

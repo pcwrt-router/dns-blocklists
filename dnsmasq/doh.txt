@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 10:54 UTC
-# Version: 2026.0305.1054.24
+# Last modified: 08 Mar 2026 19:54 UTC
+# Version: 2026.0308.1954.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3457
+# Number of entries: 3462
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -397,6 +397,7 @@ local=/bestwon203.com/
 local=/dns.bgeneto.com/
 local=/dns.bibica.net/
 local=/dns.bibitos.cc/
+local=/mydns.bielperes.me/
 local=/httpdns.bilivideo.com/
 local=/goga7777777.bissnes.org/
 local=/ns3.bit-trail.nl/
@@ -485,6 +486,7 @@ local=/doh.bugdns.com/
 local=/stratus.bugz.fr/
 local=/dns.burgas.pro/
 local=/dns.busold.ws/
+local=/dns.butterfly87.sbs/
 local=/adc.bxq.net/
 local=/sig.bxq.net/
 local=/c-dns.com/
@@ -1249,6 +1251,7 @@ local=/dns.edgeworkssystems.ca/
 local=/dns.edgy.network/
 local=/edgy-dns.com/
 local=/doh.edifiels.ru/
+local=/dns.edison42.dev/
 local=/agh.amber.edu.vn/
 local=/adblocker.institutobancario.edu.mx/
 local=/dns.tuna.tsinghua.edu.cn/
@@ -1340,6 +1343,7 @@ local=/fra1.eyecay.xyz/
 local=/eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir/
 local=/dns.f4a.fun/
 local=/jp1.f7b6h9.tk/
+local=/dns.f97.xyz/
 local=/dns.fabidouille.com/
 local=/pdns.faelix.net/
 local=/rdns.faelix.net/
@@ -1581,6 +1585,7 @@ local=/dns.hanmey.de/
 local=/dns.hannielzhang.com/
 local=/jp.hannielzhang.com/
 local=/d.hansj.cc/
+local=/dns.haoxuan.xyz/
 local=/resolver.haringstad.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
