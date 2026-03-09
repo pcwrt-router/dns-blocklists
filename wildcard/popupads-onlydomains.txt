@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 09:29 UTC
-# Version: 2026.0309.0929.54
+# Last modified: 09 Mar 2026 14:58 UTC
+# Version: 2026.0309.1458.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 55176
+# Number of entries: 55200
 #
 0.beer
 0.club
@@ -37467,6 +37467,7 @@ oopsiksaicki.com
 oopt.fr
 ooqtjsubfcppe.life
 oorljoimmwspw.website
+oorsoozo.top
 oos4l.com
 oostotsu.com
 oourmarketingefifort.com
@@ -37558,6 +37559,7 @@ optimisticlessennation.com
 optimisticsort.pro
 optimizepro.online
 optimizesocial.com
+optimizesrv.com
 optimumassurancevie.com
 optionsdisk.com
 optiontwentiethhart.com
@@ -37576,6 +37578,7 @@ opvanillishan.com
 opwgvbakasvqe.online
 opyavarfwqcpf.store
 opzazcvitci.com
+opzoxvxut.com
 opzwfuhi.com
 oqbowztarb.com
 oqdgibwa.com
@@ -37649,6 +37652,7 @@ orga29.com
 organiccrap.com
 organicextentbounds.com
 organicowner.com
+organisingbyus.site
 organismoysters.com
 organizationwoundedvast.com
 organizedinsidewall.com
@@ -37685,6 +37689,7 @@ cowpeas.oristicdeckie.shop
 oritooep.win
 orjfun.com
 orjlsopkbtieb.store
+orkwithcatukhy.com
 gd.orlcloop.com
 orlenablanchard.org
 kedlzb.orlglnaldate.net
@@ -38103,6 +38108,7 @@ oyupyeptsifnl.space
 ozarkvillage.net
 ozasiskoddhmk.online
 ozbluzkfut.com
+ozbnagojbop.com
 ozckerranlakm.online
 ozihlzpeabppp.online
 ozkqakffarri.com
@@ -38370,6 +38376,7 @@ panaservers.com
 pancake.run
 pancake-exchange.org
 paneclattermetal.com
+panelghostscontractor.com
 pangaeainfima.com
 pangake.club
 panganepeal.shop
@@ -38412,6 +38419,7 @@ papyroos.ir
 nice.par-even.com
 paradigmhawaii.info
 paradise-angel.com
+paradise1972.com
 paradiseneedlessboiled.com
 paradiserunwayimpertinent.com
 paradizeconstruction.com
@@ -38628,6 +38636,7 @@ payeessarif.com
 payement-renew.me
 co.payingsob.com
 paymentombud.com
+paymentpage.shop
 paymentperiodiciceberg.com
 paymitly.ai
 payoffdonatecookery.com
@@ -38642,6 +38651,7 @@ paysqueak.com
 payvclick.com
 pazpcaodb.com
 pbbbbbbbbbbbg014.me
+pbbbbgyl005.me
 pbbrakes.com
 pbcde.com
 pbeno.com
@@ -38740,6 +38750,7 @@ peasacknowledged.com
 peasantratio.com
 peasbishopgive.com
 peasgutsprogramme.com
+peavyegeria.cyou
 peazip.com
 pebadu.com
 pebblemedia.be
@@ -38948,6 +38959,7 @@ personalfinanceshacks.me
 personalradiostation.net
 personalskillsex.org
 personaltailor.cn
+personaserver.com
 personifyallege.com
 personifyproposition.com
 persuadecordial.com
@@ -38996,6 +39008,7 @@ peukasrsihavele.org
 pevxxyfyhsvlh.global
 pewtopia.com
 pexmjwvdpjjdd.space
+pexorise.com
 pextpj.icu
 pexu.com
 peyotylaguey.top
@@ -39037,7 +39050,9 @@ phabycebe.com
 phaibeertou.com
 phaidraih.net
 phaighounoghy.com
+phaikrouh.com
 phaimsebsils.net
+phaimtoata.com
 phalingy.net
 phalrorsaup.net
 phantomdisappoint.com
@@ -39098,6 +39113,7 @@ phonehalfmoonwild.com
 phonewx.com
 phonydepth.com
 phonysample.com
+phoognol.com
 phookaunleash.website
 phoossax.net
 phoptairtaudi.net
@@ -39211,6 +39227,7 @@ pileevery.com
 bt.pilinshantih.com
 pilistings.com
 pillerycetin.website
+pilleustrig.com
 pillowcaseattitudelard.com
 pillowcaselogic.com
 pillowyboomage.top
@@ -39316,6 +39333,7 @@ pixazza.com
 pixbduooqbddq.website
 pixel-see.com
 pixeladszone.top
+pixelbliss.pro
 pixelhere.com
 pixelkart.com
 pixellitomedia.com
@@ -39419,6 +39437,7 @@ platemeltdown.com
 platformservices.net
 platformsrat.com
 plati-num.com
+platingwaste.com
 platinumpla2023.com
 platinumringshooker.com
 platinumsnatchable.com
@@ -39429,6 +39448,7 @@ platoonobjectless.com
 plawmkugopluh.online
 play-egypt-go.com
 play-euromillions-online.com
+play-lg.com
 play-lust.com
 play-lustgoddess.com
 playamopartners.com
@@ -39603,6 +39623,7 @@ pnrbvdqxrqlfp.club
 pnsmbazkcydwd.site
 pnsqsv.com
 pnuhondppw.com
+pnwrs5xz.click
 pnxfexrscthlb.store
 poanicho.net
 poavoabe.net
@@ -39714,6 +39735,7 @@ pompoussqueal.com
 pomprecognition.com
 pon-prairie.com
 ponceautermine.com
+ponderliquidate.com
 ponderoustwelvevat.com
 pondinternet.com
 pondlipdumb.com
@@ -40401,6 +40423,7 @@ vnazjr.promlnentdates.com
 promo-bc.com
 promo-reklama.ru
 promobenef.com
+promofile.store
 promolandforapp.com
 promotion724.com
 promotionsonlineusa.com
@@ -40427,6 +40450,7 @@ propellerclick.com
 propellerpops.com
 propeltuition.com
 proper.io
+proper-food.pro
 proper-quality.com
 proper-variety.com
 propertycaregurunp.com

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773048840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773068520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Mar 2026 09:34 UTC
-; Version: 2026.0309.0934.11
+; Last modified: 09 Mar 2026 15:02 UTC
+; Version: 2026.0309.1502.54
 ; Syntax: RPZ
-; Number of entries: 19942
+; Number of entries: 19952
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5847,6 +5847,8 @@ pecurgoa.com CNAME .
 *.pecurgoa.com CNAME .
 peekstory.com CNAME .
 *.peekstory.com CNAME .
+pegasurl.com CNAME .
+*.pegasurl.com CNAME .
 pencetdulu.com CNAME .
 *.pencetdulu.com CNAME .
 safelink.pengembangsebelah.com CNAME .
@@ -8911,6 +8913,8 @@ o-x.fr CNAME .
 *.o-x.fr CNAME .
 lien.paribal.fr CNAME .
 *.lien.paribal.fr CNAME .
+plots.fr CNAME .
+*.plots.fr CNAME .
 qrtag.fr CNAME .
 *.qrtag.fr CNAME .
 redir.fr CNAME .
@@ -14295,6 +14299,8 @@ okdc.me CNAME .
 *.okdc.me CNAME .
 okurl.me CNAME .
 *.okurl.me CNAME .
+olii.me CNAME .
+*.olii.me CNAME .
 oline.me CNAME .
 *.oline.me CNAME .
 oooh.me CNAME .
@@ -17893,6 +17899,8 @@ ls.st CNAME .
 *.ls.st CNAME .
 nyp.st CNAME .
 *.nyp.st CNAME .
+over.st CNAME .
+*.over.st CNAME .
 p.st CNAME .
 *.p.st CNAME .
 pin.st CNAME .
@@ -18153,6 +18161,8 @@ linkz.tn CNAME .
 *.linkz.tn CNAME .
 nr.tn CNAME .
 *.nr.tn CNAME .
+ok.tn CNAME .
+*.ok.tn CNAME .
 pr.tn CNAME .
 *.pr.tn CNAME .
 spr.tn CNAME .

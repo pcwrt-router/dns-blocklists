@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 10:48 UTC
-# Version: 2026.0309.1048.18
+# Last modified: 09 Mar 2026 16:18 UTC
+# Version: 2026.0309.1618.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 11896
+# Number of entries: 12008
 #
 tracker.guguan.000.pe
 003396815.xyz
@@ -211,6 +211,7 @@ tracker.1h.is
 1jour1film.online
 1jour1film.website
 1jour1film0226.site
+1jour1film0326.site
 1kif.com
 1l1l.to
 1load.sx
@@ -435,7 +436,6 @@ open.8a.is
 9kmovies.press
 9kmovies.ren
 9kmovies.rip
-9kmovies.sale
 9kmovies.sarl
 9kmovies.solar
 9kmovies.space
@@ -530,6 +530,7 @@ ahashare.com
 ahoy.one
 ahoylist.net
 9kmovies.ai.in
+skymovieshd.ai.in
 tracker.aibt.xyz
 aidey.io
 aimhaven.com
@@ -750,6 +751,7 @@ altbinz.net
 alterupload.com
 tracker.altrosky.nl
 alypum.beer
+skymovieshd.am.in
 amaderforum.net
 amaderftp.net
 amami.love
@@ -1743,6 +1745,8 @@ cafehulu.com
 calcio.la
 calcio.pub
 calcio.ws
+calcio-streaming.click
+calcio-streaming.online
 calibrecompanion.co
 caly-film.pl
 cambros.tv
@@ -2156,6 +2160,7 @@ nibl.co.uk
 piratebae.co.uk
 premiummodapk.co.uk
 psychocydd.co.uk
+skymovieshd.co.in
 www.smithstorrents.co.uk
 supremetorrents.co.uk
 swimhereford.co.uk
@@ -2211,6 +2216,8 @@ cueclub.com.bd
 digitalbroadband.com.bd
 www.e24.com.bd
 ekino.com.ua
+filmoflix.com.cv
+flemmix.com.cv
 fnet.com.bd
 tracker.frontalweb.com.ar
 ftp.com.bd
@@ -3629,8 +3636,12 @@ filetracker.pl
 filetram.com
 fileupload.pw
 film-francais-vf.com
+film-pertutti.art
+film-pertutti.autos
 film-pertutti.click
+film-pertutti.cyou
 film-pertutti.homes
+film-pertutti.life
 film-pertutti.my
 film-pertutti.sbs
 film-pertutti.site
@@ -3708,7 +3719,27 @@ filmlicious.net
 filmlush.com
 filmobo.com
 filmoff.net
+filmoflix.ad
+filmoflix.agency
+filmoflix.archi
+filmoflix.army
 filmoflix.bio
+filmoflix.blue
+filmoflix.bz
+filmoflix.capital
+filmoflix.club
+filmoflix.codes
+filmoflix.dad
+filmoflix.fyi
+filmoflix.homes
+filmoflix.horse
+filmoflix.is
+filmoflix.money
+filmoflix.page
+filmoflix.studio
+filmoflix.style
+filmoflix.toys
+filmoflix.vc
 filmon.tv
 filmoteka.cc
 filmowo.club
@@ -3880,15 +3911,28 @@ flashfilms-hd.top
 flashnetbd.com
 flashtorrents.org
 tracker.flatuslifir.is
+flemmix.art
 flemmix.bond
 flemmix.cam
 flemmix.cc
+flemmix.club
+flemmix.fyi
+flemmix.info
 flemmix.irish
+flemmix.life
+flemmix.me
 flemmix.mom
 flemmix.monster
 flemmix.my
+flemmix.name
+flemmix.one
+flemmix.online
+flemmix.pics
+flemmix.plus
+flemmix.rent
 flemmix.sbs
 flemmix.space
+flemmix.surf
 flemmix.town
 flemmix.wiki
 flenix.net
@@ -7434,9 +7478,11 @@ onstreamapk.com
 onstreamapp.to
 bestfiles.oo.lv
 oomoviz.com
+oomoye.me
 ootmm.com
 open.cd
 tracker.open-internet.nl
+openbittorrent.com
 tracker.openbtba.com
 openclip.info
 openload.co
@@ -7455,6 +7501,7 @@ opensharing.org
 opentor.org
 tracker.opentorrent.top
 opentracker.cc
+opentracker.io
 opentracker.xyz
 tracker.opentracker.se
 opentrackers.org
@@ -7472,6 +7519,7 @@ orbitdownloader.com
 orcahub.com
 orej.net
 vps02.net.orel.ru
+www.acid-lounge.org.uk
 breathetheword.org.uk
 kinocentral.org.ua
 pirateparty.org.uk
@@ -7605,6 +7653,7 @@ pdalife.to
 pdf-giant.com
 pdf-giant.net
 pdf-x.pl
+pdfdrive.com
 pdfdrive.to
 pdfmagaz.in
 pdfmagazines.club
@@ -7622,6 +7671,7 @@ pelisflix20.at
 pelisflix20.bio
 pelisflix20.biz
 pelisflix20.click
+pelisflix20.com
 pelisflix20.fit
 pelisflix20.ink
 pelisflix20.lat
@@ -7638,6 +7688,7 @@ pelisplus.blog
 pelisplus.co
 pelisplus.gratis
 pelisplus.live
+pelisplus.online
 pelisplus.org
 pelisplusgt.com
 pelisplushd.net
@@ -7657,9 +7708,11 @@ pianyuan.net
 picktorrent.com
 picotorrent.org
 tracker.picotorrent.one
+picturesetc.net
 piecejointe.net
 pig2pig.com
 pijafka.pl
+tracker.pimp4003.net
 pinoymovieshub.tv
 pinoytorrents.net
 tv.pipexbd.com
@@ -7730,6 +7783,7 @@ piratepiratebay.com
 pirateportal.xyz
 pirateproxy.best
 pirateproxy.cc
+pirateproxy.click
 pirateproxy.cloud
 pirateproxy.ga
 pirateproxy.id
@@ -7738,6 +7792,7 @@ pirateproxy.lat
 pirateproxy.live
 pirateproxy.name
 pirateproxy.net
+pirateproxy.site
 pirateproxy.space
 pirateproxy.tf
 pirateproxy.top
@@ -7849,6 +7904,7 @@ por101.ru
 pornbits.net
 pornevo.com
 pornleech.io
+porno-torent.com
 pornolab.net
 pornomen.club
 pornorip.net
@@ -7931,7 +7987,9 @@ projectfreetv.watch
 projectfreetv.xyz
 udp.tracker.projectk.org
 prolikewoah.com
+promoddl.com
 pron.tv
+pron4.me
 proncams.tv
 propernoun.net
 prophecywatch.com
@@ -8771,11 +8829,28 @@ skybizbd.net
 skyember44.online
 skylinectg.com
 skyll.net
+skymovieshd.actor
 skymovieshd.army
+skymovieshd.blue
 skymovieshd.care
 skymovieshd.credit
+skymovieshd.cv
+skymovieshd.diy
+skymovieshd.earth
+skymovieshd.guru
+skymovieshd.house
 skymovieshd.land
+skymovieshd.legal
 skymovieshd.mba
+skymovieshd.pink
+skymovieshd.pro
+skymovieshd.pw
+skymovieshd.shop
+skymovieshd.tattoo
+skymovieshd.tech
+skymovieshd.today
+skymovieshd.tw
+skymovieshd.us
 skynetbd.net
 skynetchowmuhani.com
 tpb.skynetcloud.site
@@ -9049,7 +9124,14 @@ sporttuna.pro
 sporttuna.sx
 sportyhunter.com
 sportzonline.click
+sportzonline.com
+sportzonline.live
+sportzonline.ps
 sportzonline.pw
+sportzonline.si
+sportzonline.site
+sportzonline.st
+sportzonline.to
 sportzonline.top
 spotfy.one
 spotifymodapkpro.com
@@ -9470,6 +9552,12 @@ streamoz.me
 streamruby.com
 streams.center
 streamshunters.com
+streamsports99.ch
+streamsports99.fun
+streamsports99.ru
+streamsports99.su
+streamsports99.tv
+streamsports99.website
 streamsthunder.tv
 streamtape.com
 streamtp10.com
@@ -9480,6 +9568,7 @@ streamwish.to
 streamwoop.com
 streamworld.co
 streamworld.ws
+streamx10.cloud
 streamz.cc
 streamz.ws
 streamzone.es
@@ -10483,15 +10572,37 @@ ufs.pt
 ugda.online
 piracitoplista.ugu.pl
 uhdbits.org
+uhdmovies.bet
+uhdmovies.biz
+uhdmovies.cam
+uhdmovies.cv
+uhdmovies.cyou
 uhdmovies.dad
 uhdmovies.earth
+uhdmovies.hair
+uhdmovies.homes
 uhdmovies.icu
+uhdmovies.ink
+uhdmovies.lat
 uhdmovies.loan
+uhdmovies.lol
+uhdmovies.mov
 uhdmovies.net
 uhdmovies.online
+uhdmovies.pics
+uhdmovies.rest
 uhdmovies.rip
+uhdmovies.shop
+uhdmovies.skin
+uhdmovies.store
+uhdmovies.stream
+uhdmovies.surf
+uhdmovies.tips
 uhdmovies.tube
 uhdmovies.us
+uhdmovies.wales
+uhdmovies.wiki
+uhdmovies.zip
 uhdmovieshub.com
 uhdmoviesonline.com
 uhdmv.org
@@ -10651,6 +10762,7 @@ uploadgig.com
 uploadgig.me
 uploadrar.com
 uploda.sh
+flemmix.upns.pro
 uppit.com
 vidics.uproxy2.biz
 upstore.net

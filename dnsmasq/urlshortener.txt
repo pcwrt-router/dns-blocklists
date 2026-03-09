@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 09:34 UTC
-# Version: 2026.0309.0934.11
+# Last modified: 09 Mar 2026 15:02 UTC
+# Version: 2026.0309.1502.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9971
+# Number of entries: 9976
 #
 local=/0.gp/
 local=/00m.in/
@@ -5738,6 +5738,7 @@ local=/oisux.org/
 local=/ojo.la/
 local=/ok.link/
 local=/ok.tc/
+local=/ok.tn/
 local=/ok2.com/
 local=/okdc.me/
 local=/oke.io/
@@ -5757,6 +5758,7 @@ local=/olboseo.com/
 local=/oldmutualsa.com/
 local=/tiny.oldsouth.org/
 local=/oli.vi/
+local=/olii.me/
 local=/oline.me/
 local=/olinks.click/
 local=/mix.olix.ro/
@@ -5900,6 +5902,7 @@ local=/outschooler.me/
 local=/ouuo.link/
 local=/ouvaton.link/
 local=/ov9.cn/
+local=/over.st/
 local=/ovh.to/
 local=/ovmro.uk/
 local=/ow.ly/
@@ -6016,6 +6019,7 @@ local=/peek.link/
 local=/peekstory.com/
 local=/peen.ca/
 local=/peerwith.me/
+local=/pegasurl.com/
 local=/pekcamke.link/
 local=/pellz.link/
 local=/pencetdulu.com/
@@ -6118,6 +6122,7 @@ local=/pldthome.info/
 local=/pli.su/
 local=/plinkzy.com/
 local=/plmst.org/
+local=/plots.fr/
 local=/plrx.me/
 local=/pltx.org/
 local=/plu.sh/

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Mar 2026 09:34 UTC
-! Version: 2026.0309.0934.11
+! Last modified: 09 Mar 2026 15:02 UTC
+! Version: 2026.0309.1502.54
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -5683,6 +5683,7 @@
 @@||ojo.la^
 @@||ok.link^
 @@||ok.tc^
+@@||ok.tn^
 @@||ok2.com^
 @@||okdc.me^
 @@||oke.io^
@@ -5702,6 +5703,7 @@
 @@||oldmutualsa.com^
 @@||tiny.oldsouth.org^
 @@||oli.vi^
+@@||olii.me^
 @@||oline.me^
 @@||olinks.click^
 @@||mix.olix.ro^
@@ -5844,6 +5846,7 @@
 @@||ouuo.link^
 @@||ouvaton.link^
 @@||ov9.cn^
+@@||over.st^
 @@||ovh.to^
 @@||ovmro.uk^
 @@||ow.ly^
@@ -5958,6 +5961,7 @@
 @@||peekstory.com^
 @@||peen.ca^
 @@||peerwith.me^
+@@||pegasurl.com^
 @@||pekcamke.link^
 @@||pellz.link^
 @@||pencetdulu.com^
@@ -6059,6 +6063,7 @@
 @@||pli.su^
 @@||plinkzy.com^
 @@||plmst.org^
+@@||plots.fr^
 @@||plrx.me^
 @@||pltx.org^
 @@||plu.sh^

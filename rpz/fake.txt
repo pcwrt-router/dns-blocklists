@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773048720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773068460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Mar 2026 09:32 UTC
-; Version: 2026.0309.0932.19
+; Last modified: 09 Mar 2026 15:01 UTC
+; Version: 2026.0309.1501.08
 ; Syntax: RPZ
-; Number of entries: 28562
+; Number of entries: 28614
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1078,6 +1078,8 @@ my-pills.biz CNAME .
 *.my-pills.biz CNAME .
 norxonline.biz CNAME .
 *.norxonline.biz CNAME .
+potenzmittel-apotheke.biz CNAME .
+*.potenzmittel-apotheke.biz CNAME .
 rubis-patrimoine.biz CNAME .
 *.rubis-patrimoine.biz CNAME .
 rxcash.biz CNAME .
@@ -1262,6 +1264,8 @@ oils-natural.cc CNAME .
 *.oils-natural.cc CNAME .
 ottopar.cc CNAME .
 *.ottopar.cc CNAME .
+pd99.cc CNAME .
+*.pd99.cc CNAME .
 pelagiot.cc CNAME .
 *.pelagiot.cc CNAME .
 pf0.cc CNAME .
@@ -1270,6 +1274,8 @@ pg99.cc CNAME .
 *.pg99.cc CNAME .
 pn99.cc CNAME .
 *.pn99.cc CNAME .
+promised.cc CNAME .
+*.promised.cc CNAME .
 replica-uhren.cc CNAME .
 *.replica-uhren.cc CNAME .
 tizchmrf.cc CNAME .
@@ -12404,6 +12410,8 @@ online-fahrradwelt.com CNAME .
 *.online-fahrradwelt.com CNAME .
 online-file-converter.com CNAME .
 *.online-file-converter.com CNAME .
+online-firmenfinder.com CNAME .
+*.online-firmenfinder.com CNAME .
 online-health-pharm.com CNAME .
 *.online-health-pharm.com CNAME .
 online-kreditangebot.com CNAME .
@@ -12576,6 +12584,8 @@ orthoback.com CNAME .
 *.orthoback.com CNAME .
 orthoflexcare.com CNAME .
 *.orthoflexcare.com CNAME .
+orthofrei.com CNAME .
+*.orthofrei.com CNAME .
 orthopadie-berlin.com CNAME .
 *.orthopadie-berlin.com CNAME .
 ortovoxde.com CNAME .
@@ -12654,6 +12664,8 @@ outdoorshirtde.com CNAME .
 *.outdoorshirtde.com CNAME .
 outdoorspetzl.com CNAME .
 *.outdoorspetzl.com CNAME .
+outdoorsportsequip.com CNAME .
+*.outdoorsportsequip.com CNAME .
 outdoorsretail.com CNAME .
 *.outdoorsretail.com CNAME .
 outdoorsusrealm.com CNAME .
@@ -12842,6 +12854,8 @@ parksldezmeu.com CNAME .
 *.parksldezmeu.com CNAME .
 parpalett.com CNAME .
 *.parpalett.com CNAME .
+login.parsev.com CNAME .
+*.login.parsev.com CNAME .
 partbelong.com CNAME .
 *.partbelong.com CNAME .
 partenaire-finance.com CNAME .
@@ -12900,6 +12914,8 @@ peapodvine.com CNAME .
 *.peapodvine.com CNAME .
 peau-pure.com CNAME .
 *.peau-pure.com CNAME .
+pecasbavoso.com CNAME .
+*.pecasbavoso.com CNAME .
 pecasbr.com CNAME .
 *.pecasbr.com CNAME .
 pecasusadasantista.com CNAME .
@@ -13016,6 +13032,8 @@ pharm-discount.com CNAME .
 *.pharm-discount.com CNAME .
 pharm-store.com CNAME .
 *.pharm-store.com CNAME .
+pharma4health.com CNAME .
+*.pharma4health.com CNAME .
 pharmacie-bien-et-sain.com CNAME .
 *.pharmacie-bien-et-sain.com CNAME .
 pharmacie-en-ligne24.com CNAME .
@@ -13024,6 +13042,8 @@ pharmaciecanadienne.com CNAME .
 *.pharmaciecanadienne.com CNAME .
 pharmacieenlignefrance.com CNAME .
 *.pharmacieenlignefrance.com CNAME .
+pharmacy-europe.com CNAME .
+*.pharmacy-europe.com CNAME .
 pharmacy-true.com CNAME .
 *.pharmacy-true.com CNAME .
 pharmacyeurope24.com CNAME .
@@ -13342,6 +13362,8 @@ premiumpricepills24hr.com CNAME .
 *.premiumpricepills24hr.com CNAME .
 premiumvip-spot.com CNAME .
 *.premiumvip-spot.com CNAME .
+trading.premiumyields.com CNAME .
+*.trading.premiumyields.com CNAME .
 premiumyields1.com CNAME .
 *.premiumyields1.com CNAME .
 presalesxai.com CNAME .
@@ -19994,6 +20016,8 @@ flug-sicht.de CNAME .
 *.flug-sicht.de CNAME .
 flugwaren.de CNAME .
 *.flugwaren.de CNAME .
+fluxoil.de CNAME .
+*.fluxoil.de CNAME .
 flwoertime.de CNAME .
 *.flwoertime.de CNAME .
 flyhighshop.de CNAME .
@@ -20424,8 +20448,6 @@ gym2goshop.de CNAME .
 *.gym2goshop.de CNAME .
 gymnastik-schuhe.de CNAME .
 *.gymnastik-schuhe.de CNAME .
-h.de CNAME .
-*.h.de CNAME .
 hagomann.de CNAME .
 *.hagomann.de CNAME .
 hallobh.de CNAME .
@@ -20812,6 +20834,8 @@ herzogberlin.de CNAME .
 *.herzogberlin.de CNAME .
 hesly.de CNAME .
 *.hesly.de CNAME .
+hexoil.de CNAME .
+*.hexoil.de CNAME .
 heydude-schuhe.de CNAME .
 *.heydude-schuhe.de CNAME .
 heyewall.de CNAME .
@@ -22264,6 +22288,8 @@ neunagel.de CNAME .
 *.neunagel.de CNAME .
 newsfinas.de CNAME .
 *.newsfinas.de CNAME .
+nexoil.de CNAME .
+*.nexoil.de CNAME .
 nexsource.de CNAME .
 *.nexsource.de CNAME .
 next-neu.de CNAME .
@@ -22322,6 +22348,8 @@ nordicci.de CNAME .
 *.nordicci.de CNAME .
 nordicdecor.de CNAME .
 *.nordicdecor.de CNAME .
+nordoil.de CNAME .
+*.nordoil.de CNAME .
 norsky.de CNAME .
 *.norsky.de CNAME .
 notebooknetzteileshop.de CNAME .
@@ -22478,8 +22506,12 @@ oil-direkt.de CNAME .
 *.oil-direkt.de CNAME .
 oildirekt24.de CNAME .
 *.oildirekt24.de CNAME .
+oilexa.de CNAME .
+*.oilexa.de CNAME .
 oilparadies.de CNAME .
 *.oilparadies.de CNAME .
+oiltrex.de CNAME .
+*.oiltrex.de CNAME .
 ojoro-tech.de CNAME .
 *.ojoro-tech.de CNAME .
 okbon.de CNAME .
@@ -22620,6 +22652,8 @@ pandora-deutschland.de CNAME .
 *.pandora-deutschland.de CNAME .
 pandorade.de CNAME .
 *.pandorade.de CNAME .
+panura.de CNAME .
+*.panura.de CNAME .
 papagei-papageieneier.de CNAME .
 *.papagei-papageieneier.de CNAME .
 papageienzuchtheim.de CNAME .
@@ -22646,6 +22680,8 @@ pedalpalast.de CNAME .
 *.pedalpalast.de CNAME .
 peekcloppenburg-berlin.de CNAME .
 *.peekcloppenburg-berlin.de CNAME .
+peelerrabatt.de CNAME .
+*.peelerrabatt.de CNAME .
 pehkonenbrennholz.de CNAME .
 *.pehkonenbrennholz.de CNAME .
 pehl-gartenbau.de CNAME .
@@ -22662,6 +22698,12 @@ pesos-shop.de CNAME .
 *.pesos-shop.de CNAME .
 peterjeskouhren.de CNAME .
 *.peterjeskouhren.de CNAME .
+petrixa.de CNAME .
+*.petrixa.de CNAME .
+petrovia.de CNAME .
+*.petrovia.de CNAME .
+petroya.de CNAME .
+*.petroya.de CNAME .
 pharma-versandhandel.de CNAME .
 *.pharma-versandhandel.de CNAME .
 pharmedio.de CNAME .
@@ -22712,6 +22754,8 @@ playrush.de CNAME .
 *.playrush.de CNAME .
 pleaserdeutschland.de CNAME .
 *.pleaserdeutschland.de CNAME .
+plh-harz.de CNAME .
+*.plh-harz.de CNAME .
 plz-versand.de CNAME .
 *.plz-versand.de CNAME .
 pocski.de CNAME .
@@ -22774,6 +22818,8 @@ prime-analytics.de CNAME .
 *.prime-analytics.de CNAME .
 primecapitals.de CNAME .
 *.primecapitals.de CNAME .
+primefunds.de CNAME .
+*.primefunds.de CNAME .
 primuselektro.de CNAME .
 *.primuselektro.de CNAME .
 printyourgesicht24.de CNAME .
@@ -22820,8 +22866,6 @@ quadrals.de CNAME .
 *.quadrals.de CNAME .
 quordlepuzzles.de CNAME .
 *.quordlepuzzles.de CNAME .
-r.de CNAME .
-*.r.de CNAME .
 ra-rick.de CNAME .
 *.ra-rick.de CNAME .
 rabatt-disney.de CNAME .
@@ -24036,6 +24080,8 @@ velodirectstore.de CNAME .
 *.velodirectstore.de CNAME .
 velora-mode.de CNAME .
 *.velora-mode.de CNAME .
+veloroil.de CNAME .
+*.veloroil.de CNAME .
 vemaxx.de CNAME .
 *.vemaxx.de CNAME .
 vemoso-shop.de CNAME .
@@ -24482,6 +24528,8 @@ zenova-shop.de CNAME .
 *.zenova-shop.de CNAME .
 zentiv.de CNAME .
 *.zentiv.de CNAME .
+zentoil.de CNAME .
+*.zentoil.de CNAME .
 zenvada.de CNAME .
 *.zenvada.de CNAME .
 zeroplay.de CNAME .
@@ -25694,6 +25742,8 @@ nur-hier.net CNAME .
 *.nur-hier.net CNAME .
 officeway.net CNAME .
 *.officeway.net CNAME .
+oldcrow.net CNAME .
+*.oldcrow.net CNAME .
 oneslfnomea.net CNAME .
 *.oneslfnomea.net CNAME .
 onlineforyou.net CNAME .
@@ -27372,6 +27422,8 @@ privanaeu.shop CNAME .
 *.privanaeu.shop CNAME .
 proladen.shop CNAME .
 *.proladen.shop CNAME .
+protechnik.shop CNAME .
+*.protechnik.shop CNAME .
 pvqkcuin.shop CNAME .
 *.pvqkcuin.shop CNAME .
 qcwouf.shop CNAME .

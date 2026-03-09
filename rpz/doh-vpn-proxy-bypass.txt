@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773053640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773073440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Mar 2026 10:54 UTC
-; Version: 2026.0309.1054.19
+; Last modified: 09 Mar 2026 16:24 UTC
+; Version: 2026.0309.1624.49
 ; Syntax: RPZ
-; Number of entries: 33584
+; Number of entries: 33594
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -11419,6 +11419,8 @@ pocketnerve.com CNAME .
 *.pocketnerve.com CNAME .
 pointtoserver.com CNAME .
 *.pointtoserver.com CNAME .
+pokercloudclash.com CNAME .
+*.pokercloudclash.com CNAME .
 polargrizzly.com CNAME .
 *.polargrizzly.com CNAME .
 polessclash.com CNAME .
@@ -11471,6 +11473,8 @@ premsocks.com CNAME .
 *.premsocks.com CNAME .
 premzon.com CNAME .
 *.premzon.com CNAME .
+class.bio.prettybirdserver.com CNAME .
+*.class.bio.prettybirdserver.com CNAME .
 prettycoolmath.com CNAME .
 *.prettycoolmath.com CNAME .
 dns2.prima-solusindo.com CNAME .
@@ -11575,6 +11579,8 @@ proxy0101.com CNAME .
 *.proxy0101.com CNAME .
 proxy4free.com CNAME .
 *.proxy4free.com CNAME .
+proxy4freedom.com CNAME .
+*.proxy4freedom.com CNAME .
 proxy62.com CNAME .
 *.proxy62.com CNAME .
 proxyarab.com CNAME .
@@ -11615,6 +11621,8 @@ proxyium.com CNAME .
 *.proxyium.com CNAME .
 proxyiumi.com CNAME .
 *.proxyiumi.com CNAME .
+proxylib.com CNAME .
+*.proxylib.com CNAME .
 proxylift.com CNAME .
 *.proxylift.com CNAME .
 proxylister.com CNAME .
@@ -31557,6 +31565,8 @@ nordvpn.uk CNAME .
 *.nordvpn.uk CNAME .
 ixl.shh.dont.tell.apocalypto.org.uk CNAME .
 *.ixl.shh.dont.tell.apocalypto.org.uk CNAME .
+dnsprivacy.org.uk CNAME .
+*.dnsprivacy.org.uk CNAME .
 teslacoils.org.uk CNAME .
 *.teslacoils.org.uk CNAME .
 doh.plaawan.uk CNAME .

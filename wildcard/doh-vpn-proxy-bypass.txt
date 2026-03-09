@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 10:54 UTC
-# Version: 2026.0309.1054.19
+# Last modified: 09 Mar 2026 16:24 UTC
+# Version: 2026.0309.1624.49
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16792
+# Number of entries: 16797
 #
 *.000000555.xyz
 *.ss.0001.xyz
@@ -10946,6 +10946,7 @@
 *.noads.api.org.pl
 *.ixl.shh.dont.tell.apocalypto.org.uk
 *.cn-kuailian.org.cn
+*.dnsprivacy.org.uk
 *.harshsmellsliketoes.fundacioncidea.org.ar
 *.jacobcheeseman.fundacioncidea.org.ar
 *.dead.hsk.org.np
@@ -11410,6 +11411,7 @@
 *.dns.pointless.chat
 *.pointtoserver.com
 *.pokc.top
+*.pokercloudclash.com
 *.polargrizzly.com
 *.polaris.cx
 *.dns.polarwinds.ru
@@ -11526,6 +11528,7 @@
 *.premzon.com
 *.prenzor.ru
 *.presidentalhistory.wiki
+*.class.bio.prettybirdserver.com
 *.prettycoolmath.com
 *.prevent.run
 *.prflux.xyz
@@ -11687,6 +11690,7 @@
 *.proxy2u.net
 *.proxy4free.com
 *.proxy4free.me
+*.proxy4freedom.com
 *.proxy5.net
 *.proxy62.com
 *.proxyadult.org
@@ -11736,6 +11740,7 @@
 *.proxyium.org
 *.proxyiumi.com
 *.proxyjet.io
+*.proxylib.com
 *.proxylift.com
 *.proxylister.com
 *.proxylistpro.com

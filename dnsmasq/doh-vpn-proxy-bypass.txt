@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 10:54 UTC
-# Version: 2026.0309.1054.19
+# Last modified: 09 Mar 2026 16:24 UTC
+# Version: 2026.0309.1624.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16792
+# Number of entries: 16797
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -10946,6 +10946,7 @@ local=/wiki-graphicpoint.antrak.org.tr/
 local=/noads.api.org.pl/
 local=/ixl.shh.dont.tell.apocalypto.org.uk/
 local=/cn-kuailian.org.cn/
+local=/dnsprivacy.org.uk/
 local=/harshsmellsliketoes.fundacioncidea.org.ar/
 local=/jacobcheeseman.fundacioncidea.org.ar/
 local=/dead.hsk.org.np/
@@ -11410,6 +11411,7 @@ local=/pointed.cc/
 local=/dns.pointless.chat/
 local=/pointtoserver.com/
 local=/pokc.top/
+local=/pokercloudclash.com/
 local=/polargrizzly.com/
 local=/polaris.cx/
 local=/dns.polarwinds.ru/
@@ -11526,6 +11528,7 @@ local=/premsocks.com/
 local=/premzon.com/
 local=/prenzor.ru/
 local=/presidentalhistory.wiki/
+local=/class.bio.prettybirdserver.com/
 local=/prettycoolmath.com/
 local=/prevent.run/
 local=/prflux.xyz/
@@ -11687,6 +11690,7 @@ local=/proxy0101.com/
 local=/proxy2u.net/
 local=/proxy4free.com/
 local=/proxy4free.me/
+local=/proxy4freedom.com/
 local=/proxy5.net/
 local=/proxy62.com/
 local=/proxyadult.org/
@@ -11736,6 +11740,7 @@ local=/proxyium.com/
 local=/proxyium.org/
 local=/proxyiumi.com/
 local=/proxyjet.io/
+local=/proxylib.com/
 local=/proxylift.com/
 local=/proxylister.com/
 local=/proxylistpro.com/
