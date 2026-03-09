@@ -1,7 +1,7 @@
 name: Sync Fork
 on:
   schedule:
-    - cron: '0 0 * * *' # runs every day
+    - cron: '0 2 * * 6' # runs every week on Saturday
   workflow_dispatch: # allows manual triggering from the GitHub UI
 jobs:
   sync:
