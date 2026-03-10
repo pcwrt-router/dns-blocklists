@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 04:50 UTC
-! Version: 2026.0310.0450.53
+! Last modified: 10 Mar 2026 10:48 UTC
+! Version: 2026.0310.1048.20
 ! Syntax: AdBlock
-! Number of entries: 12058
+! Number of entries: 12086
 !
 ||tracker.guguan.000.pe^
 ||003396815.xyz^
@@ -5243,6 +5243,7 @@
 ||iboxbd.online^
 ||icefilms.info^
 ||icefilms-info.com^
+||icemovies.xyz^
 ||app.icon256.com^
 ||icoonet.com^
 ||icouchtuner.club^
@@ -9027,6 +9028,7 @@
 ||solarmovies-sc.lol^
 ||solarmoviez.ru^
 ||solarmoviez.to^
+||solarwolf23.live^
 ||solidsoftwaretools.com^
 ||solidtorrents.net^
 ||solidtorrents.to^
@@ -10487,9 +10489,11 @@
 ||tsinghuaedu.ru^
 ||tstrm.org^
 ||tsundere.pw^
+||tt-torrent.com^
 ||tti.nu^
 ||ttoktv.com^
 ||ttramp.ws^
+||tuaserie.net^
 ||tubidy.to^
 ||tubidymp3download.com^
 ||tufan.live^
@@ -10524,7 +10528,9 @@
 ||tuttostream.ws^
 ||tutubox.io^
 ||tutvlive.info^
+||tvhd.tutvlive.site^
 ||tuxdistro.com^
+||tv-livestream.online^
 ||tv-mediatheken.de^
 ||tracker.tv-vault.me^
 ||tv0800.com^
@@ -10628,11 +10634,11 @@
 ||ugda.online^
 ||piracitoplista.ugu.pl^
 ||uhdbits.org^
-||uhdmovies.bet^
 ||uhdmovies.biz^
 ||uhdmovies.cv^
 ||uhdmovies.dad^
 ||uhdmovies.earth^
+||uhdmovies.fyi^
 ||uhdmovies.hair^
 ||uhdmovies.homes^
 ||uhdmovies.icu^
@@ -10662,6 +10668,7 @@
 ||edu.uifr.ru^
 ||uindex.org^
 ||uira.live^
+||uj3wazyk5u4hnvtk.online^
 ||thepiratebay.uk.net^
 ||uk-pirate-bay.com^
 ||uk-unblock.xyz^
@@ -10732,6 +10739,7 @@
 ||newalbumreleases.unblockit.club^
 ||newalbumreleases.unblockit.day^
 ||newalbumreleases.unblockit.dev^
+||newalbumreleases.unblockit.how^
 ||newalbumreleases.unblockit.ink^
 ||newalbumreleases.unblockit.ist^
 ||newalbumreleases.unblockit.kim^
@@ -10809,6 +10817,7 @@
 ||uploaded.to^
 ||uploadev.com^
 ||uploadev.org^
+||uploadfile.pl^
 ||uploadgig.com^
 ||uploadgig.me^
 ||uploadrar.com^
@@ -10897,6 +10906,8 @@
 ||vedohd.uno^
 ||veev.to^
 ||veevcdn.co^
+||vegamovies.actor^
+||vegamovies.ad^
 ||vegamovies.ae^
 ||vegamovies.agency^
 ||vegamovies.ai^
@@ -10936,6 +10947,7 @@
 ||vegamovies.cl^
 ||vegamovies.codes^
 ||vegamovies.com^
+||vegamovies.cool^
 ||vegamovies.coupons^
 ||vegamovies.cr^
 ||vegamovies.credit^
@@ -10946,6 +10958,7 @@
 ||vegamovies.day^
 ||vegamovies.degree^
 ||vegamovies.dev^
+||vegamovies.diet^
 ||vegamovies.directory^
 ||vegamovies.dog^
 ||vegamovies.durban^
@@ -10983,6 +10996,7 @@
 ||vegamovies.haus^
 ||vegamovies.health^
 ||vegamovies.hockey^
+||vegamovies.host^
 ||vegamovies.hot^
 ||vegamovies.icu^
 ||vegamovies.im^
@@ -11015,14 +11029,17 @@
 ||vegamovies.ms^
 ||vegamovies.mu^
 ||vegamovies.nagoya^
+||vegamovies.name^
 ||vegamovies.navy^
 ||vegamovies.nl^
 ||vegamovies.onl^
+||vegamovies.online^
 ||vegamovies.organic^
 ||vegamovies.partners^
 ||vegamovies.party^
 ||vegamovies.pet^
 ||vegamovies.ph^
+||vegamovies.phd^
 ||vegamovies.photo^
 ||vegamovies.photos^
 ||vegamovies.plus^
@@ -11032,17 +11049,21 @@
 ||vegamovies.quest^
 ||vegamovies.realty^
 ||vegamovies.reise^
+||vegamovies.reisen^
 ||vegamovies.rent^
 ||vegamovies.rest^
+||vegamovies.restaurant^
 ||vegamovies.ro^
 ||vegamovies.rocks^
 ||vegamovies.rs^
 ||vegamovies.rw^
 ||vegamovies.sale^
+||vegamovies.school^
 ||vegamovies.schule^
 ||vegamovies.se^
 ||vegamovies.shoes^
 ||vegamovies.si^
+||vegamovies.skin^
 ||vegamovies.sl^
 ||vegamovies.sm^
 ||vegamovies.solar^
@@ -11075,6 +11096,7 @@
 ||vegamovies.vin^
 ||vegamovies.voto^
 ||vegamovies.voyage^
+||vegamovies.vu^
 ||vegamovies.watch^
 ||vegamovies.website^
 ||vegamovies.work^
@@ -11184,6 +11206,7 @@
 ||vidics.com^
 ||vidics.to^
 ||vidify.top^
+||vidjoy.pro^
 ||vidlink.org^
 ||vidlox.me^
 ||vidmate.me^
@@ -11209,6 +11232,7 @@
 ||vidspot.net^
 ||vidsrc.me^
 ||vidsrc-embed.ru^
+||vidsrc-embed.su^
 ||vidsrcme.su^
 ||vidstream.id^
 ||vidstream.to^
@@ -11242,6 +11266,7 @@
 ||vipdeq.site^
 ||viperplay.net^
 ||viperplay.online^
+||viperplayhd.com^
 ||vipleague.app^
 ||vipleague.im^
 ||vipleague.lc^
@@ -11319,6 +11344,7 @@
 ||vrpirates.club^
 ||vrpirates.wiki^
 ||vrtor.ru^
+||vsrc.su^
 ||vstorrent.org^
 ||vudeo.io^
 ||vudiy.fun^
@@ -11419,6 +11445,7 @@
 ||watch-series.co^
 ||watch-tvseries.net^
 ||watch0123movies.org^
+||watch32.is^
 ||watch32hd.co^
 ||watch32hd.org^
 ||watchanimeworld.net^
@@ -11435,6 +11462,7 @@
 ||watchfullmovie.co^
 ||watching.zone^
 ||watchkobe.info^
+||watchliveall.com^
 ||watchmovie.ac^
 ||watchmovie.me^
 ||watchmovierulz.co^

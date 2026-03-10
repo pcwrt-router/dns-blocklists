@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 03:33 UTC
-# Version: 2026.0310.0333.52
+# Last modified: 10 Mar 2026 09:33 UTC
+# Version: 2026.0310.0933.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9992
+# Number of entries: 10002
 #
 local=/0.gp/
 local=/00m.in/
@@ -8607,9 +8607,11 @@ local=/txdl.top/
 local=/txeduofficial.com/
 local=/txpl.us/
 local=/txtpass.com/
+local=/txul.cn/
 local=/ty.gy/
 local=/tyasd.com/
 local=/tyns.me/
+local=/tyny.me/
 local=/typit.in/
 local=/tyrano-shortener.in/
 local=/tyurl.ch/
@@ -8743,6 +8745,7 @@ local=/upt.sh/
 local=/uptolink.one/
 local=/upyun.online/
 local=/upzat.com/
+local=/upziq.com/
 local=/ur.link/
 local=/ur-l.ru/
 local=/ur0.link/
@@ -8820,6 +8823,7 @@ local=/url8x.com/
 local=/urla.ru/
 local=/urladda.com/
 local=/urlah.com/
+local=/urlao.com/
 local=/urlaz.com/
 local=/urlb.io/
 local=/urlb.link/
@@ -8862,6 +8866,7 @@ local=/urlforyou.com/
 local=/urlfy.pro/
 local=/urlgeni.us/
 local=/urlgit.com/
+local=/urlgl.com/
 local=/urlgo.ca/
 local=/urlgo.fr/
 local=/urlhawk.com/
@@ -9009,6 +9014,7 @@ local=/urlz.com/
 local=/urlz.fr/
 local=/urlz.gr/
 local=/urlz.li/
+local=/urlzen.com/
 local=/urlzip.io/
 local=/urlzo.org/
 local=/urlzones.com/
@@ -9103,6 +9109,7 @@ local=/vbt.ai/
 local=/vcardcentral.com/
 local=/vcardeg.com/
 local=/vcgo.to/
+local=/vd1.pro/
 local=/vd55.com/
 local=/vdio.pro/
 local=/vdr.cloud/
@@ -9287,6 +9294,7 @@ local=/visiyta.com/
 local=/vivir.pro/
 local=/vivo.tl/
 local=/vivoldi.com/
+local=/vix.cx/
 local=/vk.cc/
 local=/vk.sv/
 local=/vkei.eu/
@@ -9301,6 +9309,7 @@ local=/vlnq.in/
 local=/vloggi.com/
 local=/vloglo.com/
 local=/vlug.link/
+local=/vm88bet.org/
 local=/url.vma.cl/
 local=/vms.bz/
 local=/vmshortlink.com/
@@ -9463,6 +9472,7 @@ local=/go.weesify.com/
 local=/weeste.llc/
 local=/weeurl.eu/
 local=/weeurl.in/
+local=/weewz.me/
 local=/wef.ch/
 local=/wejdz.do/
 local=/wellc.me/

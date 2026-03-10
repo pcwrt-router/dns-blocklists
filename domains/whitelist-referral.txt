@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Mar 2026 09:18 UTC
-# Version: 2026.0307.0918.28
+# Last modified: 10 Mar 2026 09:18 UTC
+# Version: 2026.0310.0918.47
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1934
+# Number of entries: 1936
 #
 1-aclk.net
 1aurl.io
@@ -234,6 +234,7 @@ static.cleverpush.com
 static-eu.cleverpush.com
 static-mobile.cleverpush.com
 seu.cleverreach.com
+10319.seu.cleverreach.com
 105150.seu.cleverreach.com
 14168.seu.cleverreach.com
 15850.seu.cleverreach.com
@@ -1146,6 +1147,7 @@ it-go.kelkoogroup.net
 nl-go.kelkoogroup.net
 no-go.kelkoogroup.net
 pl-go.kelkoogroup.net
+ro-go.kelkoogroup.net
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
 k.keyade.com

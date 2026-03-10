@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 04:56 UTC
-# Version: 2026.0310.0456.56
+# Last modified: 10 Mar 2026 10:54 UTC
+# Version: 2026.0310.1054.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16803
+# Number of entries: 16816
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -14150,8 +14150,10 @@ local=/resolv1.trash.net/
 local=/resolv2.trash.net/
 local=/resolv3.trash.net/
 local=/ffd.travelpage.biz/
+local=/travelvpn.info/
 local=/travelvpn.net/
 local=/ns.trcnet.fi/
+local=/treatmentarrow.org/
 local=/trees.app/
 local=/adguard.treexhd.me/
 local=/myapps.classlink.trelease.net/
@@ -14200,6 +14202,7 @@ local=/trust.zone/
 local=/dns.trust404.win/
 local=/trustedproxies.com/
 local=/truta.org/
+local=/truthskip.org/
 local=/trutri.org/
 local=/truvexia.ru/
 local=/truvium.xyz/
@@ -14621,6 +14624,7 @@ local=/ussecondline.com/
 local=/dns.usualposts.xyz/
 local=/usvpn.cf/
 local=/uswebproxy.com/
+local=/utauloid.space/
 local=/multi.utilicell.com/
 local=/utopianpal.com/
 local=/utunnel.io/
@@ -14649,6 +14653,7 @@ local=/v2ny.co/
 local=/v2ny.de/
 local=/v2ny.mom/
 local=/v2ny.net/
+local=/v2ny.one/
 local=/v2ny.org/
 local=/v2ny.pro/
 local=/v2ny.top/
@@ -14674,6 +14679,8 @@ local=/v4trojn.xyz/
 local=/v6.wiki/
 local=/111000.v6.navy/
 local=/edge-v6x.v6.rocks/
+local=/fancy.v6.army/
+local=/fancy1.v6.army/
 local=/lawless-zone.v6.rocks/
 local=/selenite.v6.army/
 local=/cc2.v8er.net/
@@ -14808,6 +14815,7 @@ local=/vermontisfake.org/
 local=/vernikpro.ru/
 local=/virtualenglish.verolook.com/
 local=/veronap.republican/
+local=/versavpn.com/
 local=/veryeducationaltrust.lat/
 local=/jahyussif.verymad.net/
 local=/vestino.ru/
@@ -14930,6 +14938,7 @@ local=/vpn.ac/
 local=/vpn.asia/
 local=/vpn.com/
 local=/vpn.express/
+local=/vpn.fail/
 local=/vpn.ht/
 local=/vpn.lat/
 local=/vpn.my/
@@ -15019,6 +15028,7 @@ local=/vpnlabs.site/
 local=/vpnland.com/
 local=/vpnlaunch.com/
 local=/vpnliebao.com/
+local=/vpnline.info/
 local=/vpnlite.net/
 local=/api.vpnlumos.com/
 local=/vpnly.com/
@@ -15078,6 +15088,7 @@ local=/vpnsites.com/
 local=/vpnstunnel.com/
 local=/vpnsuper.app/
 local=/vpnsuper.com/
+local=/vpnsurfguard.com/
 local=/vpntoggle.com/
 local=/vpntraffic.com/
 local=/vpntun.site/
@@ -15249,6 +15260,7 @@ local=/web-lets.com/
 local=/1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com/
 local=/web-proxy.site/
 local=/web-rated.ie/
+local=/petezahismyuncle.crui.web1337.net/
 local=/web3clash.com/
 local=/web3jsq.com/
 local=/web3jsq.pro/
@@ -15286,6 +15298,7 @@ local=/browserstephen.webs.vc/
 local=/delta.webs.vc/
 local=/kahoot67.webs.vc/
 local=/sillykitty.webs.vc/
+local=/stemprivate4.webs.vc/
 local=/webshare.io/
 local=/webshots.world/
 local=/janvet.website.pl/

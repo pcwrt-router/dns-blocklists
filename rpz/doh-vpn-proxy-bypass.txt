@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773118560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773140040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 04:56 UTC
-; Version: 2026.0310.0456.56
+; Last modified: 10 Mar 2026 10:54 UTC
+; Version: 2026.0310.1054.11
 ; Syntax: RPZ
-; Number of entries: 33606
+; Number of entries: 33632
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -601,6 +601,10 @@ wolf-zone.dns.army CNAME .
 *.wolf-zone.dns.army CNAME .
 wolfzone.dns.army CNAME .
 *.wolfzone.dns.army CNAME .
+fancy.v6.army CNAME .
+*.fancy.v6.army CNAME .
+fancy1.v6.army CNAME .
+*.fancy1.v6.army CNAME .
 selenite.v6.army CNAME .
 *.selenite.v6.army CNAME .
 atomicspike.art CNAME .
@@ -13703,6 +13707,8 @@ veripn.com CNAME .
 *.veripn.com CNAME .
 virtualenglish.verolook.com CNAME .
 *.virtualenglish.verolook.com CNAME .
+versavpn.com CNAME .
+*.versavpn.com CNAME .
 vfentou.com CNAME .
 *.vfentou.com CNAME .
 vffpcgfi.com CNAME .
@@ -13933,6 +13939,8 @@ vpnstunnel.com CNAME .
 *.vpnstunnel.com CNAME .
 vpnsuper.com CNAME .
 *.vpnsuper.com CNAME .
+vpnsurfguard.com CNAME .
+*.vpnsurfguard.com CNAME .
 vpntoggle.com CNAME .
 *.vpntoggle.com CNAME .
 vpntraffic.com CNAME .
@@ -17277,6 +17285,8 @@ vpn.express CNAME .
 *.vpn.express CNAME .
 dns.connect.fail CNAME .
 *.dns.connect.fail CNAME .
+vpn.fail CNAME .
+*.vpn.fail CNAME .
 proxydude.faith CNAME .
 *.proxydude.faith CNAME .
 dns.christerwaren.fi CNAME .
@@ -18667,6 +18677,8 @@ totorocloud.info CNAME .
 *.totorocloud.info CNAME .
 tradeadspace.info CNAME .
 *.tradeadspace.info CNAME .
+travelvpn.info CNAME .
+*.travelvpn.info CNAME .
 tvone.info CNAME .
 *.tvone.info CNAME .
 unblocked2.info CNAME .
@@ -18689,6 +18701,8 @@ vpncity.info CNAME .
 *.vpncity.info CNAME .
 vpnfree.info CNAME .
 *.vpnfree.info CNAME .
+vpnline.info CNAME .
+*.vpnline.info CNAME .
 vpnnow.info CNAME .
 *.vpnnow.info CNAME .
 web3vpn.info CNAME .
@@ -24523,6 +24537,8 @@ www.securly.com.vslui.net CNAME .
 *.www.securly.com.vslui.net CNAME .
 web-kuailian.net CNAME .
 *.web-kuailian.net CNAME .
+petezahismyuncle.crui.web1337.net CNAME .
+*.petezahismyuncle.crui.web1337.net CNAME .
 webedg.net CNAME .
 *.webedg.net CNAME .
 websiteproxy.net CNAME .
@@ -25123,6 +25139,8 @@ unblockit.one CNAME .
 *.unblockit.one CNAME .
 unblockweb.one CNAME .
 *.unblockweb.one CNAME .
+v2ny.one CNAME .
+*.v2ny.one CNAME .
 z.vipit.one CNAME .
 *.z.vipit.one CNAME .
 adguard.abd.ong CNAME .
@@ -27497,6 +27515,8 @@ torproject.org CNAME .
 *.torproject.org CNAME .
 totorocloud.org CNAME .
 *.totorocloud.org CNAME .
+treatmentarrow.org CNAME .
+*.treatmentarrow.org CNAME .
 trilightzone.org CNAME .
 *.trilightzone.org CNAME .
 trinitypreschoolmp.org CNAME .
@@ -27505,6 +27525,8 @@ ext.troywell.org CNAME .
 *.ext.troywell.org CNAME .
 truta.org CNAME .
 *.truta.org CNAME .
+truthskip.org CNAME .
+*.truthskip.org CNAME .
 trutri.org CNAME .
 *.trutri.org CNAME .
 seible.tsurukawa.org CNAME .
@@ -30435,6 +30457,8 @@ unblocked2.space CNAME .
 *.unblocked2.space CNAME .
 unblocksite.space CNAME .
 *.unblocksite.space CNAME .
+utauloid.space CNAME .
+*.utauloid.space CNAME .
 adguard.vegann.space CNAME .
 *.adguard.vegann.space CNAME .
 verdis.space CNAME .
@@ -31911,6 +31935,8 @@ kahoot67.webs.vc CNAME .
 *.kahoot67.webs.vc CNAME .
 sillykitty.webs.vc CNAME .
 *.sillykitty.webs.vc CNAME .
+stemprivate4.webs.vc CNAME .
+*.stemprivate4.webs.vc CNAME .
 proxysite.video CNAME .
 *.proxysite.video CNAME .
 unblockyoutube.video CNAME .

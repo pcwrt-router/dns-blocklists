@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 15:34 UTC
-# Version: 2026.0309.1534.21
+# Last modified: 10 Mar 2026 10:03 UTC
+# Version: 2026.0310.1003.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 1257
+# Number of entries: 1275
 #
 000a.de
 000space.com
@@ -38,6 +38,7 @@ one4u.0lx.net
 114.at
 115.at
 125mb.com
+126.com
 12n.de
 131.at
 135.it
@@ -52,6 +53,7 @@ one4u.0lx.net
 1apps.com
 1asphost.com
 1colony.com
+1fr1.net
 1freewebspace.com
 1hwy.com
 1shop.de
@@ -146,6 +148,7 @@ absorbiert.de
 abstellen.de
 abwechslungsreiches.de
 ac6.de
+actifforum.com
 admarketlocation.com
 aeza.network
 africafull.top
@@ -153,6 +156,7 @@ ag.gp
 ahlamountada.com
 airground.club
 al6.de
+alboompro.com
 all.lc
 allemal.de
 allpubmusic.my
@@ -198,9 +202,9 @@ bandungberita.com
 banksurvey.biz
 bappy.com
 batcave.net
-bazefrost.ru
 bcz.com
 be.gp
+beepworld.de
 beepworld.it
 beget.tech
 begins.de
@@ -236,6 +240,7 @@ bloggt.de
 blogia.com
 blogmaster.net
 blogmonster.de
+blogsidea.com
 blogsky.com
 blogspot.ae
 blogspot.al
@@ -288,6 +293,7 @@ blogspot.tw
 blogspot.ug
 blogzet.com
 bo.gp
+bokee.com
 bookmark.com
 boxmail.biz
 boxmode.io
@@ -561,10 +567,14 @@ flu.cc
 for-ladys.de
 formbuddy.com
 forum.lc
+forum2jeux.com
 forum2x2.ru
 forum7.de
 forumactif.com
 forumactif.org
+forumattivo.com
+forumieren.com
+forumieren.de
 forumotion.com
 fotos.lc
 fr.gp
@@ -604,6 +614,7 @@ freewebtools.com
 freewha.com
 freezoka.net
 freightinternationalservices.com
+frenchboard.com
 friendcircles.com
 fuer-alle.de
 fuer-profis.de
@@ -657,6 +668,7 @@ home.lc
 homemarker.com
 homepage.cx
 homepage.lc
+homestead.com
 hop.ru
 host.sk
 hostedforfree.com
@@ -749,6 +761,7 @@ justns.ru
 k.gp
 k1.cx
 kann-helfen.de
+kataweb.it
 keepfree.de
 kilu.at
 kilu.biz
@@ -834,6 +847,7 @@ my1.ru
 my3gb.com
 myartsonline.com
 mybb.pw
+mybb.ru
 myblogvoice.com
 mybluehost.me
 mybluehostin.me
@@ -896,6 +910,7 @@ over-blog.com
 own-free-website.com
 ozq.de
 p.gp
+pacbell.net
 page.tl
 page-suspension.net
 page4.me
@@ -1068,6 +1083,7 @@ thisistap.com
 tiiny.host
 tilda.ws
 timeforchangecounselling.com
+tinyblogging.com
 tld.cc
 tmweb.ru
 tokyoca.top
@@ -1083,6 +1099,7 @@ trackfinanceworld.com
 trend.in
 tribalpages.com
 tripod.com
+ttblogs.com
 turbo.site
 turkish.lc
 tuxfamily.org
@@ -1163,6 +1180,7 @@ webador.com
 webadorsite.com
 webatu.com
 webblog24.de
+webblogg.se
 webcindario.com
 webflow.io
 webgarden.com

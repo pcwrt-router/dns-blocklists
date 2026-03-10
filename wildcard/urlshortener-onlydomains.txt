@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 03:33 UTC
-# Version: 2026.0310.0333.52
+# Last modified: 10 Mar 2026 09:33 UTC
+# Version: 2026.0310.0933.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 9992
+# Number of entries: 10002
 #
 0.gp
 00m.in
@@ -8607,9 +8607,11 @@ txdl.top
 txeduofficial.com
 txpl.us
 txtpass.com
+txul.cn
 ty.gy
 tyasd.com
 tyns.me
+tyny.me
 typit.in
 tyrano-shortener.in
 tyurl.ch
@@ -8743,6 +8745,7 @@ upt.sh
 uptolink.one
 upyun.online
 upzat.com
+upziq.com
 ur.link
 ur-l.ru
 ur0.link
@@ -8820,6 +8823,7 @@ url8x.com
 urla.ru
 urladda.com
 urlah.com
+urlao.com
 urlaz.com
 urlb.io
 urlb.link
@@ -8862,6 +8866,7 @@ urlforyou.com
 urlfy.pro
 urlgeni.us
 urlgit.com
+urlgl.com
 urlgo.ca
 urlgo.fr
 urlhawk.com
@@ -9009,6 +9014,7 @@ urlz.com
 urlz.fr
 urlz.gr
 urlz.li
+urlzen.com
 urlzip.io
 urlzo.org
 urlzones.com
@@ -9103,6 +9109,7 @@ vbt.ai
 vcardcentral.com
 vcardeg.com
 vcgo.to
+vd1.pro
 vd55.com
 vdio.pro
 vdr.cloud
@@ -9287,6 +9294,7 @@ visiyta.com
 vivir.pro
 vivo.tl
 vivoldi.com
+vix.cx
 vk.cc
 vk.sv
 vkei.eu
@@ -9301,6 +9309,7 @@ vlnq.in
 vloggi.com
 vloglo.com
 vlug.link
+vm88bet.org
 url.vma.cl
 vms.bz
 vmshortlink.com
@@ -9463,6 +9472,7 @@ go.weesify.com
 weeste.llc
 weeurl.eu
 weeurl.in
+weewz.me
 wef.ch
 wejdz.do
 wellc.me

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773113580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773135180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 03:33 UTC
-; Version: 2026.0310.0333.52
+; Last modified: 10 Mar 2026 09:33 UTC
+; Version: 2026.0310.0933.09
 ; Syntax: RPZ
-; Number of entries: 19984
+; Number of entries: 20004
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2291,6 +2291,8 @@ toskys.cn CNAME .
 *.toskys.cn CNAME .
 tvurl.cn CNAME .
 *.tvurl.cn CNAME .
+txul.cn CNAME .
+*.txul.cn CNAME .
 url.cn CNAME .
 *.url.cn CNAME .
 urlify.cn CNAME .
@@ -7265,6 +7267,8 @@ upstriderlinks.com CNAME .
 *.upstriderlinks.com CNAME .
 upzat.com CNAME .
 *.upzat.com CNAME .
+upziq.com CNAME .
+*.upziq.com CNAME .
 ur301.com CNAME .
 *.ur301.com CNAME .
 ur4l.com CNAME .
@@ -7325,6 +7329,8 @@ urladda.com CNAME .
 *.urladda.com CNAME .
 urlah.com CNAME .
 *.urlah.com CNAME .
+urlao.com CNAME .
+*.urlao.com CNAME .
 urlaz.com CNAME .
 *.urlaz.com CNAME .
 urlbae.com CNAME .
@@ -7361,6 +7367,8 @@ urlforyou.com CNAME .
 *.urlforyou.com CNAME .
 urlgit.com CNAME .
 *.urlgit.com CNAME .
+urlgl.com CNAME .
+*.urlgl.com CNAME .
 urlhawk.com CNAME .
 *.urlhawk.com CNAME .
 urlhum.com CNAME .
@@ -7497,6 +7505,8 @@ urlyy.com CNAME .
 *.urlyy.com CNAME .
 urlz.com CNAME .
 *.urlz.com CNAME .
+urlzen.com CNAME .
+*.urlzen.com CNAME .
 urlzones.com CNAME .
 *.urlzones.com CNAME .
 urlzs.com CNAME .
@@ -7943,6 +7953,8 @@ tox.cx CNAME .
 *.tox.cx CNAME .
 trim.cx CNAME .
 *.trim.cx CNAME .
+vix.cx CNAME .
+*.vix.cx CNAME .
 x3.cx CNAME .
 *.x3.cx CNAME .
 url.cy CNAME .
@@ -14563,6 +14575,8 @@ twilink.me CNAME .
 *.twilink.me CNAME .
 tyns.me CNAME .
 *.tyns.me CNAME .
+tyny.me CNAME .
+*.tyny.me CNAME .
 tyx.me CNAME .
 *.tyx.me CNAME .
 uabio.me CNAME .
@@ -14629,6 +14643,8 @@ watti.me CNAME .
 *.watti.me CNAME .
 webixcard.me CNAME .
 *.webixcard.me CNAME .
+weewz.me CNAME .
+*.weewz.me CNAME .
 wellc.me CNAME .
 *.wellc.me CNAME .
 wfryer.me CNAME .
@@ -16441,6 +16457,8 @@ go.uumeriden.org CNAME .
 *.go.uumeriden.org CNAME .
 vestil.org CNAME .
 *.vestil.org CNAME .
+vm88bet.org CNAME .
+*.vm88bet.org CNAME .
 w3t.org CNAME .
 *.w3t.org CNAME .
 walkjc.org CNAME .
@@ -16883,6 +16901,8 @@ urly.pro CNAME .
 *.urly.pro CNAME .
 urlyshort.pro CNAME .
 *.urlyshort.pro CNAME .
+vd1.pro CNAME .
+*.vd1.pro CNAME .
 vdio.pro CNAME .
 *.vdio.pro CNAME .
 vivir.pro CNAME .
