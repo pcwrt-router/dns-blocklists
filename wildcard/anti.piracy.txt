@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 16:45 UTC
-# Version: 2026.0310.1645.54
+# Last modified: 10 Mar 2026 22:46 UTC
+# Version: 2026.0310.2246.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12111
+# Number of entries: 12108
 #
 *.tracker.guguan.000.pe
 *.003396815.xyz
@@ -926,18 +926,15 @@
 *.ankeschwarz.net
 *.annas-archive.ax
 *.annas-archive.cc
-*.annas-archive.ch
 *.annas-archive.com
 *.annas-archive.cyou
 *.annas-archive.gd
 *.annas-archive.gl
 *.annas-archive.gs
 *.annas-archive.icu
-*.annas-archive.in
 *.annas-archive.li
 *.annas-archive.monster
 *.annas-archive.pk
-*.annas-archive.pm
 *.annas-archive.su
 *.annas-archive.sx
 *.annas-archive.top

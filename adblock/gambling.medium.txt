@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 16:44 UTC
-! Version: 2026.0310.1644.00
+! Last modified: 10 Mar 2026 22:45 UTC
+! Version: 2026.0310.2245.18
 ! Syntax: AdBlock
-! Number of entries: 94925
+! Number of entries: 94912
 !
 ||0-bets.com^
 ||0-bets.net^
@@ -6538,6 +6538,7 @@
 ||658bet2.com^
 ||658betsdd.com^
 ||658betsj.com^
+||659.casino^
 ||659betslot.com^
 ||65jl333.com^
 ||65m.casino^
@@ -9724,7 +9725,6 @@
 ||acecasinos.ca^
 ||acecasinoverhuur.be^
 ||acecasinoverhuur.nl^
-||acedbetcasinonodeposit.click^
 ||acedujeu.poker^
 ||acegame-casino.pl^
 ||acehbola.pics^
@@ -13741,6 +13741,7 @@
 ||bandarwaktu.xyz^
 ||bandas.casino^
 ||bandaslot.casino^
+||bandaslots.casino^
 ||bandel88aa.com^
 ||bandicootpoker.com^
 ||bandit.camp^
@@ -16489,6 +16490,7 @@
 ||bets10turkiyeadresgiris.com^
 ||bets10turkiyeguncel.com^
 ||bets10turkiyeguncelgirisadres.com^
+||bets1o-turkiye-yeniadresiniz.vip^
 ||bets24.io^
 ||bets24.it^
 ||bets300.org^
@@ -26538,6 +26540,7 @@
 ||casinoplato.com^
 ||casinoplay.click^
 ||casinoplay.com^
+||casinoplay.store^
 ||casinoplaycraft.info^
 ||casinoplaydoit.com^
 ||casinoplayer.com^
@@ -26845,7 +26848,6 @@
 ||casinoriobet-best.hair^
 ||casinoriobet-best.top^
 ||casinoriobet-luck.beauty^
-||casinoriobet-luck.homes^
 ||casinoriobet-play.beauty^
 ||casinoriobet-play.skin^
 ||casinoriobetslot.online^
@@ -31396,7 +31398,6 @@
 ||luckypayscasinos.co.uk^
 ||luckyseas-casino.co.uk^
 ||luckyseascasino.co.uk^
-||luckytrunkcasino.co.nl^
 ||luckywands-casino.co.nl^
 ||lulabet.co.za^
 ||lunarslotscasino.co.uk^
@@ -45169,7 +45170,6 @@
 ||grandcasino-hu.net^
 ||grandcasino-hu.org^
 ||grandcasino241.com^
-||grandcasino3.com^
 ||grandcasino777.beer^
 ||grandcasinobaden.ch^
 ||grandcasinobet80.com^
@@ -45316,7 +45316,6 @@
 ||grandvillacasino.com^
 ||grandvip.bet^
 ||grandwild.com^
-||grandwildcasinonodeposit.click^
 ||grandwin.com^
 ||grandwin.cz^
 ||grandwin-casino.nl^
@@ -55385,7 +55384,6 @@
 ||litecasino.se^
 ||litecoincasinonodeposit.click^
 ||litecoincasinoonline.ca^
-||lithuaniacasinonodeposit.click^
 ||litorialbets.live^
 ||litsenzionnye.casino^
 ||litslot.com^
@@ -62189,7 +62187,6 @@
 ||mynylottery.org^
 ||myonlinecasino.online^
 ||myonlinecasino.site^
-||myonlinepoker.com^
 ||mypersonas.ca^
 ||mypick.casino^
 ||mypilarjp.info^
@@ -64436,6 +64433,7 @@
 ||nzonlinecasinosites.net^
 ||nzonlinecasinoslist.com^
 ||nztopcasinos.com^
+||o.fun^
 ||o-bain-disis.fr^
 ||o00.casino^
 ||o01.casino^
@@ -74233,7 +74231,6 @@
 ||r7casino407.com^
 ||r7casino41.buzz^
 ||r7casino496.com^
-||r7casino650.com^
 ||r7casino698.com^
 ||r7casino699.com^
 ||r7casino767.com^
@@ -77536,7 +77533,6 @@
 ||royalreelscasinoau.com^
 ||royalreelscasinoaustralia.ink^
 ||royalreelscasinoaustralia.net^
-||royalreelscasinologin.cc^
 ||royalreelscasinologin-australia.com^
 ||royalreelscasinologinaustralia.ink^
 ||royalreelscasinosautralia.com^
@@ -78599,7 +78595,6 @@
 ||sanscasino259.com^
 ||sanscasino260.com^
 ||sanscasino261.com^
-||sanscasino264.com^
 ||sanscasino265.com^
 ||sanscasino266.com^
 ||sanscasino268.com^
@@ -80850,7 +80845,6 @@
 ||slotskenya.shop^
 ||slotsking.org^
 ||slotskingdom.club^
-||slotskingdomcasifreespins.click^
 ||slotskingdomcasinonodeposit.click^
 ||slotslasvegasluckygame.vip^
 ||slotslasvegasluckygameau.vip^
@@ -85247,7 +85241,6 @@
 ||theclubhousecasino6.com^
 ||theclubhousecasinonodeposit.click^
 ||theclubhousecasinox.com^
-||thecolonycasino.com^
 ||thecolonycasinogiris.com^
 ||thecolonycasinoslotgiris.com^
 ||thecolumbiapartnership.org^
@@ -85816,7 +85809,6 @@
 ||tlcasinoblak.com^
 ||tlcasinodenemebonusu1.com^
 ||tlcasinodiscount1.com^
-||tlcasinogirisler.com^
 ||tlcasinohukumdargiris.top^
 ||tlcasinoinfo.com^
 ||tlcasinomburda.com^
@@ -86051,7 +86043,6 @@
 ||top-casino-crypto.com^
 ||top-casino-forum.ru^
 ||top-casino-kz2026.bar^
-||top-casino-kz2026.click^
 ||top-casino-kz2026.top^
 ||top-casino-list.com^
 ||top-casino-offers.nz^
@@ -87759,7 +87750,6 @@
 ||uklootcasino.com^
 ||uklovecasino.com^
 ||ukmemocasino.com^
-||uknewcasinobonus2026.com^
 ||uknewcasinoss.com^
 ||uknongamstop.casino^
 ||uknotongamstop.casino^
@@ -89333,7 +89323,6 @@
 ||verdecasino.buzz^
 ||verdecasino.com^
 ||verdecasino.hu^
-||verdecasino.nz^
 ||verdecasino.org^
 ||verdecasino-belgium.com^
 ||verdecasino-canada.com^
@@ -89706,7 +89695,6 @@
 ||vip-slotscope.click^
 ||vip-slotsentinel.click^
 ||vip-slotservice.click^
-||vip-slotshipyard.click^
 ||vip-slotsphere.click^
 ||vip-slotsystems.click^
 ||vip-zino-casino.com^
@@ -90501,7 +90489,6 @@
 ||volt-casino.nl^
 ||voltacasino.cc^
 ||voltacasino-kz.kz^
-||voltacasinonodeposit.click^
 ||voltagebet.com^
 ||voltcasino.nl^
 ||voltcasino.uk^

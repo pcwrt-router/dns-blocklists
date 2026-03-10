@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 16:47 UTC
-! Version: 2026.0310.1647.43
+! Last modified: 10 Mar 2026 22:48 UTC
+! Version: 2026.0310.2248.47
 ! Syntax: AdBlock
-! Number of entries: 73852
+! Number of entries: 73862
 !
 ||0-xxxv.site^
 ||000-xxx-video.online^
@@ -2231,6 +2231,7 @@
 ||iimsurakarta.ac.id^
 ||kgc.ac.bd^
 ||kisiipoly.ac.ke^
+||sgc.ac.bd^
 ||ac-data.com^
 ||ac-porn.com^
 ||en.academic.ru^
@@ -6290,6 +6291,7 @@
 ||asscamgirls.com^
 ||asscj.com^
 ||asscorruption.com^
+||asscult.com^
 ||asses.cc^
 ||assesphoto.com^
 ||assetbasisextendprimechief.shop^
@@ -9532,6 +9534,7 @@
 ||bohdan-zaviriukha.gay^
 ||bohonude.art^
 ||boibetoninfo.ru^
+||boin-boin.com^
 ||boinkstream.com^
 ||boisexmaslights.com^
 ||boixxx-kbetsports.bet^
@@ -14449,6 +14452,7 @@
 ||drogariasmilfarma.com.br^
 ||drogasexito.com.co^
 ||dxxx.com.cn^
+||dzelectrical.com.au^
 ||eagleleather.com.au^
 ||educacaosexual.com.br^
 ||eerna.com.bd^
@@ -23813,7 +23817,6 @@
 ||frozenheadultra.com^
 ||frpornvideos.com^
 ||frprn.com^
-||frugal-sex.com^
 ||fruitcams.com^
 ||fruitsexotiques.fr^
 ||fruitsexport.cl^
@@ -27061,6 +27064,7 @@
 ||goodxxxtubes.icu^
 ||goodxxxvideos.xyz^
 ||goodzips.com^
+||googgle.live^
 ||googhoe.com^
 ||googlesantabanta.com^
 ||googlesantabanta.in^
@@ -27153,6 +27157,7 @@
 ||gourmetproductsexpo.com^
 ||gousexperienceclean.org^
 ||arraiadefeira.ba.gov.br^
+||banbeis.gov.bd^
 ||bdris.gov.bd^
 ||betar.gov.bd^
 ||bjsc.gov.bd^
@@ -28179,6 +28184,7 @@
 ||hdindian.pro^
 ||hdindianporn.com^
 ||hdindianporno.com^
+||hdizlefilmizle.live^
 ||hdjapanpornmovies.click^
 ||hdjapanxxx.click^
 ||hdjav.info^
@@ -39774,6 +39780,7 @@
 ||mkt.gay^
 ||mkvcinemas.rent^
 ||mkvcinemas.vc^
+||mkvfun.one^
 ||mlcantos.com^
 ||mlive3211.net^
 ||mlive8.com^
@@ -43635,6 +43642,7 @@
 ||omgbigboobs.com^
 ||omgblog.com^
 ||omgdelhi.com^
+||omgdraw.com^
 ||omgjav.com^
 ||omgkinky.com^
 ||omgmovies.com^
@@ -68919,6 +68927,8 @@
 ||wmyporn.com^
 ||wn01.cfd^
 ||wn01.shop^
+||wn02.cfd^
+||wn02.shop^
 ||wnacg.com^
 ||wnacg.org^
 ||wnacg01.link^

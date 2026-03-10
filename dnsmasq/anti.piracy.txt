@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 16:45 UTC
-# Version: 2026.0310.1645.54
+# Last modified: 10 Mar 2026 22:46 UTC
+# Version: 2026.0310.2246.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12111
+# Number of entries: 12108
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -926,18 +926,15 @@ local=/ankergames.net/
 local=/ankeschwarz.net/
 local=/annas-archive.ax/
 local=/annas-archive.cc/
-local=/annas-archive.ch/
 local=/annas-archive.com/
 local=/annas-archive.cyou/
 local=/annas-archive.gd/
 local=/annas-archive.gl/
 local=/annas-archive.gs/
 local=/annas-archive.icu/
-local=/annas-archive.in/
 local=/annas-archive.li/
 local=/annas-archive.monster/
 local=/annas-archive.pk/
-local=/annas-archive.pm/
 local=/annas-archive.su/
 local=/annas-archive.sx/
 local=/annas-archive.top/

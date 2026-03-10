@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 16:51 UTC
-# Version: 2026.0310.1651.33
+# Last modified: 10 Mar 2026 22:52 UTC
+# Version: 2026.0310.2252.26
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 438
 #
@@ -432,20 +432,20 @@
 0.0.0.0 dns.wellstsai.com zhang.wenru.xyz doh.wewitro.net doh-rs.whalebone.io whatcaniplay.com bwh.why4free.top dns.wibenson.cloud dns1-secure.wifire.it adguard.wifri.space
 0.0.0.0 wikimedia-dns.org wikimediadns.org dns-1.wil.cloud dns-2.wil.cloud adguard.wild.ro adguard.willhotard.com dns.wincservices.com tls.windyvale.net wiqi.app
 0.0.0.0 wiqi.top ad.wiqi.app www.wiqi.top adguard.wirimij.nl dns3.wistarip.com vserv.wkind.de dns.wns.watch dnsbk.wns.watch ag.wntrmute.net
-0.0.0.0 block-solution.wolfplaces.com woodbridge.club dns.woodyli.dev doh.ndmc.work.gd dds.wpme.pl home.wriedts.de dns.wryhf.com ns2.wuyouss.com ns3.wuyouss.com
-0.0.0.0 usatwo.wuyouss.com adguard.rn.wwb1215.com dns1.wyss.network wyx.cloud ads.x88.in adguard.x88x.xyz dns.x8net.ru adguard.xandersalarie.com adb-home.xaoimoon.fr
-0.0.0.0 adb-wan.xaoimoon.fr xbcpb668.com xbox-dns.ru dns.xcapenet.ru dns2.xcapenet.ru doh.xcom.pro xenergy.cc vsrv15195.customer.xenway.de xfer.au
-0.0.0.0 doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top xiaoxie.pro xiaoxinhui.cn dns.xiaoxinhui.cn mail.xiaoxinhui.cn xie.ke
-0.0.0.0 agh.xinfeng16m.top xins.live dns.xinwujiang.cn dns.xiumu.org dns.xivilay.dev dns.xlion.tw xn--80aeak3akfgk.xn--p1acf xn--80aecoigf4aatn.xn--p1ai xn--durhre-yxa.de
-0.0.0.0 xomadns.com xorbiadns.com doh.xorlet.ru adgh.xrossj.top look.xshentx.org dns.xuann.my dns.xuming.studio dns.xusqui.com dns.xv.fi
-0.0.0.0 dns.xwdmw.xyz dns.xwu.us r7ws-poco-f3.dns.xwu.us dns.xydustc.me v1.xylto.com dns.y2f.xyz dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru
-0.0.0.0 common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru adguard.yare.hk
-0.0.0.0 agh-hetzner.yasirafique.com dns.yatima.tv adguardhome.yavuztutcu.net lion.yazilimatolye.com ychen.cf ychen.gq vdska-pl.ydns.eu sg.yepdns.com yeralin.net
-0.0.0.0 adguard.ygd.lol ns6.ygy.ru dns.yingroad.top appart.yoannchappaz.best hk.yoosoo.cc com.you-seen.fr net01.youcef.io adguard.youler.com dns.youni.win
-0.0.0.0 your-dns.run yovbak.com guard.yps.tw ys4.de dus.ysbs.uk dns2.ytpom.ru dns.yu.dev adguard.yuki2th.xyz yundun.icu
-0.0.0.0 httpdns.yunxindns.com dns.yuu-g.net yuvelirtut.website dns.yuyz.net dns.yuzia.cc httpdns.gslb.yy.com dns.yyaan.com dns.yyaan.top adg.yybyy.wiki
-0.0.0.0 dns.daemon.za.net zabolotskikh.dev dns.zachbosh.com adguard.zachitect.com zakaria.website sdns.zakaria.website akylah.zapto.org dns.zarchbox.fr zaziss.com
-0.0.0.0 zburger.top zdn.ro register.zedzander.com dns.zemows.industries adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru zhengkaiyun.top
-0.0.0.0 httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun xyz2.zmjflow.com xyz3.zmjflow.com dot-dns.zmy.cloud
-0.0.0.0 online.zotio.ru zougloub.eu d.zscale.gq ztv.su lookup.zucx.net dns.zui.lol zulkas.top httpdns.zybang.com ams.core.access.zznet.fun
-0.0.0.0 hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun dns.zzuhacker.cn 
+0.0.0.0 block-solution.wolfplaces.com woodbridge.club clearweb.woodbridge.club dns.woodyli.dev doh.ndmc.work.gd dds.wpme.pl home.wriedts.de dns.wryhf.com ns2.wuyouss.com
+0.0.0.0 ns3.wuyouss.com usatwo.wuyouss.com adguard.rn.wwb1215.com dns1.wyss.network wyx.cloud ads.x88.in adguard.x88x.xyz dns.x8net.ru adguard.xandersalarie.com
+0.0.0.0 adb-home.xaoimoon.fr adb-wan.xaoimoon.fr xbcpb668.com xbox-dns.ru dns.xcapenet.ru dns2.xcapenet.ru doh.xcom.pro xenergy.cc vsrv15195.customer.xenway.de
+0.0.0.0 xfer.au doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top xiaoxie.pro xiaoxinhui.cn dns.xiaoxinhui.cn mail.xiaoxinhui.cn
+0.0.0.0 xie.ke agh.xinfeng16m.top xins.live dns.xinwujiang.cn dns.xiumu.org dns.xivilay.dev dns.xlion.tw xn--80aeak3akfgk.xn--p1acf xn--80aecoigf4aatn.xn--p1ai
+0.0.0.0 xn--durhre-yxa.de xomadns.com xorbiadns.com doh.xorlet.ru adgh.xrossj.top look.xshentx.org dns.xuann.my dns.xuming.studio dns.xusqui.com
+0.0.0.0 dns.xv.fi dns.xwdmw.xyz dns.xwu.us r7ws-poco-f3.dns.xwu.us dns.xydustc.me v1.xylto.com dns.y2f.xyz dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net
+0.0.0.0 dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru
+0.0.0.0 adguard.yare.hk agh-hetzner.yasirafique.com dns.yatima.tv adguardhome.yavuztutcu.net lion.yazilimatolye.com ychen.cf ychen.gq vdska-pl.ydns.eu sg.yepdns.com
+0.0.0.0 yeralin.net adguard.ygd.lol ns6.ygy.ru dns.yingroad.top appart.yoannchappaz.best hk.yoosoo.cc com.you-seen.fr net01.youcef.io adguard.youler.com
+0.0.0.0 dns.youni.win your-dns.run yovbak.com guard.yps.tw ys4.de dus.ysbs.uk dns2.ytpom.ru dns.yu.dev adguard.yuki2th.xyz
+0.0.0.0 yundun.icu httpdns.yunxindns.com dns.yuu-g.net yuvelirtut.website dns.yuyz.net dns.yuzia.cc httpdns.gslb.yy.com dns.yyaan.com dns.yyaan.top
+0.0.0.0 adg.yybyy.wiki dns.daemon.za.net zabolotskikh.dev dns.zachbosh.com adguard.zachitect.com zakaria.website sdns.zakaria.website akylah.zapto.org dns.zarchbox.fr
+0.0.0.0 zaziss.com zburger.top zdn.ro register.zedzander.com dns.zemows.industries adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru
+0.0.0.0 zhengkaiyun.top httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun xyz2.zmjflow.com xyz3.zmjflow.com
+0.0.0.0 dot-dns.zmy.cloud online.zotio.ru zougloub.eu d.zscale.gq ztv.su lookup.zucx.net dns.zui.lol zulkas.top httpdns.zybang.com
+0.0.0.0 ams.core.access.zznet.fun hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun dns.zzuhacker.cn

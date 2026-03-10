@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773161220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773182880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 16:47 UTC
-; Version: 2026.0310.1647.43
+; Last modified: 10 Mar 2026 22:48 UTC
+; Version: 2026.0310.2248.47
 ; Syntax: RPZ
-; Number of entries: 147704
+; Number of entries: 147724
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -1430,6 +1430,8 @@ discreetsex.com.au CNAME .
 *.discreetsex.com.au CNAME .
 dreameroticmassagesydney.com.au CNAME .
 *.dreameroticmassagesydney.com.au CNAME .
+dzelectrical.com.au CNAME .
+*.dzelectrical.com.au CNAME .
 eagleleather.com.au CNAME .
 *.eagleleather.com.au CNAME .
 eroticmassagefingers.com.au CNAME .
@@ -1842,6 +1844,8 @@ zreloeporno.bar CNAME .
 *.zreloeporno.bar CNAME .
 kgc.ac.bd CNAME .
 *.kgc.ac.bd CNAME .
+sgc.ac.bd CNAME .
+*.sgc.ac.bd CNAME .
 bdsmmpanel.com.bd CNAME .
 *.bdsmmpanel.com.bd CNAME .
 bmsexpress.com.bd CNAME .
@@ -1888,6 +1892,8 @@ ubsbd.com.bd CNAME .
 *.ubsbd.com.bd CNAME .
 iom.edu.bd CNAME .
 *.iom.edu.bd CNAME .
+banbeis.gov.bd CNAME .
+*.banbeis.gov.bd CNAME .
 bdris.gov.bd CNAME .
 *.bdris.gov.bd CNAME .
 betar.gov.bd CNAME .
@@ -8152,6 +8158,8 @@ webmaal.cfd CNAME .
 *.webmaal.cfd CNAME .
 wn01.cfd CNAME .
 *.wn01.cfd CNAME .
+wn02.cfd CNAME .
+*.wn02.cfd CNAME .
 woaihi.cfd CNAME .
 *.woaihi.cfd CNAME .
 wwhhyyjj.cfd CNAME .
@@ -19126,6 +19134,8 @@ asscj.com CNAME .
 *.asscj.com CNAME .
 asscorruption.com CNAME .
 *.asscorruption.com CNAME .
+asscult.com CNAME .
+*.asscult.com CNAME .
 assesphoto.com CNAME .
 *.assesphoto.com CNAME .
 assexmarketzbroker.com CNAME .
@@ -22838,6 +22848,8 @@ boecdn.com CNAME .
 *.boecdn.com CNAME .
 bogleech.com CNAME .
 *.bogleech.com CNAME .
+boin-boin.com CNAME .
+*.boin-boin.com CNAME .
 boinkstream.com CNAME .
 *.boinkstream.com CNAME .
 boisexmaslights.com CNAME .
@@ -37062,8 +37074,6 @@ frpornvideos.com CNAME .
 *.frpornvideos.com CNAME .
 frprn.com CNAME .
 *.frprn.com CNAME .
-frugal-sex.com CNAME .
-*.frugal-sex.com CNAME .
 fruitcams.com CNAME .
 *.fruitcams.com CNAME .
 frutaseverdurasexpress.com CNAME .
@@ -58356,6 +58366,8 @@ omgblog.com CNAME .
 *.omgblog.com CNAME .
 omgdelhi.com CNAME .
 *.omgdelhi.com CNAME .
+omgdraw.com CNAME .
+*.omgdraw.com CNAME .
 omgjav.com CNAME .
 *.omgjav.com CNAME .
 omgkinky.com CNAME .
@@ -102742,6 +102754,8 @@ girls.live CNAME .
 *.girls.live CNAME .
 goodporno.live CNAME .
 *.goodporno.live CNAME .
+googgle.live CNAME .
+*.googgle.live CNAME .
 gorgeousporn.live CNAME .
 *.gorgeousporn.live CNAME .
 gorgeoussex.live CNAME .
@@ -102756,6 +102770,8 @@ hamsterxvideo.live CNAME .
 *.hamsterxvideo.live CNAME .
 haysexvn.live CNAME .
 *.haysexvn.live CNAME .
+hdizlefilmizle.live CNAME .
+*.hdizlefilmizle.live CNAME .
 hdsexcams.live CNAME .
 *.hdsexcams.live CNAME .
 hentaichan.live CNAME .
@@ -115982,6 +115998,8 @@ minetrah.one CNAME .
 *.minetrah.one CNAME .
 missav.one CNAME .
 *.missav.one CNAME .
+mkvfun.one CNAME .
+*.mkvfun.one CNAME .
 momson.one CNAME .
 *.momson.one CNAME .
 motphim.one CNAME .
@@ -131796,6 +131814,8 @@ wholesex.shop CNAME .
 *.wholesex.shop CNAME .
 wn01.shop CNAME .
 *.wn01.shop CNAME .
+wn02.shop CNAME .
+*.wn02.shop CNAME .
 worldbridgepilotpartnersexact.shop CNAME .
 *.worldbridgepilotpartnersexact.shop CNAME .
 worldidealteachnexusexcel.shop CNAME .

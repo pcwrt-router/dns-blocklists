@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 15:30 UTC
-# Version: 2026.0310.1530.46
+# Last modified: 10 Mar 2026 21:31 UTC
+# Version: 2026.0310.2131.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14454
+# Number of entries: 14453
 #
 *.01broker.com
 *.01crypto.com
@@ -4117,7 +4117,6 @@
 *.exo-marketing.com
 *.exodermin.com
 *.exodermin.eu
-*.exomarkets.pro
 *.exotekracingparts.com
 *.exoticappearance.com
 *.expedangebote.com

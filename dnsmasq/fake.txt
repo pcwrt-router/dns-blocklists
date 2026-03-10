@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 15:30 UTC
-# Version: 2026.0310.1530.46
+# Last modified: 10 Mar 2026 21:31 UTC
+# Version: 2026.0310.2131.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14454
+# Number of entries: 14453
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -4117,7 +4117,6 @@ local=/exklusivendesign.com/
 local=/exo-marketing.com/
 local=/exodermin.com/
 local=/exodermin.eu/
-local=/exomarkets.pro/
 local=/exotekracingparts.com/
 local=/exoticappearance.com/
 local=/expedangebote.com/

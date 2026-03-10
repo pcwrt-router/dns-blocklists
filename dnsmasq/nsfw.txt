@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 16:47 UTC
-# Version: 2026.0310.1647.43
+# Last modified: 10 Mar 2026 22:48 UTC
+# Version: 2026.0310.2248.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 73852
+# Number of entries: 73862
 #
 local=/0-xxxv.site/
 local=/000-xxx-video.online/
@@ -2230,6 +2230,7 @@ local=/epigenetics.essex.ac.uk/
 local=/iimsurakarta.ac.id/
 local=/kgc.ac.bd/
 local=/kisiipoly.ac.ke/
+local=/sgc.ac.bd/
 local=/ac-data.com/
 local=/ac-porn.com/
 local=/en.academic.ru/
@@ -6289,6 +6290,7 @@ local=/assberry.net/
 local=/asscamgirls.com/
 local=/asscj.com/
 local=/asscorruption.com/
+local=/asscult.com/
 local=/asses.cc/
 local=/assesphoto.com/
 local=/assetbasisextendprimechief.shop/
@@ -9531,6 +9533,7 @@ local=/bogot.net/
 local=/bohdan-zaviriukha.gay/
 local=/bohonude.art/
 local=/boibetoninfo.ru/
+local=/boin-boin.com/
 local=/boinkstream.com/
 local=/boisexmaslights.com/
 local=/boixxx-kbetsports.bet/
@@ -14448,6 +14451,7 @@ local=/dreameroticmassagesydney.com.au/
 local=/drogariasmilfarma.com.br/
 local=/drogasexito.com.co/
 local=/dxxx.com.cn/
+local=/dzelectrical.com.au/
 local=/eagleleather.com.au/
 local=/educacaosexual.com.br/
 local=/eerna.com.bd/
@@ -23812,7 +23816,6 @@ local=/frotstar.gay/
 local=/frozenheadultra.com/
 local=/frpornvideos.com/
 local=/frprn.com/
-local=/frugal-sex.com/
 local=/fruitcams.com/
 local=/fruitsexotiques.fr/
 local=/fruitsexport.cl/
@@ -27060,6 +27063,7 @@ local=/goodxxxhd.com/
 local=/goodxxxtubes.icu/
 local=/goodxxxvideos.xyz/
 local=/goodzips.com/
+local=/googgle.live/
 local=/googhoe.com/
 local=/googlesantabanta.com/
 local=/googlesantabanta.in/
@@ -27152,6 +27156,7 @@ local=/gourmandix.com/
 local=/gourmetproductsexpo.com/
 local=/gousexperienceclean.org/
 local=/arraiadefeira.ba.gov.br/
+local=/banbeis.gov.bd/
 local=/bdris.gov.bd/
 local=/betar.gov.bd/
 local=/bjsc.gov.bd/
@@ -28178,6 +28183,7 @@ local=/hdim.cn/
 local=/hdindian.pro/
 local=/hdindianporn.com/
 local=/hdindianporno.com/
+local=/hdizlefilmizle.live/
 local=/hdjapanpornmovies.click/
 local=/hdjapanxxx.click/
 local=/hdjav.info/
@@ -39773,6 +39779,7 @@ local=/mkiska.cc/
 local=/mkt.gay/
 local=/mkvcinemas.rent/
 local=/mkvcinemas.vc/
+local=/mkvfun.one/
 local=/mlcantos.com/
 local=/mlive3211.net/
 local=/mlive8.com/
@@ -43634,6 +43641,7 @@ local=/omgbbwporn.com/
 local=/omgbigboobs.com/
 local=/omgblog.com/
 local=/omgdelhi.com/
+local=/omgdraw.com/
 local=/omgjav.com/
 local=/omgkinky.com/
 local=/omgmovies.com/
@@ -68918,6 +68926,8 @@ local=/wmxxx.xyz/
 local=/wmyporn.com/
 local=/wn01.cfd/
 local=/wn01.shop/
+local=/wn02.cfd/
+local=/wn02.shop/
 local=/wnacg.com/
 local=/wnacg.org/
 local=/wnacg01.link/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773161100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773182760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 16:45 UTC
-; Version: 2026.0310.1645.54
+; Last modified: 10 Mar 2026 22:46 UTC
+; Version: 2026.0310.2246.58
 ; Syntax: RPZ
-; Number of entries: 24222
+; Number of entries: 24216
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1938,8 +1938,6 @@ cyberhitz.2ix.ch CNAME .
 *.cyberhitz.2ix.ch CNAME .
 mytoplist.2ix.ch CNAME .
 *.mytoplist.2ix.ch CNAME .
-annas-archive.ch CNAME .
-*.annas-archive.ch CNAME .
 arenabg.ch CNAME .
 *.arenabg.ch CNAME .
 cpasbien.ch CNAME .
@@ -10670,8 +10668,6 @@ skymovieshd.am.in CNAME .
 *.skymovieshd.am.in CNAME .
 animestream.in CNAME .
 *.animestream.in CNAME .
-annas-archive.in CNAME .
-*.annas-archive.in CNAME .
 beemp3.in CNAME .
 *.beemp3.in CNAME .
 binnews.in CNAME .
@@ -18270,8 +18266,6 @@ vegamovies.plus CNAME .
 *.vegamovies.plus CNAME .
 zona.plus CNAME .
 *.zona.plus CNAME .
-annas-archive.pm CNAME .
-*.annas-archive.pm CNAME .
 tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
 dood.pm CNAME .
