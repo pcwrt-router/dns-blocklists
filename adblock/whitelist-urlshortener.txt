@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Mar 2026 15:02 UTC
-! Version: 2026.0309.1502.54
+! Last modified: 10 Mar 2026 03:33 UTC
+! Version: 2026.0310.0333.52
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -6208,6 +6208,7 @@
 @@||ptxt.me^
 @@||ptzo.cc^
 @@||publ.cc^
+@@||publicearn.online^
 @@||puext.in^
 @@||puhli.icu^
 @@||t2mio.pulsem.me^
@@ -6356,6 +6357,7 @@
 @@||qsl.pw^
 @@||qti.ai^
 @@||qtr.sh^
+@@||qty3e.pro^
 @@||qu-ax.org^
 @@||quainator.com^
 @@||quamiller.com^
@@ -6447,6 +6449,7 @@
 @@||link.rccn.dev^
 @@||rch.lt^
 @@||rcknr.io^
+@@||rckstr.bz^
 @@||rcld.io^
 @@||rd.gt^
 @@||rd-client.com^
@@ -6532,6 +6535,7 @@
 @@||reinachan.com^
 @@||s.reinhart1010.id^
 @@||reini.link^
+@@||reive.site^
 @@||rejoicing.com^
 @@||rejoindre.app^
 @@||rekale.me^
@@ -6682,6 +6686,7 @@
 @@||rushgiving.com^
 @@||rushivili.com^
 @@||rusuhkali.xyz^
+@@||rutgon.top^
 @@||ruvi.me^
 @@||rvpaste.com^
 @@||rvr.link^
@@ -6711,6 +6716,7 @@
 @@||s-turl.com^
 @@||s-url.fr^
 @@||s-url.pro^
+@@||s0.world^
 @@||s04.de^
 @@||s0t.eu^
 @@||s11.link^
@@ -6812,10 +6818,12 @@
 @@||shop.scghome.com^
 @@||smaba.sch.id^
 @@||vita.sch.id^
+@@||kutt.schantli.cloud^
 @@||sched.co^
 @@||schellenberg.ca^
 @@||scholarlyus.com^
 @@||schowmarketing.com^
+@@||yourls.sci.io^
 @@||go.scify.org^
 @@||sck.io^
 @@||sclix.com^
@@ -7125,6 +7133,7 @@
 @@||shortix.io^
 @@||shortkit.io^
 @@||shortl.info^
+@@||shortl.net^
 @@||shortlab.bio^
 @@||shortlinc.com^
 @@||shortlink.ad^
@@ -7132,6 +7141,7 @@
 @@||shortlink.cz^
 @@||shortlink.gr^
 @@||shortlink.is^
+@@||shortlink.net^
 @@||shortlink.one^
 @@||shortlink.sbs^
 @@||shortlink.uk^
@@ -7229,6 +7239,7 @@
 @@||shorturlbot.com^
 @@||shorturlhub.com^
 @@||shorturlmagic.link^
+@@||shorturls.me^
 @@||shorturls.one^
 @@||shorturls.pro^
 @@||shorturlss.com^
@@ -7292,6 +7303,7 @@
 @@||shrinkrl.com^
 @@||shrinkster.com^
 @@||shrinkuri.com^
+@@||shrinkurl.us^
 @@||shrinky.pro^
 @@||shrinkz.org^
 @@||shrinqly.com^
@@ -7573,6 +7585,7 @@
 @@||snipr.com^
 @@||snipurl.com^
 @@||snipurl.dev^
+@@||snipurl.me^
 @@||snipurl.net^
 @@||snipy.co^
 @@||snipzr.com^
@@ -7865,6 +7878,7 @@
 @@||t.mr^
 @@||t.tl^
 @@||t-bi.link^
+@@||t-co.online^
 @@||t-iny.com^
 @@||t-mo.co^
 @@||t-short.top^
@@ -7942,6 +7956,7 @@
 @@||tcc.io^
 @@||tcc.plus^
 @@||tcch.ch^
+@@||tckl.party^
 @@||tconnx.link^
 @@||tcp.pw^
 @@||tcr.link^
@@ -8102,6 +8117,7 @@
 @@||tik.lol^
 @@||tik.so^
 @@||tiklagit.net^
+@@||tiky.cc^
 @@||tikybio.com^
 @@||tilt.ltd^
 @@||get.timbbe.com^

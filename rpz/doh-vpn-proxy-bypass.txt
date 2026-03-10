@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773073440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773118560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Mar 2026 16:24 UTC
-; Version: 2026.0309.1624.49
+; Last modified: 10 Mar 2026 04:56 UTC
+; Version: 2026.0310.0456.56
 ; Syntax: RPZ
-; Number of entries: 33594
+; Number of entries: 33606
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -11887,6 +11887,8 @@ rapidvpn.com CNAME .
 *.rapidvpn.com CNAME .
 ultramatheducation.raspberryip.com CNAME .
 *.ultramatheducation.raspberryip.com CNAME .
+read.coach.ratnikov.com CNAME .
+*.read.coach.ratnikov.com CNAME .
 ns2.ravdns.com CNAME .
 *.ns2.ravdns.com CNAME .
 dns.rayanbab.com CNAME .
@@ -12047,6 +12049,8 @@ safehousetech.com CNAME .
 *.safehousetech.com CNAME .
 safehousevpn.com CNAME .
 *.safehousevpn.com CNAME .
+safenetbrowser.com CNAME .
+*.safenetbrowser.com CNAME .
 safervpn.com CNAME .
 *.safervpn.com CNAME .
 safeservedns.com CNAME .
@@ -12519,6 +12523,8 @@ add.balatro.back.cfisd.spacejamhd.com CNAME .
 *.add.balatro.back.cfisd.spacejamhd.com CNAME .
 botany.classes.spacejamhd.com CNAME .
 *.botany.classes.spacejamhd.com CNAME .
+adam.loves.gandhi.spacejamhd.com CNAME .
+*.adam.loves.gandhi.spacejamhd.com CNAME .
 endis.is.goat.spacejamhd.com CNAME .
 *.endis.is.goat.spacejamhd.com CNAME .
 fansblowair.ik.spacejamhd.com CNAME .
@@ -12903,6 +12909,8 @@ doh.sz-dns.com CNAME .
 *.doh.sz-dns.com CNAME .
 cabin.szendebrassai.com CNAME .
 *.cabin.szendebrassai.com CNAME .
+math.tests.szk-obihiro.com CNAME .
+*.math.tests.szk-obihiro.com CNAME .
 t-dz.com CNAME .
 *.t-dz.com CNAME .
 t9clash.com CNAME .
@@ -13329,8 +13337,6 @@ dns.tuankhaiit.com CNAME .
 *.dns.tuankhaiit.com CNAME .
 tubeprox.com CNAME .
 *.tubeprox.com CNAME .
-tunnel4.com CNAME .
-*.tunnel4.com CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
 learn.how.tupuola.com CNAME .
@@ -13921,6 +13927,8 @@ vpnshieldapp.com CNAME .
 *.vpnshieldapp.com CNAME .
 vpnside.com CNAME .
 *.vpnside.com CNAME .
+vpnsites.com CNAME .
+*.vpnsites.com CNAME .
 vpnstunnel.com CNAME .
 *.vpnstunnel.com CNAME .
 vpnsuper.com CNAME .
@@ -20447,6 +20455,8 @@ dns.sildom.me CNAME .
 *.dns.sildom.me CNAME .
 api.smoz.me CNAME .
 *.api.smoz.me CNAME .
+petezahpizza.omega.social-networking.me CNAME .
+*.petezahpizza.omega.social-networking.me CNAME .
 socloud.me CNAME .
 *.socloud.me CNAME .
 ssh-udp.me CNAME .
@@ -24091,6 +24101,8 @@ dns1.sarakas.net CNAME .
 *.dns1.sarakas.net CNAME .
 dns2.sarakas.net CNAME .
 *.dns2.sarakas.net CNAME .
+dns.homenet.saschagaspar.net CNAME .
+*.dns.homenet.saschagaspar.net CNAME .
 dns.scarx.net CNAME .
 *.dns.scarx.net CNAME .
 canceroutbreaks.screenclip.net CNAME .
@@ -25425,8 +25437,6 @@ hvqeezqn.online CNAME .
 *.hvqeezqn.online CNAME .
 hxtvk7y8j.online CNAME .
 *.hxtvk7y8j.online CNAME .
-hy5o5ua8gklpqjbqzjaaje8yy.online CNAME .
-*.hy5o5ua8gklpqjbqzjaaje8yy.online CNAME .
 hykdwzgw.online CNAME .
 *.hykdwzgw.online CNAME .
 i5d2kcibzp.online CNAME .
@@ -27239,6 +27249,8 @@ rpttechnologies.org CNAME .
 *.rpttechnologies.org CNAME .
 rumpelsepp.org CNAME .
 *.rumpelsepp.org CNAME .
+runnerpromotion.org CNAME .
+*.runnerpromotion.org CNAME .
 s-vpn.org CNAME .
 *.s-vpn.org CNAME .
 dns1.saferbfc.org CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773068520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773113580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Mar 2026 15:02 UTC
-; Version: 2026.0309.1502.54
+; Last modified: 10 Mar 2026 03:33 UTC
+; Version: 2026.0310.0333.52
 ; Syntax: RPZ
-; Number of entries: 19952
+; Number of entries: 19984
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1407,6 +1407,8 @@ off.bz CNAME .
 *.off.bz CNAME .
 qr2.bz CNAME .
 *.qr2.bz CNAME .
+rckstr.bz CNAME .
+*.rckstr.bz CNAME .
 rfr.bz CNAME .
 *.rfr.bz CNAME .
 shutr.bz CNAME .
@@ -1811,6 +1813,8 @@ texn.cc CNAME .
 *.texn.cc CNAME .
 tiis.cc CNAME .
 *.tiis.cc CNAME .
+tiky.cc CNAME .
+*.tiky.cc CNAME .
 tini.cc CNAME .
 *.tini.cc CNAME .
 tinky.cc CNAME .
@@ -2161,6 +2165,8 @@ go.popoway.cloud CNAME .
 *.go.popoway.cloud CNAME .
 provte.cloud CNAME .
 *.provte.cloud CNAME .
+kutt.schantli.cloud CNAME .
+*.kutt.schantli.cloud CNAME .
 teraboxl.cloud CNAME .
 *.teraboxl.cloud CNAME .
 vdr.cloud CNAME .
@@ -11051,6 +11057,8 @@ salesquared.io CNAME .
 *.salesquared.io CNAME .
 sbgo.io CNAME .
 *.sbgo.io CNAME .
+yourls.sci.io CNAME .
+*.yourls.sci.io CNAME .
 sck.io CNAME .
 *.sck.io CNAME .
 scnv.io CNAME .
@@ -14445,6 +14453,8 @@ shortprofile.me CNAME .
 *.shortprofile.me CNAME .
 shortsfly.me CNAME .
 *.shortsfly.me CNAME .
+shorturls.me CNAME .
+*.shorturls.me CNAME .
 shortx.me CNAME .
 *.shortx.me CNAME .
 shtn.me CNAME .
@@ -14469,6 +14479,8 @@ sniplify.me CNAME .
 *.sniplify.me CNAME .
 sniply.me CNAME .
 *.sniply.me CNAME .
+snipurl.me CNAME .
+*.snipurl.me CNAME .
 sorc.me CNAME .
 *.sorc.me CNAME .
 sorkale.me CNAME .
@@ -15439,6 +15451,10 @@ shorterurl.net CNAME .
 *.shorterurl.net CNAME .
 shortey.net CNAME .
 *.shortey.net CNAME .
+shortl.net CNAME .
+*.shortl.net CNAME .
+shortlink.net CNAME .
+*.shortlink.net CNAME .
 shortlinkz.net CNAME .
 *.shortlinkz.net CNAME .
 shortster.net CNAME .
@@ -15957,6 +15973,8 @@ megapay.online CNAME .
 *.megapay.online CNAME .
 mjp88.online CNAME .
 *.mjp88.online CNAME .
+publicearn.online CNAME .
+*.publicearn.online CNAME .
 recruitings.online CNAME .
 *.recruitings.online CNAME .
 shortpals.online CNAME .
@@ -15965,6 +15983,8 @@ skippy.online CNAME .
 *.skippy.online CNAME .
 sulejalan.online CNAME .
 *.sulejalan.online CNAME .
+t-co.online CNAME .
+*.t-co.online CNAME .
 tokogenie.online CNAME .
 *.tokogenie.online CNAME .
 tulinks.online CNAME .
@@ -16531,6 +16551,8 @@ slice.partners CNAME .
 *.slice.partners CNAME .
 making.party CNAME .
 *.making.party CNAME .
+tckl.party CNAME .
+*.tckl.party CNAME .
 adv.pe CNAME .
 *.adv.pe CNAME .
 cut.pe CNAME .
@@ -16793,6 +16815,8 @@ payspot.pro CNAME .
 *.payspot.pro CNAME .
 qlink.pro CNAME .
 *.qlink.pro CNAME .
+qty3e.pro CNAME .
+*.qty3e.pro CNAME .
 rajaolympus.pro CNAME .
 *.rajaolympus.pro CNAME .
 rbxurl.pro CNAME .
@@ -17683,6 +17707,8 @@ rajamahjong.site CNAME .
 *.rajamahjong.site CNAME .
 rdrct.site CNAME .
 *.rdrct.site CNAME .
+reive.site CNAME .
+*.reive.site CNAME .
 rj99.site CNAME .
 *.rj99.site CNAME .
 sdfq3cf.site CNAME .
@@ -18649,6 +18675,8 @@ ref11.top CNAME .
 *.ref11.top CNAME .
 roids.top CNAME .
 *.roids.top CNAME .
+rutgon.top CNAME .
+*.rutgon.top CNAME .
 sac23.top CNAME .
 *.sac23.top CNAME .
 selink.top CNAME .
@@ -19235,6 +19263,8 @@ shrcr.us CNAME .
 *.shrcr.us CNAME .
 shrinkme.us CNAME .
 *.shrinkme.us CNAME .
+shrinkurl.us CNAME .
+*.shrinkurl.us CNAME .
 shrten.us CNAME .
 *.shrten.us CNAME .
 siriusxm.us CNAME .
@@ -19639,6 +19669,8 @@ thght.works CNAME .
 *.thght.works CNAME .
 kku.world CNAME .
 *.kku.world CNAME .
+s0.world CNAME .
+*.s0.world CNAME .
 shorten.world CNAME .
 *.shorten.world CNAME .
 than.world CNAME .

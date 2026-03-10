@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Mar 2026 16:24 UTC
-! Version: 2026.0309.1624.49
+! Last modified: 10 Mar 2026 04:56 UTC
+! Version: 2026.0310.0456.56
 ! Syntax: AdBlock
-! Number of entries: 16797
+! Number of entries: 16803
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -7753,7 +7753,6 @@
 ||hxlm.io^
 ||hxlm.org^
 ||hxtvk7y8j.online^
-||hy5o5ua8gklpqjbqzjaaje8yy.online^
 ||dns.hyas.com^
 ||admin.proxy.hydrovolter.com^
 ||hydroxide.wtf^
@@ -12105,6 +12104,7 @@
 ||ultramatheducation.raspberryip.com^
 ||rateavon.je^
 ||ratecuts.us^
+||read.coach.ratnikov.com^
 ||ns2.ravdns.com^
 ||raver-no.ru^
 ||raverno.ru^
@@ -12363,6 +12363,7 @@
 ||ramy.run.place^
 ||run-away.run.place^
 ||rungame20.com^
+||runnerpromotion.org^
 ||runnervamp.net^
 ||runnigga.run^
 ||doh.runsel.id^
@@ -12409,6 +12410,7 @@
 ||safeguardianvpn.com^
 ||safehousetech.com^
 ||safehousevpn.com^
+||safenetbrowser.com^
 ||dns1.saferbfc.org^
 ||dns2.saferbfc.org^
 ||safersurfing.net^
@@ -12481,6 +12483,7 @@
 ||dns.sarilouis.com^
 ||dns.sark.dev^
 ||sascha-rabold.de^
+||dns.homenet.saschagaspar.net^
 ||vpn.satadru.dev^
 ||satnet.cv^
 ||satori.top^
@@ -12993,6 +12996,7 @@
 ||dove.soapclient.com^
 ||signup.soapclient.com^
 ||soax.com^
+||petezahpizza.omega.social-networking.me^
 ||social-welfare.us^
 ||socialnetworkinfo.us^
 ||socks-proxy.net^
@@ -13046,6 +13050,7 @@
 ||sprague.is.best.spacejamhd.com^
 ||add.balatro.back.cfisd.spacejamhd.com^
 ||botany.classes.spacejamhd.com^
+||adam.loves.gandhi.spacejamhd.com^
 ||endis.is.goat.spacejamhd.com^
 ||fansblowair.ik.spacejamhd.com^
 ||ho-ho-ho.santas.a.knicker.spacejamhd.com^
@@ -13576,6 +13581,7 @@
 ||virmamp33.sytes.net^
 ||doh.sz-dns.com^
 ||cabin.szendebrassai.com^
+||math.tests.szk-obihiro.com^
 ||szmbkf5rsqiidboo6.online^
 ||dns.szpadel.ovh^
 ||szvy.xyz^
@@ -14225,7 +14231,6 @@
 ||tujenasnaszato.xyz^
 ||tulanek.my^
 ||freodore.tulanerw.org^
-||tunnel4.com^
 ||tunnelbear.com^
 ||tunxray.site^
 ||learn.how.tupuola.com^
@@ -15070,6 +15075,7 @@
 ||vpnshazam.com^
 ||vpnshieldapp.com^
 ||vpnside.com^
+||vpnsites.com^
 ||vpnstunnel.com^
 ||vpnsuper.app^
 ||vpnsuper.com^

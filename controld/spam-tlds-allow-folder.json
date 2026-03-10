@@ -4446,6 +4446,13 @@
       }
     },
     {
+      "PK": "raster.finance",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ratcloud.llc",
       "action": {
         "do": 1,

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 16:24 UTC
-# Version: 2026.0309.1624.49
+# Last modified: 10 Mar 2026 04:56 UTC
+# Version: 2026.0310.0456.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16797
+# Number of entries: 16803
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -7752,7 +7752,6 @@ local=/hxlm.homes/
 local=/hxlm.io/
 local=/hxlm.org/
 local=/hxtvk7y8j.online/
-local=/hy5o5ua8gklpqjbqzjaaje8yy.online/
 local=/dns.hyas.com/
 local=/admin.proxy.hydrovolter.com/
 local=/hydroxide.wtf/
@@ -12104,6 +12103,7 @@ local=/emby.rasp.tv/
 local=/ultramatheducation.raspberryip.com/
 local=/rateavon.je/
 local=/ratecuts.us/
+local=/read.coach.ratnikov.com/
 local=/ns2.ravdns.com/
 local=/raver-no.ru/
 local=/raverno.ru/
@@ -12362,6 +12362,7 @@ local=/error404becausepar1scantlose.run.place/
 local=/ramy.run.place/
 local=/run-away.run.place/
 local=/rungame20.com/
+local=/runnerpromotion.org/
 local=/runnervamp.net/
 local=/runnigga.run/
 local=/doh.runsel.id/
@@ -12408,6 +12409,7 @@ local=/safecloakvpn.com/
 local=/safeguardianvpn.com/
 local=/safehousetech.com/
 local=/safehousevpn.com/
+local=/safenetbrowser.com/
 local=/dns1.saferbfc.org/
 local=/dns2.saferbfc.org/
 local=/safersurfing.net/
@@ -12480,6 +12482,7 @@ local=/dns2.sarakas.net/
 local=/dns.sarilouis.com/
 local=/dns.sark.dev/
 local=/sascha-rabold.de/
+local=/dns.homenet.saschagaspar.net/
 local=/vpn.satadru.dev/
 local=/satnet.cv/
 local=/satori.top/
@@ -12992,6 +12995,7 @@ local=/dove.soapagent.com/
 local=/dove.soapclient.com/
 local=/signup.soapclient.com/
 local=/soax.com/
+local=/petezahpizza.omega.social-networking.me/
 local=/social-welfare.us/
 local=/socialnetworkinfo.us/
 local=/socks-proxy.net/
@@ -13045,6 +13049,7 @@ local=/pk.beat-allegations.spacejamhd.com/
 local=/sprague.is.best.spacejamhd.com/
 local=/add.balatro.back.cfisd.spacejamhd.com/
 local=/botany.classes.spacejamhd.com/
+local=/adam.loves.gandhi.spacejamhd.com/
 local=/endis.is.goat.spacejamhd.com/
 local=/fansblowair.ik.spacejamhd.com/
 local=/ho-ho-ho.santas.a.knicker.spacejamhd.com/
@@ -13575,6 +13580,7 @@ local=/nsnacho.sytes.net/
 local=/virmamp33.sytes.net/
 local=/doh.sz-dns.com/
 local=/cabin.szendebrassai.com/
+local=/math.tests.szk-obihiro.com/
 local=/szmbkf5rsqiidboo6.online/
 local=/dns.szpadel.ovh/
 local=/szvy.xyz/
@@ -14224,7 +14230,6 @@ local=/tui5515.site/
 local=/tujenasnaszato.xyz/
 local=/tulanek.my/
 local=/freodore.tulanerw.org/
-local=/tunnel4.com/
 local=/tunnelbear.com/
 local=/tunxray.site/
 local=/learn.how.tupuola.com/
@@ -15069,6 +15074,7 @@ local=/vpnsecure.me/
 local=/vpnshazam.com/
 local=/vpnshieldapp.com/
 local=/vpnside.com/
+local=/vpnsites.com/
 local=/vpnstunnel.com/
 local=/vpnsuper.app/
 local=/vpnsuper.com/

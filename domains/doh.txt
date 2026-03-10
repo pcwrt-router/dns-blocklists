@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 10:53 UTC
-# Version: 2026.0309.1053.32
+# Last modified: 10 Mar 2026 04:56 UTC
+# Version: 2026.0310.0456.16
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3939
+# Number of entries: 3940
 #
 ss.0001.xyz
 003153.xyz
@@ -3258,6 +3258,7 @@ dns2.sarakas.net
 dns.sarilouis.com
 dns.sark.dev
 sascha-rabold.de
+dns.homenet.saschagaspar.net
 vpn.satadru.dev
 dns.sbstructure.ir
 ns1.sc-lezhi.com

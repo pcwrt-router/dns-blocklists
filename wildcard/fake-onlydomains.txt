@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Mar 2026 15:01 UTC
-# Version: 2026.0309.1501.08
+# Last modified: 10 Mar 2026 03:32 UTC
+# Version: 2026.0310.0332.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 14307
+# Number of entries: 14359
 #
 01broker.com
 01crypto.com
@@ -10469,6 +10469,7 @@ ptdaily.eu
 pthanse-versand.de
 pthipv.com
 pto668.com
+pts-personal.de
 pubcrawl.at
 pubgpcl.com
 puffercase.store
@@ -10479,6 +10480,7 @@ pullcamin.com
 pullovercardigan.com
 pulsefinance.de
 pumafi.com
+pumaton-finanz.com
 pummys.com
 pumpeprada.com
 pumpkin-bubbe.com
@@ -10533,6 +10535,7 @@ quantum-ai.at
 quantum-ai.io
 quantum-ai-be.com
 quantum-banc.world
+quantum-code.org
 quantumaiplatform.com
 quantumbumex.co
 quantumprimeprofit.io
@@ -10567,12 +10570,14 @@ r7-tools.com
 ra-rick.de
 rabatt-disney.de
 rabattarkk.de
+rabattbekleidung.de
 rabattdamen.de
 rabattfahrrad.com
 rabattfahrradneu.com
 rabattgabor.de
 rabatthaustiers.com
 rabattlampen.com
+rabattleuchten.de
 rabattlloyd.de
 rabattloewe.de
 rabattschuh.com
@@ -10686,6 +10691,7 @@ reardlesof.com
 rebateoutdoorpro.com
 rebateoutsportus.com
 rebatetoolspro.com
+reber-handel.de
 rebora.net
 rebora.nl
 rebornbabydeutschland.de
@@ -10755,6 +10761,7 @@ reli-lex.de
 reliableretaildeals.com
 relivoria.com
 remainderk.com
+remedyinternationalshop.com
 reminora.com
 remorcas.com
 remorquesdunords.com
@@ -10763,6 +10770,7 @@ remotewelt.de
 remoteworkpad.com
 remstone.eu
 renado.de
+renaissancepartners.org
 rennkurbelde.com
 rennradberater.com
 rennradergravel.com
@@ -10798,6 +10806,7 @@ reservecertitude.com
 reshline.com
 resid3ncy.com
 resiqo.com
+resolutionoperations.com
 respeaonsct.com
 restchess.com
 restliss.com
@@ -10810,12 +10819,14 @@ retrostages.de
 retrotrikots.de
 retrowinegeschaft.com
 retter-de.shop
+reubenco.com
 reuterstoday.com
 reuther-anwaelte.com
 revaloninvest.de
 reveilove.com
 revenuescompany.com
 revitaprost.eu
+revivegospel.com
 revolutionracecam.com
 revolutionraceinc.com
 revolutionraceshop.com
@@ -10878,11 +10889,13 @@ rinkieker.de
 riokapital.com
 riokapital.eu
 riptidesoccer.org
+rise-property.com
 risora.de
 rissionshop.de
 peakexperiences.ritll.com
 sportodyssey.ritll.com
 ritter-mode.com
+rituals-nl.shop
 rituals-outlet.shop
 ritualsecretododesligue.shop
 ritualshopper.com
@@ -11087,6 +11100,7 @@ sadiluxe.de
 safe-horizon.net
 safe-it-phshop.com
 safecaps.io
+safefin.org
 safenordicsolutions.com
 safepayweb.xyz
 safepillsnow.com
@@ -11197,6 +11211,7 @@ sarawi.de
 sardinenbarberlinava.shop
 sarvamits.com
 saskiabader.de
+satisfiedfurniture.com
 satona.de
 sators.de
 saturn-de.de
@@ -11213,6 +11228,7 @@ sawbehind.com
 sawfashionnew.com
 saycom.net
 saynthesis.com
+sbhbrennholz.de
 sbikeparts.com
 sblt.net
 scalaautopecas.com
@@ -11415,6 +11431,7 @@ servicepharmaceutique.net
 servicesolutionshop.com
 setar.top
 setfahrradtrikot.com
+settlementy.com
 seufert-garten.de
 sevatrix.com
 a.seven-st.com
@@ -11459,6 +11476,7 @@ shinyhair.de
 shipafreight.com
 shippills.com
 shirem.com
+shirohana.shop
 shirtsandpolosde.com
 shirtspolos.com
 shmdesigns.com
@@ -11471,6 +11489,7 @@ shoekankitty.shop
 shoelan.com
 shoes-supplier.com
 shoesfabrik.com
+shoesfine.com
 shoesoutlet.shop
 shoesprada.de
 shoesusretail.com
@@ -11573,6 +11592,7 @@ shopwithme.biz
 shopwithpalo.com
 shopzoomx.com
 shorts-pro.com
+shortsoff.com
 shouaa.com
 showblanketsonline.com
 showerheadmr.com
@@ -11687,6 +11707,7 @@ smartbud.com
 smartbuyglasses.at
 smartcookgear.com
 smartelampen.com
+smartelektroshop.com
 smartheizer.de
 smartheizoel.de
 smarthitzen.de
@@ -11764,6 +11785,7 @@ solanex.de
 solanzo.de
 solar-energie24.com
 solar-liquid.de
+solar-starter.de
 solar-town.de
 solara-financelimited.com
 solara-finltd.net
@@ -11782,6 +11804,7 @@ solartechnik-direct.de
 solarwind-shop.com
 solauthentic.com
 solden-hotels.com
+solern.top
 solidarity-finanzierung.com
 solidinvest.co
 solofa.de
@@ -11812,6 +11835,7 @@ solution-capital.com
 solution-crypto.com
 solution-pro.de
 solutioncrypto.com
+solventus-shop.de
 solvexpulse-53-ai.org
 somareh.de
 somatesav.com
@@ -11869,6 +11893,7 @@ specificn.com
 spectarecipe.com
 speculaten.com
 speed-gaming.com
+speedpeople.de
 speedsoft.fr
 speedypartsdeava.shop
 speichern-fahrrad.com
@@ -11893,6 +11918,7 @@ spielzeugeneu.de
 spielzeugopapop.shop
 spielzeugtonie.com
 spigendeutschlandshop.com
+spimbey.com
 spiralo.de
 spiretime.com
 spiritualsalt.co
@@ -11937,6 +11963,7 @@ sportsvital.de
 sportswearpaired.com
 sportswearverkauf.com
 sportszea.com
+sportwa.de
 sporty-you.club
 sportymenswear.com
 spotdiamonds.com
@@ -11964,6 +11991,7 @@ ssceuns.shop
 ssense.vip
 ssrbjc.org
 ssxsmither.com
+ssystrypers.com
 stableprocapital.pro
 stadtplan-local.com
 stadtrand.store
@@ -11974,10 +12002,12 @@ stammholzhof.com
 stampopular.com
 stampset.com
 stampsetshop.com
+stampssale.shop
 standardschuhe.com
 standpellet.de
 stanfpv.com
 stanley-cups.at
+stanley-cups.de
 stanleycupthailand.com
 stanlly-a.com
 eu.stanlyss1913.com
@@ -11992,6 +12022,7 @@ stark-ebike.de
 starkeu.de
 starkewerkzeuge.de
 starkfahrrad.com
+starryshops.com
 starrysip.com
 start-developing.de
 startmarkets.com
@@ -12019,15 +12050,18 @@ stelcore-retail24.de
 stella-zurich.com
 stellapet.xyz
 stellarfx.io
+stellennavigator.com
 stephanie-gustai.de
 stepscorner.com
 stereoswitch.de
+sterestra.de
 sternestd.de
 sternglas.shop
 sternstimme.de
 steroide-medikamente.com
 steroide360.com
 steroidspeicher.de
+sterreich.at
 sterydy-anaboliczne.net
 stevamaddenpl.com
 stevemaddenwien.at
@@ -12126,6 +12160,7 @@ strobetec.com
 strohhuteshop.com
 stromerzeugerde.com
 strongoptions.com
+strongstrongsupply.com
 strongupgear.com
 studenten-lektor.de
 studiomrb.it
@@ -12138,6 +12173,7 @@ stuhlepromos.com
 stuhleshop.com
 stuhlgaeng.de
 stunningshoe.com
+stussy-austria.at
 stussy-berlin.de
 stussyaustria.at
 stussyaustrias.com
@@ -12179,6 +12215,7 @@ suekoppel.com
 suess-gute.de
 sufficientw.com
 sugersummer.de
+sugex.de
 sukehiro.com
 sultanarituals.shop
 sultanuhren.de
@@ -12262,6 +12299,7 @@ surfhobby.com
 surfingneeds.com
 surfneue.com
 surfside-summer.store
+surroun.com
 susansboutique-naples.com
 sute-tech.de
 suuio.top
@@ -12275,6 +12313,7 @@ swatpants.com
 sweet-dealz.com
 sweetsaltysale.com
 swevix.de
+swifttoolhub.com
 swimweararea.com
 swiss-funding.com
 swiss-vests.com
@@ -12292,20 +12331,24 @@ swivy.de
 swixeinkaufen.com
 swixfabrikverkauf.com
 swixski.de
+cfd.swkinvest.com
 swstore1.xyz
 sxiuer.com
 sydpark.de
 syloviadistri.com
 sylskillsoft.com
 sylskilsoftassist.com
+sylvieboutique.de
 symbiosiswellbeing.com
 symbolberlin.com
+abigo4u.symfony.nl
 synthesizestylish.com
 synthplatformtrust.click
 syrokan.com
 system-capital.org
 systemiy.com
 systemofdown.com
+sz-fishing.de
 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 t8blankets.com
 tabexofficial.com
@@ -12366,6 +12409,7 @@ taschenonlinede.com
 taschenschmied.de
 tastefulsl.com
 tasteo.net
+tastin.shop
 tatadress.com
 tatamibjjstore-eu.com
 tatonka-de.com
@@ -12375,6 +12419,7 @@ taubenfutterde.com
 tauchanzugkajak.de
 tauchflaschenschutznetz.com
 taurachbahn.at
+tavaresautopecas.com
 tavatta.de
 okwave.taxenough.sbs
 taxoflex.de
@@ -12395,12 +12440,14 @@ teameffekt.de
 teamlevelsix.com
 teampandafilms.com
 tech-solutions.store
+tech-vitals.com
 techaccessoriesshop.com
 techfield.de
 techhomede.com
 techhouse.store
 technik-schnaeppchen-shop.de
 technikambiente-gmbh.de
+technikcenter24.com
 technikhaus24.com
 techniklager.com
 techno-max.de
@@ -12505,6 +12552,7 @@ thanesar.com
 thatistsay.com
 the-beauty-trends.de
 the-bitcoin-bank.com
+the-ethereumcode-pro.com
 the-faze.com
 the-gentleman.store
 the-immediateconnect.com
@@ -12616,6 +12664,7 @@ thetelegraphnewstoday.com
 thetennishop.com
 thetoyslane.com
 thetrustpills.com
+thewinestoreava.shop
 theworldaccessories.com
 thinkcarde.com
 thirdeye-immobilien.at
@@ -12779,12 +12828,14 @@ top-ausstattung.de
 top-brennholz.de
 top-business-deals.com
 top-pharmacy-24h.com
+top-rasenmaeher.com
 top-sports-experts.com
 top-velos.com
 top-werkzeugeverkaufen.com
 topautoteile.com
 topbaumaschinen.com
 topbrennstoffe.de
+topcollectibleshop.com
 topelectronicshop.com
 topeuropenews.com
 topfahrradzubehor.com
@@ -12837,6 +12888,7 @@ toy-boxsales.com
 ad.toygzv.shop
 toyhasbro.com
 toymr.com
+toyowner.com
 toypremium.com
 toyshobbiesworld.com
 toystik.com

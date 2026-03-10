@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Mar 2026 16:15 UTC
-! Version: 2026.0306.1615.30
+! Last modified: 10 Mar 2026 04:57 UTC
+! Version: 2026.0310.0457.44
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -105,7 +105,7 @@
 ||family^$doc
 ||fan^$doc,domain=~lemmy.fan|~os.fan
 ||fashion^$doc,domain=~haal.fashion
-||finance^$doc,domain=~xynth.finance
+||finance^$doc,domain=~raster.finance|~xynth.finance
 ||financial^$doc
 ||fishing^$doc
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
