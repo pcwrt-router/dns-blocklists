@@ -568,6 +568,7 @@
 @@||axisms.shop^
 @@||buergerspital.shop^
 @@||chessvibes.shop^
+@@||cineorder.shop^
 @@||derweinladen.shop^
 @@||domainname.shop^
 @@||domene.shop^

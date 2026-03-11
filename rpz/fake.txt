@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773178260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773221460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 21:31 UTC
-; Version: 2026.0310.2131.09
+; Last modified: 11 Mar 2026 09:31 UTC
+; Version: 2026.0311.0931.09
 ; Syntax: RPZ
-; Number of entries: 28906
+; Number of entries: 28930
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5776,6 +5776,8 @@ eaepp.com CNAME .
 *.eaepp.com CNAME .
 eafengrowkniveshub.com CNAME .
 *.eafengrowkniveshub.com CNAME .
+earljourdier.com CNAME .
+*.earljourdier.com CNAME .
 earlynoon.com CNAME .
 *.earlynoon.com CNAME .
 earringtset.com CNAME .
@@ -7386,6 +7388,8 @@ gartenrasenmaher.com CNAME .
 *.gartenrasenmaher.com CNAME .
 gartensbillig.com CNAME .
 *.gartensbillig.com CNAME .
+gartenschoner.com CNAME .
+*.gartenschoner.com CNAME .
 gartenschranke.com CNAME .
 *.gartenschranke.com CNAME .
 gartenstores.com CNAME .
@@ -8522,6 +8526,8 @@ hildegunter.com CNAME .
 *.hildegunter.com CNAME .
 hilfeexpress.com CNAME .
 *.hilfeexpress.com CNAME .
+hilfewise.com CNAME .
+*.hilfewise.com CNAME .
 hilipert.com CNAME .
 *.hilipert.com CNAME .
 hilkenmanor.com CNAME .
@@ -10582,6 +10588,8 @@ luxeshopcart.com CNAME .
 *.luxeshopcart.com CNAME .
 luxtious.com CNAME .
 *.luxtious.com CNAME .
+luxurioserstil.com CNAME .
+*.luxurioserstil.com CNAME .
 luxury-vita.com CNAME .
 *.luxury-vita.com CNAME .
 luxuryholidaysvilla.com CNAME .
@@ -11452,6 +11460,8 @@ mt4invest.com CNAME .
 *.mt4invest.com CNAME .
 mtbcapitals.com CNAME .
 *.mtbcapitals.com CNAME .
+mto-service.com CNAME .
+*.mto-service.com CNAME .
 mtquality.com CNAME .
 *.mtquality.com CNAME .
 mubnew.com CNAME .
@@ -12976,6 +12986,8 @@ pecasusadasantista.com CNAME .
 *.pecasusadasantista.com CNAME .
 pedalbliss.com CNAME .
 *.pedalbliss.com CNAME .
+pedale-onshop.com CNAME .
+*.pedale-onshop.com CNAME .
 pedalparadies.com CNAME .
 *.pedalparadies.com CNAME .
 pedalyst.com CNAME .
@@ -13452,6 +13464,8 @@ priceaiclub.com CNAME .
 *.priceaiclub.com CNAME .
 primalekarna.com CNAME .
 *.primalekarna.com CNAME .
+primarycarenw.com CNAME .
+*.primarycarenw.com CNAME .
 prime-deutschland.com CNAME .
 *.prime-deutschland.com CNAME .
 prime-smog.com CNAME .
@@ -14378,6 +14392,8 @@ fr.samtradefx.com CNAME .
 *.fr.samtradefx.com CNAME .
 sandalenhausschuhe.com CNAME .
 *.sandalenhausschuhe.com CNAME .
+sanitaerbox.com CNAME .
+*.sanitaerbox.com CNAME .
 sanitaerfreude.com CNAME .
 *.sanitaerfreude.com CNAME .
 sanitatsbedarf24.com CNAME .
@@ -16988,6 +17004,8 @@ usvogueshop.com CNAME .
 *.usvogueshop.com CNAME .
 uswestnews.com CNAME .
 *.uswestnews.com CNAME .
+uwb-beratung.com CNAME .
+*.uwb-beratung.com CNAME .
 uxceller.com CNAME .
 *.uxceller.com CNAME .
 vacamy.com CNAME .
@@ -17702,6 +17720,8 @@ wohndekode.com CNAME .
 *.wohndekode.com CNAME .
 wohnkuchede.com CNAME .
 *.wohnkuchede.com CNAME .
+wohnlichkeiterschaffen.com CNAME .
+*.wohnlichkeiterschaffen.com CNAME .
 wohnlichtshop.com CNAME .
 *.wohnlichtshop.com CNAME .
 wohnungdirekt.com CNAME .
@@ -25674,6 +25694,8 @@ davidkimboyle.net CNAME .
 *.davidkimboyle.net CNAME .
 desigualsuomi.net CNAME .
 *.desigualsuomi.net CNAME .
+deutschebapotheke.net CNAME .
+*.deutschebapotheke.net CNAME .
 dgcex.net CNAME .
 *.dgcex.net CNAME .
 dronni-de.net CNAME .
@@ -26176,6 +26198,8 @@ vejasuomi.net CNAME .
 *.vejasuomi.net CNAME .
 vejazapatoscolombia.net CNAME .
 *.vejazapatoscolombia.net CNAME .
+velionpartner.net CNAME .
+*.velionpartner.net CNAME .
 versys.net CNAME .
 *.versys.net CNAME .
 vessijapan.net CNAME .

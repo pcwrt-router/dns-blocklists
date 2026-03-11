@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773182760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773226080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Mar 2026 22:46 UTC
-; Version: 2026.0310.2246.58
+; Last modified: 11 Mar 2026 10:48 UTC
+; Version: 2026.0311.1048.41
 ; Syntax: RPZ
-; Number of entries: 24216
+; Number of entries: 24244
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -258,6 +258,8 @@ macked.app CNAME .
 *.macked.app CNAME .
 mkvcinemas.app CNAME .
 *.mkvcinemas.app CNAME .
+moviesleech.app CNAME .
+*.moviesleech.app CNAME .
 mrgamingstreams.app CNAME .
 *.mrgamingstreams.app CNAME .
 myinsta.app CNAME .
@@ -328,6 +330,8 @@ torrentkitty.app CNAME .
 *.torrentkitty.app CNAME .
 tweakhome.app CNAME .
 *.tweakhome.app CNAME .
+unitvnet.app CNAME .
+*.unitvnet.app CNAME .
 bingeflex.vercel.app CNAME .
 *.bingeflex.vercel.app CNAME .
 bmov.vercel.app CNAME .
@@ -2228,6 +2232,8 @@ streamx10.cloud CNAME .
 *.streamx10.cloud CNAME .
 thouvenin.cloud CNAME .
 *.thouvenin.cloud CNAME .
+unitvnet.cloud CNAME .
+*.unitvnet.cloud CNAME .
 upvid.cloud CNAME .
 *.upvid.cloud CNAME .
 vidstrm.cloud CNAME .
@@ -8026,6 +8032,8 @@ uniquewarez.com CNAME .
 *.uniquewarez.com CNAME .
 united-ddl.com CNAME .
 *.united-ddl.com CNAME .
+unitvnet.com CNAME .
+*.unitvnet.com CNAME .
 universalmediaserver.com CNAME .
 *.universalmediaserver.com CNAME .
 unlimitedserials.com CNAME .
@@ -9460,6 +9468,8 @@ mkvcinemas.eu CNAME .
 *.mkvcinemas.eu CNAME .
 movie2k.eu CNAME .
 *.movie2k.eu CNAME .
+moviesleech.eu CNAME .
+*.moviesleech.eu CNAME .
 moviewatcher.eu CNAME .
 *.moviewatcher.eu CNAME .
 myfeed2all.eu CNAME .
@@ -11206,6 +11216,8 @@ nyaa.iss.ink CNAME .
 *.nyaa.iss.ink CNAME .
 kinox.ink CNAME .
 *.kinox.ink CNAME .
+lordfilmuwq.ink CNAME .
+*.lordfilmuwq.ink CNAME .
 megakino.ink CNAME .
 *.megakino.ink CNAME .
 pahe.ink CNAME .
@@ -12098,6 +12110,8 @@ macapps.link CNAME .
 *.macapps.link CNAME .
 moddedspotify.link CNAME .
 *.moddedspotify.link CNAME .
+moviesleech.link CNAME .
+*.moviesleech.link CNAME .
 mserver.link CNAME .
 *.mserver.link CNAME .
 myflixer.link CNAME .
@@ -14458,6 +14472,8 @@ movieserver.net CNAME .
 *.movieserver.net CNAME .
 moviesjoy.net CNAME .
 *.moviesjoy.net CNAME .
+moviesleech.net CNAME .
+*.moviesleech.net CNAME .
 moviesm4u.net CNAME .
 *.moviesm4u.net CNAME .
 moviesmobile.net CNAME .
@@ -15196,6 +15212,8 @@ uniquestream.net CNAME .
 *.uniquestream.net CNAME .
 unitedmods.net CNAME .
 *.unitedmods.net CNAME .
+unitvnet.net CNAME .
+*.unitvnet.net CNAME .
 univisionbd.net CNAME .
 *.univisionbd.net CNAME .
 up-4ever.net CNAME .
@@ -17054,6 +17072,8 @@ movieparadise.org CNAME .
 *.movieparadise.org CNAME .
 moviesfever.org CNAME .
 *.moviesfever.org CNAME .
+moviesleech.org CNAME .
+*.moviesleech.org CNAME .
 moviestreamhd.org CNAME .
 *.moviestreamhd.org CNAME .
 moviesyify.org CNAME .
@@ -18530,6 +18550,8 @@ uaserials.pro CNAME .
 *.uaserials.pro CNAME .
 unblockit.pro CNAME .
 *.unblockit.pro CNAME .
+unitvnet.pro CNAME .
+*.unitvnet.pro CNAME .
 uploadcloud.pro CNAME .
 *.uploadcloud.pro CNAME .
 flemmix.upns.pro CNAME .
@@ -21868,6 +21890,8 @@ unblockit.top CNAME .
 *.unblockit.top CNAME .
 ettv.unblockproject.top CNAME .
 *.ettv.unblockproject.top CNAME .
+unitvnet.top CNAME .
+*.unitvnet.top CNAME .
 valamhub.top CNAME .
 *.valamhub.top CNAME .
 veranime.top CNAME .
@@ -24066,6 +24090,8 @@ streameast.xyz CNAME .
 *.streameast.xyz CNAME .
 streamerflix.xyz CNAME .
 *.streamerflix.xyz CNAME .
+streamingaddons.xyz CNAME .
+*.streamingaddons.xyz CNAME .
 streamingcommunity.xyz CNAME .
 *.streamingcommunity.xyz CNAME .
 streammaster.xyz CNAME .
@@ -24192,6 +24218,8 @@ goalz.zip CNAME .
 *.goalz.zip CNAME .
 matchify.zip CNAME .
 *.matchify.zip CNAME .
+moviesleech.zip CNAME .
+*.moviesleech.zip CNAME .
 primewire.zip CNAME .
 *.primewire.zip CNAME .
 redecanais.zip CNAME .

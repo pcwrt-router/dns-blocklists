@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 22:46 UTC
-# Version: 2026.0310.2246.58
+# Last modified: 11 Mar 2026 10:48 UTC
+# Version: 2026.0311.1048.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12108
+# Number of entries: 12122
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -6159,6 +6159,7 @@ local=/lordfilm-black3.com/
 local=/lordfilmhd.lol/
 local=/lordfilmkxe.icu/
 local=/lordfilmkxr.lat/
+local=/lordfilmuwq.ink/
 local=/qg.lorzl.gq/
 local=/losmovies.app/
 local=/losmovies.com/
@@ -6780,6 +6781,12 @@ local=/moviesjoy.onl/
 local=/moviesjoy.plus/
 local=/moviesjoy.to/
 local=/moviesjoytv.to/
+local=/moviesleech.app/
+local=/moviesleech.eu/
+local=/moviesleech.link/
+local=/moviesleech.net/
+local=/moviesleech.org/
+local=/moviesleech.zip/
 local=/moviesm4u.net/
 local=/moviesmania.info/
 local=/moviesmobile.net/
@@ -9318,6 +9325,7 @@ local=/streaming-community.fit/
 local=/streaming-community.trade/
 local=/streaming-french.com/
 local=/streaming-series.org/
+local=/streamingaddons.xyz/
 local=/streamingcommunity.actor/
 local=/streamingcommunity.ag/
 local=/streamingcommunity.airforce/
@@ -10809,6 +10817,12 @@ local=/uniquewarez.com/
 local=/uniteam.co/
 local=/united-ddl.com/
 local=/unitedmods.net/
+local=/unitvnet.app/
+local=/unitvnet.cloud/
+local=/unitvnet.com/
+local=/unitvnet.net/
+local=/unitvnet.pro/
+local=/unitvnet.top/
 local=/universalmediaserver.com/
 local=/univisionbd.net/
 local=/unknownbooter.co/

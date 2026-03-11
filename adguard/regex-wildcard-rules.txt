@@ -12,6 +12,7 @@
 ! Tagging
 /^s?s?gtm\.[a-z0-9-]+\.([a-z]{2,}|[a-z]{2,3}\.[a-z]{2,})$/
 /^(tags|tagging|tagmanager)\.[a-z0-9-]+\.([a-z]{2,}|[a-z]{2,3}\.[a-z]{2,})$/
+@@||tags*.tiqcdn.com^
 /^gtm\-.*\.(appspot\.com|fps\.goog|run\.app)$/
 /\-tagging\-.*\.run\.app$/
 ! Popups
