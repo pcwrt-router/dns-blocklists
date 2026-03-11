@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 10:48 UTC
-# Version: 2026.0311.1048.09
+# Last modified: 11 Mar 2026 16:48 UTC
+# Version: 2026.0311.1648.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 42462
+# Number of entries: 42477
 #
 *.000-online-casino.com
 *.00001.casino
@@ -16766,9 +16766,25 @@
 *.daznbet.fr
 *.dazzlecasino.com
 *.dazzlecasinonodeposit.click
+*.db-bet.co
 *.db-bet.com
+*.db-bet.in
+*.db-bet-02921.today
+*.db-bet-04784.bar
+*.db-bet-05138.bar
+*.db-bet-54373.pro
+*.db-bet-a7k2m.ru
 *.db-bet-casino.ru
+*.db-bet-n8v3z.ru
+*.db-bet-official.com
+*.db-bet-online.com
+*.db-bet-uz.com
+*.db-bet-x4p9q.ru
+*.db-bet29435.com
+*.db-bet4.ru
+*.db-bet45964.com
 *.db-bet81459.top
+*.db-bet853061.top
 *.db-casino.ru
 *.db-casino-1.ru
 *.dbbet1-casino.ru
@@ -24000,7 +24016,6 @@
 *.juancasino.org
 *.juara.bet
 *.juara345.com
-*.juara898.com
 *.juarajk81.pics
 *.juaranyagamer.xyz
 *.jubileecasinomx.com

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 15:28 UTC
-! Version: 2026.0310.1528.16
+! Last modified: 11 Mar 2026 15:28 UTC
+! Version: 2026.0311.1528.48
 ! Syntax: AdBlock
-! Number of entries: 55338
+! Number of entries: 55339
 !
 ||0.beer^
 ||0.club^
@@ -45950,6 +45950,7 @@
 ||www.zozozj.specialdate.net^
 ||speciedevex.com^
 ||vw.specierorippa.com^
+||specific-band.pro^
 ||specific-many.com^
 ||specificallycries.com^
 ||specificallyglimmerdispose.com^

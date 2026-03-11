@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 09:31 UTC
-# Version: 2026.0311.0931.09
+# Last modified: 11 Mar 2026 15:31 UTC
+# Version: 2026.0311.1531.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14465
+# Number of entries: 14464
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3201,7 +3201,6 @@ local=/deutsche-backwaren-manufaktur.com/
 local=/deutsche-fahrrader.com/
 local=/deutsche-rentenauskunft.de/
 local=/deutsche-wurst-manufaktur.com/
-local=/deutschebapotheke.net/
 local=/deutschechic.de/
 local=/deutschegrammophoneu-outlets.shop/
 local=/deutscher-invest-markt.de/

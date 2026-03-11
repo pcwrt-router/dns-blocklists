@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 10:48 UTC
-# Version: 2026.0311.1048.09
+# Last modified: 11 Mar 2026 16:48 UTC
+# Version: 2026.0311.1648.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 42462
+# Number of entries: 42477
 #
 local=/000-online-casino.com/
 local=/00001.casino/
@@ -16766,9 +16766,25 @@ local=/daznbet.de/
 local=/daznbet.fr/
 local=/dazzlecasino.com/
 local=/dazzlecasinonodeposit.click/
+local=/db-bet.co/
 local=/db-bet.com/
+local=/db-bet.in/
+local=/db-bet-02921.today/
+local=/db-bet-04784.bar/
+local=/db-bet-05138.bar/
+local=/db-bet-54373.pro/
+local=/db-bet-a7k2m.ru/
 local=/db-bet-casino.ru/
+local=/db-bet-n8v3z.ru/
+local=/db-bet-official.com/
+local=/db-bet-online.com/
+local=/db-bet-uz.com/
+local=/db-bet-x4p9q.ru/
+local=/db-bet29435.com/
+local=/db-bet4.ru/
+local=/db-bet45964.com/
 local=/db-bet81459.top/
+local=/db-bet853061.top/
 local=/db-casino.ru/
 local=/db-casino-1.ru/
 local=/dbbet1-casino.ru/
@@ -24000,7 +24016,6 @@ local=/juan365.com/
 local=/juancasino.org/
 local=/juara.bet/
 local=/juara345.com/
-local=/juara898.com/
 local=/juarajk81.pics/
 local=/juaranyagamer.xyz/
 local=/jubileecasinomx.com/

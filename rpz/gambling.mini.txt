@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773226080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773247680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Mar 2026 10:48 UTC
-; Version: 2026.0311.1048.09
+; Last modified: 11 Mar 2026 16:48 UTC
+; Version: 2026.0311.1648.36
 ; Syntax: RPZ
-; Number of entries: 84924
+; Number of entries: 84954
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -886,6 +886,10 @@ fun88.band CNAME .
 *.90jilivip.bar CNAME .
 betwinner-17253.bar CNAME .
 *.betwinner-17253.bar CNAME .
+db-bet-04784.bar CNAME .
+*.db-bet-04784.bar CNAME .
+db-bet-05138.bar CNAME .
+*.db-bet-05138.bar CNAME .
 melbet-1015.bar CNAME .
 *.melbet-1015.bar CNAME .
 middelkerke-germany-casino.bar CNAME .
@@ -13678,6 +13682,8 @@ crazywinner.co CNAME .
 *.crazywinner.co CNAME .
 cryptocapital.co CNAME .
 *.cryptocapital.co CNAME .
+db-bet.co CNAME .
+*.db-bet.co CNAME .
 dealbet.co CNAME .
 *.dealbet.co CNAME .
 dedemancasino.co CNAME .
@@ -28778,6 +28784,16 @@ dazzlecasino.com CNAME .
 *.dazzlecasino.com CNAME .
 db-bet.com CNAME .
 *.db-bet.com CNAME .
+db-bet-official.com CNAME .
+*.db-bet-official.com CNAME .
+db-bet-online.com CNAME .
+*.db-bet-online.com CNAME .
+db-bet-uz.com CNAME .
+*.db-bet-uz.com CNAME .
+db-bet29435.com CNAME .
+*.db-bet29435.com CNAME .
+db-bet45964.com CNAME .
+*.db-bet45964.com CNAME .
 dbetcasinos.com CNAME .
 *.dbetcasinos.com CNAME .
 dbltotobest.com CNAME .
@@ -35886,8 +35902,6 @@ juan365.com CNAME .
 *.juan365.com CNAME .
 juara345.com CNAME .
 *.juara345.com CNAME .
-juara898.com CNAME .
-*.juara898.com CNAME .
 jubileecasinomx.com CNAME .
 *.jubileecasinomx.com CNAME .
 jublacasinos.com CNAME .
@@ -56502,6 +56516,8 @@ veterinarymedicine.co.in CNAME .
 *.veterinarymedicine.co.in CNAME .
 visualmedia.co.in CNAME .
 *.visualmedia.co.in CNAME .
+db-bet.in CNAME .
+*.db-bet.in CNAME .
 ddaonlineflt.in CNAME .
 *.ddaonlineflt.in CNAME .
 deltin-casino.in CNAME .
@@ -69878,6 +69894,8 @@ cm88casino.pro CNAME .
 *.cm88casino.pro CNAME .
 corporatcasinoevent.pro CNAME .
 *.corporatcasinoevent.pro CNAME .
+db-bet-54373.pro CNAME .
+*.db-bet-54373.pro CNAME .
 du88.pro CNAME .
 *.du88.pro CNAME .
 eldoradocasino.pro CNAME .
@@ -70980,8 +70998,16 @@ daddycasino894.ru CNAME .
 *.daddycasino894.ru CNAME .
 dag-esk.ru CNAME .
 *.dag-esk.ru CNAME .
+db-bet-a7k2m.ru CNAME .
+*.db-bet-a7k2m.ru CNAME .
 db-bet-casino.ru CNAME .
 *.db-bet-casino.ru CNAME .
+db-bet-n8v3z.ru CNAME .
+*.db-bet-n8v3z.ru CNAME .
+db-bet-x4p9q.ru CNAME .
+*.db-bet-x4p9q.ru CNAME .
+db-bet4.ru CNAME .
+*.db-bet4.ru CNAME .
 db-casino.ru CNAME .
 *.db-casino.ru CNAME .
 db-casino-1.ru CNAME .
@@ -75168,6 +75194,8 @@ cat-ket-casino.today CNAME .
 *.cat-ket-casino.today CNAME .
 daddycasino6d.today CNAME .
 *.daddycasino6d.today CNAME .
+db-bet-02921.today CNAME .
+*.db-bet-02921.today CNAME .
 dragonmoneycasino.today CNAME .
 *.dragonmoneycasino.today CNAME .
 f168.today CNAME .
@@ -76648,6 +76676,8 @@ dax88.top CNAME .
 *.dax88.top CNAME .
 db-bet81459.top CNAME .
 *.db-bet81459.top CNAME .
+db-bet853061.top CNAME .
+*.db-bet853061.top CNAME .
 detemele.top CNAME .
 *.detemele.top CNAME .
 dewalive.top CNAME .
