@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 15:28 UTC
-# Version: 2026.0311.1528.48
+# Last modified: 12 Mar 2026 03:29 UTC
+# Version: 2026.0312.0329.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55339
+# Number of entries: 55340
 #
 local=/0.beer/
 local=/0.club/
@@ -38944,6 +38944,7 @@ local=/persinners.com/
 local=/cj.persismchamois.com/
 local=/persistarcticthese.com/
 local=/persona3.tech/
+local=/personal-bowl.pro/
 local=/personal-effort.com/
 local=/personalengage.com/
 local=/personalfinanceshacks.me/

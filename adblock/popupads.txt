@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Mar 2026 15:28 UTC
-! Version: 2026.0311.1528.48
+! Last modified: 12 Mar 2026 03:29 UTC
+! Version: 2026.0312.0329.29
 ! Syntax: AdBlock
-! Number of entries: 55339
+! Number of entries: 55340
 !
 ||0.beer^
 ||0.club^
@@ -38945,6 +38945,7 @@
 ||cj.persismchamois.com^
 ||persistarcticthese.com^
 ||persona3.tech^
+||personal-bowl.pro^
 ||personal-effort.com^
 ||personalengage.com^
 ||personalfinanceshacks.me^
