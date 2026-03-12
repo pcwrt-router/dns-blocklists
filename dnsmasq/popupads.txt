@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 03:29 UTC
-# Version: 2026.0312.0329.29
+# Last modified: 12 Mar 2026 09:30 UTC
+# Version: 2026.0312.0930.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55340
+# Number of entries: 55337
 #
 local=/0.beer/
 local=/0.club/
@@ -124,7 +124,6 @@ local=/001.name/
 local=/001.sbs/
 local=/001.wiki/
 local=/0010.me/
-local=/33795b3c71.00104186da.com/
 local=/0010d.com/
 local=/0010jz.com/
 local=/0011av.com/
@@ -3489,7 +3488,6 @@ local=/1baima.com/
 local=/1bank.info/
 local=/1bbl.com/
 local=/1be.biz/
-local=/1d36f919d8.1be795e9c2.com/
 local=/1be953d1cc.com/
 local=/1betandgonow.com/
 local=/1betbet.com/
@@ -4822,7 +4820,6 @@ local=/53c2dtzsj7t1.top/
 local=/53mr2r25q4s3.top/
 local=/540484935e.com/
 local=/540f8cca2b.com/
-local=/4027d86a39.542cf0845e.com/
 local=/545316.vip/
 local=/6c062330ce.54653cc53d.com/
 local=/548f23e472.com/
@@ -5249,7 +5246,7 @@ local=/7abdc2aae1.com/
 local=/7amz.com/
 local=/7app.top/
 local=/7b624d2bdd.com/
-local=/7b91f8c7a4.com/
+local=/fb995e68d9.7b91f8c7a4.com/
 local=/7ba3fa4259.com/
 local=/7bb.cc/
 local=/7bchhgh.de/
@@ -5696,7 +5693,6 @@ local=/a8ab9e490d.a188a76155.com/
 local=/a1tai7.jp/
 local=/a2255d1d36.com/
 local=/a233106.com/
-local=/06034bade6.a240878707.com/
 local=/a273656d15.com/
 local=/44b6d66394.a2e5b82fea.com/
 local=/a2gw.com/
@@ -19414,7 +19410,6 @@ local=/c9e4993a63.e8656a9f30.com/
 local=/e8853962d1.com/
 local=/e89d45b16370ee7e43daeaf6ce8d9547.com/
 local=/e8jp9.com/
-local=/305791ddd9.ea1e71ef6c.com/
 local=/ea6c0ac4.xyz/
 local=/eaagzbrscgtzw.space/
 local=/eaaratte.net/
@@ -37405,6 +37400,7 @@ local=/onrocket.net/
 local=/onsandindeedth.com/
 local=/onscrn.com/
 local=/onscroll.com/
+local=/onsetblouselampshade.com/
 local=/onshoring.solutions/
 local=/onshow.site/
 local=/onshowit.com/
@@ -43093,6 +43089,7 @@ local=/romiixy.com/
 local=/romil-jdd.com/
 local=/romperspardesi.com/
 local=/vc.rompishvariola.com/
+local=/romsns.com/
 local=/romsxqicvnbvx.store/
 local=/oj.romulusniuan.com/
 local=/rondachang.xyz/

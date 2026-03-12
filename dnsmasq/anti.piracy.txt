@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 10:48 UTC
-# Version: 2026.0311.1048.41
+# Last modified: 12 Mar 2026 10:53 UTC
+# Version: 2026.0312.1053.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12122
+# Number of entries: 12129
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -251,6 +251,7 @@ local=/24-downloads.com/
 local=/24-hd.com/
 local=/240x320.ru/
 local=/24h.tv/
+local=/24start.net/
 local=/24urban.com/
 local=/24warez.ru/
 local=/250412.xyz/
@@ -713,6 +714,7 @@ local=/altadefinizione01.ws/
 local=/altadefinizione4k.tv/
 local=/altadefinizionea.com/
 local=/altadefinizionegratis.asia/
+local=/altadefinizionegratis.beer/
 local=/altadefinizionegratis.bid/
 local=/altadefinizionegratis.biz/
 local=/altadefinizionegratis.bond/
@@ -3035,6 +3037,7 @@ local=/dpstreaming.org/
 local=/dpstreamiz.net/
 local=/dqqd.org/
 local=/dr-farfar.com/
+local=/dr0pstream.com/
 local=/draculastream.org/
 local=/tvnihon.dragoneye.ca/
 local=/dragons-den.net/
@@ -6129,6 +6132,7 @@ local=/lnx-bbc.org/
 local=/load.to/
 local=/tracker.loadbt.com/
 local=/tracker.loadpeers.org/
+local=/logansmovies.com/
 local=/tracker.logirl.moe/
 local=/open.lolicon.eu/
 local=/tracker.loligirl.cn/
@@ -6793,6 +6797,7 @@ local=/moviesmobile.net/
 local=/moviesmod.build/
 local=/moviesmod.cards/
 local=/moviesmod.dev/
+local=/moviesmod.pink/
 local=/moviesmod.plus/
 local=/moviesmod.space/
 local=/moviesmod.town/
@@ -7867,6 +7872,7 @@ local=/playerhd.site/
 local=/playersklub.tv/
 local=/playertv.net/
 local=/tracker.playground.ru/
+local=/playhdmovies.com/
 local=/playit.pk/
 local=/playmods.app/
 local=/playmods.co/
@@ -10257,6 +10263,7 @@ local=/torrentchannel.com/
 local=/torrentchile.org/
 local=/torrentcity.net/
 local=/torrentcity.pl/
+local=/torrentclaw.com/
 local=/torrentclub.online/
 local=/torrentclub.space/
 local=/torrentclub.tech/

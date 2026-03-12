@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773286140 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773307800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Mar 2026 03:29 UTC
-; Version: 2026.0312.0329.29
+; Last modified: 12 Mar 2026 09:30 UTC
+; Version: 2026.0312.0930.00
 ; Syntax: RPZ
-; Number of entries: 110680
+; Number of entries: 110674
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -4144,8 +4144,6 @@ ssm.codes CNAME .
 *.000xnxx.com CNAME .
 000zf.com CNAME .
 *.000zf.com CNAME .
-33795b3c71.00104186da.com CNAME .
-*.33795b3c71.00104186da.com CNAME .
 0010d.com CNAME .
 *.0010d.com CNAME .
 0010jz.com CNAME .
@@ -9196,8 +9194,6 @@ f3b712f1f4.16d9c2d09e.com CNAME .
 *.1baima.com CNAME .
 1bbl.com CNAME .
 *.1bbl.com CNAME .
-1d36f919d8.1be795e9c2.com CNAME .
-*.1d36f919d8.1be795e9c2.com CNAME .
 1be953d1cc.com CNAME .
 *.1be953d1cc.com CNAME .
 1betandgonow.com CNAME .
@@ -10948,8 +10944,6 @@ demo.52koala.com CNAME .
 *.540484935e.com CNAME .
 540f8cca2b.com CNAME .
 *.540f8cca2b.com CNAME .
-4027d86a39.542cf0845e.com CNAME .
-*.4027d86a39.542cf0845e.com CNAME .
 6c062330ce.54653cc53d.com CNAME .
 *.6c062330ce.54653cc53d.com CNAME .
 548f23e472.com CNAME .
@@ -11588,8 +11582,8 @@ ys4uc.777956.com CNAME .
 *.7amz.com CNAME .
 7b624d2bdd.com CNAME .
 *.7b624d2bdd.com CNAME .
-7b91f8c7a4.com CNAME .
-*.7b91f8c7a4.com CNAME .
+fb995e68d9.7b91f8c7a4.com CNAME .
+*.fb995e68d9.7b91f8c7a4.com CNAME .
 7ba3fa4259.com CNAME .
 *.7ba3fa4259.com CNAME .
 7c13b412e9.com CNAME .
@@ -12238,8 +12232,6 @@ a2255d1d36.com CNAME .
 *.a2255d1d36.com CNAME .
 a233106.com CNAME .
 *.a233106.com CNAME .
-06034bade6.a240878707.com CNAME .
-*.06034bade6.a240878707.com CNAME .
 a273656d15.com CNAME .
 *.a273656d15.com CNAME .
 44b6d66394.a2e5b82fea.com CNAME .
@@ -31836,8 +31828,6 @@ e89d45b16370ee7e43daeaf6ce8d9547.com CNAME .
 *.e89d45b16370ee7e43daeaf6ce8d9547.com CNAME .
 e8jp9.com CNAME .
 *.e8jp9.com CNAME .
-305791ddd9.ea1e71ef6c.com CNAME .
-*.305791ddd9.ea1e71ef6c.com CNAME .
 eabids.com CNAME .
 *.eabids.com CNAME .
 eacdn.com CNAME .
@@ -54786,6 +54776,8 @@ onscrn.com CNAME .
 *.onscrn.com CNAME .
 onscroll.com CNAME .
 *.onscroll.com CNAME .
+onsetblouselampshade.com CNAME .
+*.onsetblouselampshade.com CNAME .
 onshowit.com CNAME .
 *.onshowit.com CNAME .
 onshucklea.com CNAME .
@@ -62204,6 +62196,8 @@ romperspardesi.com CNAME .
 *.romperspardesi.com CNAME .
 vc.rompishvariola.com CNAME .
 *.vc.rompishvariola.com CNAME .
+romsns.com CNAME .
+*.romsns.com CNAME .
 oj.romulusniuan.com CNAME .
 *.oj.romulusniuan.com CNAME .
 ronderosalvarezabogados.com CNAME .

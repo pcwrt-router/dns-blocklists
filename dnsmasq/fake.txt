@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 15:31 UTC
-# Version: 2026.0311.1531.13
+# Last modified: 12 Mar 2026 09:32 UTC
+# Version: 2026.0312.0932.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14464
+# Number of entries: 14471
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -62,6 +62,7 @@ local=/365pills.com/
 local=/3d-printing.store/
 local=/3racingparts.com/
 local=/4rxofficial.com/
+local=/4u2ride.eu/
 local=/5-drugs.com/
 local=/52magicdownload.com/
 local=/52magicdownloads.com/
@@ -3645,6 +3646,7 @@ local=/eigenheimmagazin.de/
 local=/eimer-geraeten.com/
 local=/ein-kaffee.de/
 local=/einayah.com/
+local=/einfach-oel.com/
 local=/einfachelinklogistik.com/
 local=/einfacherkredit.com/
 local=/einfachgutemoebel.com/
@@ -4949,6 +4951,7 @@ local=/gartenmaschinen-arbeitsgerate.shop/
 local=/gartenmaschinen24.de/
 local=/gartenmaschinenpro.de/
 local=/gartenmaschinenzubehor.com/
+local=/gartenmoebelwelt.com/
 local=/gartenmotorgerate.com/
 local=/gartenobstshop.com/
 local=/gartenova.com/
@@ -9231,6 +9234,7 @@ local=/nextbinary.com/
 local=/nextcareerflow.online/
 local=/nextgenglobalenterprise45.cc/
 local=/nextproconnect.online/
+local=/nexus-reputation.com/
 local=/nexvireonde.works/
 local=/nexxco24.de/
 local=/nflshopofficialonlinestore.com/
@@ -10694,7 +10698,6 @@ local=/rangau-musikzug.de/
 local=/rangnau-versand.de/
 local=/ranjnagupta.com/
 local=/ranthambhorekothi.com/
-local=/rapidboost.com/
 local=/rapidconv.com/
 local=/rapunzelhairextension.com/
 local=/rare404.com/
@@ -10791,6 +10794,7 @@ local=/rehdergmbh.com/
 local=/rehearsalk.com/
 local=/reichwahl.de/
 local=/reifemode.com/
+local=/reifen-direkt24.com/
 local=/reifen-dreyer.com/
 local=/reifen-teile-discount.de/
 local=/reifenangebote.com/
@@ -12189,6 +12193,7 @@ local=/storeova.com/
 local=/storeshapewear.com/
 local=/storesportsinggoods.com/
 local=/storetwo.com/
+local=/story-news.com/
 local=/stoxdc.com/
 local=/strabenmotorrad.com/
 local=/straightnaturals.com/
@@ -13543,6 +13548,7 @@ local=/versatileus-women.com/
 local=/verschiedeneoutdoor.com/
 local=/versys.net/
 local=/vertexfy.com/
+local=/vertigo-technik.com/
 local=/vertisas.shop/
 local=/client.vertorise.com/
 local=/vertow.com/
@@ -13793,6 +13799,7 @@ local=/vytor.de/
 local=/vzbuch.shop/
 local=/waco-logistics.com/
 local=/wadada.online/
+local=/waermewald.de/
 local=/waffeleisende.com/
 local=/waffenundjagdwelt.com/
 local=/wagand-tech.de/

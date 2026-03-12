@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Mar 2026 15:31 UTC
-! Version: 2026.0311.1531.13
+! Last modified: 12 Mar 2026 09:32 UTC
+! Version: 2026.0312.0932.27
 ! Syntax: AdBlock
-! Number of entries: 14464
+! Number of entries: 14471
 !
 ||01broker.com^
 ||01crypto.com^
@@ -63,6 +63,7 @@
 ||3d-printing.store^
 ||3racingparts.com^
 ||4rxofficial.com^
+||4u2ride.eu^
 ||5-drugs.com^
 ||52magicdownload.com^
 ||52magicdownloads.com^
@@ -3646,6 +3647,7 @@
 ||eimer-geraeten.com^
 ||ein-kaffee.de^
 ||einayah.com^
+||einfach-oel.com^
 ||einfachelinklogistik.com^
 ||einfacherkredit.com^
 ||einfachgutemoebel.com^
@@ -4950,6 +4952,7 @@
 ||gartenmaschinen24.de^
 ||gartenmaschinenpro.de^
 ||gartenmaschinenzubehor.com^
+||gartenmoebelwelt.com^
 ||gartenmotorgerate.com^
 ||gartenobstshop.com^
 ||gartenova.com^
@@ -9232,6 +9235,7 @@
 ||nextcareerflow.online^
 ||nextgenglobalenterprise45.cc^
 ||nextproconnect.online^
+||nexus-reputation.com^
 ||nexvireonde.works^
 ||nexxco24.de^
 ||nflshopofficialonlinestore.com^
@@ -10695,7 +10699,6 @@
 ||rangnau-versand.de^
 ||ranjnagupta.com^
 ||ranthambhorekothi.com^
-||rapidboost.com^
 ||rapidconv.com^
 ||rapunzelhairextension.com^
 ||rare404.com^
@@ -10792,6 +10795,7 @@
 ||rehearsalk.com^
 ||reichwahl.de^
 ||reifemode.com^
+||reifen-direkt24.com^
 ||reifen-dreyer.com^
 ||reifen-teile-discount.de^
 ||reifenangebote.com^
@@ -12190,6 +12194,7 @@
 ||storeshapewear.com^
 ||storesportsinggoods.com^
 ||storetwo.com^
+||story-news.com^
 ||stoxdc.com^
 ||strabenmotorrad.com^
 ||straightnaturals.com^
@@ -13544,6 +13549,7 @@
 ||verschiedeneoutdoor.com^
 ||versys.net^
 ||vertexfy.com^
+||vertigo-technik.com^
 ||vertisas.shop^
 ||client.vertorise.com^
 ||vertow.com^
@@ -13794,6 +13800,7 @@
 ||vzbuch.shop^
 ||waco-logistics.com^
 ||wadada.online^
+||waermewald.de^
 ||waffeleisende.com^
 ||waffenundjagdwelt.com^
 ||wagand-tech.de^

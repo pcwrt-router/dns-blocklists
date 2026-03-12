@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 10:48 UTC
-# Version: 2026.0311.1048.41
+# Last modified: 12 Mar 2026 10:53 UTC
+# Version: 2026.0312.1053.04
 # Syntax: Domains (without subdomains)
-# Number of entries: 12122
+# Number of entries: 12129
 #
 tracker.guguan.000.pe
 003396815.xyz
@@ -251,6 +251,7 @@ tracker.23794.top
 24-hd.com
 240x320.ru
 24h.tv
+24start.net
 24urban.com
 24warez.ru
 250412.xyz
@@ -713,6 +714,7 @@ altadefinizione01.ws
 altadefinizione4k.tv
 altadefinizionea.com
 altadefinizionegratis.asia
+altadefinizionegratis.beer
 altadefinizionegratis.bid
 altadefinizionegratis.biz
 altadefinizionegratis.bond
@@ -3035,6 +3037,7 @@ dpstreaming.org
 dpstreamiz.net
 dqqd.org
 dr-farfar.com
+dr0pstream.com
 draculastream.org
 tvnihon.dragoneye.ca
 dragons-den.net
@@ -6129,6 +6132,7 @@ lnx-bbc.org
 load.to
 tracker.loadbt.com
 tracker.loadpeers.org
+logansmovies.com
 tracker.logirl.moe
 open.lolicon.eu
 tracker.loligirl.cn
@@ -6793,6 +6797,7 @@ moviesmobile.net
 moviesmod.build
 moviesmod.cards
 moviesmod.dev
+moviesmod.pink
 moviesmod.plus
 moviesmod.space
 moviesmod.town
@@ -7867,6 +7872,7 @@ playerhd.site
 playersklub.tv
 playertv.net
 tracker.playground.ru
+playhdmovies.com
 playit.pk
 playmods.app
 playmods.co
@@ -10257,6 +10263,7 @@ torrentchannel.com
 torrentchile.org
 torrentcity.net
 torrentcity.pl
+torrentclaw.com
 torrentclub.online
 torrentclub.space
 torrentclub.tech

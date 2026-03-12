@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773243060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773307920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Mar 2026 15:31 UTC
-; Version: 2026.0311.1531.13
+; Last modified: 12 Mar 2026 09:32 UTC
+; Version: 2026.0312.0932.27
 ; Syntax: RPZ
-; Number of entries: 28928
+; Number of entries: 28942
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5892,6 +5892,8 @@ eimer-geraeten.com CNAME .
 *.eimer-geraeten.com CNAME .
 einayah.com CNAME .
 *.einayah.com CNAME .
+einfach-oel.com CNAME .
+*.einfach-oel.com CNAME .
 einfachelinklogistik.com CNAME .
 *.einfachelinklogistik.com CNAME .
 einfacherkredit.com CNAME .
@@ -7368,6 +7370,8 @@ gartenmaher.com CNAME .
 *.gartenmaher.com CNAME .
 gartenmaschinenzubehor.com CNAME .
 *.gartenmaschinenzubehor.com CNAME .
+gartenmoebelwelt.com CNAME .
+*.gartenmoebelwelt.com CNAME .
 gartenmotorgerate.com CNAME .
 *.gartenmotorgerate.com CNAME .
 gartenobstshop.com CNAME .
@@ -12066,6 +12070,8 @@ next-bricks.com CNAME .
 *.next-bricks.com CNAME .
 nextbinary.com CNAME .
 *.nextbinary.com CNAME .
+nexus-reputation.com CNAME .
+*.nexus-reputation.com CNAME .
 nflshopofficialonlinestore.com CNAME .
 *.nflshopofficialonlinestore.com CNAME .
 nhltrikotde.com CNAME .
@@ -13768,8 +13774,6 @@ ranjnagupta.com CNAME .
 *.ranjnagupta.com CNAME .
 ranthambhorekothi.com CNAME .
 *.ranthambhorekothi.com CNAME .
-rapidboost.com CNAME .
-*.rapidboost.com CNAME .
 rapidconv.com CNAME .
 *.rapidconv.com CNAME .
 rapunzelhairextension.com CNAME .
@@ -13886,6 +13890,8 @@ rehearsalk.com CNAME .
 *.rehearsalk.com CNAME .
 reifemode.com CNAME .
 *.reifemode.com CNAME .
+reifen-direkt24.com CNAME .
+*.reifen-direkt24.com CNAME .
 reifen-dreyer.com CNAME .
 *.reifen-dreyer.com CNAME .
 reifenangebote.com CNAME .
@@ -15478,6 +15484,8 @@ storesportsinggoods.com CNAME .
 *.storesportsinggoods.com CNAME .
 storetwo.com CNAME .
 *.storetwo.com CNAME .
+story-news.com CNAME .
+*.story-news.com CNAME .
 stoxdc.com CNAME .
 *.stoxdc.com CNAME .
 strabenmotorrad.com CNAME .
@@ -17160,6 +17168,8 @@ verschiedeneoutdoor.com CNAME .
 *.verschiedeneoutdoor.com CNAME .
 vertexfy.com CNAME .
 *.vertexfy.com CNAME .
+vertigo-technik.com CNAME .
+*.vertigo-technik.com CNAME .
 client.vertorise.com CNAME .
 *.client.vertorise.com CNAME .
 vertow.com CNAME .
@@ -24482,6 +24492,8 @@ vynox.de CNAME .
 *.vynox.de CNAME .
 vytor.de CNAME .
 *.vytor.de CNAME .
+waermewald.de CNAME .
+*.waermewald.de CNAME .
 wagand-tech.de CNAME .
 *.wagand-tech.de CNAME .
 wagemannmode.de CNAME .
@@ -24882,6 +24894,8 @@ sofialucasjoyeria.es CNAME .
 *.sofialucasjoyeria.es CNAME .
 todo-para-camping-caravans.es CNAME .
 *.todo-para-camping-caravans.es CNAME .
+4u2ride.eu CNAME .
+*.4u2ride.eu CNAME .
 akku-staubsauger.eu CNAME .
 *.akku-staubsauger.eu CNAME .
 ntqcp9y.amapolaproject.eu CNAME .

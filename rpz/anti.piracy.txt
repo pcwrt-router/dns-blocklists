@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773226080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773312780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Mar 2026 10:48 UTC
-; Version: 2026.0311.1048.41
+; Last modified: 12 Mar 2026 10:53 UTC
+; Version: 2026.0312.1053.04
 ; Syntax: RPZ
-; Number of entries: 24244
+; Number of entries: 24258
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -726,6 +726,8 @@ alagoz.beer CNAME .
 *.alagoz.beer CNAME .
 altadefinizione-01.beer CNAME .
 *.altadefinizione-01.beer CNAME .
+altadefinizionegratis.beer CNAME .
+*.altadefinizionegratis.beer CNAME .
 altadefinizionez.beer CNAME .
 *.altadefinizionez.beer CNAME .
 alypum.beer CNAME .
@@ -4438,6 +4440,8 @@ doxma.com CNAME .
 *.doxma.com CNAME .
 dr-farfar.com CNAME .
 *.dr-farfar.com CNAME .
+dr0pstream.com CNAME .
+*.dr0pstream.com CNAME .
 dramacoolfirst.com CNAME .
 *.dramacoolfirst.com CNAME .
 dramago.com CNAME .
@@ -5738,6 +5742,8 @@ lmanime.com CNAME .
 *.lmanime.com CNAME .
 tracker.loadbt.com CNAME .
 *.tracker.loadbt.com CNAME .
+logansmovies.com CNAME .
+*.logansmovies.com CNAME .
 mw.lonelil.com CNAME .
 *.mw.lonelil.com CNAME .
 watch.lonelil.com CNAME .
@@ -6636,6 +6642,8 @@ planete-lolo.com CNAME .
 *.planete-lolo.com CNAME .
 platinmods.com CNAME .
 *.platinmods.com CNAME .
+playhdmovies.com CNAME .
+*.playhdmovies.com CNAME .
 playtvgo.com CNAME .
 *.playtvgo.com CNAME .
 playurbano.com CNAME .
@@ -7706,6 +7714,8 @@ torrentbox.com CNAME .
 *.torrentbox.com CNAME .
 torrentchannel.com CNAME .
 *.torrentchannel.com CNAME .
+torrentclaw.com CNAME .
+*.torrentclaw.com CNAME .
 torrentday.com CNAME .
 *.torrentday.com CNAME .
 torrentdia.com CNAME .
@@ -13478,6 +13488,8 @@ hichemtigsetorgy.0fees.net CNAME .
 *.16mag.net CNAME .
 1gabba.net CNAME .
 *.1gabba.net CNAME .
+24start.net CNAME .
+*.24start.net CNAME .
 2torrentz.net CNAME .
 *.2torrentz.net CNAME .
 321n.net CNAME .
@@ -18032,6 +18044,8 @@ guardaserie.pink CNAME .
 *.guardaserie.pink CNAME .
 kinogo.pink CNAME .
 *.kinogo.pink CNAME .
+moviesmod.pink CNAME .
+*.moviesmod.pink CNAME .
 streamingcommunity.pink CNAME .
 *.streamingcommunity.pink CNAME .
 streamingcommunityz.pink CNAME .

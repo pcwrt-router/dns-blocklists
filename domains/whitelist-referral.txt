@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 09:18 UTC
-# Version: 2026.0310.0918.47
+# Last modified: 12 Mar 2026 09:19 UTC
+# Version: 2026.0312.0919.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1936
+# Number of entries: 1942
 #
 1-aclk.net
 1aurl.io
@@ -242,6 +242,7 @@ seu.cleverreach.com
 17509.seu.cleverreach.com
 149654.17729.seu.cleverreach.com
 19706.seu.cleverreach.com
+20791.seu.cleverreach.com
 22503.seu.cleverreach.com
 23196.seu.cleverreach.com
 2561.seu.cleverreach.com
@@ -265,12 +266,14 @@ seu1.cleverreach.com
 57361.seu1.cleverreach.com
 59131.seu1.cleverreach.com
 64137.seu1.cleverreach.com
+67656.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
 72984.seu1.cleverreach.com
 76216.seu1.cleverreach.com
 78389.seu1.cleverreach.com
 79189.seu1.cleverreach.com
+79558.seu1.cleverreach.com
 175597.84296.seu1.cleverreach.com
 85516.seu1.cleverreach.com
 seu2.cleverreach.com
@@ -328,6 +331,7 @@ seu2.cleverreach.com
 267821.seu2.cleverreach.com
 268990.seu2.cleverreach.com
 283764.seu2.cleverreach.com
+283836.seu2.cleverreach.com
 284666.seu2.cleverreach.com
 291887.seu2.cleverreach.com
 292537.seu2.cleverreach.com
@@ -340,6 +344,7 @@ seu2.cleverreach.com
 321377.seu2.cleverreach.com
 323664.seu2.cleverreach.com
 341722.seu2.cleverreach.com
+342011.seu2.cleverreach.com
 344934.seu2.cleverreach.com
 348148.seu2.cleverreach.com
 350407.seu2.cleverreach.com
@@ -1025,6 +1030,7 @@ group0.sites.hscoscdn-eu1.net
 25855289.group0.sites.hscoscdn-eu1.net
 26656555.group0.sites.hscoscdn-eu1.net
 27084415.group0.sites.hscoscdn-eu1.net
+341979.group0.sites.hscoscdn-eu1.net
 3887299.group0.sites.hscoscdn-eu1.net
 6435916.group0.sites.hscoscdn-eu1.net
 6882664.group0.sites.hscoscdn-eu1.net
