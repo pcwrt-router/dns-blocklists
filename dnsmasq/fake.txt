@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 09:32 UTC
-# Version: 2026.0312.0932.27
+# Last modified: 12 Mar 2026 21:32 UTC
+# Version: 2026.0312.2132.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14471
+# Number of entries: 14472
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -12107,6 +12107,7 @@ local=/steelcabinetsonline.com/
 local=/steelite-au.com/
 local=/stehaufe.de/
 local=/steiffen.shop/
+local=/steinberg-munchen.com/
 local=/steinbohrershop.com/
 local=/steiner-wien.at/
 local=/steinersalzburg.at/

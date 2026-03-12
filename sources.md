@@ -169,6 +169,7 @@ https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/hectorm/hmirror/refs/heads/master/data/molinero.dev/list.txt
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alternative%20list%20formats/antimalware_domains_nopups.txt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt

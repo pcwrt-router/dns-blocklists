@@ -876,6 +876,13 @@
       }
     },
     {
+      "PK": "clash.ninja",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "clashofmagic.cc",
       "action": {
         "do": 1,

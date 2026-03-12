@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 15:29 UTC
-# Version: 2026.0312.1529.30
+# Last modified: 12 Mar 2026 21:29 UTC
+# Version: 2026.0312.2129.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 55336
+# Number of entries: 55334
 #
 0.beer
 0.club
@@ -14551,7 +14551,6 @@ cmccymjawtcpd.space
 cmdrogqpxvxtr.online
 cmfads.com
 cmfkitgnhm.online
-cmghtn.com
 cmhjcfc.com
 cmjvavqkqfgvv.xyz
 cmkhsigydgefs.site
@@ -19262,7 +19261,6 @@ dvkxhbcrrrrut.online
 dvleaaamtruzl.site
 dvnhgkrzyxlzd.site
 dvqldhfeowiyh.online
-dvsyvp.com
 dvulz.org
 dvvndprgsjdni.store
 dvwedvktkcsvw.vip

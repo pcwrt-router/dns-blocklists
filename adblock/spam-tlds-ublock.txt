@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Mar 2026 10:55 UTC
-! Version: 2026.0311.1055.07
+! Last modified: 12 Mar 2026 22:58 UTC
+! Version: 2026.0312.2258.50
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -187,7 +187,7 @@
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
 ||ng^$doc,domain=~google.com.ng
-||ninja^$doc,domain=~poe.ninja|~protomedia.ninja
+||ninja^$doc,domain=~clash.ninja|~poe.ninja|~protomedia.ninja
 ||observer^$doc,domain=~project2025.observer
 ||okinawa^$doc
 ||ong^$doc

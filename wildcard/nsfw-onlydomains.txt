@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 16:56 UTC
-# Version: 2026.0312.1656.59
+# Last modified: 12 Mar 2026 22:54 UTC
+# Version: 2026.0312.2254.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 74427
+# Number of entries: 74447
 #
 0-xxxv.site
 000-xxx-video.online
@@ -761,6 +761,7 @@ eromitai.2chblog.jp
 2xlpornu.shop
 2xqiwi.ru
 2xxxb.info
+2y0ir.cc
 300.porn
 3000cams.com
 300editors.com
@@ -6760,6 +6761,7 @@ avplay.net
 avple.app
 avple.tv
 avpockiehd.com
+avporno.shop
 avpornxxx69.com
 avppomppu.com
 avrebo.com
@@ -9827,6 +9829,7 @@ boltgayka.ru
 bolthd.com
 boltonescort.com
 boluescortgo.com
+boluo15.mom
 bomb90bet.com
 bombasstube.com
 bombatop.com
@@ -15445,6 +15448,7 @@ courtneytrouble.com
 cousinsexteriors.com
 coutureboudoir.com
 coutureedge.com
+covengaming.org
 coverdoll.com
 covertjapan.com
 covery-mover.biz
@@ -24490,6 +24494,7 @@ galaktyka.porn
 galan.gay
 galasti.com
 galatasarayporn.com
+galatea.cat
 galaxxx.pw
 galaxyporn.net
 galaxyporn.org
@@ -29151,6 +29156,7 @@ hentaivn.world
 hentaivngo.xyz
 hentaivnx.autos
 hentaivnx.com
+hentaivnx.lol
 hentaivnx.net
 hentaivost.fr
 hentaivox.com
@@ -29313,6 +29319,7 @@ hi77.sex
 hi77.xxx
 hi78sextou.com
 hi88sex.blog
+hiai.one
 hibaresexmanagement.click
 hibiscusexcursions.com
 hibiscusextract.com
@@ -31035,6 +31042,7 @@ hydievpornovideo.net
 hydoll.com
 hydoll.de
 hydraulicsexchangellc.com
+hydroxychloroquinetc.com
 hyenatube.com
 hyip4.com
 hypehub.com
@@ -34672,6 +34680,7 @@ kavyaescort.com
 kavyalamba.com
 kavyamehra.com
 kavyasharma.in
+kaw8.boats
 kawai-jav.com
 kawaiifu.com
 kawaiisuxxxn.com
@@ -35180,6 +35189,7 @@ klgirl.net
 klixxx.com
 kljesex43.shop
 klmgayrimenkul.com
+klpinkkitties02.com
 klstarclub.cool
 klstarclub08.com
 klstarsclub.com
@@ -35796,6 +35806,7 @@ latam.xxx
 latanime.org
 late2gay.com
 lateenie.com
+latelierbcn.com
 latenight.ai
 latenightleather.com
 latenights.gay
@@ -39758,6 +39769,7 @@ mimgayrimenkul.com
 mimicmaster.online
 mimihentai.net
 minasdivinas.com
+mindafansub.lat
 mindbodysex.com
 mindbrowse.com
 mindcontroltheatre.com
@@ -41034,6 +41046,7 @@ xxxasing.my.id
 xxxsnowflakez.my.id
 my-best-celebs.biz
 my-chaturbat.su
+my-cim.best
 my-cima.app
 my-cima.net
 my-creative.ru
@@ -43273,6 +43286,7 @@ nudeteenpictures.com
 nudeteenporn.com
 nudeteensfuck.net
 nudetik.com
+nudetiktokgirls.com
 nudetits.net
 nudetits-porntube.xyz
 nudetoker.com
@@ -45461,6 +45475,7 @@ phim-sexx.xyz
 phim-xxx.info
 phim-xxx.net
 phim-xxx.org
+phim18k.blog
 phim18moi.xyz
 phim18vip.net
 phim18vip.top
@@ -62888,6 +62903,7 @@ teengayhardcore.com
 teengays.icu
 teengays.monster
 teengaysex.pro
+teengirls.club
 teengirlspictures.net
 teenh.net
 teenhamster.com
@@ -64121,6 +64137,7 @@ thesexysoireee.com
 thesexystories.com
 thesexyvibe.com
 theshagay.com
+theshantyrose.com
 theshapeofamother.com
 theshemale.xxx
 thesimplehelp.com
@@ -66987,6 +67004,7 @@ uzbek-porno.cc
 uzbek-porno.ru
 uzbek-seks.com
 uzbek-seks.top
+uzbek-seks1.top
 uzbek-sex2.top
 uzbek-sex5.top
 uzbek-sexy1.top
@@ -69624,6 +69642,7 @@ wpvortex.com
 wpx.bio
 adultaffili.wpx.jp
 wpxnet.com
+wqtp9.buzz
 wrestler4hire2.com
 wrestleroticapod.com
 wrestlingdommes.com
@@ -73373,6 +73392,7 @@ yed4k.com
 yed5.com
 yed9.com
 yedhere5.com
+yedjimjav.club
 yedlove.com
 yedover.com
 yedporn.net

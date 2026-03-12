@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 15:29 UTC
-# Version: 2026.0312.1529.30
+# Last modified: 12 Mar 2026 21:29 UTC
+# Version: 2026.0312.2129.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55336
+# Number of entries: 55334
 #
 local=/0.beer/
 local=/0.club/
@@ -14551,7 +14551,6 @@ local=/cmccymjawtcpd.space/
 local=/cmdrogqpxvxtr.online/
 local=/cmfads.com/
 local=/cmfkitgnhm.online/
-local=/cmghtn.com/
 local=/cmhjcfc.com/
 local=/cmjvavqkqfgvv.xyz/
 local=/cmkhsigydgefs.site/
@@ -19262,7 +19261,6 @@ local=/dvkxhbcrrrrut.online/
 local=/dvleaaamtruzl.site/
 local=/dvnhgkrzyxlzd.site/
 local=/dvqldhfeowiyh.online/
-local=/dvsyvp.com/
 local=/dvulz.org/
 local=/dvvndprgsjdni.store/
 local=/dvwedvktkcsvw.vip/
