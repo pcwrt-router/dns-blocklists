@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 21:29 UTC
-# Version: 2026.0312.2129.35
+# Last modified: 13 Mar 2026 09:30 UTC
+# Version: 2026.0313.0930.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55334
+# Number of entries: 55337
 #
 local=/0.beer/
 local=/0.club/
@@ -3161,7 +3161,6 @@ local=/16avav.info/
 local=/16below.com/
 local=/16c8nh2801z2.top/
 local=/16circuit.org/
-local=/f3b712f1f4.16d9c2d09e.com/
 local=/16days.org/
 local=/16gang.com/
 local=/16handsgallery.com/
@@ -7529,6 +7528,7 @@ local=/aiaskjqrimnol.website/
 local=/aibeautia1.jp/
 local=/aibeltaidoogli.com/
 local=/aibsgc.com/
+local=/aiclaude.jp/
 local=/aidata.io/
 local=/aidbp.ca/
 local=/aideaiwofukameteikuyo.xyz/
@@ -13297,6 +13297,7 @@ local=/catererskilled.com/
 local=/cateringquakeunfortunately.com/
 local=/catfun.tv/
 local=/cathedraldentalclinic.com/
+local=/cathedralofpraiseag.com/
 local=/catherinebrochure.com/
 local=/ze.cathinunquit.com/
 local=/catholiccommandment.com/
@@ -19576,6 +19577,7 @@ local=/eclkmpsa.com/
 local=/eclnqdlbtgokj.site/
 local=/eclvgswxvthwx.space/
 local=/ecoedgeinnovations.xyz/
+local=/ecomicrolab.com/
 local=/ecommercecall.com/
 local=/economicalathlete.com/
 local=/economicaldashcentral.com/
@@ -23751,7 +23753,6 @@ local=/gdjst168.com/
 local=/gdmconvtrck.com/
 local=/gdmgsecure.com/
 local=/gdonqrdtzhvfq.space/
-local=/gdrttf.com/
 local=/gdtrbrsyziwmw.website/
 local=/gdxt10.cn/
 local=/gearbootflask.com/
@@ -43211,6 +43212,8 @@ local=/royaltyhomecare.info/
 local=/royalvictorianweddings.com/
 local=/hm.rozumnarcose.com/
 local=/rpbielpssuigs.space/
+local=/rpcs4.com/
+local=/rpcs5.com/
 local=/rpeqmzqgutuxv.online/
 local=/rpjahb.icu/
 local=/rpobkzwuqmqqq.store/

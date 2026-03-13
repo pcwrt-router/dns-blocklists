@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 21:32 UTC
-# Version: 2026.0312.2132.02
+# Last modified: 13 Mar 2026 09:33 UTC
+# Version: 2026.0313.0933.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14472
+# Number of entries: 14481
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -718,6 +718,7 @@ local=/armedangelsrabatt.de/
 local=/armodafinil.cz/
 local=/armodamunchen.de/
 local=/armourygear.com/
+local=/arms-mall.com/
 local=/armxn.com/
 local=/arnstadt-baumarkt.de/
 local=/arnstadt-baumarkt.shop/
@@ -4411,7 +4412,6 @@ local=/figuredart.shop/
 local=/figurenverkauf.com/
 local=/figurinestoys.com/
 local=/filamniceent.com/
-local=/fillamoda.com/
 local=/fillethumn.com/
 local=/fillinger.shop/
 local=/filloutlet.com/
@@ -4562,6 +4562,7 @@ local=/flipperzero.at/
 local=/flipsterusdt.com/
 local=/fliptfeets.net/
 local=/flixway.de/
+local=/flixyshop.com/
 local=/flnanzonline.at/
 local=/floorprada.com/
 local=/florian-mentoring.com/
@@ -5144,6 +5145,7 @@ local=/getyourim.com/
 local=/getyouronlinemedshere.com/
 local=/getyourtickets.de/
 local=/getyourtreatmentshere.com/
+local=/nss.gevestor.de/
 local=/gexchain.com/
 local=/gfmtrader.com/
 local=/gfore-suomi.com/
@@ -5604,6 +5606,7 @@ local=/handelshaus-buchem.de/
 local=/handelsplanetdeutschland.de/
 local=/handlebarprada.com/
 local=/handlemylife.info/
+local=/handmadeelse.cc/
 local=/handmadestoree.cc/
 local=/handpickgeneralstore.com/
 local=/cdrock.handproof.rest/
@@ -6073,6 +6076,7 @@ local=/hinz-gartenhandel.de/
 local=/hirsefeltshop.com/
 local=/hisensepower.shop/
 local=/de.hisleeptime.com/
+local=/historica-collect.com/
 local=/hitech-shop.com/
 local=/hithertoh.com/
 local=/hiwered.com/
@@ -6256,6 +6260,7 @@ local=/hottestfurniture.com/
 local=/hotwesternwear.com/
 local=/hoursclothes.com/
 local=/house-book.eu/
+local=/houseandhomeco.com/
 local=/housedreamfactory.com/
 local=/houseofcbdeutschland.de/
 local=/houseofnordberg.com/
@@ -7499,6 +7504,7 @@ local=/lauramunchen.com/
 local=/laurenwebers.com/
 local=/lautenberg-mode.de/
 local=/lautsprechersale.com/
+local=/lavacucina.com/
 local=/lavendersshop.com/
 local=/lavera-zurich.com/
 local=/lavers.de/
@@ -11235,6 +11241,7 @@ local=/sama-logistic.com/
 local=/same-academy.com/
 local=/samence.com/
 local=/samilla.de/
+local=/sammelkunst.com/
 local=/sammlerliebe.com/
 local=/samofotografie.de/
 local=/samsoe-outlet.shop/
@@ -12915,6 +12922,7 @@ local=/toplily.com/
 local=/toplomarketxsh.com/
 local=/topmagazik.store/
 local=/topmarket-shop.com/
+local=/topmedicalaestheticsde.com/
 local=/topmotorcycleparts.com/
 local=/topoathleticschuhe.at/
 local=/topoathleticschuhe.de/
@@ -14154,6 +14162,7 @@ local=/world-coin.eu/
 local=/world-medic-store.com/
 local=/worldchinesemedia.com/
 local=/worldcompanyregister.org/
+local=/worldfinanz-gruppe.com/
 local=/worldsgreatpills.com/
 local=/wos-tech.de/
 local=/wotoba.de/

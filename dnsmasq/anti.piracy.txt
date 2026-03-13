@@ -5,13 +5,14 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 10:53 UTC
-# Version: 2026.0312.1053.04
+# Last modified: 13 Mar 2026 10:58 UTC
+# Version: 2026.0313.1058.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12129
+# Number of entries: 12131
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
+local=/004430.xyz/
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
 local=/0123movie.onl/
@@ -8062,6 +8063,7 @@ local=/psarips.xyz/
 local=/pseudo-flix.pro/
 local=/psperspective.net/
 local=/pspstrana.ru/
+local=/pstream.net/
 local=/pstream.org/
 local=/psvitaiso.com/
 local=/psvitavpk.com/

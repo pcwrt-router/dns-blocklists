@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773350940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773394200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Mar 2026 21:29 UTC
-; Version: 2026.0312.2129.35
+; Last modified: 13 Mar 2026 09:30 UTC
+; Version: 2026.0313.0930.48
 ; Syntax: RPZ
-; Number of entries: 110668
+; Number of entries: 110674
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -8704,8 +8704,6 @@ f1e17919db.15b4a9d5e8.com CNAME .
 *.169che.com CNAME .
 16below.com CNAME .
 *.16below.com CNAME .
-f3b712f1f4.16d9c2d09e.com CNAME .
-*.f3b712f1f4.16d9c2d09e.com CNAME .
 16gang.com CNAME .
 *.16gang.com CNAME .
 16handsgallery.com CNAME .
@@ -23212,6 +23210,8 @@ cateringquakeunfortunately.com CNAME .
 *.cateringquakeunfortunately.com CNAME .
 cathedraldentalclinic.com CNAME .
 *.cathedraldentalclinic.com CNAME .
+cathedralofpraiseag.com CNAME .
+*.cathedralofpraiseag.com CNAME .
 catherinebrochure.com CNAME .
 *.catherinebrochure.com CNAME .
 ze.cathinunquit.com CNAME .
@@ -32046,6 +32046,8 @@ eclkmpbn.com CNAME .
 *.eclkmpbn.com CNAME .
 eclkmpsa.com CNAME .
 *.eclkmpsa.com CNAME .
+ecomicrolab.com CNAME .
+*.ecomicrolab.com CNAME .
 ecommercecall.com CNAME .
 *.ecommercecall.com CNAME .
 economicalathlete.com CNAME .
@@ -37654,8 +37656,6 @@ gdmconvtrck.com CNAME .
 *.gdmconvtrck.com CNAME .
 gdmgsecure.com CNAME .
 *.gdmgsecure.com CNAME .
-gdrttf.com CNAME .
-*.gdrttf.com CNAME .
 gearbootflask.com CNAME .
 *.gearbootflask.com CNAME .
 geardiscover.com CNAME .
@@ -62362,6 +62362,10 @@ royalvictorianweddings.com CNAME .
 *.royalvictorianweddings.com CNAME .
 hm.rozumnarcose.com CNAME .
 *.hm.rozumnarcose.com CNAME .
+rpcs4.com CNAME .
+*.rpcs4.com CNAME .
+rpcs5.com CNAME .
+*.rpcs5.com CNAME .
 rpwmct.com CNAME .
 *.rpwmct.com CNAME .
 rqmfspdplqzmxu.com CNAME .
@@ -81304,6 +81308,8 @@ ai-mono.jp CNAME .
 *.ai-mono.jp CNAME .
 aibeautia1.jp CNAME .
 *.aibeautia1.jp CNAME .
+aiclaude.jp CNAME .
+*.aiclaude.jp CNAME .
 aikatuz.jp CNAME .
 *.aikatuz.jp CNAME .
 akgi45sas.jp CNAME .

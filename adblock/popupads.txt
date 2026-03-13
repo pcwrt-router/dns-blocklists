@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Mar 2026 21:29 UTC
-! Version: 2026.0312.2129.35
+! Last modified: 13 Mar 2026 09:30 UTC
+! Version: 2026.0313.0930.48
 ! Syntax: AdBlock
-! Number of entries: 55334
+! Number of entries: 55337
 !
 ||0.beer^
 ||0.club^
@@ -3162,7 +3162,6 @@
 ||16below.com^
 ||16c8nh2801z2.top^
 ||16circuit.org^
-||f3b712f1f4.16d9c2d09e.com^
 ||16days.org^
 ||16gang.com^
 ||16handsgallery.com^
@@ -7530,6 +7529,7 @@
 ||aibeautia1.jp^
 ||aibeltaidoogli.com^
 ||aibsgc.com^
+||aiclaude.jp^
 ||aidata.io^
 ||aidbp.ca^
 ||aideaiwofukameteikuyo.xyz^
@@ -13298,6 +13298,7 @@
 ||cateringquakeunfortunately.com^
 ||catfun.tv^
 ||cathedraldentalclinic.com^
+||cathedralofpraiseag.com^
 ||catherinebrochure.com^
 ||ze.cathinunquit.com^
 ||catholiccommandment.com^
@@ -19577,6 +19578,7 @@
 ||eclnqdlbtgokj.site^
 ||eclvgswxvthwx.space^
 ||ecoedgeinnovations.xyz^
+||ecomicrolab.com^
 ||ecommercecall.com^
 ||economicalathlete.com^
 ||economicaldashcentral.com^
@@ -23752,7 +23754,6 @@
 ||gdmconvtrck.com^
 ||gdmgsecure.com^
 ||gdonqrdtzhvfq.space^
-||gdrttf.com^
 ||gdtrbrsyziwmw.website^
 ||gdxt10.cn^
 ||gearbootflask.com^
@@ -43212,6 +43213,8 @@
 ||royalvictorianweddings.com^
 ||hm.rozumnarcose.com^
 ||rpbielpssuigs.space^
+||rpcs4.com^
+||rpcs5.com^
 ||rpeqmzqgutuxv.online^
 ||rpjahb.icu^
 ||rpobkzwuqmqqq.store^

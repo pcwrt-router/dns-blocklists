@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773312780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773399480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Mar 2026 10:53 UTC
-; Version: 2026.0312.1053.04
+; Last modified: 13 Mar 2026 10:58 UTC
+; Version: 2026.0313.1058.16
 ; Syntax: RPZ
-; Number of entries: 24258
+; Number of entries: 24262
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -14730,6 +14730,8 @@ ps5pkg.net CNAME .
 *.ps5pkg.net CNAME .
 psperspective.net CNAME .
 *.psperspective.net CNAME .
+pstream.net CNAME .
+*.pstream.net CNAME .
 publictorrent.net CNAME .
 *.publictorrent.net CNAME .
 pubt.net CNAME .
@@ -23742,6 +23744,8 @@ streamingcommunityz.xn--6frz82g CNAME .
 *.streamingcommunityz.xn--6frz82g CNAME .
 003396815.xyz CNAME .
 *.003396815.xyz CNAME .
+004430.xyz CNAME .
+*.004430.xyz CNAME .
 032312.xyz CNAME .
 *.032312.xyz CNAME .
 066855.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773351120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773394380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Mar 2026 21:32 UTC
-; Version: 2026.0312.2132.02
+; Last modified: 13 Mar 2026 09:33 UTC
+; Version: 2026.0313.0933.17
 ; Syntax: RPZ
-; Number of entries: 28944
+; Number of entries: 28962
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1256,6 +1256,8 @@ eurorxdrugs.cc CNAME .
 *.eurorxdrugs.cc CNAME .
 francisco.cc CNAME .
 *.francisco.cc CNAME .
+handmadeelse.cc CNAME .
+*.handmadeelse.cc CNAME .
 handmadestoree.cc CNAME .
 *.handmadestoree.cc CNAME .
 isotrader.cc CNAME .
@@ -2518,6 +2520,8 @@ armedangelsoutlet.com CNAME .
 *.armedangelsoutlet.com CNAME .
 armourygear.com CNAME .
 *.armourygear.com CNAME .
+arms-mall.com CNAME .
+*.arms-mall.com CNAME .
 armxn.com CNAME .
 *.armxn.com CNAME .
 aroma-finanz.com CNAME .
@@ -6782,8 +6786,6 @@ figurinestoys.com CNAME .
 *.figurinestoys.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
-fillamoda.com CNAME .
-*.fillamoda.com CNAME .
 fillethumn.com CNAME .
 *.fillethumn.com CNAME .
 filloutlet.com CNAME .
@@ -6954,6 +6956,8 @@ flipper-onlineshop.com CNAME .
 *.flipper-onlineshop.com CNAME .
 flipsterusdt.com CNAME .
 *.flipsterusdt.com CNAME .
+flixyshop.com CNAME .
+*.flixyshop.com CNAME .
 floorprada.com CNAME .
 *.floorprada.com CNAME .
 florian-mentoring.com CNAME .
@@ -8548,6 +8552,8 @@ hirsefeltshop.com CNAME .
 *.hirsefeltshop.com CNAME .
 de.hisleeptime.com CNAME .
 *.de.hisleeptime.com CNAME .
+historica-collect.com CNAME .
+*.historica-collect.com CNAME .
 hitech-shop.com CNAME .
 *.hitech-shop.com CNAME .
 hithertoh.com CNAME .
@@ -8784,6 +8790,8 @@ hotwesternwear.com CNAME .
 *.hotwesternwear.com CNAME .
 hoursclothes.com CNAME .
 *.hoursclothes.com CNAME .
+houseandhomeco.com CNAME .
+*.houseandhomeco.com CNAME .
 housedreamfactory.com CNAME .
 *.housedreamfactory.com CNAME .
 houseofnordberg.com CNAME .
@@ -10102,6 +10110,8 @@ laurenwebers.com CNAME .
 *.laurenwebers.com CNAME .
 lautsprechersale.com CNAME .
 *.lautsprechersale.com CNAME .
+lavacucina.com CNAME .
+*.lavacucina.com CNAME .
 lavendersshop.com CNAME .
 *.lavendersshop.com CNAME .
 lavera-zurich.com CNAME .
@@ -14392,6 +14402,8 @@ same-academy.com CNAME .
 *.same-academy.com CNAME .
 samence.com CNAME .
 *.samence.com CNAME .
+sammelkunst.com CNAME .
+*.sammelkunst.com CNAME .
 sammlerliebe.com CNAME .
 *.sammlerliebe.com CNAME .
 fr.samtradefx.com CNAME .
@@ -16392,6 +16404,8 @@ toplomarketxsh.com CNAME .
 *.toplomarketxsh.com CNAME .
 topmarket-shop.com CNAME .
 *.topmarket-shop.com CNAME .
+topmedicalaestheticsde.com CNAME .
+*.topmedicalaestheticsde.com CNAME .
 topmotorcycleparts.com CNAME .
 *.topmotorcycleparts.com CNAME .
 topoffice24.com CNAME .
@@ -17780,6 +17794,8 @@ world-medic-store.com CNAME .
 *.world-medic-store.com CNAME .
 worldchinesemedia.com CNAME .
 *.worldchinesemedia.com CNAME .
+worldfinanz-gruppe.com CNAME .
+*.worldfinanz-gruppe.com CNAME .
 worldsgreatpills.com CNAME .
 *.worldsgreatpills.com CNAME .
 woumc.com CNAME .
@@ -20460,6 +20476,8 @@ getsphinx.de CNAME .
 *.getsphinx.de CNAME .
 getyourtickets.de CNAME .
 *.getyourtickets.de CNAME .
+nss.gevestor.de CNAME .
+*.nss.gevestor.de CNAME .
 ghostarmy.de CNAME .
 *.ghostarmy.de CNAME .
 giesswein-outdoor.de CNAME .
