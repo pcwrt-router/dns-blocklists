@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 16:05 UTC
-# Version: 2026.0313.1605.50
+# Last modified: 13 Mar 2026 22:54 UTC
+# Version: 2026.0313.2254.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 99578
+# Number of entries: 99572
 #
 local=/0-bets.com/
 local=/0-bets.net/
@@ -22044,7 +22044,6 @@ local=/cashimashicasinonodeposit.click/
 local=/cashiopeia.com/
 local=/cashiopeiacasino.bet/
 local=/cashiopeiacasino.ca/
-local=/cashiopeiacasinonodeposit.click/
 local=/cashjackpotslots.com/
 local=/cashlib-casino.com/
 local=/cashlib-casinos.com/
@@ -32960,6 +32959,7 @@ local=/lulabet.co.za/
 local=/lunarslotscasino.co.uk/
 local=/luxurycasinonz.co.nz/
 local=/luxurycasinouk.co.uk/
+local=/luy.co.uk/
 local=/mad-casino-gb.co.uk/
 local=/mad-slots-casino.co.uk/
 local=/madcasinoonline.co.uk/
@@ -46403,7 +46403,6 @@ local=/giochi24.casino/
 local=/giochicasino.blog/
 local=/giochitelematici.it/
 local=/gioco-digitale.casino/
-local=/gioco-digitale-casino.com/
 local=/giocodigitale.it/
 local=/giocodigitalecasinonodeposit.click/
 local=/giok168.info/
@@ -60152,7 +60151,6 @@ local=/m-bahiscasino652.com/
 local=/m-bahiscasino653.com/
 local=/m-bahiscasino654.com/
 local=/m-bahiscasino655.com/
-local=/m-bahiscasino686.com/
 local=/m-bet.com/
 local=/m-bets10adres.com/
 local=/m-bets10giris.com/
@@ -60961,7 +60959,6 @@ local=/maltcasino-comgiris.com/
 local=/maltcasino-yenidomain.com/
 local=/maltcasino2.games/
 local=/maltcasino8811.com/
-local=/maltcasinogiris11.vip/
 local=/maltcasinoguncelgiris.link/
 local=/maltcasinoo.net/
 local=/maltcasinoz.com/
@@ -62058,7 +62055,6 @@ local=/incognito-casino.me.uk/
 local=/independentcasinosnotongamstop.me.uk/
 local=/independentukcasinosites.me.uk/
 local=/instantcasino.me.uk/
-local=/instaspincasino.me.uk/
 local=/ivycasino.me.uk/
 local=/iwinfortunecasino.me.uk/
 local=/jackpoker.me.uk/
@@ -63566,6 +63562,7 @@ local=/millionzcasinose.com/
 local=/millionzcasinosfr.com/
 local=/millionzcasinoss.com/
 local=/millionzs.casino/
+local=/millionzs.com/
 local=/millionzscasino.org/
 local=/millionzscasinos.com/
 local=/millioraireslots.shop/
@@ -65332,7 +65329,6 @@ local=/mymobicasino.com/
 local=/mymoosie.com/
 local=/mynewcasino.com/
 local=/mynylottery.org/
-local=/myonlinecasino.online/
 local=/myonlinecasino.site/
 local=/myonlinepoker.com/
 local=/mypersonas.ca/
@@ -72229,7 +72225,6 @@ local=/pinco-1013.casino/
 local=/pinco-139.casino/
 local=/pinco-24.casino/
 local=/pinco-240.casino/
-local=/pinco-251.casino/
 local=/pinco-252.casino/
 local=/pinco-254.casino/
 local=/pinco-255.casino/
@@ -74502,7 +74497,6 @@ local=/pokerbank.online/
 local=/pokerbankroll.ai/
 local=/pokerbankrollmanager.app/
 local=/pokerbarswitch.com/
-local=/pokerbasecamp.com/
 local=/pokerbazi.app/
 local=/pokerbazi.poker/
 local=/pokerbeet.pro/

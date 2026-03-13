@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Mar 2026 16:05 UTC
-! Version: 2026.0313.1605.50
+! Last modified: 13 Mar 2026 22:54 UTC
+! Version: 2026.0313.2254.51
 ! Syntax: AdBlock
-! Number of entries: 99578
+! Number of entries: 99572
 !
 ||0-bets.com^
 ||0-bets.net^
@@ -22045,7 +22045,6 @@
 ||cashiopeia.com^
 ||cashiopeiacasino.bet^
 ||cashiopeiacasino.ca^
-||cashiopeiacasinonodeposit.click^
 ||cashjackpotslots.com^
 ||cashlib-casino.com^
 ||cashlib-casinos.com^
@@ -32961,6 +32960,7 @@
 ||lunarslotscasino.co.uk^
 ||luxurycasinonz.co.nz^
 ||luxurycasinouk.co.uk^
+||luy.co.uk^
 ||mad-casino-gb.co.uk^
 ||mad-slots-casino.co.uk^
 ||madcasinoonline.co.uk^
@@ -46404,7 +46404,6 @@
 ||giochicasino.blog^
 ||giochitelematici.it^
 ||gioco-digitale.casino^
-||gioco-digitale-casino.com^
 ||giocodigitale.it^
 ||giocodigitalecasinonodeposit.click^
 ||giok168.info^
@@ -60153,7 +60152,6 @@
 ||m-bahiscasino653.com^
 ||m-bahiscasino654.com^
 ||m-bahiscasino655.com^
-||m-bahiscasino686.com^
 ||m-bet.com^
 ||m-bets10adres.com^
 ||m-bets10giris.com^
@@ -60962,7 +60960,6 @@
 ||maltcasino-yenidomain.com^
 ||maltcasino2.games^
 ||maltcasino8811.com^
-||maltcasinogiris11.vip^
 ||maltcasinoguncelgiris.link^
 ||maltcasinoo.net^
 ||maltcasinoz.com^
@@ -62059,7 +62056,6 @@
 ||independentcasinosnotongamstop.me.uk^
 ||independentukcasinosites.me.uk^
 ||instantcasino.me.uk^
-||instaspincasino.me.uk^
 ||ivycasino.me.uk^
 ||iwinfortunecasino.me.uk^
 ||jackpoker.me.uk^
@@ -63567,6 +63563,7 @@
 ||millionzcasinosfr.com^
 ||millionzcasinoss.com^
 ||millionzs.casino^
+||millionzs.com^
 ||millionzscasino.org^
 ||millionzscasinos.com^
 ||millioraireslots.shop^
@@ -65333,7 +65330,6 @@
 ||mymoosie.com^
 ||mynewcasino.com^
 ||mynylottery.org^
-||myonlinecasino.online^
 ||myonlinecasino.site^
 ||myonlinepoker.com^
 ||mypersonas.ca^
@@ -72230,7 +72226,6 @@
 ||pinco-139.casino^
 ||pinco-24.casino^
 ||pinco-240.casino^
-||pinco-251.casino^
 ||pinco-252.casino^
 ||pinco-254.casino^
 ||pinco-255.casino^
@@ -74503,7 +74498,6 @@
 ||pokerbankroll.ai^
 ||pokerbankrollmanager.app^
 ||pokerbarswitch.com^
-||pokerbasecamp.com^
 ||pokerbazi.app^
 ||pokerbazi.poker^
 ||pokerbeet.pro^

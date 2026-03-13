@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 15:55 UTC
-# Version: 2026.0313.1555.11
+# Last modified: 13 Mar 2026 21:30 UTC
+# Version: 2026.0313.2130.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55332
+# Number of entries: 55329
 #
 local=/0.beer/
 local=/0.club/
@@ -47149,7 +47149,6 @@ local=/suslatitantrest.com/
 local=/suspectedadvisor.com/
 local=/suspectlensemphasis.com/
 local=/suspectplainrevulsion.com/
-local=/suspendedsocksaccordance.com/
 local=/suspendsymptom.com/
 local=/suspensionpersonwand.com/
 local=/suspicionshutnutshell.com/
@@ -47365,7 +47364,6 @@ local=/swyrhoosbcin.com/
 local=/sx444.com/
 local=/sx47.com/
 local=/sx918.cn/
-local=/sxdcpa.com/
 local=/sxdfhgniwzxzc.space/
 local=/sxdsvaicpjnzg.website/
 local=/sxe.jp/
@@ -48331,7 +48329,6 @@ local=/thoughtwire.tech/
 local=/thouptoorg.com/
 local=/thousandfixedlyyawn.com/
 local=/aa.thousedorism.com/
-local=/thozailrooth.net/
 local=/threatassessments.net/
 local=/threatdetect.org/
 local=/sz.threatsjuggled.top/

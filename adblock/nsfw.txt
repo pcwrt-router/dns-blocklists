@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Mar 2026 17:38 UTC
-! Version: 2026.0313.1738.48
+! Last modified: 13 Mar 2026 22:58 UTC
+! Version: 2026.0313.2258.39
 ! Syntax: AdBlock
-! Number of entries: 74051
+! Number of entries: 74061
 !
 ||0-xxxv.site^
 ||000-xxx-video.online^
@@ -9526,6 +9526,7 @@
 ||bms-itd.com^
 ||bmsexports.com^
 ||bmygf.com^
+||bmzx8.cyou^
 ||bnewporn.com^
 ||bngayrimenkul.com^
 ||bnhkb-b0z4m-hgayex.work^
@@ -15035,6 +15036,7 @@
 ||combesexpertise.fr^
 ||combine-project.eu^
 ||comdotgame.com^
+||come-with-dyddy.top^
 ||comein18.com^
 ||comeinside.com^
 ||cometdry.com^
@@ -22301,6 +22303,7 @@
 ||filmizle720pizle.live^
 ||filmizleyiniz5.cc^
 ||filmjepang.cc^
+||filmkovasi.live^
 ||filmlinks4u.guru^
 ||filmnudes.com^
 ||filmoclips.net^
@@ -26060,6 +26063,7 @@
 ||gdnmobilelab.com^
 ||gdocxxx.com^
 ||gdrln.com^
+||gdxyty.cn^
 ||ge70.com^
 ||geant-cantin.com^
 ||gedankensex.de^
@@ -27126,6 +27130,7 @@
 ||bdris.gov.bd^
 ||betar.gov.bd^
 ||bjsc.gov.bd^
+||bmeb.gov.bd^
 ||bpsc.gov.bd^
 ||bteb.gov.bd^
 ||btebadmission.gov.bd^
@@ -28401,6 +28406,7 @@
 ||hdwetpussy.com^
 ||hdxaltyazi.cam^
 ||hdxaltyazi13.cfd^
+||hdxaltyazi4.cam^
 ||hdxaltyazi8.cfd^
 ||hdxfuck.com^
 ||hdxnxx.cc^
@@ -30889,6 +30895,7 @@
 ||hytto.com^
 ||hytxxx.top^
 ||hyxx031.cc^
+||hyxx032.cc^
 ||hyxx033.cc^
 ||hz-hentai.com^
 ||hz-okx.com^
@@ -33974,6 +33981,7 @@
 ||jslypxxx.com^
 ||jspermanentmakeup.pl^
 ||jssex.com^
+||jsyh4.skin^
 ||jsyxxx.com^
 ||jtcvideo.com^
 ||jtkiff.com^
@@ -35391,7 +35399,6 @@
 ||labporn.cc^
 ||labporn.in^
 ||labporn.info^
-||labporn.me^
 ||labporn.org^
 ||labporntube.com^
 ||labs-pornolabs.ru^
@@ -39818,6 +39825,7 @@
 ||mmgranitesexports.com^
 ||mmgtransexpress.com^
 ||mmhdhub.com^
+||mmhh.pro^
 ||mmhsp8.fit^
 ||mmiillff.com^
 ||mmk0.com^
@@ -40810,6 +40818,7 @@
 ||my-cima.app^
 ||my-cima.net^
 ||my-cima.pro^
+||my-cimaa.store^
 ||my-creative.ru^
 ||my-gay-sites.com^
 ||my-homo.net^
@@ -53555,7 +53564,6 @@
 ||rupornohd.net^
 ||rupornohds.xyz^
 ||rupornohub.ru^
-||rupornotube.com^
 ||rus-ozvuchka.ru^
 ||rus-porno.com^
 ||rus-sex.top^
@@ -72907,6 +72915,7 @@
 ||yalla-shoo.site^
 ||yalla-shoot-live.biz^
 ||yalla-shoot-tv.sbs^
+||yallagoal.one^
 ||yallakora.one^
 ||yallakora.space^
 ||yallakora-tv.online^
@@ -73758,6 +73767,7 @@
 ||zjnxxx.com^
 ||zjsexrv.cc^
 ||zjuzdme.org^
+||zjxx01.com^
 ||zkwu.buzz^
 ||zlobix.gay^
 ||zlovedoll.com^

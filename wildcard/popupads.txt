@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 15:55 UTC
-# Version: 2026.0313.1555.11
+# Last modified: 13 Mar 2026 21:30 UTC
+# Version: 2026.0313.2130.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55332
+# Number of entries: 55329
 #
 *.0.beer
 *.0.club
@@ -47149,7 +47149,6 @@
 *.suspectedadvisor.com
 *.suspectlensemphasis.com
 *.suspectplainrevulsion.com
-*.suspendedsocksaccordance.com
 *.suspendsymptom.com
 *.suspensionpersonwand.com
 *.suspicionshutnutshell.com
@@ -47365,7 +47364,6 @@
 *.sx444.com
 *.sx47.com
 *.sx918.cn
-*.sxdcpa.com
 *.sxdfhgniwzxzc.space
 *.sxdsvaicpjnzg.website
 *.sxe.jp
@@ -48331,7 +48329,6 @@
 *.thouptoorg.com
 *.thousandfixedlyyawn.com
 *.aa.thousedorism.com
-*.thozailrooth.net
 *.threatassessments.net
 *.threatdetect.org
 *.sz.threatsjuggled.top

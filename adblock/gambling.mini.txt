@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Mar 2026 16:07 UTC
-! Version: 2026.0313.1607.18
+! Last modified: 13 Mar 2026 22:56 UTC
+! Version: 2026.0313.2256.15
 ! Syntax: AdBlock
-! Number of entries: 48964
+! Number of entries: 48966
 !
 ||0-casino.com^
 ||000-online-casino.com^
@@ -16641,6 +16641,7 @@
 ||luckynumbers247.co.za^
 ||luckywins-casino.co.uk^
 ||lulabet.co.za^
+||luy.co.uk^
 ||malcolmmacdonald.co.uk^
 ||manaakipokerunion.co.nz^
 ||marathonbet.co.uk^
@@ -31827,6 +31828,7 @@
 ||millionzcasinos.app^
 ||millionzcasinoss.com^
 ||millionzs.casino^
+||millionzs.com^
 ||millionzscasinos.com^
 ||millioraireslots.shop^
 ||milloncasino.net^

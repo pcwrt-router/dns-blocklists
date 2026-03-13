@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 16:07 UTC
-# Version: 2026.0313.1607.18
+# Last modified: 13 Mar 2026 22:56 UTC
+# Version: 2026.0313.2256.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 48964
+# Number of entries: 48966
 #
 local=/0-casino.com/
 local=/000-online-casino.com/
@@ -16640,6 +16640,7 @@ local=/luckymistercasino.co.uk/
 local=/luckynumbers247.co.za/
 local=/luckywins-casino.co.uk/
 local=/lulabet.co.za/
+local=/luy.co.uk/
 local=/malcolmmacdonald.co.uk/
 local=/manaakipokerunion.co.nz/
 local=/marathonbet.co.uk/
@@ -31826,6 +31827,7 @@ local=/millionzcasinoo.com/
 local=/millionzcasinos.app/
 local=/millionzcasinoss.com/
 local=/millionzs.casino/
+local=/millionzs.com/
 local=/millionzscasinos.com/
 local=/millioraireslots.shop/
 local=/milloncasino.net/

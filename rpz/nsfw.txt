@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773423480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773442680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 17:38 UTC
-; Version: 2026.0313.1738.48
+; Last modified: 13 Mar 2026 22:58 UTC
+; Version: 2026.0313.2258.39
 ; Syntax: RPZ
-; Number of entries: 148102
+; Number of entries: 148122
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -1912,6 +1912,8 @@ betar.gov.bd CNAME .
 *.betar.gov.bd CNAME .
 bjsc.gov.bd CNAME .
 *.bjsc.gov.bd CNAME .
+bmeb.gov.bd CNAME .
+*.bmeb.gov.bd CNAME .
 bpsc.gov.bd CNAME .
 *.bpsc.gov.bd CNAME .
 bteb.gov.bd CNAME .
@@ -5786,6 +5788,8 @@ hdporno.cam CNAME .
 *.hdporno.cam CNAME .
 hdxaltyazi.cam CNAME .
 *.hdxaltyazi.cam CNAME .
+hdxaltyazi4.cam CNAME .
+*.hdxaltyazi4.cam CNAME .
 heisgay.cam CNAME .
 *.heisgay.cam CNAME .
 heosex.cam CNAME .
@@ -6806,6 +6810,8 @@ hxxxqnfs.cc CNAME .
 *.hxxxqnfs.cc CNAME .
 hyxx031.cc CNAME .
 *.hyxx031.cc CNAME .
+hyxx032.cc CNAME .
+*.hyxx032.cc CNAME .
 hyxx033.cc CNAME .
 *.hyxx033.cc CNAME .
 in3x.cc CNAME .
@@ -11216,6 +11222,8 @@ lvzuiba.com.cn CNAME .
 *.lvzuiba.com.cn CNAME .
 fuyijt.cn CNAME .
 *.fuyijt.cn CNAME .
+gdxyty.cn CNAME .
+*.gdxyty.cn CNAME .
 hdim.cn CNAME .
 *.hdim.cn CNAME .
 hnxxxf.cn CNAME .
@@ -67752,8 +67760,6 @@ rupertxtube.com CNAME .
 *.rupertxtube.com CNAME .
 ruporno21.com CNAME .
 *.ruporno21.com CNAME .
-rupornotube.com CNAME .
-*.rupornotube.com CNAME .
 rus-porno.com CNAME .
 *.rus-porno.com CNAME .
 rus-xnxx.com CNAME .
@@ -87986,6 +87992,8 @@ zjmgs2026.com CNAME .
 *.zjmgs2026.com CNAME .
 zjnxxx.com CNAME .
 *.zjnxxx.com CNAME .
+zjxx01.com CNAME .
+*.zjxx01.com CNAME .
 zlovedoll.com CNAME .
 *.zlovedoll.com CNAME .
 zlut.com CNAME .
@@ -88448,6 +88456,8 @@ baddaddy.cyou CNAME .
 *.baddaddy.cyou CNAME .
 banhtetngaytetngon.cyou CNAME .
 *.banhtetngaytetngon.cyou CNAME .
+bmzx8.cyou CNAME .
+*.bmzx8.cyou CNAME .
 bookclassexperts.cyou CNAME .
 *.bookclassexperts.cyou CNAME .
 briksexc.cyou CNAME .
@@ -103208,6 +103218,8 @@ filmexxxgratis.live CNAME .
 *.filmexxxgratis.live CNAME .
 filmizle720pizle.live CNAME .
 *.filmizle720pizle.live CNAME .
+filmkovasi.live CNAME .
+*.filmkovasi.live CNAME .
 filmporno.live CNAME .
 *.filmporno.live CNAME .
 findcams.live CNAME .
@@ -104798,8 +104810,6 @@ kompoz.me CNAME .
 *.kompoz.me CNAME .
 kuni.me CNAME .
 *.kuni.me CNAME .
-labporn.me CNAME .
-*.labporn.me CNAME .
 lacoba.me CNAME .
 *.lacoba.me CNAME .
 lanabee.me CNAME .
@@ -116768,6 +116778,8 @@ xxxgay.one CNAME .
 *.xxxgay.one CNAME .
 xxxvideo.one CNAME .
 *.xxxvideo.one CNAME .
+yallagoal.one CNAME .
+*.yallagoal.one CNAME .
 yallakora.one CNAME .
 *.yallakora.one CNAME .
 yaporn.one CNAME .
@@ -125558,6 +125570,8 @@ milfxteen.pro CNAME .
 *.milfxteen.pro CNAME .
 mlyuk.pro CNAME .
 *.mlyuk.pro CNAME .
+mmhh.pro CNAME .
+*.mmhh.pro CNAME .
 momdidporn.pro CNAME .
 *.momdidporn.pro CNAME .
 momxvideos.pro CNAME .
@@ -133998,6 +134012,8 @@ jav.skin CNAME .
 *.jav.skin CNAME .
 jp91av8.skin CNAME .
 *.jp91av8.skin CNAME .
+jsyh4.skin CNAME .
+*.jsyh4.skin CNAME .
 mydesi.skin CNAME .
 *.mydesi.skin CNAME .
 porngay.skin CNAME .
@@ -134666,6 +134682,8 @@ mistresssexymae.store CNAME .
 *.mistresssexymae.store CNAME .
 moviesmod.store CNAME .
 *.moviesmod.store CNAME .
+my-cimaa.store CNAME .
+*.my-cimaa.store CNAME .
 mysex.store CNAME .
 *.mysex.store CNAME .
 mysexobjet.store CNAME .
@@ -136088,6 +136106,8 @@ classicsex.top CNAME .
 *.classicsex.top CNAME .
 collegetube.top CNAME .
 *.collegetube.top CNAME .
+come-with-dyddy.top CNAME .
+*.come-with-dyddy.top CNAME .
 copro-bro6.top CNAME .
 *.copro-bro6.top CNAME .
 copro-porno8.top CNAME .

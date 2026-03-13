@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 17:38 UTC
-# Version: 2026.0313.1738.48
+# Last modified: 13 Mar 2026 22:58 UTC
+# Version: 2026.0313.2258.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 74051
+# Number of entries: 74061
 #
 local=/0-xxxv.site/
 local=/000-xxx-video.online/
@@ -9525,6 +9525,7 @@ local=/bmodels.site/
 local=/bms-itd.com/
 local=/bmsexports.com/
 local=/bmygf.com/
+local=/bmzx8.cyou/
 local=/bnewporn.com/
 local=/bngayrimenkul.com/
 local=/bnhkb-b0z4m-hgayex.work/
@@ -15034,6 +15035,7 @@ local=/combatporn.com/
 local=/combesexpertise.fr/
 local=/combine-project.eu/
 local=/comdotgame.com/
+local=/come-with-dyddy.top/
 local=/comein18.com/
 local=/comeinside.com/
 local=/cometdry.com/
@@ -22300,6 +22302,7 @@ local=/filmikiporno.tv/
 local=/filmizle720pizle.live/
 local=/filmizleyiniz5.cc/
 local=/filmjepang.cc/
+local=/filmkovasi.live/
 local=/filmlinks4u.guru/
 local=/filmnudes.com/
 local=/filmoclips.net/
@@ -26059,6 +26062,7 @@ local=/gdlescort.com/
 local=/gdnmobilelab.com/
 local=/gdocxxx.com/
 local=/gdrln.com/
+local=/gdxyty.cn/
 local=/ge70.com/
 local=/geant-cantin.com/
 local=/gedankensex.de/
@@ -27125,6 +27129,7 @@ local=/banbeis.gov.bd/
 local=/bdris.gov.bd/
 local=/betar.gov.bd/
 local=/bjsc.gov.bd/
+local=/bmeb.gov.bd/
 local=/bpsc.gov.bd/
 local=/bteb.gov.bd/
 local=/btebadmission.gov.bd/
@@ -28400,6 +28405,7 @@ local=/hdtwink.com/
 local=/hdwetpussy.com/
 local=/hdxaltyazi.cam/
 local=/hdxaltyazi13.cfd/
+local=/hdxaltyazi4.cam/
 local=/hdxaltyazi8.cfd/
 local=/hdxfuck.com/
 local=/hdxnxx.cc/
@@ -30888,6 +30894,7 @@ local=/hystericalliterature.com/
 local=/hytto.com/
 local=/hytxxx.top/
 local=/hyxx031.cc/
+local=/hyxx032.cc/
 local=/hyxx033.cc/
 local=/hz-hentai.com/
 local=/hz-okx.com/
@@ -33973,6 +33980,7 @@ local=/jsjprod.com/
 local=/jslypxxx.com/
 local=/jspermanentmakeup.pl/
 local=/jssex.com/
+local=/jsyh4.skin/
 local=/jsyxxx.com/
 local=/jtcvideo.com/
 local=/jtkiff.com/
@@ -35390,7 +35398,6 @@ local=/laboutique.vip/
 local=/labporn.cc/
 local=/labporn.in/
 local=/labporn.info/
-local=/labporn.me/
 local=/labporn.org/
 local=/labporntube.com/
 local=/labs-pornolabs.ru/
@@ -39817,6 +39824,7 @@ local=/mmfporn.com/
 local=/mmgranitesexports.com/
 local=/mmgtransexpress.com/
 local=/mmhdhub.com/
+local=/mmhh.pro/
 local=/mmhsp8.fit/
 local=/mmiillff.com/
 local=/mmk0.com/
@@ -40809,6 +40817,7 @@ local=/my-cim.best/
 local=/my-cima.app/
 local=/my-cima.net/
 local=/my-cima.pro/
+local=/my-cimaa.store/
 local=/my-creative.ru/
 local=/my-gay-sites.com/
 local=/my-homo.net/
@@ -53554,7 +53563,6 @@ local=/rupornohd.fun/
 local=/rupornohd.net/
 local=/rupornohds.xyz/
 local=/rupornohub.ru/
-local=/rupornotube.com/
 local=/rus-ozvuchka.ru/
 local=/rus-porno.com/
 local=/rus-sex.top/
@@ -72906,6 +72914,7 @@ local=/yalla-shhoot.online/
 local=/yalla-shoo.site/
 local=/yalla-shoot-live.biz/
 local=/yalla-shoot-tv.sbs/
+local=/yallagoal.one/
 local=/yallakora.one/
 local=/yallakora.space/
 local=/yallakora-tv.online/
@@ -73757,6 +73766,7 @@ local=/zjmgs2026.com/
 local=/zjnxxx.com/
 local=/zjsexrv.cc/
 local=/zjuzdme.org/
+local=/zjxx01.com/
 local=/zkwu.buzz/
 local=/zlobix.gay/
 local=/zlovedoll.com/
