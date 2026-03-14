@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773399480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773485700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 10:58 UTC
-; Version: 2026.0313.1058.16
+; Last modified: 14 Mar 2026 10:55 UTC
+; Version: 2026.0314.1055.23
 ; Syntax: RPZ
-; Number of entries: 24262
+; Number of entries: 24258
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -386,8 +386,6 @@ tracker.frontalweb.com.ar CNAME .
 *.tracker.frontalweb.com.ar CNAME .
 trackerx.com.ar CNAME .
 *.trackerx.com.ar CNAME .
-123movies.archi CNAME .
-*.123movies.archi CNAME .
 eurostreaming.archi CNAME .
 *.eurostreaming.archi CNAME .
 filmoflix.archi CNAME .
@@ -2808,8 +2806,6 @@ tracker.0x7c0.com CNAME .
 *.123-hd.com CNAME .
 123-movies.com CNAME .
 *.123-movies.com CNAME .
-123hbo.com CNAME .
-*.123hbo.com CNAME .
 123hulu.com CNAME .
 *.123hulu.com CNAME .
 123moviefree4u.com CNAME .

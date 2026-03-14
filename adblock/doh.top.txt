@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Mar 2026 16:52 UTC
-! Version: 2026.0310.1652.03
+! Last modified: 14 Mar 2026 11:01 UTC
+! Version: 2026.0314.1101.09
 ! Syntax: AdBlock
 ! Number of entries: 1133
 !
@@ -20,7 +20,6 @@
 ||dns.13evl.com^
 ||httpdns.music.163.com^
 ||doh.18bit.cn^
-||cloud.198.games^
 ||1and1-dns.de^
 ||233py.com^
 ||dns.240527.xyz^
@@ -586,6 +585,7 @@
 ||http-dns.imoim.net^
 ||imperio.top^
 ||dns1.in-berlin.de^
+||dns2.in-berlin.de^
 ||dns.inforlogia.com^
 ||apidns.kwd.inkuai.com^
 ||httpdns.kwd.inkuai.com^

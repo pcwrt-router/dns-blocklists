@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Mar 2026 05:02 UTC
-! Version: 2026.0314.0502.22
+! Last modified: 14 Mar 2026 11:01 UTC
+! Version: 2026.0314.1101.19
 ! Syntax: AdBlock
-! Number of entries: 16874
+! Number of entries: 16873
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -131,7 +131,6 @@
 ||adguard.19151120.xyz^
 ||1929.work^
 ||vps.19790307.xyz^
-||cloud.198.games^
 ||1aclash.com^
 ||1and1-dns.de^
 ||weloverobert.1ax.us^

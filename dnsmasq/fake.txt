@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 03:32 UTC
-# Version: 2026.0314.0332.43
+# Last modified: 14 Mar 2026 09:33 UTC
+# Version: 2026.0314.0933.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14482
+# Number of entries: 14488
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -520,6 +520,7 @@ local=/amperland-brennholz.de/
 local=/ampersandonlines.com/
 local=/amplearctic.com/
 local=/amsterdam-nl.com/
+local=/amsterdamout.store/
 local=/amt-wankendorf.de/
 local=/amundiaicrypto.com/
 local=/amuseliebe.at/
@@ -893,6 +894,7 @@ local=/autohausberg-gmbh.de/
 local=/autohausbismuth.de/
 local=/autohausvacha.de/
 local=/autoingenieurbereich.com/
+local=/autoinnendesign.com/
 local=/autoled.tech/
 local=/autolinie.de/
 local=/automaticl.com/
@@ -1023,6 +1025,7 @@ local=/badespielzeugstore.com/
 local=/badhaushalt.com/
 local=/badundheizungshop.de/
 local=/badzubehorrabatt.com/
+local=/baer--schuhe.com/
 local=/baerliner-apotheke-berlin-marzahn.de/
 local=/de.baerskinhoodie.com/
 local=/baffindeutschland.com/
@@ -4412,6 +4415,7 @@ local=/figuredart.shop/
 local=/figurenverkauf.com/
 local=/figurinestoys.com/
 local=/filamniceent.com/
+local=/fillamoda.com/
 local=/fillethumn.com/
 local=/fillinger.shop/
 local=/filloutlet.com/
@@ -6719,6 +6723,7 @@ local=/jb7img.top/
 local=/jbl-deutschland.de/
 local=/adl.jccjm.shop/
 local=/jclaysocken.com/
+local=/jdbanli.com/
 local=/jdbr-investissements.com/
 local=/jdflmportexport.de/
 local=/je-decouvre.fr/
@@ -8871,6 +8876,7 @@ local=/musikinstrumente-profi.com/
 local=/musiknotenmarkt.com/
 local=/musikstrings.com/
 local=/musikwelt-lindner.de/
+local=/musiqueonline.com/
 local=/mustang-parts-shop.de/
 local=/musthavecycle.com/
 local=/muttermode.de/
@@ -9034,6 +9040,7 @@ local=/myskins.co/
 local=/mysolution24.de/
 local=/mysozialservix.com/
 local=/myspiritualss.shop/
+local=/myspirituosen.com/
 local=/mytester.org/
 local=/price.mytestopay.com/
 local=/sportlife.mytestopay.com/
@@ -14090,7 +14097,6 @@ local=/wirberlin.com/
 local=/wirkotsch-tech.de/
 local=/wisatareligi.com/
 local=/wisdomandprudence.net/
-local=/wise-guys-consulting.de/
 local=/wisebanc.com/
 local=/wisevests.com/
 local=/witeanerly.com/

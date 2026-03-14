@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 05:01 UTC
-# Version: 2026.0314.0501.32
+# Last modified: 14 Mar 2026 11:00 UTC
+# Version: 2026.0314.1100.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3523
+# Number of entries: 3522
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -50,7 +50,6 @@ local=/hk2.1833015459.site/
 local=/doh.18bit.cn/
 local=/adguard.19151120.xyz/
 local=/vps.19790307.xyz/
-local=/cloud.198.games/
 local=/1and1-dns.de/
 local=/1ee.top/
 local=/vpn.1xtrm.com/

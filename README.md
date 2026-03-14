@@ -54,11 +54,11 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 136479<br>72790     |  |   |   | :green_circle:  |  | |  :yellow_square: | :yellow_square: | |
-| :blue_book:[Normal](#normal)       | 304309<br>150438     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 400195<br>192287         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 480307<br>240607 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 541904<br>283535 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :green_book:[Light](#light)             | 135004<br>71027     |  |   |   | :green_circle:  |  | |  :yellow_square: | :yellow_square: | |
+| :blue_book:[Normal](#normal)       | 300327<br>147663     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
+| :ledger:[Pro](#pro)              | 389676<br>186164         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 467848<br>232857 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 529474<br>275806 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -89,7 +89,7 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 > [!IMPORTANT]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 136479 domains/hosts - 15165 compressed hosts - 72790 compressed domains
+**Entries:** 135004 domains/hosts - 15001 compressed hosts - 71027 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -114,7 +114,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 > [!IMPORTANT]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 304309 domains/hosts - 33813 compressed hosts - 150438 compressed domains
+**Entries:** 300327 domains/hosts - 33370 compressed hosts - 147663 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -135,7 +135,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 > **Blocking type:** Balanced            
 > This list version should only very rarely lead to restrictions. It is suitable for environments where there is an admin nearby who can unblock something. My personal recommendation for mostly problem-free adblocking with good privacy protection.
 
-**Entries:** 400195 domains/hosts - 44467 compressed hosts - 192287 compressed domains
+**Entries:** 389676 domains/hosts - 43298 compressed hosts - 186164 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -152,7 +152,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 82929 compressed domains
+**Entries:** 81187 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -174,7 +174,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > **Referral domains (affiliate and tracking links):**           
 > A few referral domains that also function as normal trackers are blocked. For further details see: [Referral domains](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
-**Entries:** 480307 domains/hosts - 53368 compressed hosts - 240607 compressed domains
+**Entries:** 467848 domains/hosts - 51984 compressed hosts - 232857 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -191,7 +191,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro++ full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 115305 compressed domains
+**Entries:** 111929 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -225,7 +225,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
-**Entries:** 541904 domains/hosts - 60212 compressed hosts - 283535 compressed domains
+**Entries:** 529474 domains/hosts - 58831 compressed hosts - 275806 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -242,7 +242,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Ultimate full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 126125 compressed domains
+**Entries:** 122760 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -264,7 +264,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 14482 compressed domains
+**Entries:** 14488 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -286,7 +286,7 @@ A blocklist for annoying and malicious pop-up ads.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 55326 compressed domains
+**Entries:** 55299 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -312,7 +312,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 > This blocklist is very large and may cause high memory usage depending on your ad blocker.          
 > For a more resource-friendly option, consider using the medium or mini versions.
                
-**Entries:** 789699 domains/hosts - 87745 compressed hosts - 711293 compressed domains
+**Entries:** 781186 domains/hosts - 86799 compressed hosts - 702571 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -335,7 +335,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 341048 compressed domains
+**Entries:** 340043 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -355,7 +355,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 151095 compressed domains
+**Entries:** 150380 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -394,17 +394,17 @@ Two variants are available:
 > Stamus Labs do not guarantee daily updates, and in some cases, data may be delayed by several days.            
 >               
 > Current status of the data provided:
-> - Stamus Labs: :green_circle: - Sat, 14 Mar 2026 04:57:56 UTC / 8920692 domains                
+> - Stamus Labs: :green_circle: - Sat, 14 Mar 2026 04:57:56 UTC / 8944080 domains                
                    
 #### :new: **NRDs:** Include all newly registered domains     
 
 | Time<br>period | Entries | Format<br>AdBlock | Format<br>Domains |         
 |:--------------:|:--------|:-----------------:|:-----------------:|
-| 7 days ago to yesterday    | 2183289 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd7.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd7.txt) |
-| 14 days ago to 8 days ago  | 2509923 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd14-8.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd14-8.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd14-8.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd14-8.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd14-8.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd14-8.txt) |
-| 21 days ago to 15 days ago | 2147194 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd21-15.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd21-15.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd21-15.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd21-15.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd21-15.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd21-15.txt) |
-| 28 days ago to 22 days ago | 2042403 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd28-22.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd28-22.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd28-22.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd28-22.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt) |
-| 35 days ago to 29 days ago | 2139993 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd35-29.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd35-29.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd35-29.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd35-29.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd35-29.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd35-29.txt) |
+| 7 days ago to yesterday    | 2552581 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd7.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd7.txt) |
+| 14 days ago to 8 days ago  | 2509515 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd14-8.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd14-8.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd14-8.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd14-8.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd14-8.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd14-8.txt) |
+| 21 days ago to 15 days ago | 2146504 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd21-15.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd21-15.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd21-15.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd21-15.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd21-15.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd21-15.txt) |
+| 28 days ago to 22 days ago | 2042204 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd28-22.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd28-22.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd28-22.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd28-22.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt) |
+| 35 days ago to 29 days ago | 2139553 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd35-29.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd35-29.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd35-29.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd35-29.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd35-29.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd35-29.txt) |
              
 > [!NOTE]
 > To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
@@ -420,9 +420,9 @@ Two variants are available:
                     
 | Time<br>period | Entries | Format<br>AdBlock | Format<br>Domains |         
 |:--------------:|:--------|:-----------------:|:-----------------:|
-| Past 7 days    | 525560 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/dga7.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga7.txt) |
-| Past 14 days   | 1114485 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga14.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga14.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/dga14.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga14.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga14.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga14.txt) |
-| Past 30 days   | 2324497 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga30.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga30.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/dga30.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga30.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga30.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga30.txt) |
+| Past 7 days    | 527672 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/dga7.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga7.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga7.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga7.txt) |
+| Past 14 days   | 1107561 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga14.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga14.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/dga14.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga14.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga14.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga14.txt) |
+| Past 30 days   | 2330911 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga30.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga30.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/dga30.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga30.txt) [M1](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga30.txt) [M2](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga30.txt) |
 
 ---
 
@@ -443,7 +443,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 16874 compressed domains
+**Entries:** 16873 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -461,7 +461,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 3999 domains/hosts - 445 compressed hosts - 3523 compressed domains
+**Entries:** 3998 domains/hosts - 445 compressed hosts - 3522 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -643,7 +643,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 12131 compressed domains
+**Entries:** 12129 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -665,7 +665,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 207573 compressed domains
+**Entries:** 205527 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -685,7 +685,7 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 99571 compressed domains
+**Entries:** 97538 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -705,7 +705,7 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 48963 compressed domains
+**Entries:** 45840 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -752,7 +752,7 @@ Blocks adult content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 74061 compressed domains
+**Entries:** 73660 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

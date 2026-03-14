@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773464520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773486060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Mar 2026 05:02 UTC
-; Version: 2026.0314.0502.22
+; Last modified: 14 Mar 2026 11:01 UTC
+; Version: 2026.0314.1101.19
 ; Syntax: RPZ
-; Number of entries: 33748
+; Number of entries: 33746
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -17597,8 +17597,6 @@ ikuuu.fyi CNAME .
 *.ikuuu.fyi CNAME .
 greenhubtx.ga CNAME .
 *.greenhubtx.ga CNAME .
-cloud.198.games CNAME .
-*.cloud.198.games CNAME .
 zkit.above.gay CNAME .
 *.zkit.above.gay CNAME .
 rammerhead.is-confirmed.gay CNAME .

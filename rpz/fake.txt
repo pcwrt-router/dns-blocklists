@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773459120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773480780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Mar 2026 03:32 UTC
-; Version: 2026.0314.0332.43
+; Last modified: 14 Mar 2026 09:33 UTC
+; Version: 2026.0314.0933.50
 ; Syntax: RPZ
-; Number of entries: 28964
+; Number of entries: 28976
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2712,6 +2712,8 @@ autoglobalshipping.com CNAME .
 *.autoglobalshipping.com CNAME .
 autoingenieurbereich.com CNAME .
 *.autoingenieurbereich.com CNAME .
+autoinnendesign.com CNAME .
+*.autoinnendesign.com CNAME .
 automaticl.com CNAME .
 *.automaticl.com CNAME .
 automatiy.com CNAME .
@@ -2876,6 +2878,8 @@ badhaushalt.com CNAME .
 *.badhaushalt.com CNAME .
 badzubehorrabatt.com CNAME .
 *.badzubehorrabatt.com CNAME .
+baer--schuhe.com CNAME .
+*.baer--schuhe.com CNAME .
 de.baerskinhoodie.com CNAME .
 *.de.baerskinhoodie.com CNAME .
 baffindeutschland.com CNAME .
@@ -6786,6 +6790,8 @@ figurinestoys.com CNAME .
 *.figurinestoys.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
+fillamoda.com CNAME .
+*.fillamoda.com CNAME .
 fillethumn.com CNAME .
 *.fillethumn.com CNAME .
 filloutlet.com CNAME .
@@ -9308,6 +9314,8 @@ jazzzcity.com CNAME .
 *.jazzzcity.com CNAME .
 jclaysocken.com CNAME .
 *.jclaysocken.com CNAME .
+jdbanli.com CNAME .
+*.jdbanli.com CNAME .
 jdbr-investissements.com CNAME .
 *.jdbr-investissements.com CNAME .
 jean-weis.com CNAME .
@@ -11530,6 +11538,8 @@ musiknotenmarkt.com CNAME .
 *.musiknotenmarkt.com CNAME .
 musikstrings.com CNAME .
 *.musikstrings.com CNAME .
+musiqueonline.com CNAME .
+*.musiqueonline.com CNAME .
 musthavecycle.com CNAME .
 *.musthavecycle.com CNAME .
 muvastore.com CNAME .
@@ -11810,6 +11820,8 @@ uggonline.myshoplaza.com CNAME .
 *.uggonline.myshoplaza.com CNAME .
 mysozialservix.com CNAME .
 *.mysozialservix.com CNAME .
+myspirituosen.com CNAME .
+*.myspirituosen.com CNAME .
 price.mytestopay.com CNAME .
 *.price.mytestopay.com CNAME .
 sportlife.mytestopay.com CNAME .
@@ -24658,8 +24670,6 @@ winterkraft.de CNAME .
 *.winterkraft.de CNAME .
 wirkotsch-tech.de CNAME .
 *.wirkotsch-tech.de CNAME .
-wise-guys-consulting.de CNAME .
-*.wise-guys-consulting.de CNAME .
 witten-berg.de CNAME .
 *.witten-berg.de CNAME .
 wiv-verwertung.de CNAME .
@@ -28236,6 +28246,8 @@ alltoys.store CNAME .
 *.alltoys.store CNAME .
 alltv.store CNAME .
 *.alltv.store CNAME .
+amsterdamout.store CNAME .
+*.amsterdamout.store CNAME .
 annen.store CNAME .
 *.annen.store CNAME .
 barben.store CNAME .

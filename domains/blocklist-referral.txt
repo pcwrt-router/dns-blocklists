@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 09:19 UTC
-# Version: 2026.0313.0919.55
+# Last modified: 14 Mar 2026 09:19 UTC
+# Version: 2026.0314.0919.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1944
+# Number of entries: 1949
 #
 1-aclk.net
 1aurl.io
@@ -253,6 +253,7 @@ seu.cleverreach.com
 34164.seu.cleverreach.com
 341764.seu.cleverreach.com
 36427.seu.cleverreach.com
+37135.seu.cleverreach.com
 8437.seu.cleverreach.com
 8820.seu.cleverreach.com
 seu1.cleverreach.com
@@ -328,6 +329,7 @@ seu2.cleverreach.com
 248553.seu2.cleverreach.com
 251048.seu2.cleverreach.com
 256546.seu2.cleverreach.com
+259440.seu2.cleverreach.com
 262397.seu2.cleverreach.com
 267821.seu2.cleverreach.com
 268990.seu2.cleverreach.com
@@ -358,6 +360,7 @@ seu2.cleverreach.com
 372230.seu2.cleverreach.com
 382058.seu2.cleverreach.com
 393666.seu2.cleverreach.com
+394092.seu2.cleverreach.com
 394250.seu2.cleverreach.com
 415753.seu2.cleverreach.com
 426304.seu2.cleverreach.com
@@ -1026,6 +1029,7 @@ group0.sites.hscoscdn-eu1.net
 143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
+145642586.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
@@ -1409,6 +1413,7 @@ mkto-sj200191.com
 mkto-sj200192.com
 mkto-sj200201.com
 mkto-sj200229.com
+mkto-sj210057.com
 mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240021.com

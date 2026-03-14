@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 05:01 UTC
-# Version: 2026.0314.0501.32
+# Last modified: 14 Mar 2026 11:00 UTC
+# Version: 2026.0314.1100.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3999
+# Number of entries: 3998
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -56,7 +56,6 @@
 0.0.0.0 doh.18bit.cn
 0.0.0.0 adguard.19151120.xyz
 0.0.0.0 vps.19790307.xyz
-0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
 0.0.0.0 1ee.top
 0.0.0.0 www.1ee.top

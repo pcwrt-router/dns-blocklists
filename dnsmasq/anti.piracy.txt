@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 10:58 UTC
-# Version: 2026.0313.1058.16
+# Last modified: 14 Mar 2026 10:55 UTC
+# Version: 2026.0314.1055.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12131
+# Number of entries: 12129
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -95,7 +95,6 @@ local=/123files.club/
 local=/123fox.net/
 local=/123freemovies.net/
 local=/123freemovies.show/
-local=/123hbo.com/
 local=/123hulu.com/
 local=/123movie.blog/
 local=/123movie.cc/
@@ -107,7 +106,6 @@ local=/123moviefree.sbs/
 local=/123moviefree4u.com/
 local=/123moviehub.co/
 local=/123movies.ag/
-local=/123movies.archi/
 local=/123movies.bio/
 local=/123movies.coach/
 local=/123movies.com/
