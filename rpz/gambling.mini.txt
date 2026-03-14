@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773442560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773464100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 22:56 UTC
-; Version: 2026.0313.2256.15
+; Last modified: 14 Mar 2026 04:55 UTC
+; Version: 2026.0314.0455.36
 ; Syntax: RPZ
-; Number of entries: 97932
+; Number of entries: 97926
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -45674,8 +45674,6 @@ millionzcasinoo.com CNAME .
 *.millionzcasinoo.com CNAME .
 millionzcasinoss.com CNAME .
 *.millionzcasinoss.com CNAME .
-millionzs.com CNAME .
-*.millionzs.com CNAME .
 millionzscasinos.com CNAME .
 *.millionzscasinos.com CNAME .
 milosbetadres-casino.com CNAME .
@@ -75308,8 +75306,6 @@ gk88.onl CNAME .
 *.1xgames.online CNAME .
 1xslot-casino.online CNAME .
 *.1xslot-casino.online CNAME .
-21dukes-casinos.online CNAME .
-*.21dukes-casinos.online CNAME .
 22bet.online CNAME .
 *.22bet.online CNAME .
 22bet2.online CNAME .
@@ -92848,8 +92844,6 @@ luckymistercasino.co.uk CNAME .
 *.luckymistercasino.co.uk CNAME .
 luckywins-casino.co.uk CNAME .
 *.luckywins-casino.co.uk CNAME .
-luy.co.uk CNAME .
-*.luy.co.uk CNAME .
 malcolmmacdonald.co.uk CNAME .
 *.malcolmmacdonald.co.uk CNAME .
 marathonbet.co.uk CNAME .

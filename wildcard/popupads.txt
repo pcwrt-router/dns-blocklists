@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 21:30 UTC
-# Version: 2026.0313.2130.29
+# Last modified: 14 Mar 2026 03:30 UTC
+# Version: 2026.0314.0330.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55329
+# Number of entries: 55326
 #
 *.0.beer
 *.0.club
@@ -50040,7 +50040,6 @@
 *.ujdtnsgiagbxx.click
 *.xxa.uji8979erd77.jp
 *.ujscdn.com
-*.ujuzouxeltifoa.net
 *.ujw1y54r.fun
 *.ukankingwithea.com
 *.ukconomouswom.org
@@ -50887,7 +50886,6 @@
 *.vainspring.com
 *.vaintorixo.com
 *.vaipsona.com
-*.vaipsowhair.com
 *.vaitoasaut.net
 *.vak345.com
 *.valeenjoy.com
@@ -52207,7 +52205,6 @@
 *.wcmcs.net
 *.wcohtudcio.com
 *.wcpgtxpzhpdgy.website
-*.wcpmoh.com
 *.wct.link
 *.wctnode.top
 *.wcuggkuxfgutu.today

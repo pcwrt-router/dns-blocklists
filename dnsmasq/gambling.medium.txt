@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 22:54 UTC
-# Version: 2026.0313.2254.51
+# Last modified: 14 Mar 2026 04:53 UTC
+# Version: 2026.0314.0453.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 99572
+# Number of entries: 99571
 #
 local=/0-bets.com/
 local=/0-bets.net/
@@ -3987,7 +3987,6 @@ local=/21casinose.com/
 local=/21casinouk.com/
 local=/21d.casino/
 local=/21dukes.com/
-local=/21dukes-casinos.online/
 local=/21grandcasino.com/
 local=/21grandcasinonodeposit.click/
 local=/21grandcasinos.co/
@@ -14605,7 +14604,6 @@ local=/bayconticasino558.com/
 local=/bayconticasino559.com/
 local=/bayconticasino561.com/
 local=/bayconticasino562.com/
-local=/bayconticasino563.com/
 local=/bayconticasino564.com/
 local=/bayconticasino565.com/
 local=/bayconticasino567.com/
@@ -32959,7 +32957,6 @@ local=/lulabet.co.za/
 local=/lunarslotscasino.co.uk/
 local=/luxurycasinonz.co.nz/
 local=/luxurycasinouk.co.uk/
-local=/luy.co.uk/
 local=/mad-casino-gb.co.uk/
 local=/mad-slots-casino.co.uk/
 local=/madcasinoonline.co.uk/
@@ -51930,7 +51927,6 @@ local=/jackpoty-casino.fr/
 local=/jackpoty-casino.pl/
 local=/jackpoty-slots.ca/
 local=/jackpotycasifreespins.click/
-local=/jackpotycasino.bet/
 local=/jackpotycasino.fr/
 local=/jackpotycasino.pl/
 local=/jackpotycasino.sk/
@@ -62055,6 +62051,7 @@ local=/incognito-casino.me.uk/
 local=/independentcasinosnotongamstop.me.uk/
 local=/independentukcasinosites.me.uk/
 local=/instantcasino.me.uk/
+local=/instaspincasino.me.uk/
 local=/ivycasino.me.uk/
 local=/iwinfortunecasino.me.uk/
 local=/jackpoker.me.uk/
@@ -63562,7 +63559,6 @@ local=/millionzcasinose.com/
 local=/millionzcasinosfr.com/
 local=/millionzcasinoss.com/
 local=/millionzs.casino/
-local=/millionzs.com/
 local=/millionzscasino.org/
 local=/millionzscasinos.com/
 local=/millioraireslots.shop/
@@ -65329,6 +65325,7 @@ local=/mymobicasino.com/
 local=/mymoosie.com/
 local=/mynewcasino.com/
 local=/mynylottery.org/
+local=/myonlinecasino.online/
 local=/myonlinecasino.site/
 local=/myonlinepoker.com/
 local=/mypersonas.ca/
@@ -72225,6 +72222,7 @@ local=/pinco-1013.casino/
 local=/pinco-139.casino/
 local=/pinco-24.casino/
 local=/pinco-240.casino/
+local=/pinco-251.casino/
 local=/pinco-252.casino/
 local=/pinco-254.casino/
 local=/pinco-255.casino/
@@ -74497,6 +74495,7 @@ local=/pokerbank.online/
 local=/pokerbankroll.ai/
 local=/pokerbankrollmanager.app/
 local=/pokerbarswitch.com/
+local=/pokerbasecamp.com/
 local=/pokerbazi.app/
 local=/pokerbazi.poker/
 local=/pokerbeet.pro/

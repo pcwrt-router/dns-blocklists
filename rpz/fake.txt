@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773418680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773459120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 16:18 UTC
-; Version: 2026.0313.1618.50
+; Last modified: 14 Mar 2026 03:32 UTC
+; Version: 2026.0314.0332.43
 ; Syntax: RPZ
 ; Number of entries: 28964
 ;
@@ -24658,6 +24658,8 @@ winterkraft.de CNAME .
 *.winterkraft.de CNAME .
 wirkotsch-tech.de CNAME .
 *.wirkotsch-tech.de CNAME .
+wise-guys-consulting.de CNAME .
+*.wise-guys-consulting.de CNAME .
 witten-berg.de CNAME .
 *.witten-berg.de CNAME .
 wiv-verwertung.de CNAME .
@@ -28094,8 +28096,6 @@ ziyarafashion.shop CNAME .
 *.ziyarafashion.shop CNAME .
 zkort.shop CNAME .
 *.zkort.shop CNAME .
-zloae.shop CNAME .
-*.zloae.shop CNAME .
 zybux.shop CNAME .
 *.zybux.shop CNAME .
 all4tech.site CNAME .

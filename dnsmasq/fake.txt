@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 16:18 UTC
-# Version: 2026.0313.1618.50
+# Last modified: 14 Mar 2026 03:32 UTC
+# Version: 2026.0314.0332.43
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 14482
 #
@@ -14090,6 +14090,7 @@ local=/wirberlin.com/
 local=/wirkotsch-tech.de/
 local=/wisatareligi.com/
 local=/wisdomandprudence.net/
+local=/wise-guys-consulting.de/
 local=/wisebanc.com/
 local=/wisevests.com/
 local=/witeanerly.com/
@@ -14457,7 +14458,6 @@ local=/zivyastore.com/
 local=/ziyarafashion.shop/
 local=/ziyaratelaviv.com/
 local=/zkort.shop/
-local=/zloae.shop/
 local=/zodernus.com/
 local=/zofita.com/
 local=/ger.zoibakii.com/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Mar 2026 22:54 UTC
-! Version: 2026.0313.2254.51
+! Last modified: 14 Mar 2026 04:53 UTC
+! Version: 2026.0314.0453.50
 ! Syntax: AdBlock
-! Number of entries: 99572
+! Number of entries: 99571
 !
 ||0-bets.com^
 ||0-bets.net^
@@ -3988,7 +3988,6 @@
 ||21casinouk.com^
 ||21d.casino^
 ||21dukes.com^
-||21dukes-casinos.online^
 ||21grandcasino.com^
 ||21grandcasinonodeposit.click^
 ||21grandcasinos.co^
@@ -14606,7 +14605,6 @@
 ||bayconticasino559.com^
 ||bayconticasino561.com^
 ||bayconticasino562.com^
-||bayconticasino563.com^
 ||bayconticasino564.com^
 ||bayconticasino565.com^
 ||bayconticasino567.com^
@@ -32960,7 +32958,6 @@
 ||lunarslotscasino.co.uk^
 ||luxurycasinonz.co.nz^
 ||luxurycasinouk.co.uk^
-||luy.co.uk^
 ||mad-casino-gb.co.uk^
 ||mad-slots-casino.co.uk^
 ||madcasinoonline.co.uk^
@@ -51931,7 +51928,6 @@
 ||jackpoty-casino.pl^
 ||jackpoty-slots.ca^
 ||jackpotycasifreespins.click^
-||jackpotycasino.bet^
 ||jackpotycasino.fr^
 ||jackpotycasino.pl^
 ||jackpotycasino.sk^
@@ -62056,6 +62052,7 @@
 ||independentcasinosnotongamstop.me.uk^
 ||independentukcasinosites.me.uk^
 ||instantcasino.me.uk^
+||instaspincasino.me.uk^
 ||ivycasino.me.uk^
 ||iwinfortunecasino.me.uk^
 ||jackpoker.me.uk^
@@ -63563,7 +63560,6 @@
 ||millionzcasinosfr.com^
 ||millionzcasinoss.com^
 ||millionzs.casino^
-||millionzs.com^
 ||millionzscasino.org^
 ||millionzscasinos.com^
 ||millioraireslots.shop^
@@ -65330,6 +65326,7 @@
 ||mymoosie.com^
 ||mynewcasino.com^
 ||mynylottery.org^
+||myonlinecasino.online^
 ||myonlinecasino.site^
 ||myonlinepoker.com^
 ||mypersonas.ca^
@@ -72226,6 +72223,7 @@
 ||pinco-139.casino^
 ||pinco-24.casino^
 ||pinco-240.casino^
+||pinco-251.casino^
 ||pinco-252.casino^
 ||pinco-254.casino^
 ||pinco-255.casino^
@@ -74498,6 +74496,7 @@
 ||pokerbankroll.ai^
 ||pokerbankrollmanager.app^
 ||pokerbarswitch.com^
+||pokerbasecamp.com^
 ||pokerbazi.app^
 ||pokerbazi.poker^
 ||pokerbeet.pro^

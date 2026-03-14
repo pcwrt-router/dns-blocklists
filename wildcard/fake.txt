@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 16:18 UTC
-# Version: 2026.0313.1618.50
+# Last modified: 14 Mar 2026 03:32 UTC
+# Version: 2026.0314.0332.43
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 14482
 #
@@ -14090,6 +14090,7 @@
 *.wirkotsch-tech.de
 *.wisatareligi.com
 *.wisdomandprudence.net
+*.wise-guys-consulting.de
 *.wisebanc.com
 *.wisevests.com
 *.witeanerly.com
@@ -14457,7 +14458,6 @@
 *.ziyarafashion.shop
 *.ziyaratelaviv.com
 *.zkort.shop
-*.zloae.shop
 *.zodernus.com
 *.zofita.com
 *.ger.zoibakii.com

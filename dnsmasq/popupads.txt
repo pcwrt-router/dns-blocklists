@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 21:30 UTC
-# Version: 2026.0313.2130.29
+# Last modified: 14 Mar 2026 03:30 UTC
+# Version: 2026.0314.0330.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55329
+# Number of entries: 55326
 #
 local=/0.beer/
 local=/0.club/
@@ -50040,7 +50040,6 @@ local=/ujdsaljmviudi.space/
 local=/ujdtnsgiagbxx.click/
 local=/xxa.uji8979erd77.jp/
 local=/ujscdn.com/
-local=/ujuzouxeltifoa.net/
 local=/ujw1y54r.fun/
 local=/ukankingwithea.com/
 local=/ukconomouswom.org/
@@ -50887,7 +50886,6 @@ local=/vainslangaeroplane.com/
 local=/vainspring.com/
 local=/vaintorixo.com/
 local=/vaipsona.com/
-local=/vaipsowhair.com/
 local=/vaitoasaut.net/
 local=/vak345.com/
 local=/valeenjoy.com/
@@ -52207,7 +52205,6 @@ local=/pta.wcm.pl/
 local=/wcmcs.net/
 local=/wcohtudcio.com/
 local=/wcpgtxpzhpdgy.website/
-local=/wcpmoh.com/
 local=/wct.link/
 local=/wctnode.top/
 local=/wcuggkuxfgutu.today/

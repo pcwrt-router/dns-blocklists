@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Mar 2026 22:56 UTC
-# Version: 2026.0313.2256.15
+# Last modified: 14 Mar 2026 04:55 UTC
+# Version: 2026.0314.0455.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 48966
+# Number of entries: 48963
 #
 0-casino.com
 000-online-casino.com
@@ -1670,7 +1670,6 @@ images.191829838.com
 21casinocasino.com
 21d.casino
 21dukes.com
-21dukes-casinos.online
 21grandcasino.com
 21grandcasinos.co
 21k-casino.ca
@@ -16640,7 +16639,6 @@ luckymistercasino.co.uk
 luckynumbers247.co.za
 luckywins-casino.co.uk
 lulabet.co.za
-luy.co.uk
 malcolmmacdonald.co.uk
 manaakipokerunion.co.nz
 marathonbet.co.uk
@@ -31827,7 +31825,6 @@ millionzcasinoo.com
 millionzcasinos.app
 millionzcasinoss.com
 millionzs.casino
-millionzs.com
 millionzscasinos.com
 millioraireslots.shop
 milloncasino.net

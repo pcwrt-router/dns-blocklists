@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1773437400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773459000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Mar 2026 21:30 UTC
-; Version: 2026.0313.2130.29
+; Last modified: 14 Mar 2026 03:30 UTC
+; Version: 2026.0314.0330.13
 ; Syntax: RPZ
-; Number of entries: 110658
+; Number of entries: 110652
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -72566,8 +72566,6 @@ vaintorixo.com CNAME .
 *.vaintorixo.com CNAME .
 vaipsona.com CNAME .
 *.vaipsona.com CNAME .
-vaipsowhair.com CNAME .
-*.vaipsowhair.com CNAME .
 vak345.com CNAME .
 *.vak345.com CNAME .
 valeenjoy.com CNAME .
@@ -74032,8 +74030,6 @@ wclubdubai.com CNAME .
 *.wclubdubai.com CNAME .
 wcohtudcio.com CNAME .
 *.wcohtudcio.com CNAME .
-wcpmoh.com CNAME .
-*.wcpmoh.com CNAME .
 wdesi.com CNAME .
 *.wdesi.com CNAME .
 wdfieldteam.com CNAME .
@@ -87774,8 +87770,6 @@ uidsync.net CNAME .
 *.uidsync.net CNAME .
 uimserv.net CNAME .
 *.uimserv.net CNAME .
-ujuzouxeltifoa.net CNAME .
-*.ujuzouxeltifoa.net CNAME .
 bggrjw.ulikedate.net CNAME .
 *.bggrjw.ulikedate.net CNAME .
 unetbootin.net CNAME .
