@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Mar 2026 10:51 UTC
-! Version: 2026.0307.1051.20
+! Last modified: 14 Mar 2026 11:01 UTC
+! Version: 2026.0314.1101.09
 ! Syntax: AdBlock
-! Number of entries: 1131
+! Number of entries: 1133
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -20,7 +20,6 @@
 ||dns.13evl.com^
 ||httpdns.music.163.com^
 ||doh.18bit.cn^
-||cloud.198.games^
 ||1and1-dns.de^
 ||233py.com^
 ||dns.240527.xyz^
@@ -586,6 +585,7 @@
 ||http-dns.imoim.net^
 ||imperio.top^
 ||dns1.in-berlin.de^
+||dns2.in-berlin.de^
 ||dns.inforlogia.com^
 ||apidns.kwd.inkuai.com^
 ||httpdns.kwd.inkuai.com^
@@ -675,6 +675,7 @@
 ||dns.liberador.net^
 ||doh.libredns.gr^
 ||dot.libredns.gr^
+||lifeisa.live^
 ||dns.lightmaster.pw^
 ||dns.lihj.me^
 ||dns.linkr.ninja^
@@ -1120,6 +1121,7 @@
 ||xorbiadns.com^
 ||dns.xuming.studio^
 ||dns.xwdmw.xyz^
+||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^
 ||family.dot.dns.yandex.net^

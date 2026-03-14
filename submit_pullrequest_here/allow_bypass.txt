@@ -63,6 +63,7 @@ wireguard.com
 wshifen.com
 youtube.com
 www.mitmproxy.org
+cloud.198.games
 
 # Apple Intelligence, Siri
 apple-relay.*

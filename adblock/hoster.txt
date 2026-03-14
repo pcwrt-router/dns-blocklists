@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Mar 2026 19:02 UTC
-! Version: 2026.0308.1902.52
+! Last modified: 10 Mar 2026 10:03 UTC
+! Version: 2026.0310.1003.32
 ! Syntax: AdBlock
-! Number of entries: 1276
+! Number of entries: 1275
 !
 ||000a.de^
 ||000space.com^
@@ -203,7 +203,6 @@
 ||banksurvey.biz^
 ||bappy.com^
 ||batcave.net^
-||bazefrost.ru^
 ||bcz.com^
 ||be.gp^
 ||beepworld.de^

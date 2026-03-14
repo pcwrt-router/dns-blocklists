@@ -233,6 +233,7 @@
 @@||lemmy.fan^
 @@||os.fan^
 @@||haal.fashion^
+@@||raster.finance^
 @@||xynth.finance^
 @@||appetit.fit^
 @@||clubb.fit^
@@ -449,6 +450,7 @@
 @@||site.new^
 @@||slide.new^
 @@||google.com.ng^
+@@||clash.ninja^
 @@||poe.ninja^
 @@||protomedia.ninja^
 @@||project2025.observer^
@@ -567,6 +569,7 @@
 @@||axisms.shop^
 @@||buergerspital.shop^
 @@||chessvibes.shop^
+@@||cineorder.shop^
 @@||derweinladen.shop^
 @@||domainname.shop^
 @@||domene.shop^

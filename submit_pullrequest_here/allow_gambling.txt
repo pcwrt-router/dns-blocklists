@@ -76,6 +76,7 @@ communities.win
 cricketweb.net
 csgo.net
 d1ayxb9ooonjts.cloudfront.net
+d3mi6d1ao3fzsg.cloudfront.net
 dailycaller.com
 dns.poker
 downloads.blissroms.org
@@ -135,6 +136,7 @@ pahe.win
 pantip.com
 pathofexile2.com
 patriots.win
+planetunreal.com
 pokergaga.net
 powerlineblog.com
 primeopinion.com

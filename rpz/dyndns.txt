@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772999640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1773073380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Mar 2026 19:54 UTC
-; Version: 2026.0308.1954.04
+; Last modified: 09 Mar 2026 16:23 UTC
+; Version: 2026.0309.1623.45
 ; Syntax: RPZ
-; Number of entries: 2960
+; Number of entries: 2966
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -146,6 +146,8 @@ homenode.ca CNAME .
 *.homenode.ca CNAME .
 jcor.ca CNAME .
 *.jcor.ca CNAME .
+l5.ca CNAME .
+*.l5.ca CNAME .
 nard.ca CNAME .
 *.nard.ca CNAME .
 netmask.ca CNAME .
@@ -2674,6 +2676,8 @@ sexmistrz.pl CNAME .
 *.sexmistrz.pl CNAME .
 run.place CNAME .
 *.run.place CNAME .
+line.pm CNAME .
+*.line.pm CNAME .
 cloudns.pro CNAME .
 *.cloudns.pro CNAME .
 dyndns.pro CNAME .
@@ -2950,6 +2954,8 @@ onmypc.us CNAME .
 *.onmypc.us CNAME .
 pointto.us CNAME .
 *.pointto.us CNAME .
+possessed.us CNAME .
+*.possessed.us CNAME .
 shacknet.us CNAME .
 *.shacknet.us CNAME .
 stuff-4-sale.us CNAME .

@@ -1,5 +1,8 @@
 # IPs to be removed from the tif IP list.
 
+# https://github.com/hagezi/dns-blocklists/discussions/9408
+2.16.10.171
+
 88.99.13.180
 95.217.163.17
 159.69.155.94

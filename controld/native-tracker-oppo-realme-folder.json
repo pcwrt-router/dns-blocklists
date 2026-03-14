@@ -2234,6 +2234,20 @@
       }
     },
     {
+      "PK": "oversea-nebula-in.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "oversea-nebula-sg.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "predragate.dc.oppomobile.com",
       "action": {
         "do": 0,

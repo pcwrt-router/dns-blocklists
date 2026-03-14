@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Feb 2026 16:07 UTC
-# Version: 2026.0220.1607.22
+# Last modified: 13 Mar 2026 16:09 UTC
+# Version: 2026.0313.1609.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 639
+# Number of entries: 641
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -279,6 +279,7 @@
 0.0.0.0 cell8004.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8004.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 client.rum.us-east-1.amazonaws.com
 0.0.0.0 config.aps.amazon-adsystem.com
@@ -413,6 +414,7 @@
 0.0.0.0 maws-aax-us-east-test4.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east.amazon-adsystem.com
 0.0.0.0 maws-aax-us-pdx-rtb.amazon-adsystem.com
+0.0.0.0 mdtb-eu-2.ads.aps.amazon-adsystem.com
 0.0.0.0 mdtb-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 mdtb-na-2.ads.aps.amazon-adsystem.com
 0.0.0.0 mdtb.ads.aps.amazon-adsystem.com

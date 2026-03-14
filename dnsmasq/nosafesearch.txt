@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 16:29 UTC
-# Version: 2026.0306.1629.26
+# Last modified: 13 Mar 2026 15:59 UTC
+# Version: 2026.0313.1559.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 213
+# Number of entries: 214
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -208,6 +208,7 @@ local=/lx.vern.cc/
 local=/wg.vern.cc/
 local=/grep.vim.wtf/
 local=/searx.vitanetworks.link/
+local=/gowogle.voring.me/
 local=/search.wdpserver.com/
 local=/h4g3z1-nosafesearch.web.app/
 local=/webcrawler.com/

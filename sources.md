@@ -169,6 +169,7 @@ https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBl
 https://raw.githubusercontent.com/hectorm/hmirror/refs/heads/master/data/molinero.dev/list.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alternative%20list%20formats/antimalware_domains_nopups.txt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/jpgpi250/piholemanual/refs/heads/master/DOH/DOHadb.txt
@@ -240,7 +241,11 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/free_web_hosting.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/onion.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malicious/browser_locker.txt
 https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_unc6691.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/fakeapp.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/android_pua.txt
+https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/pua.txt
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt

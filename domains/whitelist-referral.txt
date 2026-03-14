@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Mar 2026 09:18 UTC
-# Version: 2026.0307.0918.28
+# Last modified: 14 Mar 2026 09:19 UTC
+# Version: 2026.0314.0919.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1934
+# Number of entries: 1949
 #
 1-aclk.net
 1aurl.io
@@ -234,6 +234,7 @@ static.cleverpush.com
 static-eu.cleverpush.com
 static-mobile.cleverpush.com
 seu.cleverreach.com
+10319.seu.cleverreach.com
 105150.seu.cleverreach.com
 14168.seu.cleverreach.com
 15850.seu.cleverreach.com
@@ -241,6 +242,7 @@ seu.cleverreach.com
 17509.seu.cleverreach.com
 149654.17729.seu.cleverreach.com
 19706.seu.cleverreach.com
+20791.seu.cleverreach.com
 22503.seu.cleverreach.com
 23196.seu.cleverreach.com
 2561.seu.cleverreach.com
@@ -251,6 +253,7 @@ seu.cleverreach.com
 34164.seu.cleverreach.com
 341764.seu.cleverreach.com
 36427.seu.cleverreach.com
+37135.seu.cleverreach.com
 8437.seu.cleverreach.com
 8820.seu.cleverreach.com
 seu1.cleverreach.com
@@ -263,13 +266,16 @@ seu1.cleverreach.com
 56240.seu1.cleverreach.com
 57361.seu1.cleverreach.com
 59131.seu1.cleverreach.com
+63728.seu1.cleverreach.com
 64137.seu1.cleverreach.com
+67656.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
 72984.seu1.cleverreach.com
 76216.seu1.cleverreach.com
 78389.seu1.cleverreach.com
 79189.seu1.cleverreach.com
+79558.seu1.cleverreach.com
 175597.84296.seu1.cleverreach.com
 85516.seu1.cleverreach.com
 seu2.cleverreach.com
@@ -323,10 +329,12 @@ seu2.cleverreach.com
 248553.seu2.cleverreach.com
 251048.seu2.cleverreach.com
 256546.seu2.cleverreach.com
+259440.seu2.cleverreach.com
 262397.seu2.cleverreach.com
 267821.seu2.cleverreach.com
 268990.seu2.cleverreach.com
 283764.seu2.cleverreach.com
+283836.seu2.cleverreach.com
 284666.seu2.cleverreach.com
 291887.seu2.cleverreach.com
 292537.seu2.cleverreach.com
@@ -339,6 +347,7 @@ seu2.cleverreach.com
 321377.seu2.cleverreach.com
 323664.seu2.cleverreach.com
 341722.seu2.cleverreach.com
+342011.seu2.cleverreach.com
 344934.seu2.cleverreach.com
 348148.seu2.cleverreach.com
 350407.seu2.cleverreach.com
@@ -351,6 +360,7 @@ seu2.cleverreach.com
 372230.seu2.cleverreach.com
 382058.seu2.cleverreach.com
 393666.seu2.cleverreach.com
+394092.seu2.cleverreach.com
 394250.seu2.cleverreach.com
 415753.seu2.cleverreach.com
 426304.seu2.cleverreach.com
@@ -554,6 +564,7 @@ c9475d8b.open.convertkit-mail4.com
 d41e12b1.open.convertkit-mail4.com
 d8016216.open.convertkit-mail4.com
 dc12c863.open.convertkit-mail4.com
+dd3c8d94.open.convertkit-mail4.com
 e22d5796.open.convertkit-mail4.com
 e45adc39.open.convertkit-mail4.com
 f5da5543.open.convertkit-mail4.com
@@ -1018,12 +1029,14 @@ group0.sites.hscoscdn-eu1.net
 143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
+145642586.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
 25855289.group0.sites.hscoscdn-eu1.net
 26656555.group0.sites.hscoscdn-eu1.net
 27084415.group0.sites.hscoscdn-eu1.net
+341979.group0.sites.hscoscdn-eu1.net
 3887299.group0.sites.hscoscdn-eu1.net
 6435916.group0.sites.hscoscdn-eu1.net
 6882664.group0.sites.hscoscdn-eu1.net
@@ -1146,6 +1159,7 @@ it-go.kelkoogroup.net
 nl-go.kelkoogroup.net
 no-go.kelkoogroup.net
 pl-go.kelkoogroup.net
+ro-go.kelkoogroup.net
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
 k.keyade.com
@@ -1399,6 +1413,7 @@ mkto-sj200191.com
 mkto-sj200192.com
 mkto-sj200201.com
 mkto-sj200229.com
+mkto-sj210057.com
 mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240021.com

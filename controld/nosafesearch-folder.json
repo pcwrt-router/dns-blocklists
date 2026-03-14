@@ -127,6 +127,13 @@
       }
     },
     {
+      "PK": "gowogle.voring.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "grep.vim.wtf",
       "action": {
         "do": 0,

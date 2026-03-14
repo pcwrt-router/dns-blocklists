@@ -1176,6 +1176,13 @@
       }
     },
     {
+      "PK": "cineorder.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "circles.life",
       "action": {
         "do": 1,
@@ -1193,6 +1200,13 @@
       "PK": "*.claims",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "clash.ninja",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -5846,6 +5860,13 @@
     },
     {
       "PK": "rapido.bike",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "raster.finance",
       "action": {
         "do": 1,
         "status": 1

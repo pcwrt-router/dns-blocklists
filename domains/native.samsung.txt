@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 17:01 UTC
-# Version: 2026.0306.1701.44
+# Last modified: 11 Mar 2026 15:09 UTC
+# Version: 2026.0311.1509.48
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 268
+# Number of entries: 269
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -114,6 +114,7 @@ znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 sia.internet.apps.samsung.com
 dc.di.atlas.samsung.com
+ddf.di.atlas.samsung.com
 dls-account.di.atlas.samsung.com
 dqa-auth.di.atlas.samsung.com
 regi.di.atlas.samsung.com
